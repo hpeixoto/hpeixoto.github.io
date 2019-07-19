@@ -51,8 +51,10 @@ navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
+#link-col: "#008AFF"
+link-col: "#048A81"
+#hover-col: "#0085A1"
+hover-col: "#395E66"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
@@ -80,9 +82,9 @@ social-network-links:
   email: "hpeixoto@di.uminho.pt"
   linkedin: hugoabpeixoto
   orcid: 0000-0003-3957-2121
+  researchgate: Hugo_Peixoto
   github: hpeixoto
   twitter: hugoabpeixoto
-  researchgate: Hugo_Peixoto
   stackoverflow: "66863/hugoabpeixoto"
 #  reddit: yourname
 #  facebook: deanattali

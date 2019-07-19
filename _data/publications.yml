@@ -1,0 +1,36 @@
+#status: Accepted, In Press, Published, Submitted, Under revision
+#type: Workshop, Conference
+
+bookchaps:
+    - title: "Semantic Interoperability and Health Records"
+      authors: "Hugo Peixoto, José Machado, José Neves and António Abelha"
+      year: 2010
+      booktitle: "E-Health-IFIP Advances in Information and Communication Technology"
+      pub: ACM
+      volume: "335"
+      pages: "236-237"
+      editor: "Takeda H"
+      publisher: "Springer Berlin Heidelberg"
+      isbn: "978-3-642-15515-4"
+      doi: "/10.1007/978-3-642-15515-4_30"
+      url: "http://repositorium.sdum.uminho.pt/handle/1822/11208"
+
+confs:
+    - title: "Interoperabilidade e o Processo Clínico Semântico"
+      authors: "Hugo Peixoto, José Machado and António Abelha"
+      conference: "CISTI 2010"
+      year: 2010
+      url: "http://repositorium.sdum.uminho.pt/handle/1822/11208"
+      status: "Published"
+      pub: "ACM"
+  
+    
+journals:
+
+
+abstracts:
+
+
+
+thesis:
+

@@ -13,36 +13,36 @@ rss:
 email:
   name: "Email me"
   baseURL: "mailto:"
-  icon: "fas fa-envelope"
+  icon: "fa fa-envelope"
 
 twitter:
   name: "Twitter"
   baseURL: "https://twitter.com/"
-  icon: "fab fa-twitter"
+  icon: "fa fa-twitter"
 
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
-  icon: "fab fa-linkedin-in"
+  icon: "fa fa-linkedin"
 
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
-  icon: "far fa-id-badge"
+  icon: "fa fa-id-badge"
 
 researchgate:
   name: "ResearchGate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: "fab fa-researchgate"
+  icon: "fa fa-registered"
 
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
-  icon: "fab fa-github"
+  icon: "fa fa-github"
 
 stackoverflow:
   name: "StackOverflow"
   baseURL: "https://stackoverflow.com/users/"
-  icon: "fab fa-stack-overflow"
+  icon: "fa fa-stack-overflow"
 
 
