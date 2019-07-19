@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-subtitle: 
+title: Committees
+subtitle:
 ---
 
 <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
@@ -9,4 +9,3 @@ subtitle:
     <br><br>
     <p>Under construction... </p>
 </div>
-

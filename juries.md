@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Juries
 subtitle: 
 ---
 
@@ -9,4 +9,3 @@ subtitle:
     <br><br>
     <p>Under construction... </p>
 </div>
-
