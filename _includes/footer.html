@@ -14,10 +14,11 @@
             {%- else -%}
               <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}" target="_blank">
             {%- endif -%}
-                <span class="fa-stack fa-2x" aria-hidden="true">
+                <!--<span class="fa-stack fa-2x" aria-hidden="true">
                   <i class="fas fa-circle fa-stack-2x"></i>
                   <i class="{{ element.icon }} fa-stack-1x fa-inverse"></i>
-                </span>
+                </span>-->
+                <i class="{{ element.icon }} fa-2x"> &nbsp;</i>
                 <span class="sr-only">{{ element.name }}</span>
               </a>
             </li>
