@@ -1,43 +1,26 @@
 ---
-layout: page
+layout: publications
 title: Publications
 subtitle: 
 ---
 
-### Book chapters
+### Book Chapters
 
 {% assign counter = 0 %}
+
+{% assign pub = "" %}
 
 {% for pub in site.data.publications.bookchaps %}
 
  {% assign counter = counter | plus:1 %}
 
-  {{ counter }}. <a href="{{ pub.url }}" _target="blank">**{{ pub.title }}**</a><br>
-    _{{ pub.authors }}_  
-    in: {{ pub.booktitle }}  
-    pp {{ pub.pages }} {{ pub.year }} {% if pub.publisher %} {{ pub.publisher }} {% endif %}{% if pub.doi %} {{ pub.doi }} {% endif %}{% if pub.pdf %}<a href="{{ pub.pdf }}" _target="blank" class="shield shield-red"><span></span>PDF</a>{% endif %}<br>    
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {% if pub.volume %}{{ pub.volume }},{% endif %} {% if pub.booktitle %}{{ pub.booktitle }}{% endif %} (pp {{ pub.pages }}), {{ pub.publisher }}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
+  
 {% endfor %}
 
 ---
 
-#### Conf chapters
-
-{% assign counter = 0 %}
-
-{% for pub in site.data.publications.confs %}
-
- {% assign counter = counter | plus:1 %}
-
-  {{ counter }}. <a href="{{ pub.url }}" _target="blank">**{{ pub.title }}**</a><br>
-  - <i class="fas fa-users"></i> {{ pub.authors }}
-  - <i class="fas fa-caret-right"></i> {{ pub.conference }}
-  - <span class="shield shield-grey"><span><i class="fas fa-paperclip"></i></span>{{ pub.status }}</span><span class="shield shield-blue"><span><i class="fas fa-calendar-alt"></i></span>{{ pub.year }}</span>{% if pub.pub %}<span class="shield shield-green"><span><i class="fas fa-book"></i></span>{{ pub.pub }}</span>{% endif %}{% if pub.doi %}<span class="shield shield-yellow"><span><i class="fas fa-fingerprint"></i></span>{{ pub.doi }}</span>{% endif %}{% if pub.pdf %}<a href="{{ pub.pdf }}" _target="blank" class="shield shield-red"><span><i class="fas fa-file-pdf"></i></span>PDF</a>{% endif %}<br>    
-{% endfor %}
-
----
-
-## Journal Articles
-#### Peer-Reviewed
+### Journal Articles
 
 {% assign counter = 0 %}
 
@@ -45,33 +28,26 @@ subtitle:
 
  {% assign counter = counter | plus:1 %}
 
-  {{ counter }}. <a href="{{ pub.url }}" _target="blank">**{{ pub.title }}**</a><br>
-  - <i class="fas fa-users"></i> {{ pub.authors }}
-  - <i class="fas fa-caret-right"></i> {{ pub.conference }}
-  - <span class="shield shield-grey"><span><i class="fas fa-paperclip"></i></span>{{ pub.status }}</span><span class="shield shield-blue"><span><i class="fas fa-calendar-alt"></i></span>{{ pub.year }}</span>{% if pub.pub %}<span class="shield shield-green"><span><i class="fas fa-book"></i></span>{{ pub.pub }}</span>{% endif %}{% if pub.doi %}<span class="shield shield-yellow"><span><i class="fas fa-fingerprint"></i></span>{{ pub.doi }}</span>{% endif %}{% if pub.pdf %}<a href="{{ pub.pdf }}" _target="blank" class="shield shield-red"><span><i class="fas fa-file-pdf"></i></span>PDF</a>{% endif %}<br>    
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{pub.journal}}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.publisher %}, {{ pub.publisher}}{% endif %}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
+
 {% endfor %}
 
 ---
 
-## Pre-Prints
-#### Non-Peer-Reviewed (arxiv)
+### Conference Papers
 
 {% assign counter = 0 %}
 
-{% for pub in site.data.publications.informal %}
+{% for pub in site.data.publications.confs %}
 
  {% assign counter = counter | plus:1 %}
 
-  {{ counter }}. <a href="{{ pub.url }}" _target="blank">**{{ pub.title }}**</a> <br>
-  - <i class="fas fa-users"></i> {{ pub.authors }}
-  - <span class="shield shield-blue"><span><i class="fas fa-calendar-alt"></i></span>{{ pub.year }}</span>
-        {% if pub.doi %}<span class="shield shield-yellow"><span><i class="fas fa-fingerprint"></i></span>{{ pub.doi }}</span>{% endif %}{% if pub.pdf %}<a href="{{ pub.pdf }}" _target="blank" class="shield shield-red"><span><i class="fas fa-file-pdf"></i></span>PDF</a>{% endif %}<br>    
-
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{ pub.conference }} <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 {% endfor %}
 
 ---
 
-## Thesis
+### Thesis
 
 {% assign counter = 0 %}
 
@@ -79,28 +55,7 @@ subtitle:
 
  {% assign counter = counter | plus:1 %}
 
-  {{ counter }}. <a href="{{ pub.url }}" _target="blank">**{{ pub.title }}**</a> <br>
-  - <i class="fas fa-caret-right"></i> {{ pub.supervision }}
-  - <span class="shield shield-blue"><span><i class="fas fa-calendar-alt"></i></span>{{ pub.year }}</span>
-        {% if pub.doi %}<span class="shield shield-yellow"><span><i class="fas fa-fingerprint"></i></span>{{ pub.doi }}</span>{% endif %}{% if pub.pdf %}<a href="{{ pub.pdf }}" _target="blank" class="shield shield-red"><span><i class="fas fa-file-pdf"></i></span>PDF</a>{% endif %}<br>    
-
-{% endfor %}
-
----
-
-## Abstracts
-
-{% assign counter = 0 %}
-
-{% for pub in site.data.publications.abstracts %}
-
- {% assign counter = counter | plus:1 %}
-
-  {{ counter }}. <a href="{{ pub.url }}" _target="blank">**{{ pub.title }}**</a><br>
-  - <i class="fas fa-users"></i> {{ pub.authors }}
-  - <i class="fas fa-caret-right"></i> {{ pub.conference }}
-  - <span class="shield shield-blue"><span><i class="fas fa-calendar-alt"></i></span>{{ pub.year }}</span>
-        {% if pub.doi %}<span class="shield shield-yellow"><span><i class="fas fa-fingerprint"></i></span>{{ pub.doi }}</span>{% endif %}{% if pub.pdf %}<a href="{{ pub.pdf }}" _target="blank" class="shield shield-red"><span><i class="fas fa-file-pdf"></i></span>PDF</a>{% endif %}<br>    
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. ({{ pub.degree }}) <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 
 {% endfor %}
 

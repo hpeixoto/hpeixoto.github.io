@@ -1,0 +1,178 @@
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#type: Workshop, Conference, Journal
+
+committees:
+
+  - year: 2019
+    name: "Journal of King Saud University - Computer and Information Sciences"
+    nick:  "JKSU-CIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+      
+  - year: 2019
+    name: "ISAmI'19 (10th International Symposium on Ambient Intelligence)"
+    nick: "ISAMI 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Ávila, Spain"
+
+  - year: 2019
+    name: "7th World Conference on Information Systems and Technologies"
+    nick: "WorldCIST_Workshops 2019"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Galicia, Spain"
+
+  - year: 2019
+    name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
+    nick: "MiCRADS19"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Quito, Ecuador"
+
+  - year: 2019
+    name: "Journal of Medical Systems"
+    nick:  "JMS 2019"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2019
+    name: "Scalable Information Systems"
+    nick:  "SIS 2019"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2019
+    name: "3rd International Conference in Engineering Applications"
+    nick: "ICEA19"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Açores, Portugal"
+      
+  - year: 2019
+    name: "Second International Conference on Applied Informatics"
+    nick: "ICAI 2019"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Madrid, Spain"
+
+  - year: 2019
+    name: "EPIA Conference on Artificial Intelligence"
+    nick: "EPIA2019"
+    role: "Subreviewer"
+    type: "Conference"
+    local: "Vila Real, Portugal"
+
+  - year: 2019
+    name: "International WorkShop on Information and Knowledge in Internet of Things"
+    nick: "IKIT 2019"
+    role: "Program Committe"
+    type: "Workshop"
+    local: "Madrid, Spain"
+
+  - year: 2019
+    name: "Second Intelligent Systems and Technologies for Interactive Human-Machine Relationships"
+    nick: "ISTIHMR’19"
+    role: "Program Committe"
+    type: "Workshop"
+    local: "Madrid, Spain"
+
+  - year: 2018
+    name: "6th World Conference on Information Systems and Technologies"
+    nick: "WorldCIST_Workshops 2018"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Galicia, Spain"
+
+  - year: 2018
+    name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
+    nick: "MiCRADS18"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Santa Elena Peninsula, Ecuador"
+
+  - year: 2018
+    name: "The IEEE 6th International Conference on Future Internet of Things and Cloud"
+    nick: "FiCloud 2018"
+    role: "Track Chair"
+    type: "Workshop"
+    local: "Barcelona, Spain"
+    
+  - year: 2018
+    name: "9th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2018"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Toledo, Spain"
+
+  - year: 2018
+    name: "Healthcare Interoperability and Pervasive Intelligent System"
+    nick: "HiPIS@ICTH 2018"
+    role: "Program Committee"
+    type: "Workshop"
+    local: "Leuven, Belgium"
+
+  - year: 2018
+    name: "Journal of King Saud University - Computer and Information Sciences"
+    nick:  "JKSU-CIS"
+    role: "Reviewer "
+    type: "Journal"
+    local: "--"
+
+  - year: 2017
+    name: "International Conference on Advanced Technologies Enhancing Education"
+    nick: "ICAT2E2017"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Qindao, China"
+
+  - year: 2017
+    name: "EPIA Conference on Artificial Intelligence"
+    nick: "EPIA2017"
+    role: "Subreviewer"
+    type: "Conference"
+    local: "Porto, Portugal"
+
+  - year: 2017
+    name: "The International Workshop on Applied Knowledge Engineering to Healthcare"
+    nick: "IWAKEHealthCare@FiCloud 2017"
+    role: "Workshop chair"
+    type: "Workshop"
+    local: "Prague, Czech Republic"
+
+  - year: 2017
+    name: "Applied Computational and Artificial Intelligence"
+    nick: "ACAI Workshop - CENTERIS 2017"
+    role: "Scientific Committee"
+    type: "Workshop"
+    local: "Porto, Portugal"
+
+  - year: 2017
+    name: "Healthcare Interoperability and Pervasive Intelligent System"
+    nick: "HiPIS 2017"
+    role: "Program Committee"
+    type: "Workshop"
+    local: "Lund, Sweden"
+
+  - year: 2017
+    name: "5th World Conference on Information Systems and Technologies"
+    nick: "WorldCIST_Workshops 2017"
+    role: "Review Committee"
+    type: "Conference"
+    local: "Porto Santo, Portugal"
+
+  - year: 2016
+    name: "Intelligent Systems and Applications in Healthcare"
+    nick: "ISA'HEALTH@CBI 2016"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Paris, France"
+
+  - year: 2010
+    name: "INFORUM 2010 - Simpósio de Informática"
+    role: "Programm Committee"
+    type: "Symposium"
+    local: "Braga, Portugal"

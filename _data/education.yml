@@ -1,0 +1,15 @@
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#type: Workshop, Conference, Journal
+
+education:
+
+  - year: 2008
+    degree: "Master's Degree"
+    school:  "Universidade do Minho"
+    grade: 15
+    start: "Out. 2003"
+    end: "Nov. 2008"
+    local: "Braga, Portugal"
+    topics: "Medical Informatics, Multi-Agent Services, Decision Support Systems, Electronic Health Records, Artificial Intelligence Interoperability, Integration, Usability, Image Processing   
+             As a member of the board of Gabinete de Alunos de Engenharia Biomédica I was the Director of the Deparment of Employment during 2006."
+    icon: "../img/eeuminho.png"
