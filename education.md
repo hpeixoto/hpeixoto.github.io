@@ -1,24 +1,19 @@
 ---
-layout: publications
+layout: default
 title: Education
-subtitle:
+subtitle: "&nbsp;&nbsp;&nbsp;"
 ---
+
+
+
 {% for ed in site.data.education.education %}
 
-<div class="row">
-    <div class="three columns">
-        <a href="http://uminho.pt">
-            <img class="u-max-full-width" src="{{ ed.icon }}" alt="Escola de Engenharia da Universidade do Minho">
-        </a>
-        <br>
-        <i class="fa fa-clock-o"></i> {{ ed.start }}-{{ ed.end }}</div>
-    <div class="eight columns">
-        <a href="http://www.biomedica.eng.uminho.pt/">
-            <strong>{{ed.degree}}</strong>
-        </a>(GPA: {{ ed.grade }} out of 20)
-        <br>
-        <p>{{ ed.topics }}</p>
-    </div>
-</div>     
+<h3> <a href="{{ ed.url }}"> {{ed.course}} </a> <small> ({{ed.degree}}) </small> </h3>
+<i class="fa fa-graduation-cap"></i> {{ed.school}} - {{ed.local}}   
+<i class="fa fa-clock-o"></i> {{ ed.start }}-{{ ed.end }}   
+GPA: {{ ed.grade }}      
+<strong> Topics: </strong>{{ ed.topics }}
+
+---
 
 {% endfor %}

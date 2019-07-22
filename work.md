@@ -1,11 +1,19 @@
 ---
-layout: page
+layout: default
 title: Work
-subtitle: 
+subtitle: "&nbsp;&nbsp;&nbsp;" 
 ---
 
-<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
-    <i class="fas fa-exclamation-triangle fa-9x"></i>
-    <br><br>
-    <p>Under construction... </p>
-</div>
+
+
+{% for job in site.data.work.jobs %}
+
+<h3> <img src="{{ job.icon }}" alt="logs" class="img-responsive"> <a href="{{ job.url }}"> {{job.title}} </a> </h3>
+<i class="fa fa-location-arrow"></i> {{job.institution}}    
+<i class="fa fa-calendar"></i> {{ job.start }}-{{ job.end }}   
+<strong> Main Responsabilities: </strong>{{ job.tasks }}
+
+
+---
+
+{% endfor %}

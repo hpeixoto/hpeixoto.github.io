@@ -1,0 +1,53 @@
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#type: Workshop, Conference, Journal
+
+projects:
+
+  - name: "Diabetic foot community portal"
+    type: "Web Portal"
+    languages:  "PHP, MySQL, Joomla"
+    topics: "Webportal for Diabetic foot information sharing. Oriented to professionals and patients."
+    url: "http://pediabetico.chts.pt"
+
+  - name: "AIDA - Agency for Integration, Difusion and Archive"
+    type: "Health Information System"
+    languages:  "Oracle, .Net"
+    topics: "Multi agent platform for global interoperability and usability in healthcare institutions."
+    url: "http://aida.pt"
+
+  - name: "CAD - Computer Aided Diagnosis"
+    type: "Data Mining Tool"
+    languages:  "Dicom, Java, Weka"
+    topics: "Classification of abnormal brain Computer tomography through Neural-network algorithms."
+    url: 
+
+  - name: "Schedule IT - Preventive Action Management System"
+    type: "Web Portal"
+    languages:  "HTML, PHP, MySQL"
+    topics: "Modular platform for System Administration, and server/machine preventive action scheduling."
+    url: 
+
+  - name: "AASYS - Alert Appointment System"
+    type: "Web Portal"
+    languages:  "HTML, PHP, MySQL"
+    topics: "Web service design to inform patients of his upcoming interaction with the healthcare unity."
+    url: 
+  
+  - name: "PassGen - Password administration and generation"
+    type: "Win Tool + Web Portal"
+    languages:  "HTML, PHP, MySQL"
+    topics: "Webportal for generating and administrate passwords with several security concerns. "
+    url: 
+  
+  - name: "RANU - Neonatal hearing screening"
+    type: "Web Portal"
+    languages:  "HTML, PHP, MySQLa"
+    topics: "Classification of potencial hearing problems in newborns. "
+    url: 
+  
+  - name: "REIP - Patient result integration through email"
+    type: "Web Portal"
+    languages:  "Python, HTML"
+    topics: "Multi-agent integration of patient results through email sniffing."
+    url: 
+  

@@ -3,13 +3,41 @@
 
 education:
 
+  - year: 2013
+    degree: "phD"
+    course: "Doctoral Program in Biomedical Engineer"
+    school:  "University of Minho"
+    grade: Aproved
+    start: "Out. 2009"
+    end: "Jul. 2013"
+    url: "http://pdebiom.eng.uminho.pt/pt-pt/node/3"
+    local: "Braga, Portugal"
+    topics: "Steps Towards Interoperability in Healthcare Environment."
+    icon: "../img/eeuminho.png"
+
   - year: 2008
-    degree: "Master's Degree"
-    school:  "Universidade do Minho"
-    grade: 15
+    degree: "MsC"
+    course: "Masters in Biomedical Engineer"
+    school:  "University of Minho"
+    grade: 15 out of 20
     start: "Out. 2003"
     end: "Nov. 2008"
+    url: "http://www.biomedica.eng.uminho.pt/"
     local: "Braga, Portugal"
-    topics: "Medical Informatics, Multi-Agent Services, Decision Support Systems, Electronic Health Records, Artificial Intelligence Interoperability, Integration, Usability, Image Processing   
-             As a member of the board of Gabinete de Alunos de Engenharia Biomédica I was the Director of the Deparment of Employment during 2006."
+    topics: "Medical Informatics, Multi-Agent Services, Decision Support Systems, Electronic Health Records, Artificial Intelligence Interoperability, Integration, Usability, Image Processing.   
+    As a member of the board of Gabinete de Alunos de Engenharia Biomédica I was the Director of the Deparment of Employment during 2006."
     icon: "../img/eeuminho.png"
+
+  - year: 2008
+    degree: "Erasmus"
+    course: "Erasmus Program"
+    school:  "Albert Lüduvigs Universität"
+    grade: B+
+    start: "Out. 2006"
+    end: "Feb. 2007"
+    url: "https://www.uni-freiburg.de/"
+    local: "Freiburg, Germany"
+    topics: "Enroll in the Informatics Department of the University of Freiburg, <em>Germany</em>. Development of projects in C++ together with the 3D reconstruction and model collision research group."
+    icon: "../img/eeuminho.png"
+
+  

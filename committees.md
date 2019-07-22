@@ -1,10 +1,10 @@
 ---
-layout: publications
+layout: default
 title: Committees
-subtitle:
+subtitle: "&nbsp;&nbsp;&nbsp;"
 ---
 
-<table class="table table-responsive">
+<table class="table">
     <thead>
         <td> <strong> year </strong> </td>
         <td> <strong> name </strong> </td>
@@ -18,5 +18,3 @@ subtitle:
         {% endfor %}
     </tbody>
 </table>
-
-

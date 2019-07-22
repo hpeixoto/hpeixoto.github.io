@@ -1,11 +1,18 @@
 ---
-layout: page
+layout: default
 title: Projects
-subtitle: 
+subtitle: "&nbsp;&nbsp;&nbsp;"
 ---
 
-<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
-    <i class="fas fa-exclamation-triangle fa-9x"></i>
-    <br><br>
-    <p>Under construction... </p>
-</div>
+
+
+{% for proj in site.data.projects.projects %}
+
+<h3> {{ proj.name }} </h3>   
+{{ proj.type }} <a href="{{ proj.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>   
+<i class="fa fa-code"></i> - {{proj.languages}}   
+<strong> Topics: </strong> {{ proj.topics }}   
+
+---
+
+{% endfor %}
