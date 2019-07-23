@@ -1,0 +1,69 @@
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#type: Workshop, Conference, Journal
+
+juries:
+  
+  - title: "BPM para processos hospitalares usando BPMN"
+    institution:  "University of Minho"
+    date: "Nov. 2018"
+    student: "João Gomes"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/59125"
+  
+  - title: "Gestão de Work Flows clinicos"
+    institution:  "University of Minho"
+    date: "Nov. 2018"
+    student: "Tiago Ribeiro"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/59330"
+ 
+  - title: "Categorização e Determinação dos Fatores de Risco de Doenças Coronárias"
+    institution:  "University of Minho"
+    date: "Nov. 2018"
+    student: "Lisete Ribeiro"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/59140"
+
+  - title: "​FHIRBOX - CLINICAL OBSERVATIONS CLOUD INTEGRATION SYSTEM"
+    institution:  "Instituo Politécnico do Cávado e do Ave"
+    date: "Jan. 2018"
+    student: "Nuno Alves"
+    course: "Mestrado em Engenharia Informática"
+    url: "https://www.sciencedirect.com/science/article/pii/S1877050918316764"
+  
+  - title: "​Agendamento Inteligente de Blocos Operatórios"
+    institution:  "University of Minho"
+    date: "Dez. 2017"
+    student: "Célia Oliveira"
+    course: "Mestrado Integrado em Engenharia Biomédica"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/59721"
+
+  - title: "​Plataforma de Apoio à Prática de Cuidados de Enfermagem em Contexto Hospitalar"
+    institution:  "University of Minho"
+    date: "Jul. 2017"
+    student: "Daniela Rijo"
+    course: "Mestrado Integrado em Engenharia Biomédica"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/59720"
+
+  - title: "Prototipagem de componente de Business Intelligence para suporte à gestão na área de saúde de uma Misericórdia"
+    institution:  "University of Minho"
+    date: "Dez. 2016"
+    student: "Danilo Coelho"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/40261"
+
+  - title: "Previsão dos fatores de risco e caracterização dos doentes internados em Cuidados Intensivos"
+    institution:  "University of Minho"
+    date: "Dez. 2016"
+    student: "Ana Ribeiro"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/54545"
+
+  - title: "Plataforma de suporte à decisão médica para transplante de órgãos baseada em Business Intelligence"
+    institution:  "University of Minho"
+    date: "Nov. 2015"
+    student: "Luís Torres"
+    course: "Mestrado Integrado em Engenharia Biomédica"
+    url: "http://repositorium.sdum.uminho.pt/handle/1822/40861"
+
+

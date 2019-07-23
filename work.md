@@ -10,7 +10,7 @@ subtitle: "&nbsp;&nbsp;&nbsp;"
 
 <h3> <img src="{{ job.icon }}" alt="logs" class="img-responsive"> <a href="{{ job.url }}"> {{job.title}} </a> </h3>
 <i class="fa fa-location-arrow"></i> {{job.institution}}    
-<i class="fa fa-calendar"></i> {{ job.start }}-{{ job.end }}   
+<i class="fa fa-calendar"></i> {{ job.start }}{% if job.end %} - {{ job.end }} {% endif %}  
 <strong> Main Responsabilities: </strong>{{ job.tasks }}
 
 

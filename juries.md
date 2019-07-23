@@ -4,6 +4,13 @@ title: Juries
 subtitle: "&nbsp;&nbsp;&nbsp;"
 ---
 
-<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
-    <p>... Under construction ... </p>
-</div>
+{% for jurie in site.data.juries.juries %}
+
+<h4> <a href="{{ jurie.url }}"> {{jurie.title}} </a> </h4>
+<i class="fa fa-location-arrow"></i> {{jurie.institution}} | <i class="fa fa-calendar"></i> {{ jurie.date }}  
+<strong> Candidate: </strong>{{ jurie.student }}
+
+
+---
+
+{% endfor %}

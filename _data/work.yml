@@ -33,6 +33,19 @@ jobs:
                 - noSQL Databases (MSc in Informatics); <br>
                 - Database Administration (MSc in Informatics).<br>"
 
+  - title: "Guest Lecturer"
+    institution:  "Instituto Piaget"
+    start: "2017"
+    end: 
+    url:  "https://ipiaget.org/"
+    local: "Braga, Portugal"
+    icon: "../img/piaget.png"
+    tasks: "Post-Graduation in: <br>
+            - Administration and Healthservice Management; <br>
+            - Human Resources Management; <br>
+            Teaching of classes of: Technologies and Information Systems."
+
+
   - title: "Project Manager"
     institution:  "Centro Hospitalar do Tâmega e Sousa E.P.E."
     start: "Feb. 2016"
