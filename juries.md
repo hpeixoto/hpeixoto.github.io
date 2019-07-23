@@ -10,7 +10,6 @@ subtitle: "&nbsp;&nbsp;&nbsp;"
 <i class="fa fa-location-arrow"></i> {{jurie.institution}} | <i class="fa fa-calendar"></i> {{ jurie.date }}  
 <strong> Candidate: </strong>{{ jurie.student }}
 
-
 ---
 
 {% endfor %}
