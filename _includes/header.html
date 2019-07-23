@@ -36,7 +36,19 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+      <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+        {% if page.tags.size > 0 %}
+          <div class="blog-tags">
+            Tags:
+            {% if site.link-tags %}
+            {% for tag in page.tags %}
+              <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+            {% else %}
+              {{ page.tags | join: ", " }}
+            {% endif %}
+          </div>
+        {% endif %}
 		  {% endif %}
         </div>
       </div>
@@ -61,7 +73,19 @@
 		  {% endif %}
 		  
 		  {% if include.type == "post" %}
-		  <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+      <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
+        {% if page.tags.size > 0 %}
+          <div class="blog-tags">
+            Tags:
+            {% if site.link-tags %}
+            {% for tag in page.tags %}
+              <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+            {% else %}
+              {{ page.tags | join: ", " }}
+            {% endif %}
+          </div>
+        {% endif %}
 		  {% endif %}
         </div>
       </div>
