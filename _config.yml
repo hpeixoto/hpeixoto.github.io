@@ -24,6 +24,7 @@ navbar-links:
   Background:
     - Education: "education"
     - Work: "work"
+    - Experience: "experience"
     - CV: "data/cv_hpeixoto.pdf"
   Research:
     - Publications: "publications"

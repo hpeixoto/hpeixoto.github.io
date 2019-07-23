@@ -40,4 +40,32 @@ education:
     topics: "Enroll in the Informatics Department of the University of Freiburg, <em>Germany</em>. Development of projects in C++ together with the 3D reconstruction and model collision research group."
     icon: "../img/eeuminho.png"
 
+other:
+
+  - year: 2016
+    course: "SNOMED CT, Content Development  Course"
+    school:  "IHTSDO"
+    grade: C
+    duration: "3 months"
+    start: "Dez 2016"
+    url: "https://elearning.ihtsdotools.org/"
+    topics: "This course builds on knowledge gained during the SNOMED CT Foundation course. The objective is to provide a theoretical understanding of SNOMED CT content and its development and maintenance from a content authoring perspective. This course is intended to provide a foundational base upon which further knowledge and skills such as practical content authoring, subset creation, translation; extension management and mapping would be built."
+  
+  - year: 2016
+    course: "SNOMED CT, Implementation Course"
+    school:  "IHTSDO"
+    grade: B
+    duration: "6 months"
+    start: "May 2016"
+    url: "https://elearning.ihtsdotools.org/"
+    topics: "This course provides an in depth understanding of the stages in implementing a SNOMED CT enabled system - from the decision to adopt SNOMED CT, through to design, procurement, development and use."
+
+  - year: 2015
+    course: "SNOMED CT, Foundation Course"
+    school:  "IHTSDO"
+    grade: B
+    duration: "3 months"
+    start: "Dez 2015"
+    url: "https://elearning.ihtsdotools.org/"
+    topics: "This course provides an introduction to a broad range of SNOMED CT related topics, including the why, what and how of SNOMED CT."
   

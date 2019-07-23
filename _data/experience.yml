@@ -1,0 +1,40 @@
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#type: Workshop, Conference, Journal
+
+experience:
+
+  - name: "Local Committee for Clinical Informatization"
+    role: "Member"
+    local: "Centro Hospitalar de Entre Douro e Vouga E.P.E."
+    start: "Mar 2019"
+    end: "Jun 2019"
+    topics: "<br>Multidisciplinary committee that assists the board in the introduction, adaptation a reorganization of health information systems."
+
+  - name: "Local Committee for Risk and Cibersecurity"
+    role: "Member"
+    local: "Centro Hospitalar de Entre Douro e Vouga E.P.E."
+    start: "Mar 2019"
+    end: "Jun 2019"
+    topics: "<br>Multidisciplinary committee that assists the board in the definition of the cibersecutrity and information risk management decisions."
+
+  - name: "Prescription Monitoring Team"
+    role: "IT Project Manager"
+    local: "Centro Hospitalar do Tâmega e Sousa E.P.E."
+    start: "Fev 2014"
+    end: "Dez 2018"
+    topics: "<br>Multidisciplinary committee that assists the board in the extration and analysis of the prescription data collected from several sources. Elaboration of reports to address ministerial needs."
+
+  - name: "Local Committee for Clinical Informatization"
+    role: "Member"
+    local: "Centro Hospitalar do Tâmega e Sousa E.P.E."
+    start: "Fev 2015"
+    end: "Dez 2018"
+    topics: "<br>Multidisciplinary committee that assists the board in the introduction, adaptation a reorganization of health information systems."
+
+  - name: "Patient Blood Management (PBM)"
+    role: "Member"
+    local: "Centro Hospitalar do Tâmega e Sousa E.P.E."
+    start: "Fev 2018"
+    end: "Dez 2018"
+    topics: "<br>Integration and interoperability responsabilities. "
+
