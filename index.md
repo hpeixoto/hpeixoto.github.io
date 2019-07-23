@@ -10,59 +10,40 @@ Long-held interests in Machine Learning, Data Mining, eHealth, Medical Informati
 
 ---
 
-<h2> Interests </h2>
+##  Interests
+
 <div class="main-explain-area jumbotron">
     <strong><i class="fa fa-book"></i> Research:</strong><br> 
-        Data Mining | Electronic Health Record | Multi-agent Systems | Interoperability | Business Intelligence  <br><br><br>
+        Data Mining | Electronic Health Record | Multi-agent Systems | Interoperability | Business Intelligence | Knowledge Extraction | Decision Support Systems | CRISP-DM  <br><br><br>
     <strong><i class="fa fa-database"></i> Databases:</strong><br> 
         mySQL | Oracle | MongoDB | neo4j   <br><br><br>
     <strong><i class="fa fa-code"></i> Languages:</strong><br> 
         PHP | python | Javascript | .Net | Visual Basic | R   <br><br><br> 
     <strong><i class="fa fa-slack"></i> Others:</strong><br> 
-        Mirthconnect | Docker | Bootstrap | git | Joomla | WordPress <br>   
+        RapidMiner | Mirthconnect | Docker | Bootstrap | git | Joomla | WordPress <br>   
 </div> 
 
 ---
 
-{% for post in site.posts limit:1 %}
-<article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-        <h5 class="post-title">{{ post.title }}</h5>
-        {% if post.subtitle %}
-        <h5 class="post-subtitle">
-        {{ post.subtitle }}
-        </h5>
-        {% endif %}
-    </a>
-    <p class="post-meta">
-        Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-    <div class="post-entry-container">
-        {% if post.image %}
-        <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-            <img src="{{ post.image | relative_url }}">
-        </a>
-        </div>
-        {% endif %}
-        <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-            <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-        </div>
-    </div>
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-        Tags:
-        {% if site.link-tags %}
-        {% for tag in post.tags %}
-        <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-        {% endfor %}
-        {% else %}
-        {{ post.tags | join: ", " }}
-        {% endif %}
-    </div>
-    {% endif %}
-</article>{% endfor %}
+## Last publications
+
+#### Book chapters
+{% for pub in site.data.publications.bookchaps limit: 1%}
+ {% assign counter = counter | plus:1 %}
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {% if pub.volume %}{{ pub.volume }},{% endif %} {% if pub.booktitle %}{{ pub.booktitle }}{% endif %} {% if pub.conference %}{{ pub.conference }}{% endif %}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
+{% endfor %}
+
+#### Journals
+{% for pub in site.data.publications.journals limit: 1%}
+ {% assign counter = counter | plus:1 %}
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{pub.journal}}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.publisher %}, {{ pub.publisher}}{% endif %}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
+{% endfor %}
+
+#### Conf. Papers
+{% for pub in site.data.publications.confs limit: 1%}
+ {% assign counter = counter | plus:1 %}
+  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{ pub.conference }} <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
+{% endfor %}
+
+<p><a href="/publications"><i class="fa fa-plus-square"></i> <strong>Show More</strong></a></p>
+
