@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supervising
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
 
 <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
 
 ### Book Chapters

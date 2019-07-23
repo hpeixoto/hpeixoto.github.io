@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Education
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
-
-
 
 {% for ed in site.data.education.education %}
 

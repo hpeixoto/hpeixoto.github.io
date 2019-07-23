@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Projects
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
-
-
 
 {% for proj in site.data.projects.projects %}
 

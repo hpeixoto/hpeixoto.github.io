@@ -1,9 +1,17 @@
 ---
 layout: page
 title: Teaching
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
 
-<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
-    <p>... Under construction ... </p>
-</div>
+{% for class in site.data.class.class %}
+
+<h3> <img src="{{ class.icon }}" alt="logs" class="img-responsive"> <a href="{{ class.url }}"> {{class.title}} </a> </h3>
+<i class="fa fa-location-arrow"></i> {{class.institution}}    
+<i class="fa fa-calendar"></i> {{ class.start }}{% if class.end %} - {{ class.end }} {% endif %}  
+<strong> Main Responsabilities: </strong>{{ class.tasks }}
+
+
+---
+
+{% endfor %}

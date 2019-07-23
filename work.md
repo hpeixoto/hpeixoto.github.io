@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Work
-subtitle: "&nbsp;&nbsp;&nbsp;" 
+image: "none"
 ---
-
-
 
 {% for job in site.data.work.jobs %}
 
@@ -12,7 +10,6 @@ subtitle: "&nbsp;&nbsp;&nbsp;"
 <i class="fa fa-location-arrow"></i> {{job.institution}}    
 <i class="fa fa-calendar"></i> {{ job.start }}{% if job.end %} - {{ job.end }} {% endif %}  
 <strong> Main Responsabilities: </strong>{{ job.tasks }}
-
 
 ---
 

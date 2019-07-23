@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Committees
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
 
 <table class="table">

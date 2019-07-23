@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Juries
-subtitle: "&nbsp;&nbsp;&nbsp;"
+image: "none"
 ---
 
 {% for jurie in site.data.juries.juries %}
