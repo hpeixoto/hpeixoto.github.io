@@ -25,7 +25,7 @@ Long-held interests in Machine Learning, Data Mining, eHealth, Medical Informati
 
 ---
 
-## Last publications
+## Lastest publications
 
 #### Book chapters
 {% for pub in site.data.publications.bookchaps limit: 1%}
