@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker for healthcare interoperability
-image: /img/docker.png
+image: /img/docker.jpg
 tags: docker nextgen hl7 interoperability
 ---
 
