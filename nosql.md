@@ -8,10 +8,22 @@ image: img/nosql.png
 
 {% for class in site.data.nosql.class %}
 
-<h3>  <a href="{{ class.url }}" target="_blank">{{class.code}} <i class="fa fa-external-link" aria-hidden="true"></i></a></h3>     
-<i class="fa fa-location-arrow"></i> {{class.institution}}    
-<i class="fa fa-calendar"></i> {{ class.course }}   
-<strong> topics: </strong> {{class.topics}} 
+<h4> <a href="" target="_blank">{{class.code}} - {{class.title}}</a></h4>   
+<i class="fa fa-calendar"></i> {{ class.date }} 
+<ul>
+    <li> <a href="{{ class.plan }}"> Planeamento da Aula </a></li>
+    {% if class.slides %} 
+        <li> <a href="{{ class.slides }}"> Slides </a> </li>
+    {% endif %}
+    {% if class.exercise %} 
+        <li> <a href="{{ class.exercise }}"> Ficha de Exercícios </a> </li>
+    {% endif %}
+    {% if class.material %} 
+        <li> <a href="{{ class.material }}"> Material de Apoio </a> </li>
+    {% endif %}
+
+</ul>  
+<strong> tópicos: </strong> {{class.topics}} 
 
 ---
 

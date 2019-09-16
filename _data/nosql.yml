@@ -1,7 +1,28 @@
 class:
 
-  - code: "TP01"
+  - code: "PL01"
     date: "18 Set 2019"
-    title: "Planeamento, Desenho, e Administração de Bases de Dado"
-    plan: "aulas/PL01/PAPL01.pdf"
-    topics: "Electronic Health Records | Patient Records | Business Intelligence | Interoperability | Health Information Systems"
+    title: "Apresentação, Metodologia, Avaliação"
+    plan: "data/nosql/TP01/PA01.pdf"
+    slides: "data/nosql/TP01/noSQL01.pdf"
+    exercise: 
+    material: 
+    topics: "Apresentação | Metodologia | Avaliação"
+
+  # - code: "PL02"
+  #   date: "25 Set 2019"
+  #   title: "Planeamento, Desenho, e Administração de Bases de Dados"
+  #   plan: "data/nosql/TP01/PAPL01.pdf"
+  #   slides: "data/nosql/TP01/noSQL02.pdf"
+  #   exercise: "data/nosql/TP01/FE01.pdf"
+  #   material: 
+  #   topics: "Bases de Dados | Planeamento | Bases de Dados Relacionais"
+
+  # - code: "PL03"
+  #   date: "25 Set 2019"
+  #   title: "Modelo Físico DBMS Oralce"
+  #   plan: "data/nosql/TP02/PAPL02.pdf"
+  #   slides: 
+  #   exercise:
+  #   material:
+  #   topics: "Bases de Dados | Planeamento | Bases de Dados Relacionais"
