@@ -1,37 +1,7 @@
 class:
 
-  - name: "Electronic Health Records"
-    course: "Integrated Master in Biomedical Engineer"
-    institution: "University of Minho"
+  - code: "TP01"
+    date: "18 Set 2019"
+    title: "Planeamento, Desenho, e Administração de Bases de Dado"
+    plan: "aulas/PL01/PAPL01.pdf"
     topics: "Electronic Health Records | Patient Records | Business Intelligence | Interoperability | Health Information Systems"
-    url: "../class/pce"
-
-  - name: "Learning and Knowledge Extraction Systems"
-    course: "Integrated Master in Biomedical Engineer"
-    institution: "University of Minho"
-    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | R | Decision Support Systems | CRISP-DM"
-    url: "../class/saec"
-
-  - name: "Knowledge Discovery"
-    course: "Integrated Master in Informatics"
-    institution: "University of Minho"
-    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | R | Decision Support Systems | CRISP-DM"
-    url: "../class/dc"
-
-  - name: "Database Administration"
-    course: "Integrated Master in Informatics"
-    institution: "University of Minho"
-    topics: "Database Administration | ORACLE | SQL | Disaster Revocery | Database Performance | Schemas"
-    url: "../class/aebd"
-
-  - name: "noSQL Databases"
-    course: "Integrated Master in Informatics"
-    institution: "University of Minho"
-    topics: "Database Administration | ORACLE | mySQL | MongoDB | neo4j"
-    url: "../class/noSQL"
-
-  - name: "Technologies and Information Systems"
-    course: "Post-Graduation in Administration and Healthservice Management"
-    institution: "Piaget Institute"
-    topics: "Electronic Health Records | Patient Records | Business Intelligence | Administration | Interoperability | Health Information Systems"
-    url: "../class/tis"  
