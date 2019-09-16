@@ -1,7 +1,7 @@
 ---
 layout: default
 title: noSQL
-image: "nosql"
+image: nosql.png
 ---
 
 
