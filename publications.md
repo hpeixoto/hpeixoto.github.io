@@ -37,4 +37,3 @@ image: "none"
  {% assign counter = counter | plus:1 %}
   {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. ({{ pub.degree }}) <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
 {% endfor %}
-
