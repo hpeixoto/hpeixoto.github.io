@@ -3,6 +3,13 @@
 
 committees:
 
+  - year: 2020
+    name: "The 2020 International Conference on Information Technology & Systems"
+    nick:  "ICITS' 20"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Bogotá, Colombia"
+
   - year: 2019
     name: "Journal of King Saud University - Computer and Information Sciences"
     nick:  "JKSU-CIS"
