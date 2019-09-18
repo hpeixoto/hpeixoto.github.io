@@ -308,7 +308,7 @@ journals:
       url: "https://www.degruyter.com/view/j/comp.2017.7.issue-1/comp-2017-0008/comp-2017-0008.xml"
 
     - title: "A Data Mining Approach for Cardiovascular Diagnosis"
-      authors: "A Data Mining Approach for Cardiovascular Diagnosis"
+      authors: "Joana Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
       year: 2017
       journal: "Open Computer Science"
       volume: "vol. 7 issue 1"
