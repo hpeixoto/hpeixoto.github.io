@@ -1,0 +1,28 @@
+class:
+
+  - code: "PL01"
+    date: "20 Set 2019"
+    title: "Apresentação, Metodologia, Avaliação"
+    plan: "data/aebd/pl01/PA01.pdf"
+    slides: "data/aebd/pl01/aebd01.pdf"
+    exercise: 
+    material: 
+    topics: "Apresentação | Metodologia | Avaliação"
+
+  # - code: "PL01"
+  #   date: "20 Set 2019"
+  #   title: "Apresentação, Metodologia, Avaliação"
+  #   plan: "data/aebd/pl01/PA01.pdf"
+  #   slides: "data/aebd/pl01/noSQL01.pdf"
+  #   exercise: 
+  #   material: 
+  #   topics: "Apresentação | Metodologia | Avaliação"
+  
+  # - code: "PL01"
+  #   date: "20 Set 2019"
+  #   title: "Apresentação, Metodologia, Avaliação"
+  #   plan: "data/aebd/pl01/PA01.pdf"
+  #   slides: "data/aebd/pl01/noSQL01.pdf"
+  #   exercise: 
+  #   material: 
+  #   topics: "Apresentação | Metodologia | Avaliação"
