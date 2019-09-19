@@ -28,7 +28,7 @@ class:
     course: "Integrated Master in Informatics"
     institution: "University of Minho"
     topics: "Database Administration | ORACLE | mySQL | MongoDB | neo4j"
-    url: "../class/noSQL"
+    url: "../class/nosql"
 
   - name: "Technologies and Information Systems"
     course: "Post-Graduation in Administration and Healthservice Management"
