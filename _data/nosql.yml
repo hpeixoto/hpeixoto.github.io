@@ -1,13 +1,13 @@
 class:
 
-  # - code: "PL01"
-  #   date: "25 Set 2019"
-  #   title: "Planeamento e Desenho de Bases de Dados Relacionais"
-  #   plan: "../../data/nosql/pl01/pa01.pdf"
-  #   slides: "../../data/nosql/pl01/noSQL01.pdf"
-  #   exercise: "../../data/nosql/pl01/fe01.pdf"
-  #   material: 
-  #   topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"
+  - code: "PL01"
+     date: "25 Set 2019"
+     title: "Planeamento e Desenho de Bases de Dados Relacionais"
+     plan: "../../data/nosql/pl01/pa01.pdf"
+     slides: "../../data/nosql/pl01/noSQL01.pdf"
+     exercise: "../../data/nosql/pl01/fe01.pdf"
+     material: 
+     topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"
 
   # - code: "PL02"
   #   date: "02 Out 2019"
