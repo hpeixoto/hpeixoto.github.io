@@ -29,3 +29,7 @@ image: img/nosql.png
 ---
 
 {% endfor %}
+<br><br><br>
+<h2> Submissão de FE:</h2>
+<p> Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=A12345/nosql/FEXX">hpeixoto@di.uminho.pt</a> <br>
+Assunto: A12345/nosql/FEXX </p>
