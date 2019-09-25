@@ -4,19 +4,19 @@ class:
     date: "25 Set 2019"
     title: "Planeamento e Desenho de Bases de Dados Relacionais"
     plan: "../../data/nosql/pl01/pa01.pdf"
-    slides: "../../data/nosql/pl01/noSQL01.pdf"
+    slides: "../../data/nosql/pl01/nosql01.pdf"
     exercise: "../../data/nosql/pl01/fe01.pdf"
     material: 
     topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"
 
-  # - code: "PL02"
-  #   date: "02 Out 2019"
-  #   title: ""
-  #   plan: ""
-  #   slides: ""
-  #   exercise: ""
-  #   material: 
-  #   topics: ""
+  - code: "PL02"
+    date: "02 Out 2019"
+    title: "Introdução ao DBMS Oracle"
+    plan: "../../data/nosql/pl02/pa02.pdf"
+    slides: "../../data/nosql/pl02/nosql02.pdf"
+    exercise: "../../data/nosql/pl02/fe02.pdf"
+    material: "../../data/nosql/pl02/scripts.zip"
+    topics: "Modelo Físico | Pluggable Databases | Oracle"
 
   # - code: "PL03"
   #   date: "09 Out 2019"
