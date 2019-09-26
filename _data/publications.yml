@@ -255,6 +255,19 @@ journals:
     #   pub: ""
     #   url: """
 
+    # - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
+    #   authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
+    #   year: 2019
+    #   journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
+    #   volume: "Volume 9, Issue 1"
+    #   pages: ""
+    #   editor: ""
+    #   publisher: "IGI Global"
+    #   issn: ""
+    #   doi: ""
+    #   pub: ""
+    #   url: """
+
     - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
       authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2019
