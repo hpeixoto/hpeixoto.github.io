@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "26 Set 2019"
+    title: "Introdução ao RDBM Oracle"
+    plan: "../../data/aeabd/pl01/pa01.pdf"
+    slides: "../../data/aeabd/pl01/aeabd01.pdf"
+    exercise: "../../data/aeabd/pl01/fe01.pdf"
+    material: "../../data/aeabd/pl01/scripts.zip"
+    topics: "Oracle | RDBM | Schemas | PDB"

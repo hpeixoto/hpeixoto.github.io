@@ -19,13 +19,19 @@ class:
     url: "../class/dc"
 
   - name: "Database Administration"
-    course: "Integrated Master in Informatics"
+    course: "Integrated Master in Informatic Engineer"
     institution: "University of Minho"
     topics: "Database Administration | ORACLE | SQL | Disaster Revocery | Database Performance | Schemas"
     url: "../class/aebd"
 
+  - name: "Advancend Database Administration"
+    course: "Master in Systems Engineer"
+    institution: "University of Minho"
+    topics: "Database Administration | ORACLE | SQL | Disaster Revocery | Database Performance | Schemas"
+    url: "../class/aeabd"
+
   - name: "noSQL Databases"
-    course: "Integrated Master in Informatics"
+    course: "Integrated Master in Informatic Engineer"
     institution: "University of Minho"
     topics: "Database Administration | ORACLE | mySQL | MongoDB | neo4j"
     url: "../class/nosql"
