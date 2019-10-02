@@ -18,11 +18,11 @@ class:
     material: "../../data/nosql/pl02/scripts.zip"
     topics: "Modelo Físico | Pluggable Databases | Oracle"
 
-  # - code: "PL03"
-  #   date: "09 Out 2019"
-  #   title: ""
-  #   plan: ""
-  #   slides: ""
-  #   exercise: ""
-  #   material: 
-  #   topics: ""
+  - code: "PL03"
+    date: "09 Out 2019"
+    title: ""
+    plan: "../../data/nosql/pl03/pa03.pdf"
+    slides: "../../data/nosql/pl03/nosql03.pdf"
+    exercise: "../../data/nosql/pl03/fe03.pdf"
+    material: 
+    topics: ""
