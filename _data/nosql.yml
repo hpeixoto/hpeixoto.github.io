@@ -25,4 +25,4 @@ class:
     slides: "../../data/nosql/pl03/nosql03.pdf"
     exercise: "../../data/nosql/pl03/fe03.pdf"
     material: 
-    topics: ""
+    topics: "Triggers | Procedures | Functions | Sequences"
