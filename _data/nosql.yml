@@ -20,7 +20,7 @@ class:
 
   - code: "PL03"
     date: "09 Out 2019"
-    title: ""
+    title: "Introdução ao PL/SQL"
     plan: "../../data/nosql/pl03/pa03.pdf"
     slides: "../../data/nosql/pl03/nosql03.pdf"
     exercise: "../../data/nosql/pl03/fe03.pdf"
