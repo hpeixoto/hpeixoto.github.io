@@ -18,11 +18,20 @@ class:
     material: 
     topics: "Oracle | Tablespaces | DataFiles | PDB | CDB"
   
-  # - code: "PL01"
-  #   date: "20 Set 2019"
-  #   title: "Apresentação, Metodologia, Avaliação"
-  #   plan: "data/aebd/pl01/PA01.pdf"
-  #   slides: "data/aebd/pl01/noSQL01.pdf"
-  #   exercise: 
+  - code: "PL03"
+    date: "04 Out 2019"
+    title: "Criação de Schema | Objetos Oracle"
+    plan: "../../data/aebd/pl03/pa03.pdf"
+    slides: 
+    exercise: "../../data/aebd/pl03/fe01.pdf"
+    material: 
+    topics: "Schema | User | Datafile | Tablespace | View | Trigger"
+
+  # - code: "PL04"
+  #   date: "11 Out 2019"
+  #   title: ""
+  #   plan: "../../data/aebd/pl04/pa04.pdf"
+  #   slides: 
+  #   exercise: "../../data/aebd/pl04/fe02.pdf"
   #   material: 
   #   topics: "Apresentação | Metodologia | Avaliação"
