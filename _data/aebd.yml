@@ -24,7 +24,7 @@ class:
     plan: "../../data/aebd/pl03/pa03.pdf"
     slides: 
     exercise: "../../data/aebd/pl03/fe01.pdf"
-    material: 
+    material: "../../data/aebd/pl03/scripts.sql.zip"
     topics: "Schema | User | Datafile | Tablespace | View | Trigger"
 
   # - code: "PL04"
