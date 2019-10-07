@@ -4,11 +4,25 @@
 committees:
 
   - year: 2020
+    name: "4th International WorkShop on Information and Knowledge in Internet of Things"
+    nick: "IKIT 2020"
+    role: "Program Committe"
+    type: "Workshop"
+    local: "Bogotá, Colombia"
+
+  - year: 2020
     name: "The 2020 International Conference on Information Technology & Systems"
     nick:  "ICITS' 20"
     role: "Review Committee"
     type: "Conference"
     local: "Bogotá, Colombia"
+
+  - year: 2020
+    name: "International Journal of Medical Informatics"
+    nick:  "IIJMI"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"  
 
   - year: 2019
     name: "Journal of King Saud University - Computer and Information Sciences"
@@ -74,7 +88,7 @@ committees:
     local: "Vila Real, Portugal"
 
   - year: 2019
-    name: "International WorkShop on Information and Knowledge in Internet of Things"
+    name: "3rd International WorkShop on Information and Knowledge in Internet of Things"
     nick: "IKIT 2019"
     role: "Program Committe"
     type: "Workshop"
