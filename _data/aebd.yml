@@ -27,11 +27,20 @@ class:
     material: "../../data/aebd/pl03/scripts.sql.zip"
     topics: "Schema | User | Datafile | Tablespace | View | Trigger"
 
-  # - code: "PL04"
-  #   date: "11 Out 2019"
+  - code: "PL04"
+    date: "11 Out 2019"
+    title: ""
+    plan: "../../data/aebd/pl04/pa04.pdf"
+    slides: "../../data/aebd/pl04/aebd04.pdf"
+    exercise: "../../data/aebd/pl04/fe02.pdf"
+    material: 
+    topics: "Triggers | Funções | Procedimentos"
+
+  # - code: "PL05"
+  #   date: "18 Out 2019"
   #   title: ""
-  #   plan: "../../data/aebd/pl04/pa04.pdf"
-  #   slides: 
-  #   exercise: "../../data/aebd/pl04/fe02.pdf"
+  #   plan: "../../data/aebd/pl05/pa05.pdf"
+  #   slides: "../../data/aebd/pl05/aebd05.pdf"
+  #   exercise: "../../data/aebd/pl05/fe03.pdf"
   #   material: 
-  #   topics: "Apresentação | Metodologia | Avaliação"
+  #   topics: ""
