@@ -29,12 +29,12 @@ class:
 
   - code: "PL04"
     date: "11 Out 2019"
-    title: ""
+    title: "Revisão SQL"
     plan: "../../data/aebd/pl04/pa04.pdf"
     slides: "../../data/aebd/pl04/aebd04.pdf"
     exercise: "../../data/aebd/pl04/fe02.pdf"
     material: 
-    topics: "Triggers | Funções | Procedimentos"
+    topics: "Revisão SQL"
 
   # - code: "PL05"
   #   date: "18 Out 2019"
