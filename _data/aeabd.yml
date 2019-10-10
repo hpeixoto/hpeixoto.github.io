@@ -8,3 +8,13 @@ class:
     exercise: "../../data/aeabd/pl01/fe01.pdf"
     material: "../../data/aeabd/pl01/scripts.zip"
     topics: "Oracle | RDBM | Schemas | PDB"
+
+
+  - code: "PL04"
+    date: "10 Out 2019"
+    title: "Criação de Schema | Objetos Oracle"
+    plan: 
+    slides: 
+    exercise: "../../data/aeabd/pl04/fe01.pdf"
+    material: "../../data/aeabd/pl04/scripts.sql.zip"
+    topics: "Schema | User | Datafile | Tablespace | View | Trigger"
