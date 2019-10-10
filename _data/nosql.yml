@@ -1,14 +1,32 @@
 class:
 
-  - code: "PL01"
-    date: "25 Set 2019"
-    title: "Planeamento e Desenho de Bases de Dados Relacionais"
-    plan: "../../data/nosql/pl01/pa01.pdf"
-    slides: "../../data/nosql/pl01/nosql01.pdf"
-    exercise: "../../data/nosql/pl01/fe01.pdf"
-    material: 
-    topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"
+  # - code: "PL05"
+  #   date: "18 Out 2019"
+  #   title: ""
+  #   plan: "../../data/aebd/pl05/pa05.pdf"
+  #   slides: "../../data/aebd/pl05/aebd05.pdf"
+  #   exercise: "../../data/aebd/pl05/fe03.pdf"
+  #   material: 
+  #   topics: ""
 
+  - code: "PL04"
+    date: "09 Out 2019"
+    title: " Planeamento e Desenho de Base de Dados"
+    plan: "../../data/nosql/pl04/pa04.pdf"
+    slides: 
+    exercise: "http://nosql.hpeixoto.me"
+    material: 
+    topics: "Monitorização em tempo real | Base de dados | API REST"
+
+  - code: "PL03"
+    date: "09 Out 2019"
+    title: "Introdução ao PL/SQL"
+    plan: "../../data/nosql/pl03/pa03.pdf"
+    slides: "../../data/nosql/pl03/nosql03.pdf"
+    exercise: "../../data/nosql/pl03/fe03.pdf"
+    material:
+    topics: "Triggers | Procedures | Functions | Sequences"
+    
   - code: "PL02"
     date: "02 Out 2019"
     title: "Introdução ao DBMS Oracle"
@@ -18,11 +36,11 @@ class:
     material: "../../data/nosql/pl02/scripts.zip"
     topics: "Modelo Físico | Pluggable Databases | Oracle"
 
-  - code: "PL03"
-    date: "09 Out 2019"
-    title: "Introdução ao PL/SQL"
-    plan: "../../data/nosql/pl03/pa03.pdf"
-    slides: "../../data/nosql/pl03/nosql03.pdf"
-    exercise: "../../data/nosql/pl03/fe03.pdf"
-    material: "http://nosql.hpeixoto.me"
-    topics: "Triggers | Procedures | Functions | Sequences"
+  - code: "PL01"
+    date: "25 Set 2019"
+    title: "Planeamento e Desenho de Bases de Dados Relacionais"
+    plan: "../../data/nosql/pl01/pa01.pdf"
+    slides: "../../data/nosql/pl01/nosql01.pdf"
+    exercise: "../../data/nosql/pl01/fe01.pdf"
+    material: 
+    topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"

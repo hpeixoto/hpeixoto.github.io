@@ -1,14 +1,13 @@
 class:
 
-  - code: "PL01"
-    date: "26 Set 2019"
-    title: "Introdução ao RDBM Oracle"
-    plan: "../../data/aeabd/pl01/pa01.pdf"
-    slides: "../../data/aeabd/pl01/aeabd01.pdf"
-    exercise: "../../data/aeabd/pl01/fe01.pdf"
-    material: "../../data/aeabd/pl01/scripts.zip"
-    topics: "Oracle | RDBM | Schemas | PDB"
-
+  # - code: "PL05"
+  #   date: "18 Out 2019"
+  #   title: ""
+  #   plan: "../../data/aebd/pl05/pa05.pdf"
+  #   slides: "../../data/aebd/pl05/aebd05.pdf"
+  #   exercise: "../../data/aebd/pl05/fe03.pdf"
+  #   material: 
+  #   topics: ""
 
   - code: "PL04"
     date: "10 Out 2019"
@@ -18,3 +17,12 @@ class:
     exercise: "../../data/aeabd/pl04/fe01b.pdf"
     material: "../../data/aeabd/pl04/scripts.sql.zip"
     topics: "Schema | User | Datafile | Tablespace | View | Trigger"
+
+  - code: "PL01"
+    date: "26 Set 2019"
+    title: "Introdução ao RDBM Oracle"
+    plan: "../../data/aeabd/pl01/pa01.pdf"
+    slides: "../../data/aeabd/pl01/aeabd01.pdf"
+    exercise: "../../data/aeabd/pl01/fe01.pdf"
+    material: "../../data/aeabd/pl01/scripts.zip"
+    topics: "Oracle | RDBM | Schemas | PDB"
