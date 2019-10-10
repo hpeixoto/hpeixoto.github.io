@@ -14,7 +14,7 @@ class:
     date: "10 Out 2019"
     title: "Criação de Schema | Objetos Oracle"
     plan: 
-    exercise: "../../data/aeabd/pl04/fe01a.pdf" 
+    slides: "../../data/aeabd/pl04/fe01a.pdf" 
     exercise: "../../data/aeabd/pl04/fe01b.pdf"
     material: "../../data/aeabd/pl04/scripts.sql.zip"
     topics: "Schema | User | Datafile | Tablespace | View | Trigger"
