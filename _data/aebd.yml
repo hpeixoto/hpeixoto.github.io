@@ -31,7 +31,7 @@ class:
     date: "11 Out 2019"
     title: "Revisão SQL"
     plan: "../../data/aebd/pl04/pa04.pdf"
-    slides: "../../data/aebd/pl04/aebd04.pdf"
+    slides: 
     exercise: "../../data/aebd/pl04/fe02.pdf"
     material: 
     topics: "Revisão SQL"
