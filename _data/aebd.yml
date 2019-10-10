@@ -34,7 +34,7 @@ class:
     slides: 
     exercise: "../../data/aebd/pl04/fe02.pdf"
     material: 
-    topics: "Revisão SQL"
+    topics: "SQL | Query | Select | Delete | Update"
 
   # - code: "PL05"
   #   date: "18 Out 2019"
