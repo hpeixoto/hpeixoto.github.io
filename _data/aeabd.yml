@@ -1,13 +1,13 @@
 class:
 
-  # - code: "PL05"
-  #   date: "18 Out 2019"
-  #   title: ""
-  #   plan: "../../data/aebd/pl05/pa05.pdf"
-  #   slides: "../../data/aebd/pl05/aebd05.pdf"
-  #   exercise: "../../data/aebd/pl05/fe03.pdf"
-  #   material: 
-  #   topics: ""
+  - code: "PL05"
+    date: "18 Out 2019"
+    title: "Queries em SQL"
+    plan:
+    slides:
+    exercise: "../../data/aeabd/pl05/fe03.pdf"
+    material: 
+    topics: "SQL | Queries "
 
   - code: "PL04"
     date: "10 Out 2019"
