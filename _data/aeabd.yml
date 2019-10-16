@@ -1,7 +1,7 @@
 class:
 
   - code: "PL05"
-    date: "18 Out 2019"
+    date: "17 Out 2019"
     title: "Queries em SQL"
     plan: "../../data/aeabd/pl05/pa05.pdf"
     slides:
