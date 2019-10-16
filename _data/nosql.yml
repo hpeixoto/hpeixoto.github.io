@@ -9,14 +9,23 @@ class:
   #   material: 
   #   topics: ""
 
-  - code: "PL04"
-    date: "09 Out 2019"
+  - code: "PL05"
+    date: "16 Out 2019"
     title: " Planeamento e Desenho de Base de Dados"
-    plan: "../../data/nosql/pl04/pa04.pdf"
+    plan: "../../data/nosql/pl05/pa05.pdf"
     slides: 
     exercise: "http://nosql.hpeixoto.me"
     material: 
     topics: "Monitorização em tempo real | Base de dados | API REST"
+
+  - code: "PL04"
+    date: "09 Out 2019"
+    title: "Introdução ao PL/SQL (cont.)"
+    plan: "../../data/nosql/pl04/pa04.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Triggers | Procedures | Functions | Sequences"
 
   - code: "PL03"
     date: "09 Out 2019"
