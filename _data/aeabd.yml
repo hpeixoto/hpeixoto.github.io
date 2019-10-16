@@ -3,7 +3,7 @@ class:
   - code: "PL05"
     date: "18 Out 2019"
     title: "Queries em SQL"
-    plan:
+    plan: "../../data/aeabd/pl05/pa05.pdf"
     slides:
     exercise: "../../data/aeabd/pl05/fe03.pdf"
     material: 
