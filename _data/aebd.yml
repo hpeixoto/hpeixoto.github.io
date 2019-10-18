@@ -2,10 +2,10 @@ class:
 
   - code: "PL05"
     date: "18 Out 2019"
-    title: "Revisão SQL (cont.)"
-    plan: 
-    slides: 
-    exercise: 
+    title: "Introdução ao PL/SQL"
+    plan: "../../data/aebd/pl05/pa05.pdf"
+    slides: "../../data/aebd/pl05/aebd05.pdf"
+    exercise: "../../data/aebd/pl05/fe03.pdf"
     material: 
     topics: "SQL | Query | Select | Delete | Update"
 
@@ -13,7 +13,7 @@ class:
     date: "11 Out 2019"
     title: "Revisão SQL"
     plan: "../../data/aebd/pl04/pa04.pdf"
-    slides: 
+    slides: "../../data/aebd/pl04/aebd04.pdf"
     exercise: "../../data/aebd/pl04/fe02.pdf"
     material: 
     topics: "SQL | Query | Select | Delete | Update"
