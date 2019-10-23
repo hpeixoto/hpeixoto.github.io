@@ -1,31 +1,31 @@
 class:
 
-  # - code: "PL05"
-  #   date: "18 Out 2019"
+  # - code: "PL07"
+  #   date: "30 Out 2019"
   #   title: ""
-  #   plan: "../../data/aebd/pl05/pa05.pdf"
-  #   slides: "../../data/aebd/pl05/aebd05.pdf"
-  #   exercise: "../../data/aebd/pl05/fe03.pdf"
+  #   plan: "../../data/aebd/pl07/pa07.pdf"
+  #   slides: 
+  #   exercise: 
   #   material: 
-  #   topics: ""
+  #   topics: 
 
   - code: "PL05"
+    date: "23 Out 2019"
+    title: "Introdução ao MongoDB"
+    plan: "../../data/aebd/pl05/pa05.pdf"
+    slides: "../../data/nosql/pl05/nosql06.pdf"
+    exercise: "../../data/nosql/pl05/fe05.pdf"
+    material: "../../data/nosql/pl05/restaurants.json"
+    topics: "MongoDB | Bases de Dados Documentais | CRUD"
+
+  - code: "PL04"
     date: "16 Out 2019"
-    title: " Planeamento e Desenho de Base de Dados"
-    plan: "../../data/nosql/pl05/pa05.pdf"
+    title: "Planeamento e Desenho de Base de Dados"
+    plan: "../../data/nosql/pl04/pa04.pdf"
     slides: 
     exercise: "http://nosql.hpeixoto.me"
     material: 
     topics: "Monitorização em tempo real | Base de dados | API REST"
-
-  - code: "PL04"
-    date: "09 Out 2019"
-    title: "Introdução ao PL/SQL (cont.)"
-    plan: "../../data/nosql/pl04/pa04.pdf"
-    slides: 
-    exercise: 
-    material: 
-    topics: "Triggers | Procedures | Functions | Sequences"
 
   - code: "PL03"
     date: "09 Out 2019"
@@ -53,3 +53,12 @@ class:
     exercise: "../../data/nosql/pl01/fe01.pdf"
     material: 
     topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"
+
+  - code: "PL00"
+    date: "18 Set 2019"
+    title: "Apresentação"
+    plan: "../../data/nosql/pl00/pa00.pdf"
+    slides: "../../data/nosql/pl00/nosql.pdf"
+    exercise: 
+    material: 
+    topics: "Programa | Avaliação | Trabalhos | Biografia"
