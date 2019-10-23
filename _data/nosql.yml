@@ -13,7 +13,7 @@ class:
     date: "23 Out 2019"
     title: "Introdução ao MongoDB"
     plan: "../../data/aebd/pl05/pa05.pdf"
-    slides: "../../data/nosql/pl05/nosql06.pdf"
+    slides: "../../data/nosql/pl05/nosql05.pdf"
     exercise: "../../data/nosql/pl05/fe05.pdf"
     material: "../../data/nosql/pl05/restaurants.json"
     topics: "MongoDB | Bases de Dados Documentais | CRUD"
