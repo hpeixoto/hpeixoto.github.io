@@ -3,7 +3,7 @@ class:
   # - code: "PL06"
   #   date: "30 Out 2019"
   #   title: ""
-  #   plan: "../../data/aebd/pl07/pa07.pdf"
+  #   plan: "../../data/nosql/pl07/pa07.pdf"
   #   slides: 
   #   exercise: 
   #   material: 
@@ -12,7 +12,7 @@ class:
   - code: "PL05"
     date: "23 Out 2019"
     title: "Introdução ao MongoDB"
-    plan: "../../data/aebd/pl05/pa05.pdf"
+    plan: "../../data/nosql/pl05/pa05.pdf"
     slides: "../../data/nosql/pl05/nosql05.pdf"
     exercise: "../../data/nosql/pl05/fe05.pdf"
     material: "../../data/nosql/pl05/restaurants.json"
