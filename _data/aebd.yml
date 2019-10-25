@@ -1,5 +1,23 @@
 class:
 
+  # - code: "PL07"
+  #   date: "08 Nov 2019"
+  #   title: ""
+  #   plan: ""
+  #   slides: ""
+  #   exercise: ""
+  #   material: 
+  #   topics: ""
+
+  - code: "PL06"
+    date: "25 Out 2019"
+    title: "Database Administration – Oracle EM + SQLDeveloper"
+    plan: "../../data/aebd/pl06/pa06.pdf"
+    slides: "../../data/aebd/pl06/aebd06.pdf"
+    exercise: "../../data/aebd/pl06/fe04.pdf"
+    material: 
+    topics: "EM | ORACLE DBA | Database Administration | SQLDeveloper"
+
   - code: "PL05"
     date: "18 Out 2019"
     title: "Introdução ao PL/SQL"
