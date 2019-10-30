@@ -2,7 +2,7 @@ class:
 
   - code: "PL06"
     date: "30 Out 2019"
-    title: ""
+    title: "MongoDB"
     plan: "../../data/nosql/pl07/pa07.pdf"
     slides: 
     exercise: "http://nosql.hpeixoto.me"
