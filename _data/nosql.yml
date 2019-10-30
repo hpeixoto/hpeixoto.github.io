@@ -1,13 +1,13 @@
 class:
 
-  # - code: "PL06"
-  #   date: "30 Out 2019"
-  #   title: ""
-  #   plan: "../../data/nosql/pl07/pa07.pdf"
-  #   slides: 
-  #   exercise: 
-  #   material: 
-  #   topics: 
+  - code: "PL06"
+    date: "30 Out 2019"
+    title: ""
+    plan: "../../data/nosql/pl07/pa07.pdf"
+    slides: 
+    exercise: "http://nosql.hpeixoto.me"
+    material: 
+    topics: 
 
   - code: "PL05"
     date: "23 Out 2019"
