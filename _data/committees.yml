@@ -3,6 +3,13 @@
 
 committees:
 
+ - year: 2020
+    name: "1st Disruptive Technologies Tech Ethics and Artificial Intelligent"
+    nick: "DiTTEt 2020"
+    role: "Program Committe"
+    type: "Workshop"
+    local: "Salamanca, Spain"
+
   - year: 2020
     name: "4th International WorkShop on Information and Knowledge in Internet of Things"
     nick: "IKIT 2020"
@@ -12,7 +19,7 @@ committees:
 
   - year: 2020
     name: "The 2020 International Conference on Information Technology & Systems"
-    nick:  "ICITS' 20"
+    nick:  "ICITS 2020"
     role: "Review Committee"
     type: "Conference"
     local: "Bogotá, Colombia"
@@ -47,7 +54,7 @@ committees:
 
   - year: 2019
     name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
-    nick: "MiCRADS19"
+    nick: "MiCRADS 2019"
     role: "Scientific Committee"
     type: "Conference"
     local: "Quito, Ecuador"
@@ -68,7 +75,7 @@ committees:
 
   - year: 2019
     name: "3rd International Conference in Engineering Applications"
-    nick: "ICEA19"
+    nick: "ICEA 2019"
     role: "Scientific Committee"
     type: "Conference"
     local: "Açores, Portugal"
@@ -82,7 +89,7 @@ committees:
 
   - year: 2019
     name: "EPIA Conference on Artificial Intelligence"
-    nick: "EPIA2019"
+    nick: "EPIA 2019"
     role: "Subreviewer"
     type: "Conference"
     local: "Vila Real, Portugal"
@@ -96,7 +103,7 @@ committees:
 
   - year: 2019
     name: "Second Intelligent Systems and Technologies for Interactive Human-Machine Relationships"
-    nick: "ISTIHMR’19"
+    nick: "ISTIHMR 2019"
     role: "Program Committe"
     type: "Workshop"
     local: "Madrid, Spain"
