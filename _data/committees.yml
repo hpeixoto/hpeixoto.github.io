@@ -3,8 +3,8 @@
 
 committees:
 
- - year: 2020
-    name: "1st Disruptive Technologies Tech Ethics and Artificial Intelligent"
+  - year: 2020
+    name: "1 Disruptive Technologies Tech Ethics and Artificial Intelligent"
     nick: "DiTTEt 2020"
     role: "Program Committe"
     type: "Workshop"
@@ -117,7 +117,7 @@ committees:
 
   - year: 2018
     name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
-    nick: "MiCRADS18"
+    nick: "MiCRADS 2018"
     role: "Scientific Committee"
     type: "Conference"
     local: "Santa Elena Peninsula, Ecuador"
