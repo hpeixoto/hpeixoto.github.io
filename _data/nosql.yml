@@ -9,7 +9,6 @@ class:
     material: "../../data/nosql/pl07/email_neo4j.txt"
     topics: "Graph Database | neo4j | Cypher"
 
-
   - code: "PL06"
     date: "30 Out 2019"
     title: "MongoDB"
