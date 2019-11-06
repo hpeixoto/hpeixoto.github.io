@@ -32,14 +32,14 @@ image: img/aebd.png
 <h2> Trabalho Prático</h2>
 <p> 
 <i class="fa fa-file"></i> <a href="../../data/aebd/tp/tp.pdf">Enunciado do trabalho prático </a> <br>
-<i class="fa fa-calendar"></i> Entrega a  dd/mm/yyyy <br>
+<i class="fa fa-calendar"></i> Entrega a  20/12/2019 <br>
 <i class="fa fa-laptop"></i> Apresentação de 15' com horário a definir. </p>
 
 ---
 
 <h2>Teste</h2>
 <p> 
-<i class="fa fa-calendar"></i> A definir. </p>
+<i class="fa fa-calendar"></i> 13/12/2019 às 14h (duração de 1h)<br>
 
 ---
 

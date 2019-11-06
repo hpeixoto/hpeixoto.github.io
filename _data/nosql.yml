@@ -1,13 +1,23 @@
 class:
 
+  - code: "PL07"
+    date: "06 Nov 2019"
+    title: "Bases de Dados de Grafos - Neo4J"
+    plan: "../../data/nosql/pl07/pa07.pdf"
+    slides: "../../data/nosql/pl07/nosql07.pdf"
+    exercise: 
+    material: "../../data/nosql/pl07/email_neo4j.txt"
+    topics: "Graph Database | neo4j | Cypher"
+
+
   - code: "PL06"
     date: "30 Out 2019"
     title: "MongoDB"
-    plan: "../../data/nosql/pl07/pa07.pdf"
+    plan: "../../data/nosql/pl06/pa06.pdf"
     slides: 
     exercise: "http://nosql.hpeixoto.me"
     material: 
-    topics: 
+    topics: "Monitorização em tempo real | Base de dados | API REST"
 
   - code: "PL05"
     date: "23 Out 2019"
