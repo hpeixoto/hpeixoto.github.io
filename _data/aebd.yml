@@ -2,9 +2,9 @@ class:
 
   - code: "PL07"
     date: "08 Nov 2019"
-    title: "Database Administration – Oracle EM + SQLDeveloper"
+    title: "Database Administration – Oracle EM + SQLDeveloper (cont.)"
     plan: "../../data/aebd/pl07/pa07.pdf"
-    slides: "../../data/aebd/pl07/aebd06.pdf"
+    slides: 
     exercise: "../../data/aebd/pl07/fe04.pdf"
     material: "../../data/aebd/pl07/swingbench25971.zip"
     topics: "EM | ORACLE DBA | Database Administration | SQLDeveloper"
