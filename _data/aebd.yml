@@ -1,6 +1,6 @@
 class:
 
-  - code: "PL06"
+  - code: "PL07"
     date: "08 Nov 2019"
     title: "Database Administration – Oracle EM + SQLDeveloper"
     plan: "../../data/aebd/pl07/pa07.pdf"
