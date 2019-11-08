@@ -1,21 +1,21 @@
 class:
 
-  # - code: "PL07"
-  #   date: "08 Nov 2019"
-  #   title: ""
-  #   plan: ""
-  #   slides: ""
-  #   exercise: ""
-  #   material: 
-  #   topics: ""
+  - code: "PL06"
+    date: "08 Nov 2019"
+    title: "Database Administration – Oracle EM + SQLDeveloper"
+    plan: "../../data/aebd/pl07/pa07.pdf"
+    slides: "../../data/aebd/pl07/aebd06.pdf"
+    exercise: "../../data/aebd/pl07/fe04.pdf"
+    material: "../../data/aebd/pl07/swingbench25971.zip"
+    topics: "EM | ORACLE DBA | Database Administration | SQLDeveloper"
 
   - code: "PL06"
     date: "25 Out 2019"
     title: "Database Administration – Oracle EM + SQLDeveloper"
     plan: "../../data/aebd/pl06/pa06.pdf"
     slides: "../../data/aebd/pl06/aebd06.pdf"
-    exercise: "../../data/aebd/pl06/fe04.pdf"
-    material: "../../data/aebd/pl06/swingbench25971.zip"
+    exercise: 
+    material: 
     topics: "EM | ORACLE DBA | Database Administration | SQLDeveloper"
 
   - code: "PL05"
