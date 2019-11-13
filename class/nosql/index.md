@@ -32,6 +32,8 @@ image: img/nosql.png
 <h2>Trabalho Prático</h2>
 <p> 
 <i class="fa fa-file"></i> <a href="../../data/nosql/tp/tp.pdf">Enunciado do trabalho prático </a> <br>
+<i class="fa fa-file"></i> <a href="../../data/nosql/tp/sakila.zip">Sakila </a> <br>
+<i class="fa fa-file"></i> <a href="../../data/nosql/tp/template.docx">Template </a> <br>
 <i class="fa fa-calendar"></i> Entrega a  13/01/2020 <br>
 <i class="fa fa-laptop"></i> Apresentação de 15' com horário a definir no dia 15/01/2020. </p>
 
