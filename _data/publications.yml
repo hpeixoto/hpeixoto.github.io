@@ -255,6 +255,19 @@ journals:
     #   pub: ""
     #   url: """
 
+    - title: "Application of Data Mining for the Prediction of Mortality and Occurrence of Complications for Gastric Cancer Patients"
+      authors: "Cristiana Neto,Maria Brito, Vítor Lopes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      year: 2019
+      journal: "Entropy"
+      volume: "21"
+      pages: ""
+      editor: ""
+      publisher: "MDPI AG"
+      issn: "1099-4300"
+      doi: "/10.3390/e21121163"
+      pub: ""
+      url: "https://www.mdpi.com/1099-4300/21/12/116"
+
     # - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
     #   authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
     #   year: 2019

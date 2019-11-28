@@ -4,6 +4,13 @@
 committees:
 
   - year: 2020
+    name: "8th World Conference on Information Systems and Technologies"
+    nick: "WorldCIST_Workshops 2020"
+    role: "Program Committe"
+    type: "Workshop"
+    local: "Budva, Montenegro"
+
+  - year: 2020
     name: "1 Disruptive Technologies Tech Ethics and Artificial Intelligent"
     nick: "DiTTEt 2020"
     role: "Program Committe"
