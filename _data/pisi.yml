@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "13 Dez 2019"
+    title: "Data Mining e Descoberta de Conhecimento"
+    plan: 
+    slides: "../../data/pisi/pisi_DMKD.pdf"
+    exercise: 
+    material: 
+    topics: "Data Mining | Crisp DM | Classificação | Correlação"

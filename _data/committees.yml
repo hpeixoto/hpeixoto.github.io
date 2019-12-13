@@ -4,6 +4,13 @@
 committees:
 
   - year: 2020
+    name: "Third International Conference on Applied Informatics"
+    nick: "ICAI 2020"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Ota, Nigeria"
+
+  - year: 2020
     name: "8th World Conference on Information Systems and Technologies"
     nick: "WorldCIST_Workshops 2020"
     role: "Program Committe"
