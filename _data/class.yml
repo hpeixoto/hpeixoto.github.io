@@ -43,7 +43,7 @@ class:
     url: "../class/tis"
 
   - name: "PISI"
-    course: ""
+    course: "Mestrado em Direito e Informática"
     institution: "University of Minho"
-    topics: ""
+    topics: "Direito | Informática"
     url: "../class/pisi"  
