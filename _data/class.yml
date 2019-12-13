@@ -40,4 +40,10 @@ class:
     course: "Post-Graduation in Administration and Healthservice Management"
     institution: "Piaget Institute"
     topics: "Electronic Health Records | Patient Records | Business Intelligence | Administration | Interoperability | Health Information Systems"
-    url: "../class/tis"  
+    url: "../class/tis"
+
+  - name: "PISI"
+    course: ""
+    institution: "University of Minho"
+    topics: ""
+    url: "../class/pisi"  
