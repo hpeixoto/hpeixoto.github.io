@@ -25,3 +25,7 @@ image: img/nosql.png
     {% endif %}
 </ul>  
 <strong> tópicos: </strong> {{class.topics}} 
+
+---
+
+{% endfor %}
