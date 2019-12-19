@@ -41,9 +41,3 @@ class:
     institution: "Piaget Institute"
     topics: "Electronic Health Records | Patient Records | Business Intelligence | Administration | Interoperability | Health Information Systems"
     url: "../class/tis"
-
-  - name: "PISI"
-    course: "Mestrado em Direito e Informática"
-    institution: "University of Minho"
-    topics: "Direito | Informática"
-    url: "../class/pisi"  
