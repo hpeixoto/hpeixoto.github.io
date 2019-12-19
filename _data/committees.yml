@@ -4,6 +4,13 @@
 committees:
 
   - year: 2020
+    name: "11th International Symposium on Ambient Intelligence"
+    nick: "ISAmI 2020"
+    role: "Program Committe"
+    type: "Conference"
+    local: "L'Aquila, Italy"
+
+  - year: 2020
     name: "The Twelfth International Conference on eHealth, Telemedicine, and Social Medicine"
     nick: "eTELEMED 2020"
     role: "Technical Program Committe"
