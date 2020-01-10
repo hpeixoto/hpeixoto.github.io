@@ -4,6 +4,14 @@
 committees:
 
   - year: 2020
+    name: "Hospital 4.0 Workshop"
+    nick: "EDI4.0"
+    role: "Organizing Chair"
+    type: "Workshop"
+    local: "Warsaw, Polan"
+
+
+  - year: 2020
     name: "11th International Symposium on Ambient Intelligence"
     nick: "ISAmI 2020"
     role: "Program Committe"
