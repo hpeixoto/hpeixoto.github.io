@@ -30,11 +30,19 @@ class:
     topics: "Database Administration | ORACLE | SQL | Disaster Revocery | Database Performance | Schemas"
     url: "../class/aeabd"
 
+  - name: "Informatics Laboratories"
+    course: "Integrated Master in Informatic Engineer"
+    institution: "University of Minho"
+    topics: "Project Management | Fullstack Dev | Project Deployment"
+    url: "../class/labs"
+
   - name: "noSQL Databases"
     course: "Integrated Master in Informatic Engineer"
     institution: "University of Minho"
     topics: "Database Administration | ORACLE | mySQL | MongoDB | neo4j"
     url: "../class/nosql"
+
+  
 
   - name: "Technologies and Information Systems"
     course: "Post-Graduation in Administration and Healthservice Management"
