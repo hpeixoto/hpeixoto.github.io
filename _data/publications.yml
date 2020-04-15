@@ -16,6 +16,19 @@ bookchaps:
     #   pub: ""
     #   url: ""
 
+    - title: "A New Architecture for Intelligent Clinical Decision Support for Intensive Medicine"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel FilipeSantos"
+      year: 2020
+      booktitle: "The 11th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.170"
+      pages: "1035-1040"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier"
+      isbn: "1877-0509"
+      doi: "/10.1007/978-3-030-16447-8_4"
+      pub: ""
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050920305147"
+
     - title: "Predicting Postoperative Complications for Gastric Cancer Patients Using Data Mining"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Alexandra Francisco, Ana Duarte, Márcia Esteves, Sara Oliveira, Vítor Lopes, António Abelha, and José Machado"
       year: 2019
@@ -107,6 +120,19 @@ bookchaps:
       pub: 
       url: "https://www.igi-global.com/chapter/applied-business-intelligence-in-surgery-waiting-lists-management/209196"
 
+    - title: "Step Towards Progressive Web Development in Obstetrics"
+      authors: "Patrícia Loreto, Jorge Braga, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      year: 2018
+      journal: "The 8th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2018)"
+      volume: "Procedia Computer Science vol. 141"
+      pages: "525-530"
+      editor: "Shakshuki, E., Yasar, A. (eds)"
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: "/10.1016/j.procs.2018.10.131"
+      pub: "scopus dblp"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050918317800"
+
     - title: "Data Mining for Prediction of Length of Stay of Cardiovascular Accident Inpatients"
       authors: "Cristiana Silva, Daniela Oliveira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2018
@@ -145,6 +171,45 @@ bookchaps:
       doi: "10.4018/978-1-5225-2851-7.ch011"
       pub: 
       url: "https://www.igi-global.com/chapter/applied-business-intelligence-in-surgery-waiting-lists-management/187522"
+
+    - title: "Step Towards Prediction of Perineal Tear"
+      authors: "Francisca Fonseca, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Filipe Miranda, José Machado and António Abelha"
+      year: 2017
+      journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
+      volume: "Procedia Computer Science vol. 113"
+      pages: "565-570"
+      editor: "Shakshuki, E. (Ed.)"
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: "/10.1016/j.procs.2017.08.284"
+      pub: "scopus isi dblp"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050917316939"
+
+    - title: "Predicting the need of Neonatal Resuscitation using Data Mining"
+      authors: "Ana Morais, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Cecília Coimbra, António Abelha and José Machado"
+      year: 2017
+      journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
+      volume: "Procedia Computer Science vol. 113"
+      pages: "571-576"
+      editor: "Shakshuki, E. (Ed.)"
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: "/10.1016/j.procs.2017.08.287"
+      pub: "scopus isi dblp"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050917316964"
+
+    - title: "Knowledge Discovery from Surgical Waiting Lists"
+      authors: "Cristiana Neto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Vasco Abelha, António Abelha and José Machado"
+      year: 2017
+      journal: "Proceedings of CENTERIS/ProjMAN/HCist 2017"
+      volume: "Procedia Computer Science vol. 121"
+      pages: "1104 - 1111"
+      editor: "Cruz-Cunha, M., Varajão, J., Rijo, R., Martinho, R., Peppard, J., San Cristóbal, J., Monguet, J. (Eds.)"
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: "10.1016/j.procs.2017.11.141"
+      pub: "scopus isi"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050917323438"
 
     - title: "A Hospital Service Kiosk in the Patient’s Pocket"
       authors: "Marta Serapicos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Victor Alves"
@@ -255,6 +320,19 @@ journals:
     #   pub: ""
     #   url: """
 
+    - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
+      year: 2020
+      journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
+      volume: "Volume 9, Issue 1"
+      pages: ""
+      editor: ""
+      publisher: "IGI Global"
+      issn: ""
+      doi: "10.4018/IJRQEH.2020010104"
+      pub: ""
+      url: "https://www.igi-global.com/article/death-and-morbidity-prediction-using-data-mining-in-perforated-peptic-ulcers/240674"
+
     - title: "Application of Data Mining for the Prediction of Mortality and Occurrence of Complications for Gastric Cancer Patients"
       authors: "Cristiana Neto,Maria Brito, Vítor Lopes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2019
@@ -268,19 +346,6 @@ journals:
       pub: ""
       url: "https://www.mdpi.com/1099-4300/21/12/1163"
 
-    # - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
-    #   authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
-    #   year: 2019
-    #   journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
-    #   volume: "Volume 9, Issue 1"
-    #   pages: ""
-    #   editor: ""
-    #   publisher: "IGI Global"
-    #   issn: ""
-    #   doi: ""
-    #   pub: ""
-    #   url: """
-
     - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
       authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2019
@@ -293,19 +358,6 @@ journals:
       doi: "/10.1007/s11276-018-01905-4"
       pub: "scopus springer scimago Q2 jcr Q2"
       url: "https://link.springer.com/article/10.1007/s11276-018-01905-4"
-
-    - title: "Step Towards Progressive Web Development in Obstetrics"
-      authors: "Patrícia Loreto, Jorge Braga, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2018
-      journal: "The 8th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2018)"
-      volume: "Procedia Computer Science vol. 141"
-      pages: "525-530"
-      editor: "Shakshuki, E., Yasar, A. (eds)"
-      publisher: "Elsevier"
-      issn: "1877-0509"
-      doi: "/10.1016/j.procs.2018.10.131"
-      pub: "scopus dblp"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050918317800"
 
     - title: "Prediction of Stroke Patient Length of Stay using Data Mining"
       authors: "Cristiana Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
@@ -385,45 +437,6 @@ journals:
       pub: "scopus isi dblp"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050917317052"
     
-    - title: "Predicting the need of Neonatal Resuscitation using Data Mining"
-      authors: "Ana Morais, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Cecília Coimbra, António Abelha and José Machado"
-      year: 2017
-      journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
-      volume: "Procedia Computer Science vol. 113"
-      pages: "571-576"
-      editor: "Shakshuki, E. (Ed.)"
-      publisher: "Elsevier"
-      issn: "1877-0509"
-      doi: "/10.1016/j.procs.2017.08.287"
-      pub: "scopus isi dblp"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050917316964"
-
-    - title: "Step Towards Prediction of Perineal Tear"
-      authors: "Francisca Fonseca, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Filipe Miranda, José Machado and António Abelha"
-      year: 2017
-      journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
-      volume: "Procedia Computer Science vol. 113"
-      pages: "565-570"
-      editor: "Shakshuki, E. (Ed.)"
-      publisher: "Elsevier"
-      issn: "1877-0509"
-      doi: "/10.1016/j.procs.2017.08.284"
-      pub: "scopus isi dblp"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050917316939"
-
-    - title: "Knowledge Discovery from Surgical Waiting Lists"
-      authors: "Cristiana Neto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Vasco Abelha, António Abelha and José Machado"
-      year: 2017
-      journal: "Proceedings of CENTERIS/ProjMAN/HCist 2017"
-      volume: "Procedia Computer Science vol. 121"
-      pages: "1104 - 1111"
-      editor: "Cruz-Cunha, M., Varajão, J., Rijo, R., Martinho, R., Peppard, J., San Cristóbal, J., Monguet, J. (Eds.)"
-      publisher: "Elsevier"
-      issn: "1877-0509"
-      doi: "10.1016/j.procs.2017.11.141"
-      pub: "scopus isi"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050917323438"
-
     - title: "A Preventive Action Management Platform in Healthcare Information Systems"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, Manuel Santos and José Machado"
       year: 2013
