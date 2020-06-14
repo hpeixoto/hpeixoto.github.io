@@ -16,6 +16,20 @@ bookchaps:
     #   pub: ""
     #   url: ""
 
+    - title: "Modular Blockchain Implementation in Intensive Medicine"
+      authors: "Tiago Guimarães, Hugo Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Manuel Filipe Santos"
+      year: 2020
+      booktitle: "The 11th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.170"
+      pages: "1035-1040"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier"
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2020.03.073"
+      pub: ""
+      url: "http://www.sciencedirect.com/science/article/pii/S187705092030510X"
+
+
     - title: "A New Architecture for Intelligent Clinical Decision Support for Intensive Medicine"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel Filipe Santos"
       year: 2020

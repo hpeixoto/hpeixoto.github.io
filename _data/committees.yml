@@ -4,6 +4,13 @@
 committees:
 
   - year: 2020
+    name: "Open Computer Science"
+    nick:  "OCS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"  
+
+  - year: 2020
     name: "AIM - Artificial Intelligence in Medicine (EPIA)"
     nick: "EPIA2020 "
     role: "Program Committe"
@@ -107,6 +114,13 @@ committees:
     role: "Reviewer"
     type: "Journal"
     local: "--"
+
+  - year: 2019
+    name: "Open Computer Science"
+    nick:  "OCS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"  
 
   - year: 2019
     name: "Scalable Information Systems"
