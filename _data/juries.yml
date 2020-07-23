@@ -2,7 +2,20 @@
 #type: Workshop, Conference, Journal
 
 juries:
-  
+  - title: "mHealth – Aceitação Tecnológica"
+    institution:  "University of Minho"
+    date: "Jul. 2020"
+    student: "Ana Ferreira"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
+  - title: "mHealth – Frontoffice para suporte inteligente de doente"
+    institution:  "University of Minho"
+    date: "Jul. 2020"
+    student: "Eduardo Ferreira"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
   - title: "BPM para processos hospitalares usando BPMN"
     institution:  "University of Minho"
     date: "Nov. 2018"
