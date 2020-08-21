@@ -15,7 +15,60 @@ bookchaps:
     #   doi: ""
     #   pub: ""
     #   url: ""
+ 
+    - title: "Anticipating Maintenance in Telecom Installation Processes"
+      authors: "Diana Costa, Carlos Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2020 (to be published) 
+      booktitle: "Lecture Notes in Computer Science (LNCS)"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: "Springer"
+      isbn: ""
+      doi: ""
+      pub: ""
+      url: ""
+
+    - title: "Integrating a Data Mining Engine into Recommender Systems"
+      authors: "Vitor Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2020 (to be published) 
+      booktitle: "Lecture Notes in Computer Science (LNCS)"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: "Springer"
+      isbn: ""
+      doi: ""
+      pub: ""
+      url: ""
+
+
+    - title: "Improving Performance of Recommendation System Architecture"
+      authors: "Gil Cunha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2020 (to be published) 
+      booktitle: "Lecture Notes in Computer Science (LNCS)"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: "Springer"
+      isbn: ""
+      doi: ""
+      pub: ""
+      url: ""
     
+    - title: "Overcoming Challenges in Healthcare Interoperability Regulatory Compliance"
+      authors: "António Castanheira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2020 (to be published) 
+      booktitle: " Advances in Intelligent Systems and Computing"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: "Springer"
+      isbn: ""
+      doi: ""
+      pub: ""
+      url: ""
+
     - title: "A New Architecture for Intelligent Clinical Decision Support for Intensive Medicine"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel Filipe Santos"
       year: 2020
