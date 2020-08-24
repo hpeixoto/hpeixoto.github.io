@@ -3,6 +3,15 @@
 
 committees:
 
+
+
+  - year: 2021
+    name: "IKIT 2021 book: Information and Knowledge in Internet of Things"
+    nick:  "ICITS 2021"
+    role: "Programm Committee"
+    type: "Book"
+    local: ""
+
   - year: 2021
     name: "The 2021 International Conference on Information Technology & Systems"
     nick:  "ICITS 2021"
