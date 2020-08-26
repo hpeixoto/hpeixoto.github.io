@@ -20,6 +20,13 @@ committees:
     local: "Libertad, Ecuador"
 
   - year: 2020
+    name: "2020 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick:  "3ICT'20"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Held online"
+
+  - year: 2020
     name: "The 2020 International Conference on Decision Aid Sciences and Applications"
     nick:  "DASA'20"
     role: "Reviewer"
