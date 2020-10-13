@@ -1,70 +1,16 @@
 class:
 
-  - code: "PL07"
-    date: "06 Nov 2019"
-    title: "Bases de Dados de Grafos - Neo4J"
-    plan: "../../data/nosql/pl07/pa07.pdf"
-    slides: "../../data/nosql/pl07/nosql07.pdf"
-    exercise: "../../data/nosql/pl07/fe07.pdf"
-    material: "../../data/nosql/pl07/email_neo4j.txt"
-    topics: "Graph Database | neo4j | Cypher"
+  # - code: "PL07"
+  #   date: "06 Nov 2019"
+  #   title: "Bases de Dados de Grafos - Neo4J"
+  #   plan: "../../data/nosql/pl07/pa07.pdf"
+  #   slides: "../../data/nosql/pl07/nosql07.pdf"
+  #   exercise: "../../data/nosql/pl07/fe07.pdf"
+  #   material: "../../data/nosql/pl07/email_neo4j.txt"
+  #   topics: "Graph Database | neo4j | Cypher"
 
-  - code: "PL06"
-    date: "30 Out 2019"
-    title: "MongoDB"
-    plan: "../../data/nosql/pl06/pa06.pdf"
-    slides: 
-    exercise: "http://nosql.hpeixoto.me"
-    material: 
-    topics: "Monitorização em tempo real | Base de dados | API REST"
-
-  - code: "PL05"
-    date: "23 Out 2019"
-    title: "Introdução ao MongoDB"
-    plan: "../../data/nosql/pl05/pa05.pdf"
-    slides: "../../data/nosql/pl05/nosql05.pdf"
-    exercise: "../../data/nosql/pl05/fe05.pdf"
-    material: "../../data/nosql/pl05/restaurants.json"
-    topics: "MongoDB | Bases de Dados Documentais | CRUD"
-
-  - code: "PL04"
-    date: "16 Out 2019"
-    title: "Planeamento e Desenho de Base de Dados"
-    plan: "../../data/nosql/pl04/pa04.pdf"
-    slides: 
-    exercise: "http://nosql.hpeixoto.me"
-    material: 
-    topics: "Monitorização em tempo real | Base de dados | API REST"
-
-  - code: "PL03"
-    date: "09 Out 2019"
-    title: "Introdução ao PL/SQL"
-    plan: "../../data/nosql/pl03/pa03.pdf"
-    slides: "../../data/nosql/pl03/nosql03.pdf"
-    exercise: "../../data/nosql/pl03/fe03.pdf"
-    material:
-    topics: "Triggers | Procedures | Functions | Sequences"
-    
-  - code: "PL02"
-    date: "02 Out 2019"
-    title: "Introdução ao DBMS Oracle"
-    plan: "../../data/nosql/pl02/pa02.pdf"
-    slides: "../../data/nosql/pl02/nosql02.pdf"
-    exercise: "../../data/nosql/pl02/fe02.pdf"
-    material: "../../data/nosql/pl02/scripts.zip"
-    topics: "Modelo Físico | Pluggable Databases | Oracle"
-
-  - code: "PL01"
-    date: "25 Set 2019"
-    title: "Planeamento e Desenho de Bases de Dados Relacionais"
-    plan: "../../data/nosql/pl01/pa01.pdf"
-    slides: "../../data/nosql/pl01/nosql01.pdf"
-    exercise: "../../data/nosql/pl01/fe01.pdf"
-    material: 
-    topics: "Modelos | Diagrama ER | Entidades | Atributos | Relacionamentos"
-
-  - code: "PL00"
-    date: "18 Set 2019"
+  - code: "PL001"
+    date: "XX Set 2019"
     title: "Apresentação"
     plan: "../../data/nosql/pl00/pa00.pdf"
     slides: "../../data/nosql/pl00/nosql.pdf"

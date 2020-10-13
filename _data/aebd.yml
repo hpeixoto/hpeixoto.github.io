@@ -1,64 +1,19 @@
 class:
 
-  - code: "PL07"
-    date: "08 Nov 2019"
-    title: "Database Administration – Oracle EM + SQLDeveloper (cont.)"
-    plan: "../../data/aebd/pl07/pa07.pdf"
-    slides: 
-    exercise: "../../data/aebd/pl07/fe04.pdf"
-    material: "../../data/aebd/pl07/swingbench25971.zip"
-    topics: "EM | ORACLE DBA | Database Administration | SQLDeveloper"
+  # - code: "PL07"
+  #   date: "06 Nov 2019"
+  #   title: "Bases de Dados de Grafos - Neo4J"
+  #   plan: "../../data/nosql/pl07/pa07.pdf"
+  #   slides: "../../data/nosql/pl07/nosql07.pdf"
+  #   exercise: "../../data/nosql/pl07/fe07.pdf"
+  #   material: "../../data/nosql/pl07/email_neo4j.txt"
+  #   topics: "Graph Database | neo4j | Cypher"
 
-  - code: "PL06"
-    date: "25 Out 2019"
-    title: "Database Administration – Oracle EM + SQLDeveloper"
-    plan: "../../data/aebd/pl06/pa06.pdf"
-    slides: "../../data/aebd/pl06/aebd06.pdf"
+  - code: "PL001"
+    date: "XX Set 2019"
+    title: "Apresentação"
+    plan: "../../data/nosql/pl00/pa00.pdf"
+    slides: "../../data/nosql/pl00/nosql.pdf"
     exercise: 
     material: 
-    topics: "EM | ORACLE DBA | Database Administration | SQLDeveloper"
-
-  - code: "PL05"
-    date: "18 Out 2019"
-    title: "Introdução ao PL/SQL"
-    plan: "../../data/aebd/pl05/pa05.pdf"
-    slides: "../../data/aebd/pl05/aebd05.pdf"
-    exercise: "../../data/aebd/pl05/fe03.pdf"
-    material: 
-    topics: "PL/SQL | Functions | Procedures | Sequences | Triggers"
-
-  - code: "PL04"
-    date: "11 Out 2019"
-    title: "Revisão SQL"
-    plan: "../../data/aebd/pl04/pa04.pdf"
-    slides: "../../data/aebd/pl04/aebd04.pdf"
-    exercise: "../../data/aebd/pl04/fe02.pdf"
-    material: 
-    topics: "SQL | Query | Select | Delete | Update"
-
-  - code: "PL03"
-    date: "04 Out 2019"
-    title: "Criação de Schema | Objetos Oracle"
-    plan: "../../data/aebd/pl03/pa03.pdf"
-    slides: 
-    exercise: "../../data/aebd/pl03/fe01.pdf"
-    material: "../../data/aebd/pl03/scripts.sql.zip"
-    topics: "Schema | User | Datafile | Tablespace | View | Trigger"
-
-  - code: "PL02"
-    date: "27 Set 2019"
-    title: "Importação VM; SQLDeveloper; Introdução ao RDBM ORACLE"
-    plan: "../../data/aebd/pl02/pa02.pdf"
-    slides: "../../data/aebd/pl02/aebd02.pdf"
-    exercise:
-    material: 
-    topics: "Oracle | Tablespaces | DataFiles | PDB | CDB"
-  
-  - code: "PL01"
-    date: "20 Set 2019"
-    title: "Apresentação, Metodologia, Avaliação"
-    plan: "../../data/aebd/pl01/pa01.pdf"
-    slides: "../../data/aebd/pl01/aebd01.pdf"
-    exercise: 
-    material: 
-    topics: "Apresentação | Metodologia | Avaliação"
+    topics: "Programa | Avaliação | Trabalhos | Biografia"

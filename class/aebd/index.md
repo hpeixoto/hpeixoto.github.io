@@ -29,20 +29,16 @@ image: img/aebd.png
 ---
 
 {% endfor %}
-<h2> Trabalho Prático</h2>
-<p> 
-<i class="fa fa-file"></i> <a href="../../data/aebd/tp/tp.pdf">Enunciado do trabalho prático </a> <br>
-<i class="fa fa-calendar"></i> Entrega a  20/12/2019 <br>
-<i class="fa fa-laptop"></i> Apresentação de 15' com horário a definir. </p>
+<h2>Trabalho Prático</h2>
+<p> Em construção... </p>
 
 ---
 
 <h2>Teste</h2>
-<p> 
-<i class="fa fa-calendar"></i> 13/12/2019 às 14h (duração de 1h)<br>
+<p> Em construção... </p>
 
 ---
 
 <h2> Submissão de FE</h2>
-<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=A12345/aebd/FEXX">hpeixoto@di.uminho.pt</a> <br>
-Assunto: A12345/aebd/FEXX </p>
+<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=aebd/FEXX/AXXXXX">hpeixoto@di.uminho.pt</a> <br>
+Assunto: aebd/FEXX/AXXXXX </p>

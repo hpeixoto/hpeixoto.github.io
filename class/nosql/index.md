@@ -30,21 +30,15 @@ image: img/nosql.png
 
 {% endfor %}
 <h2>Trabalho Prático</h2>
-<p> 
-<i class="fa fa-file"></i> <a href="../../data/nosql/tp/tp.pdf">Enunciado do trabalho prático </a> <br>
-<i class="fa fa-file"></i> <a href="../../data/nosql/tp/sakila.zip">Sakila </a> <br>
-<i class="fa fa-file"></i> <a href="../../data/nosql/tp/template.docx">Template </a> <br>
-<i class="fa fa-calendar"></i> Entrega a  13/01/2020 <br>
-<i class="fa fa-laptop"></i> Apresentação de 15' com horário a definir no dia 15/01/2020. </p>
+<p> Em construção... </p>
 
 ---
 
 <h2>Teste</h2>
-<p> 
-<i class="fa fa-calendar"></i> A realizar no dia 18/12/2019 pelas 09h. </p>
+<p> Em construção... </p>
 
 ---
 
 <h2> Submissão de FE</h2>
-<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=A12345/nosql/FEXX">hpeixoto@di.uminho.pt</a> <br>
-Assunto: A12345/nosql/FEXX </p>
+<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=nosql/FEXX/AXXXXX">hpeixoto@di.uminho.pt</a> <br>
+Assunto: nosql/FEXX/AXXXXX </p>
