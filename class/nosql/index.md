@@ -40,5 +40,5 @@ image: img/nosql.png
 ---
 
 <h2> Submissão de FE</h2>
-<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=nosql/FEXX/AXXXXX">hpeixoto@di.uminho.pt</a> <br>
-Assunto: nosql/FEXX/AXXXXX </p>
+<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=nosql/FEXX/GXX">hpeixoto@di.uminho.pt</a> <br>
+Assunto: nosql/FEXX/GXX </p>

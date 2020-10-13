@@ -40,5 +40,5 @@ image: img/aebd.png
 ---
 
 <h2> Submissão de FE</h2>
-<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=aebd/FEXX/AXXXXX">hpeixoto@di.uminho.pt</a> <br>
-Assunto: aebd/FEXX/AXXXXX </p>
+<p> <i class="fa fa-envelope"></i>  Enviar email para <a href="mailto:hpeixoto@di.uminho.pt?subject=aebd/FEXX/GXX">hpeixoto@di.uminho.pt</a> <br>
+Assunto: aebd/FEXX/GXX </p>
