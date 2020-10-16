@@ -12,8 +12,8 @@ class:
   - code: "PL01"
     date: "14 out 2020"
     title: "Apresentação"
-    plan: "../../data/nosql/PL01/pa01.pdf"
-    slides: "../../data/nosql/PL01/nosql_PL01.pdf"
+    plan: "../../data/nosql/pl01/pa01.pdf"
+    slides: "../../data/nosql/pl01/nosql_PL01.pdf"
     exercise: 
     material: 
     topics: "Apresentação | Programa | Planeamento | Avaliação | Biografia"
