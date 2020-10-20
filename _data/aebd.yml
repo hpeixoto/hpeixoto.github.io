@@ -9,6 +9,16 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  # - code: "PL07"
+  #   date: "06 Nov 2019"
+  #   title: "Bases de Dados de Grafos - Neo4J"
+  #   plan: "../../data/nosql/pl07/pa07.pdf"
+  #   slides: "../../data/nosql/pl07/nosql07.pdf"
+  #   exercise: "../../data/nosql/pl07/fe07.pdf"
+  #   material: "../../data/nosql/pl07/email_neo4j.txt"
+  #   topics: "Graph Database | neo4j | Cypher"
+
+
   - code: "PL01"
     date: "16 out 2020"
     title: "Apresentação"

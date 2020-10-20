@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL02"
+    date: "21 out 2020"
+    title: "Introdução ao Docker"
+    plan: "../../data/nosql/pl02/pa02.pdf"
+    slides: "../../data/nosql/pl02/nosql_PL02.pdf"
+    exercise: 
+    material: "https://mega.nz/file/Y4tg1RzB#sFdXdIl0S8wEwtrxclH2k8ie85pjEHeJaywhYAwzXho"
+    topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
+
   - code: "PL01"
     date: "14 out 2020"
     title: "Apresentação"
