@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL03"
+    date: "28 out 2020"
+    title: "Introdução ao RDBM Oracle"
+    plan: "../../data/nosql/pl03/pa03.pdf"
+    slides: "../../data/nosql/pl03/nosql_PL03.pdf"
+    exercise: "../../data/nosql/pl03/fe01.pdf"
+    material: "../../data/nosql/pl03/scripts.zip"
+    topics: "Oracle | RDBM | SqlDeveloper | Schema | Modelo Físico"
+
   - code: "PL02"
     date: "21 out 2020"
     title: "Introdução ao Docker"
