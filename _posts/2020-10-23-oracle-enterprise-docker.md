@@ -53,15 +53,15 @@ Host server is running *CentOS 7* and running docker and docker-compose, let us 
 
         version: '3'
         services: 
-           oracle:
-              container_name: oracledb
-              image: store/oracle/database-enterprise:12.2.0.1
-           ports:
+          oracle:
+            container_name: oracledb
+            image: store/oracle/database-enterprise:12.2.0.1
+            ports:
               - 1521:1521
               - 5500:5500
-           volumes:
+            volumes:
               - "./data/oracle:/ORCL"
-           env_file:
+            env_file:
               - ora.conf
 
 - Create ora.conf file inside /home/uminho/dockers/
