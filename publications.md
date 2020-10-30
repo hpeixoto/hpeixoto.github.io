@@ -36,9 +36,7 @@ image: "none"
 
 
 Total: <strong>{{counter}}</strong><br><br>
-Scopus: <strong>{{scop}}</strong><br>
-ISI: <strong>{{isi}}</strong><br>
-DBLP: <strong>{{dblp}}</strong>
+Scopus: <strong>{{scop}}</strong>&nbsp;&nbsp;|&nbsp;&nbsp; ISI:<strong>{{isi}}</strong>&nbsp;&nbsp;|&nbsp;&nbsp; DBLP:<strong>{{dblp}}</strong>
 
 ## Book Chapters
 {% assign counter = 0 %}
