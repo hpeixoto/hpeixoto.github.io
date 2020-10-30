@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Publications(test)
+title: Publications
 image: "none"
 ---
 
@@ -35,8 +35,7 @@ image: "none"
 {% endfor %}
 
 
-Total: <strong>{{counter}}</strong><br><br>
-Scopus: <strong>{{scop}}</strong>&nbsp;&nbsp;|&nbsp;&nbsp; ISI:<strong>{{isi}}</strong>&nbsp;&nbsp;|&nbsp;&nbsp; DBLP:<strong>{{dblp}}</strong>
+Total: <strong>{{counter}}</strong> | ({{scop}}) Scopus&nbsp;&nbsp; | &nbsp;&nbsp;({{isi}}) ISI&nbsp;&nbsp;|&nbsp;&nbsp;({{dblp}}) DBLP
 
 ## Book Chapters
 {% assign counter = 0 %}
