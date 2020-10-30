@@ -1,73 +1,98 @@
 #status: Accepted, In Press, Published, Submitted, Under revision
 #type: Workshop, Conference
 
-bookchaps:
+papers:
 
-    # - title: ""
-    #   authors: ""
-    #   year: 
-    #   booktitle: ""
-    #   volume: ""
-    #   pages: ""
-    #   editor: ""
-    #   publisher: ""
-    #   isbn: ""
-    #   doi: ""
-    #   pub: ""
-    #   url: ""
- 
+    - title: "Overcoming Challenges in Healthcare Interoperability Regulatory Compliance"
+      authors: "António Castanheira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2021
+      booktitle: " Advances in Intelligent Systems and Computing"
+      volume: "1239"
+      pages: "44-53"
+      editor: "Novais P.,Vercelli G.,Larriba-Pey J.L.,Herrera F.,Chamoso P."
+      publisher: "Springer"
+      isbn: "978-303058355-2"
+      doi: "/10.1007/978-3-030-58356-9_5"
+      pub: "scopus springer SJR 2019: 0.1840 Q3"
+      scopus: 1
+      isi:
+      q: 3
+      type: "book"
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-58356-9_5"
+      citations:
+
     - title: "Anticipating Maintenance in Telecom Installation Processes"
       authors: "Diana Costa, Carlos Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2020 (to be published) 
       booktitle: "Lecture Notes in Computer Science (LNCS)"
-      volume: ""
-      pages: ""
-      editor: ""
+      volume: 
+      pages:
+      editor: 
       publisher: "Springer"
-      isbn: ""
-      doi: ""
-      pub: ""
-      url: ""
+      isbn: 
+      doi: 
+      pub: 
+      scopus: 
+      isi:
+      q: 
+      type: "book"
+      url: 
+      citations:
 
     - title: "Integrating a Data Mining Engine into Recommender Systems"
       authors: "Vitor Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2020 (to be published) 
       booktitle: "Lecture Notes in Computer Science (LNCS)"
-      volume: ""
-      pages: ""
-      editor: ""
+      volume: 
+      pages:
+      editor: 
       publisher: "Springer"
-      isbn: ""
-      doi: ""
-      pub: ""
-      url: ""
-
+      isbn: 
+      doi: 
+      pub:
+      scopus: 
+      isi:
+      q: 
+      type: "book"
+      url: 
+      citations:
 
     - title: "Improving Performance of Recommendation System Architecture"
       authors: "Gil Cunha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2020 (to be published) 
       booktitle: "Lecture Notes in Computer Science (LNCS)"
-      volume: ""
-      pages: ""
-      editor: ""
+      volume: 
+      pages:
+      editor: 
       publisher: "Springer"
-      isbn: ""
-      doi: ""
-      pub: ""
-      url: ""
-    
-    - title: "Overcoming Challenges in Healthcare Interoperability Regulatory Compliance"
-      authors: "António Castanheira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2020 (to be published) 
+      isbn: 
+      doi: 
+      pub:
+      scopus: 
+      isi:
+      q: 
+      type: "book"
+      url: 
+      citations:
+
+    - title: "Prediction of Length of Stay for Stroke Patients Using Artificial Neural Networks"
+      authors: "Cristiana Neto, Maria Brito, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Vítor Lopes, António Abelha and José Machado"
+      year: 2020
       booktitle: " Advances in Intelligent Systems and Computing"
-      volume: ""
-      pages: ""
+      volume: "1159"
+      pages: "212-221"
       editor: ""
-      publisher: "Springer"
-      isbn: ""
-      doi: ""
-      pub: ""
-      url: ""
+      publisher: "Springer, Cham"
+      isbn: "978-3-030-45688-7"
+      doi: "/10.1007/978-3-030-45688-7_22"
+      pub: "scopus dblp springer SJR 2019: 0.1840 Q3"
+      scopus: 1
+      isi:
+      q: 3
+      dblp: 1
+      type: "conference"
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-11890-7_55"
+      citations: 
 
     - title: "A New Architecture for Intelligent Clinical Decision Support for Intensive Medicine"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel Filipe Santos"
@@ -76,11 +101,16 @@ bookchaps:
       volume: "Procedia Computer Science vol.170"
       pages: "1035-1040"
       editor: "Shakshuki, E., Yasar, A."
-      publisher: "Elsevier"
+      publisher: "Elsevier B.V."
       isbn: "1877-0509"
       doi: "/10.1007/978-3-030-16447-8_4"
-      pub: ""
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050920305147"
+      citations:
 
     - title: "Modular Blockchain Implementation in Intensive Medicine"
       authors: "Tiago Guimarães, Hugo Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Manuel Filipe Santos"
@@ -92,8 +122,49 @@ bookchaps:
       publisher: "Elsevier"
       isbn: "1877-0509"
       doi: "/10.1016/j.procs.2020.03.073"
-      pub: ""
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      type: "conference"
       url: "http://www.sciencedirect.com/science/article/pii/S187705092030510X"
+      citations: 1
+
+    - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
+      year: 2020
+      journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
+      volume: "Volume 9, Issue 1"
+      pages:
+      editor: 
+      publisher: "IGI Global"
+      issn: 
+      doi: "10.4018/IJRQEH.2020010104"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      type: "journal"
+      url: "https://www.igi-global.com/article/death-and-morbidity-prediction-using-data-mining-in-perforated-peptic-ulcers/240674"
+      citations: 
+
+    - title: "Application of Data Mining for the Prediction of Mortality and Occurrence of Complications for Gastric Cancer Patients"
+      authors: "Cristiana Neto,Maria Brito, Vítor Lopes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      year: 2019
+      journal: "Entropy"
+      volume: "21"
+      pages:
+      editor: 
+      publisher: "MDPI AG"
+      issn: "1099-4300"
+      doi: "/10.3390/e21121163"
+      pub: "scopus isi dblp IF 2019: 2.4940 Q2 SJR 2019: 0.5270 Q2"
+      scopus: 1 
+      isi: 1
+      q: 2
+      type: "journal"
+      url: "https://www.mdpi.com/1099-4300/21/12/1163"
+      citations: 4
 
     - title: "Predicting Postoperative Complications for Gastric Cancer Patients Using Data Mining"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Alexandra Francisco, Ana Duarte, Márcia Esteves, Sara Oliveira, Vítor Lopes, António Abelha, and José Machado"
@@ -105,8 +176,33 @@ bookchaps:
       publisher: "Springer, Cham"
       isbn: "978-3-030-16447-8"
       doi: "/10.1007/978-3-030-16447-8_4"
-      pub: "opus dblp springer scimago Q4"
+      pub: "scopus dblp springer scimago Q4"
+      scopus: 1 
+      isi:
+      dblp: 1
+      q: 4
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-16447-8_4"
+      citations:
+
+    - title: "Smart Mobile Computing in Pregnancy Care"
+      authors: "Francisca Fonseca, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Jorge Braga, José Machado and António Abelha"
+      conference: "34th International Conference on Computers and Their Applications"
+      booktitle: "Proceedings of 34th International Conference on Computers and Their Applications"
+      year: 2019
+      volume: "vol. 58"
+      pages: "219-224"
+      editor: "Lee, G. and Jin, Y. (eds)"
+      url: "https://doi.org/10.29007/sr6q"
+      doi: "10.29007/sr6q"
+      pub: "scopus dblp"
+      scopus: 1
+      isi:
+      q: 
+      dblp: 
+      type: "conference"
+      url: 
+      citations: 1
 
     - title: "Predicting Low Birth Weight Babies Through Data Mining"
       authors: "Patricia Loreto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
@@ -118,8 +214,14 @@ bookchaps:
       publisher: "Springer, Cham"
       isbn: "978-3-030-16187-3"
       doi: "/978-3-030-16187-3_55"
-      pub: "scopus dblp springer scimago Q4"
+      pub: "scopus dblp springer SJR 2019: 0.1840 Q3"
+      scopus: 1
+      isi:
+      q: 3
+      dblp: 1
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007%2F978-3-030-16187-3_55"
+      citations:
 
     - title: "Application of Data Mining for the Prediction of Prophylactic Measures in Patients at Risk of Deep Vein Thrombosis"
       authors: "Manuela Cruz, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
@@ -131,8 +233,15 @@ bookchaps:
       publisher: "Springer, Cham"
       isbn: "978-3-030-16187-3"
       doi: "/10.1007/978-3-030-16187-3_54"
-      pub: "scopus dblp springer scimago Q4"
+      pub: "scopus dblp springer SJR 2019: 0.1840 Q3"
+      scopus: 1
+      isi: 
+      q: 3
+      dblp: 1
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007%2F978-3-030-16187-3_54"
+      citations:
+
 
     - title: "Predicting Death and Morbidity in Perforated Peptic Ulcer"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Correia e Silva, Soraia Pereira, Tiago Jesus, Vítor Lopes, António Abelha e José Machado"
@@ -144,8 +253,14 @@ bookchaps:
       publisher: "Springer, Cham"
       isbn: "978-3-030-11890-7"
       doi: "/10.1007/978-3-030-11890-7_54"
-      pub: "scopus springer scimago Q4"
+      pub: "scopus dblp springer SJR 2019: 0.1840 Q3"
+      scopus: 1
+      isi:
+      q: 3
+      dblp: 1
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-11890-7_54"
+      citations:
 
     - title: "Predicting the Length of Hospital Stay After Surgery for Perforated Peptic Ulcer"
       authors: "José Machado, Ana Catarina Cardoso, Inês Gomes, Inês Silva, Vítor Lopes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and António Abelha"
@@ -157,34 +272,52 @@ bookchaps:
       publisher: "Springer, Cham"
       isbn: "978-3-030-11890-7"
       doi: "/10.1007/978-3-030-11890-7_55"
-      pub: "scopus springer scimago Q4"
+      pub: "scopus dblp springer SJR 2019: 0.1840 Q3"
+      scopus: 1
+      isi:
+      q: 3
+      dblp: 1
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-11890-7_55"
+      citations: 
+
+    - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
+      authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      year: 2019
+      journal: "Wireless Networks"
+      volume: "jornal n. 11276"
+      pages: "1-9"
+      editor: "Chlamtac, I. (ed)"
+      publisher: "Springer US"
+      issn: "1572-8196"
+      doi: "/10.1007/s11276-018-01905-4"
+      pub: "scopus springer IF 2019: 2.6590 Q2 SJR 2019: 0.4820 Q2"
+      type: "journal"
+      scopus: 1
+      isi:
+      q: 2
+      dblp: 
+      url: "https://link.springer.com/article/10.1007/s11276-018-01905-4"
+      citations: 2
 
     - title: "Business intelligence for nutrition therapy"
       authors: "Rita Reis, Ana Mendonça, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Jose Machado"
       year: 2019
       booktitle: "Healthcare Policy and Reform: Concepts, Methodologies, Tools, and Applications"
-      volume: ""
+      volume: 
       pages: "459-474"
-      editor: ""
-      publisher: "IGI Global"
-      isbn: ""
-      doi: "10.4018/978-1-5225-6915-2.ch022"
-      pub: "scopus"
-      url: "https://www.igi-global.com/chapter/business-intelligence-for-nutrition-therapy/209141"
-
-    - title: "Applied Business Intelligence in Surgery Waiting Lists Management"
-      authors: "Cristiana Neto, Inês Dias, Maria Santos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2019
-      booktitle: "Healthcare Policy and Reform: Concepts, Methodologies, Tools, and Applications"
-      volume: "vol. 3"
-      pages: "1580-1594"
-      editor:
+      editor: 
       publisher: "IGI Global"
       isbn: 
-      doi: "10.4018/978-1-5225-6915-2.ch072"
-      pub: 
-      url: "https://www.igi-global.com/chapter/applied-business-intelligence-in-surgery-waiting-lists-management/209196"
+      doi: "10.4018/978-1-5225-6915-2.ch022"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      dblp: 
+      type: "book"
+      url: "https://www.igi-global.com/chapter/business-intelligence-for-nutrition-therapy/209141"
+      citations: 1
 
     - title: "Step Towards Progressive Web Development in Obstetrics"
       authors: "Patrícia Loreto, Jorge Braga, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
@@ -196,8 +329,51 @@ bookchaps:
       publisher: "Elsevier"
       issn: "1877-0509"
       doi: "/10.1016/j.procs.2018.10.131"
-      pub: "scopus dblp"
+      pub: "scopus isi dblp SJR 2018: 0.28 SJR 2019: 0.3420"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      type: "book"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050918317800"
+      citations:
+
+    - title: "Applied Business Intelligence in Surgery Waiting Lists Management"
+      authors: "Cristiana Neto, Inês Dias, Maria Santos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2019
+      booktitle: "Healthcare Policy and Reform: Concepts, Methodologies, Tools, and Applications"
+      volume: "vol. 3"
+      pages: "1580-1594"
+      editor:
+      publisher: "IGI Global"
+      isbn: 
+      doi: "10.4018/978-1-5225-6915-2.ch072"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      dblp: 
+      type: "book"
+      url: "https://www.igi-global.com/chapter/applied-business-intelligence-in-surgery-waiting-lists-management/209196"
+      citations: 2
+      
+    - title: "Data Mining in Urgency Department: Medical Specialty Discharge Prediction"
+      authors: "Marco Prata, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      conference: "16th International Industrial Simulation Conference 2018, ISC 2018"
+      year: 2018
+      volume: 
+      pages: "28-35"
+      publisher: "EUROSIS"
+      url: "http://repositorium.sdum.uminho.pt/handle/1822/58296"
+      isbn: "9789492859037"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      dblp: 
+      type: "conference"
+      url: 
+      citations: 1
 
     - title: "Data Mining for Prediction of Length of Stay of Cardiovascular Accident Inpatients"
       authors: "Cristiana Silva, Daniela Oliveira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
@@ -209,47 +385,170 @@ bookchaps:
       publisher: "Springer, Cham"
       isbn: "978-3-030-02843-5"
       doi: "/10.1007/978-3-030-02843-5_43"
-      pub: "scopus springer"
+      pub: "scopus springer SJR 2018: 0.17 Q3 SJR 2019: 0.1880 Q3"
+      scopus: 1
+      isi:
+      q: 3
+      dblp: 
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-02843-5_43"
+      citations:
 
-    - title: "Business Intelligence for Nutrition Therapy"
-      authors: "Rita Reis, Ana Mendonça, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+    - title: "Predictive Data Mining in Nutrition Therapy"
+      authors: "Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      conference: "Proceedings of the 13th APCA International Conference on Control and Soft-Computing (CONTROLO)"
       year: 2018
-      booktitle: "Next-Generation Mobile and Pervasive Healthcare Solutions"
-      volume: 
-      pages: "203-218"
-      editor: "Machado, J., Abelha, A., Santos, M. F., and Portela, F. (eds)"
-      publisher: "IGI Global"
-      isbn: 
-      doi: "10.4018/978-1-5225-2851-7.ch013"
-      pub: 
-      url: "https://www.igi-global.com/chapter/business-intelligence-for-nutrition-therapy/187524"
+      url: "https://ieeexplore.ieee.org/abstract/document/8516413"
+      status: "published"
+      doi: "10.1109/CONTROLO.2018.8516413"
+      issn: "2472-8489"
+      publisher: "IEEE"
+      type: "conference"
+      pub: "scopus isi ieee"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 1
+      citations: 3
 
-    - title: "Applied Business Intelligence in Surgery Waiting Lists Management"
-      authors: "Cristiana Neto, Inês Dias, Maria Santos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+
+    - title: "Prediction of Stroke Patient Length of Stay using Data Mining"
+      authors: "Cristiana Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
       year: 2018
-      booktitle: "Next-Generation Mobile and Pervasive Healthcare Solutions"
+      journal: "Proceeding of the 3rd International Conference on Information in Business and Technology (I2BM)"
       volume: 
-      pages: "171-185"
-      editor: "Machado, J., Abelha, A., Santos, M. F., and Portela, F. (eds)"
-      publisher: "IGI Global"
-      isbn: 
-      doi: "10.4018/978-1-5225-2851-7.ch011"
+      pages: 
+      editor: 
+      publisher: 
+      issn:
+      doi: 
+      type: "conference"
       pub: 
-      url: "https://www.igi-global.com/chapter/applied-business-intelligence-in-surgery-waiting-lists-management/187522"
+      scopus: 
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      url: 
+      citations:
 
-    - title: "Step Towards Prediction of Perineal Tear"
-      authors: "Francisca Fonseca, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Filipe Miranda, José Machado and António Abelha"
+    - title: "Iron value classification in patients undergoing Continuous Ambulatory Peritoneal Dialysis using Data Mining"
+      authors: "Catarina Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado, António Abelha and Manuel Santos"
+      conference: "Proceedings of the 4th International Conference on Information and Communication Technologies for Ageing Well and e-Health - Volume 1: HSP"
+      year: 2018
+      url: "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006820802850290"
+      isbn: "978-989-758-299-8"
+      status: "published"
+      pub: "scopus dblp"
+      scopus: 1 
+      isi: 
+      q: 
+      dblp: 1
+      ieee: 
+      type: "conference"
+      citations:
+
+    - title: "Machine Learning in Nutritional Follow-up Research"
+      authors: "Rita Reis, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      year: 2017
+      journal: "Open Computer Science"
+      volume: "vol. 7 issue 1"
+      pages: "41-45"
+      editor: 
+      publisher: "de Gruyter"
+      issn: "2299-1093"
+      doi: "/10.1515/comp-2017-0008"
+      pub: "scopus isi dblp SJR 2019: 0.18 Q3"
+      scopus: 1
+      isi: 1
+      q: 3
+      dblp: 1
+      ieee: 
+      type: "journal"
+      url: "https://www.degruyter.com/view/j/comp.2017.7.issue-1/comp-2017-0008/comp-2017-0008.xml"
+      citations: 5
+
+    - title: "A Data Mining Approach for Cardiovascular Diagnosis"
+      authors: "Joana Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      year: 2017
+      journal: "Open Computer Science"
+      volume: "vol. 7 issue 1"
+      pages: "36-40"
+      editor: 
+      publisher: "de Gruyter"
+      issn: "2299-1093"
+      doi: "/10.1515/comp-2017-0007"
+      pub: "scopus isi dblp SJR 2019: 0.18 Q3"
+      scopus: 1 
+      isi: 1
+      q: 3
+      dblp: 1
+      ieee: 
+      type: "journal"
+      url: "https://www.degruyter.com/view/j/comp.2017.7.issue-1/comp-2017-0007/comp-2017-0007.xml"
+      citations: 4
+
+    - title: "Evaluating the Prophylaxis of the Risk of Deep Vein Thrombosis Using Business Intelligence"
+      authors: "Ana Leite, Ana Rodrigues, Manuela Cruz, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      year: 2017
+      journal: "Journal Health Medical Informatics"
+      volume: "Vol. 8:284"
+      pages: 
+      editor: "Hong, D. (Ed.)"
+      publisher: "OMICS International"
+      issn: "2157-7420"
+      doi: "/10.4172/2157-7420.1000284"
+      pub:
+      scopus: 
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type: "journal"
+      url: "https://www.omicsonline.org/open-access/evaluating-the-prophylaxis-of-the-risk-of-deep-vein-thrombosisu-sing-business-intelligence-2157-7420-1000284.pdf"
+      citations:
+
+    - title: "The Future of Records in Anesthesia: Development of an Anesthesia Data Warehouse"
+      authors: "André Dias, João Fernandes, Rui Monteiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      year: 2017
+      journal: "Journal Healthcare Communications"
+      volume: "Vol. 2 N.4:61"
+      pages: 
+      editor: "iMedPub Journals"
+      publisher: "iMedPub Journals"
+      issn: "2472-1654"
+      doi: "/10.4172/2472-1654.100102"
+      pub:
+      scopus: 
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type: "journal"
+      url: "http://healthcare-communications.imedpub.com/the-future-of-records-in-anesthesia-development-of-an-anesthesia-data-warehouse.pdf"
+      citations:
+
+    - title: "Understanding Stroke in Dialysis and Chronic Kidney Disease"
+      authors: "Mariana Rodrigues, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Marisa Esteves, José Machado and António Abelha"
       year: 2017
       journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
       volume: "Procedia Computer Science vol. 113"
-      pages: "565-570"
+      pages: "591-596"
       editor: "Shakshuki, E. (Ed.)"
       publisher: "Elsevier"
       issn: "1877-0509"
-      doi: "/10.1016/j.procs.2017.08.284"
-      pub: "scopus isi dblp"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050917316939"
+      doi: "/10.1016/j.procs.2017.08.296"
+      pub: "scopus isi dblp SJR 2017: 0.26 SJR 2019: 0.3420"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 
+      type: "book"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050917317052"
+      citations: 6
+
 
     - title: "Predicting the need of Neonatal Resuscitation using Data Mining"
       authors: "Ana Morais, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Cecília Coimbra, António Abelha and José Machado"
@@ -261,8 +560,35 @@ bookchaps:
       publisher: "Elsevier"
       issn: "1877-0509"
       doi: "/10.1016/j.procs.2017.08.287"
-      pub: "scopus isi dblp"
+      pub: "scopus isi dblp scholar(11) SJR 2017: 0.26 SJR 2019: 0.3420"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 
+      type: "book"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050917316964"
+      citations: 6
+
+    - title: "Step Towards Prediction of Perineal Tear"
+      authors: "Francisca Fonseca, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Filipe Miranda, José Machado and António Abelha"
+      year: 2017
+      journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
+      volume: "Procedia Computer Science vol. 113"
+      pages: "565-570"
+      editor: "Shakshuki, E. (Ed.)"
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: "/10.1016/j.procs.2017.08.284"
+      pub: "scopus dblp SJR 2017: 0.26 SJR 2019: 0.3420"
+      scopus: 1 
+      isi: 
+      q: 
+      dblp: 1
+      ieee: 
+      type: "book"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050917316939"
+      citations: 4
 
     - title: "Knowledge Discovery from Surgical Waiting Lists"
       authors: "Cristiana Neto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Vasco Abelha, António Abelha and José Machado"
@@ -274,8 +600,107 @@ bookchaps:
       publisher: "Elsevier"
       issn: "1877-0509"
       doi: "10.1016/j.procs.2017.11.141"
-      pub: "scopus isi"
+      pub: "scopus isi acm SJR 2017: 0.26 SJR 2019: 0.3420"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 
+      acm: 
+      type: 
       url: "https://www.sciencedirect.com/science/article/pii/S1877050917323438"
+      citations: 6
+
+    - title: "Business Intelligence for Nutrition Therapy"
+      authors: "Rita Reis, Ana Mendonça, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2017
+      booktitle: "Next-Generation Mobile and Pervasive Healthcare Solutions"
+      volume: 
+      pages: "203-218"
+      editor: "Machado, J., Abelha, A., Santos, M. F., and Portela, F. (eds)"
+      publisher: "IGI Global"
+      isbn: 
+      doi: "10.4018/978-1-5225-2851-7.ch013"
+      pub: 
+      scopus: 
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type : "book"
+      url: "https://www.igi-global.com/chapter/business-intelligence-for-nutrition-therapy/187524"
+      citations:
+
+    - title: "Applied Business Intelligence in Surgery Waiting Lists Management"
+      authors: "Cristiana Neto, Inês Dias, Maria Santos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2017
+      booktitle: "Next-Generation Mobile and Pervasive Healthcare Solutions"
+      volume: 
+      pages: "171-185"
+      editor: "Machado, J., Abelha, A., Santos, M. F., and Portela, F. (eds)"
+      publisher: "IGI Global"
+      isbn: 
+      doi: "10.4018/978-1-5225-2851-7.ch011"
+      pub: 
+      scopus: 
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type : "book"
+      url: "https://www.igi-global.com/chapter/applied-business-intelligence-in-surgery-waiting-lists-management/187522"
+      citations:
+    
+    - title: "Improving Maternity Care with Business Intelligence"
+      authors: "Patrícia Loreto, Francisca Fonseca, Ana Morais, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      conference: "5th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)"
+      location: "Prague, Czech Republic"
+      year: 2017
+      url: "https://ieeexplore.ieee.org/document/8113789"
+      doi: "/10.1109/FiCloudW.2017.89"
+      isbn: "978-1-5386-3281-9"
+      type: "conference"
+      pub: "scopus isi dblp ieee"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 1
+      citations: 6
+
+
+    - title: "Continuous Ambulatory Peritoneal Dialysis: Business Intelligence applied to patient monitoring"
+      authors: "Catarina Peixoto, Cláudia Brito, Mariana Fontainhas, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      conference: "5th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)"
+      location: "Prague, Czech Republic"
+      year: 2017
+      url: "https://ieeexplore.ieee.org/document/8113790"
+      doi: "/10.1109/FiCloudW.2017.90"
+      isbn: "978-1-5386-3281-9"
+      pub: "scopus isi dblp ieee"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 1
+      type: "conference"
+      citations:
+
+    - title: "Business Intelligence for Cardiovascular Disease Assessment"
+      authors: "Cristiana Silva, Joana Pereira, Luís Costa, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      conference: "5th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)"
+      location: "Prague, Czech Republic"
+      year: 2017
+      url: "https://ieeexplore.ieee.org/document/8113791"
+      doi: "/10.1109/FiCloudW.2017.91"
+      pub: "scopus isi dblp ieee"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 1
+      type: "conference"
+      citations:
 
     - title: "A Hospital Service Kiosk in the Patient’s Pocket"
       authors: "Marta Serapicos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Victor Alves"
@@ -289,22 +714,55 @@ bookchaps:
       doi: "/10.1007/978-3-319-61118-1_27"
       publisher: "Springer, Cham"
       isbn: "978-3-319-61118-1"
-      url: "https://link.springer.com/chapter/10.1007/978-3-319-61118-1_27"
+      pub: "scopus isi"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 
+      type: "conference"
+      url: "https://link.springer.com/chapter/10.1007/978-3-319-61118-1_27"      
+      citations:
 
-    - title: "A Preventive Action Management Platform in Healthcare Information Systems"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, Manuel Santos and José Machado"
-      year: 2015
-      booktitle: "Open Source Technology: Concepts, Methodologies, Tools, and Applications"
+    - title: "Steps towards interoperability in healthcare environment"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**,  Andréa Domingues and Bruno Fernandes"
+      year: 2016
+      booktitle: "Applying Business Intelligence to Clinical and Healthcare Organizations"
       volume: 
-      pages: "447-460"
+      pages: "23"
       editor: 
       publisher: "IGI Global"
       isbn: 
-      doi: "10.4018/978-1-4666-7230-7.ch026"
-      pub: "scopus isi"
-      url: "https://www.igi-global.com/chapter/a-preventive-action-management-platform-in-healthcare-information-systems/120930"
+      doi: "10.4018/978-1-4666-9882-6.ch001"
+      pub: "scopus"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type: "book"
+      url: "https://www.igi-global.com/gateway/chapter/146060#pnlRecommendationForm"
+      citations: 10
 
-    - title: "ScheduleIT–Open-Source Preventive Actions Management Plataform in Healthcare Information Systems"
+    - title: "A Preventive Action Management Platform in Healthcare Information Systems"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, Manuel Santos and José Machado"
+      year: 2013
+      journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
+      volume: "vol. 2(3)"
+      editor: 
+      publisher: "IGI Global"
+      pub: "scopus acm"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 
+      type: "journal"
+      url: "https://www.igi-global.com/article/a-preventive-action-management-platform-in-healthcare-information-systems/95929"
+      doi: "10.4018/ijrqeh.2013070102"
+      citations:
+
+    - title: "ScheduleIT – Open-Source Preventive Actions Management Plataform in Healthcare Information Systems"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Júlio Duarte, António Abelha, Manuel Santos and José Machado"
       year: 2012
       booktitle: "4th Conference of ENTERprise Information Systems – aligning technology, organizations and people (CENTERIS 2012)"
@@ -314,8 +772,16 @@ bookchaps:
       publisher: "Elsevier"
       issn: "2212-0173"
       doi: "/10.1016/j.protcy.2012.09.081"
-      pub: 
+      pub: "isi"
+      scopus: 
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 
+      type: "book"
       url: "https://www.sciencedirect.com/science/article/pii/S2212017312005129"
+      citations:
+
 
     - title: "Intelligence in Interoperability with AIDA"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Santos, António Abelha and José Machado"
@@ -329,21 +795,31 @@ bookchaps:
       publisher: "Springer, Berlin, Heidelberg"
       isbn: "978-3-642-34624-8"
       doi: "/10.1007/978-3-642-34624-8_31"
-      pub: "scopus(33) dblp acm springer scholar(46) scimago Q2"
+      type: "book"
+      pub: "scopus dblp acm springer isi scholar IF 2005: 0.30 Q4 SJR 2012: 0.35 Q2 SJR 2019: 0.4270 Q2"
+      scopus: 1
+      isi: 1
+      q: 2
+      dblp: 1
+      ieee: 
       url: "https://link.springer.com/chapter/10.1007%2F978-3-642-34624-8_31"
-      
-    - title: "Semantic Interoperability and Health Records"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado, José Neves and António Abelha"
-      year: 2010
-      booktitle: "E-Health"
-      volume: "IFIP Advances in Information and Communication Technology (IFIPAICT), vol. 335"
-      pages: "236-237"
-      editor: "Takeda, H. (ed)"
-      publisher: "Springer, Berlin, Heidelberg"
-      isbn: "978-3-642-15515-4"
-      doi: "/10.1007/978-3-642-15515-4_30"
-      pub: "scopus isi dblp springer scimago Q4"
-      url: "https://link.springer.com/chapter/10.1007%2F978-3-642-15515-4_30"
+      citations: 37
+
+    - title: "AASYS - Appointment Alert System: An Open Source-Based Software to improve Show Rates in a Health Care Unit"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado, António Abelha, José Neves, António Correia and Manuel F.Santos"
+      conference: "EUROSIS - The European Multidisciplinary Society for Modelling and Simulation Technology"
+      year: 2011
+      location: "Guimarães, Portugal"
+      url: "http://repositorium.sdum.uminho.pt/handle/1822/15596"
+      status: "Published"
+      pub: "scopus isi"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 
+      type: "conference"
+      citations: 3
 
     - title: "Modelling Intelligent Behaviours in Multi-agent Based HL7 Services"
       authors: "Miguel Miranda, Gabriel Pontes, Pedro Gonçalves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Santos, António Abelha, José Machado"
@@ -355,8 +831,50 @@ bookchaps:
       publisher: "Springer, Berlin, Heidelberg"
       isbn: "978-3-642-15405-8"
       doi: "/10.1007/978-3-642-15405-8_9"
-      pub: "scopus isi dblp ieee springer scholar(10) scimago Q4"
+      pub: "scopus isi dblp ieee springer scholar SJR 2010: 0.19 Q4 SJR 2019: 0.2150 Q4"
+      scopus: 1
+      isi: 1
+      q: 4
+      dblp: 1
+      ieee: 1
+      type: "book"
       url: "https://link.springer.com/chapter/10.1007%2F978-3-642-15405-8_9"
+      citations: 17
+
+    - title: "Semantic Interoperability and Health Records"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado, José Neves and António Abelha"
+      year: 2010
+      booktitle: "E-Health"
+      volume: "IFIP Advances in Information and Communication Technology (IFIPAICT), vol. 335"
+      pages: "236-237"
+      editor: "Takeda, H. (ed)"
+      publisher: "Springer, Berlin, Heidelberg"
+      isbn: "978-3-642-15515-4"
+      doi: "/10.1007/978-3-642-15515-4_30"
+      pub: "scopus isi dblp springer SJR 2010: 0.14 Q4 SJR 2019: 0.2090 Q3"
+      scopus: 1
+      isi: 1
+      q: 3
+      dblp: 1
+      ieee: 
+      type: "book"
+      url: "https://link.springer.com/chapter/10.1007%2F978-3-642-15515-4_30"
+      citations: 13
+
+    - title: "Interoperabilidade e o Processo Clínico Semântico"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+      conference: "CISTI - Conferência Ibérica de Sistemas e Tecnologias de Informação"
+      year: 2010
+      location: "Santiago de Compostela, Spain"
+      url: "http://repositorium.sdum.uminho.pt/handle/1822/11208"
+      type: "conference"
+      pub: "isi"
+      scopus: 
+      isi: 1
+      q: 
+      dblp: 
+      ieee: 
+      citations:
 
     - title: "Computer-Aided Diagnosis in Brain Computed Tomography Screening"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Vitor Alves"
@@ -366,255 +884,19 @@ bookchaps:
       pages: "62--72"
       editor: "Perner, P. (ed)"
       publisher: "Springer, Berlin, Heidelberg"
-      pub: "dblp"
+      pub: "scopus dblp"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 1
+      ieee: 
       isbn: "978-3-642-03067-3"
       doi: "/10.1007/978-3-642-03067-3_7"
-      url: "https://link.springer.com/book/10.1007/978-3-642-03067-3"
-
-journals:
-
-    # - title: ""
-    #   authors: ""
-    #   year: 
-    #   journal: ""
-    #   volume: ""
-    #   pages: ""
-    #   editor: ""
-    #   publisher: ""
-    #   issn: ""
-    #   doi: ""
-    #   pub: ""
-    #   url: """
-
-    - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
-      year: 2020
-      journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
-      volume: "Volume 9, Issue 1"
-      pages: ""
-      editor: ""
-      publisher: "IGI Global"
-      issn: ""
-      doi: "10.4018/IJRQEH.2020010104"
-      pub: ""
-      url: "https://www.igi-global.com/article/death-and-morbidity-prediction-using-data-mining-in-perforated-peptic-ulcers/240674"
-
-    - title: "Application of Data Mining for the Prediction of Mortality and Occurrence of Complications for Gastric Cancer Patients"
-      authors: "Cristiana Neto,Maria Brito, Vítor Lopes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
-      year: 2019
-      journal: "Entropy"
-      volume: "21"
-      pages: ""
-      editor: ""
-      publisher: "MDPI AG"
-      issn: "1099-4300"
-      doi: "/10.3390/e21121163"
-      pub: ""
-      url: "https://www.mdpi.com/1099-4300/21/12/1163"
-
-    - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
-      authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
-      year: 2019
-      journal: "Wireless Networks"
-      volume: "jornal n. 11276"
-      pages: "1-9"
-      editor: "Chlamtac, I. (ed)"
-      publisher: "Springer US"
-      issn: "1572-8196"
-      doi: "/10.1007/s11276-018-01905-4"
-      pub: "scopus springer scimago Q2 jcr Q2"
-      url: "https://link.springer.com/article/10.1007/s11276-018-01905-4"
-
-    - title: "Prediction of Stroke Patient Length of Stay using Data Mining"
-      authors: "Cristiana Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2018
-      journal: "Proceeding of the 3rd International Conference on Information in Business and Technology (I2BM)"
-      volume: 
-      pages: 
-      editor: 
-      publisher: 
-      issn:
-      doi: 
-      pub: 
-      url: 
-
-    - title: "Machine Learning in Nutritional Follow-up Research"
-      authors: "Rita Reis, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2017
-      journal: "Open Computer Science"
-      volume: "vol. 7 issue 1"
-      pages: "41-45"
-      editor: 
-      publisher: "de Gruyter"
-      issn: "2299-1093"
-      doi: "/10.1515/comp-2017-0008"
-      pub: "scopus isi dblp"
-      url: "https://www.degruyter.com/view/j/comp.2017.7.issue-1/comp-2017-0008/comp-2017-0008.xml"
-
-    - title: "A Data Mining Approach for Cardiovascular Diagnosis"
-      authors: "Joana Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2017
-      journal: "Open Computer Science"
-      volume: "vol. 7 issue 1"
-      pages: "36-40"
-      editor: 
-      publisher: "de Gruyter"
-      issn: "2299-1093"
-      doi: "/10.1515/comp-2017-0007"
-      pub: "scopus isi dblp"
-      url: "https://www.degruyter.com/view/j/comp.2017.7.issue-1/comp-2017-0007/comp-2017-0007.xml"
-
-    - title: "Evaluating the Prophylaxis of the Risk of Deep Vein Thrombosis Using Business Intelligence"
-      authors: "Ana Leite, Ana Rodrigues, Manuela Cruz, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2017
-      journal: "Journal Health Medical Informatics"
-      volume: "Vol. 8:284"
-      pages: 
-      editor: "Hong, D. (Ed.)"
-      publisher: "OMICS International"
-      issn: "2157-7420"
-      doi: "/10.4172/2157-7420.1000284"
-      pub:
-      url: "https://www.omicsonline.org/open-access/evaluating-the-prophylaxis-of-the-risk-of-deep-vein-thrombosisu-sing-business-intelligence-2157-7420-1000284.pdf"
-
-    - title: "The Future of Records in Anesthesia: Development of an Anesthesia Data Warehouse"
-      authors: "André Dias, João Fernandes, Rui Monteiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2017
-      journal: "Journal Healthcare Communications"
-      volume: "Vol. 2 N.4:61"
-      pages: 
-      editor: "iMedPub Journals"
-      publisher: "iMedPub Journals"
-      issn: "2472-1654"
-      doi: "/10.4172/2472-1654.100102"
-      pub:
-      url: "http://healthcare-communications.imedpub.com/the-future-of-records-in-anesthesia-development-of-an-anesthesia-data-warehouse.pdf"
-
-    - title: "Understanding Stroke in Dialysis and Chronic Kidney Disease"
-      authors: "Mariana Rodrigues, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Marisa Esteves, José Machado and António Abelha"
-      year: 2017
-      journal: "The 7th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH-2017)"
-      volume: "Procedia Computer Science vol. 113"
-      pages: "591-596"
-      editor: "Shakshuki, E. (Ed.)"
-      publisher: "Elsevier"
-      issn: "1877-0509"
-      doi: "/10.1016/j.procs.2017.08.296"
-      pub: "scopus isi dblp"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050917317052"
-    
-    - title: "A Preventive Action Management Platform in Healthcare Information Systems"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, Manuel Santos and José Machado"
-      year: 2013
-      journal: "International Journal of Reliable and Quality E-Healthcare (IJRQEH)"
-      volume: "vol. 2(3)"
-      editor: 
-      publisher: "IGI Global"
-      pub: "acm"
-      url: "https://www.igi-global.com/article/a-preventive-action-management-platform-in-healthcare-information-systems/95929"
-      doi: "10.4018/ijrqeh.2013070102"
-
-confs:
-
-    # - title: ""
-    #   authors: ""
-    #   conference: ""
-    #   year: 
-    #   url: ""
-    #   status: ""
-    #   pub: ""
-
-    - title: "Smart Mobile Computing in Pregnancy Care"
-      authors: "Francisca Fonseca, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Jorge Braga, José Machado and António Abelha"
-      conference: "34th International Conference on Computers and Their Applications"
-      booktitle: "Proceedings of 34th International Conference on Computers and Their Applications"
-      year: 2019
-      volume: "vol. 58"
-      pages: "219-224"
-      editor: "Lee, G. and Jin, Y. (eds)"
-      url: "https://doi.org/10.29007/sr6q"
-      doi: "10.29007/sr6q"
-      status: "published"
-      pub: 
-
-    - title: "Data Mining in Urgency Department: Medical Specialty Discharge Prediction"
-      authors: "Marco Prata, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      conference: "16th International Industrial Simulation Conference 2018, ISC 2018"
-      year: 2018
-      url: "http://repositorium.sdum.uminho.pt/handle/1822/58296"
-      isbn: "9789492859037"
-      status: "published"
-      pub: "scopus"
-
-    - title: "Predictive Data Mining in Nutrition Therapy"
-      authors: "Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      conference: "Proceedings of the 13th APCA International Conference on Control and Soft-Computing (CONTROLO)"
-      year: 2018
-      url: "https://ieeexplore.ieee.org/abstract/document/8516413"
-      status: "published"
-      doi: "10.1109/CONTROLO.2018.8516413"
-      issn: "2472-8489"
-      publisher: "IEEE"
-      pub: "scopus isi ieee"
-
-    - title: "Iron value classification in patients undergoing Continuous Ambulatory Peritoneal Dialysis using Data Mining"
-      authors: "Catarina Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado, António Abelha and Manuel Santos"
-      conference: "Proceedings of the 4th International Conference on Information and Communication Technologies for Ageing Well and e-Health - Volume 1: HSP"
-      year: 2018
-      url: "http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006820802850290"
-      isbn: "978-989-758-299-8"
-      status: "published"
-      pub: "scopus dblp"
-
-    - title: "Improving Maternity Care with Business Intelligence"
-      authors: "Patrícia Loreto, Francisca Fonseca, Ana Morais, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
-      conference: "5th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)"
-      location: "Prague, Czech Republic"
-      year: 2017
-      url: "https://ieeexplore.ieee.org/document/8113789"
-      doi: "/10.1109/FiCloudW.2017.89"
-      isbn: "978-1-5386-3281-9"
-      status: "published"
-      pub: "scopus isi dblp ieee"
-
-    - title: "Continuous Ambulatory Peritoneal Dialysis: Business Intelligence applied to patient monitoring"
-      authors: "Catarina Peixoto, Cláudia Brito, Mariana Fontainhas, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      conference: "5th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)"
-      location: "Prague, Czech Republic"
-      year: 2017
-      url: "https://ieeexplore.ieee.org/document/8113790"
-      doi: "/10.1109/FiCloudW.2017.90"
-      isbn: "978-1-5386-3281-9"
-      status: "published"
-      pub: "scopus isi dblp ieee"
-
-    - title: "Business Intelligence for Cardiovascular Disease Assessment"
-      authors: "Cristiana Silva, Joana Pereira, Luís Costa, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      conference: "5th International Conference on Future Internet of Things and Cloud Workshops (FiCloudW)"
-      location: "Prague, Czech Republic"
-      year: 2017
-      url: "https://ieeexplore.ieee.org/document/8113791"
-      doi: "/10.1109/FiCloudW.2017.91"
-      status: "published"
-      pub: "scopus isi dblp ieee"
-
-    - title: "AASYS - Appointment Alert System: An Open Source-Based Software to improve Show Rates in a Health Care Unit"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado, António Abelha, José Neves, António Correia and Manuel F.Santos"
-      conference: "EUROSIS - The European Multidisciplinary Society for Modelling and Simulation Technology"
-      year: 2011
-      location: "Guimarães, Portugal"
-      url: "http://repositorium.sdum.uminho.pt/handle/1822/15596"
-      status: "Published"
+      type: "conference"
       pub: "scopus isi"
+      url: "https://link.springer.com/book/10.1007/978-3-642-03067-3"
+      citations: 
 
-    - title: "Interoperabilidade e o Processo Clínico Semântico"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      conference: "CISTI - Conferência Ibérica de Sistemas e Tecnologias de Informação"
-      year: 2010
-      location: "Santiago de Compostela, Spain"
-      url: "http://repositorium.sdum.uminho.pt/handle/1822/11208"
-      status: "Published"
-      pub: "isi"  
 
 thesis:
     - title: "Steps Towards Interoperability in Healthcare Environment"
