@@ -725,7 +725,7 @@ papers:
       citations:
 
     - title: "Steps towards interoperability in healthcare environment"
-      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**,  Andréa Domingues and Bruno Fernandes"
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Andréa Domingues and Bruno Fernandes"
       year: 2016
       booktitle: "Applying Business Intelligence to Clinical and Healthcare Organizations"
       volume: 
