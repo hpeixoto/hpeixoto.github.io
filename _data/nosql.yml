@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL04"
+    date: "04 nov 2020"
+    title: "Mini Projeto 01"
+    plan: "../../data/nosql/pl04/pa04.pdf"
+    slides: 
+    exercise: "../../data/nosql/pl04/fe02.pdf"
+    material: "http://nosql.hpeixoto.me/api"
+    topics: "Oracle | RDBM | API | Dev"
+
   - code: "PL03"
     date: "28 out 2020"
     title: "Introdução ao RDBM Oracle"
