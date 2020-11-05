@@ -9,13 +9,22 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL04"
+    date: "06 nov 2020"
+    title: "Introdução ao RDBM Oracle"
+    plan: "../../data/aebd/pl04/pa04.pdf"
+    slides: "../../data/aebd/pl04/aebd_PL04.pdf"
+    exercise: "../../data/aebd/pl04/fe01.pdf"
+    material: "../../data/aebd/pl04/scripts.zip"
+    topics: "ORACLE | Modelo Físico | PDB | CDB"
+
   - code: "PL03"
     date: "30 out 2020"
-    title: "Introdução ao RDBM Oracle"
+    title: "Instalação container Oracle"
     plan: "../../data/aebd/pl03/pa03.pdf"
     slides: "../../data/aebd/pl03/aebd_PL03.pdf"
-    exercise: "../../data/aebd/pl03/fe01.pdf"
-    material: "../../data/aebd/pl03/scripts.zip"
+    exercise: 
+    material:
     topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
 
   - code: "PL02"
