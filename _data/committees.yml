@@ -3,7 +3,12 @@
 
 committees:
 
-
+  - year: 2021
+    name: "Journal of Computational Science"
+    nick:  "JOCSCI"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
 
   - year: 2021
     name: "IKIT 2021 book: Information and Knowledge in Internet of Things"
