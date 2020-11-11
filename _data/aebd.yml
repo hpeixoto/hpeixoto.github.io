@@ -9,9 +9,18 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL05"
+    date: "13 nov 2020"
+    title: "Revisão de SQL"
+    plan: "../../data/aebd/pl05/pa05.pdf"
+    slides: 
+    exercise: "../../data/aebd/pl05/fe02.pdf"
+    material: "../../data/aebd/pl05/hr.zip"
+    topics: "ORACLE | SQL | HR"
+
   - code: "PL04"
     date: "06 nov 2020"
-    title: "Introdução ao RDBM Oracle"
+    title: "Introdução ao RDBM Oracle (remote)"
     plan: "../../data/aebd/pl04/pa04.pdf"
     slides: "../../data/aebd/pl04/aebd_PL04.pdf"
     exercise: "../../data/aebd/pl04/fe01.pdf"
@@ -20,7 +29,7 @@ class:
 
   - code: "PL03"
     date: "30 out 2020"
-    title: "Instalação container Oracle"
+    title: "Instalação container Oracle (remote)"
     plan: "../../data/aebd/pl03/pa03.pdf"
     slides: "../../data/aebd/pl03/aebd_PL03.pdf"
     exercise: 
