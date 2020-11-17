@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL06"
+    date: "18 nov 2020"
+    title: "Introdução ao MongoDB"
+    plan: "../../data/nosql/pl06/pa06.pdf"
+    slides: "../../data/nosql/pl06/nosql_PL06.pdf"
+    exercise: "../../data/nosql/pl06/fe04.pdf"
+    material: "../../data/nosql/pl06/restaurants.json"
+    topics: "MongoDB | BD Documental | API | Dev"
+
   - code: "PL05"
     date: "11 nov 2020"
     title: "Mini Projeto 02"
