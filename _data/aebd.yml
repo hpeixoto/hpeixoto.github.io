@@ -10,6 +10,15 @@ class:
   #   topics: "Graph Database | neo4j | Cypher"
 
   - code: "PL05"
+    date: "20 nov 2020"
+    title: "Tarefas de Administração em Oracle"
+    plan: "../../data/aebd/pl06/pa06.pdf"
+    slides: 
+    exercise: "../../data/aebd/pl06/fe03.pdf"
+    material: "https://hpeixoto.me/2020-11-16-performin_tasks_oracle_multitenant/"
+    topics: "ORACLE | PDB | ADMINISTRACAO | CDB"
+
+  - code: "PL05"
     date: "13 nov 2020"
     title: "Revisão de SQL"
     plan: "../../data/aebd/pl05/pa05.pdf"

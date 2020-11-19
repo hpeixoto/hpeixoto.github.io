@@ -5,63 +5,12 @@ image: /img/lab.png
 tags: docker oracle12c multitenant CDB PDB
 ---
 
-#### 📄 Nota Prévia:
-
-Para a execução deste tutorial foi alterado o parametro de inicialização **db\_domain**. Definido incialmente como _localdomain_, foi removido. Os comandos a executar para essa alteração são:
-
-~~~sql
--- Após aceder como sys à root da CDB, validar o dominio da base de dados:
-SQL> show parameter db_domain
-
--- Output:
--- NAME                                 TYPE        VALUE
--- ------------------------------------ ----------- ------------------------------
--- db_domain                            string      localdomain
-
--- Executar a alteração do parâmetro para vazio:
-SQL> alter system set db_domain = '' scope = spfile;
-
--- Output:
--- System altered.
-
--- Desligar a Instância da Base de Dados:
-SQL> shutdown immediate
-
--- Output:
--- Database closed.
--- Database dismounted.
--- ORACLE instance shut down.
-
--- Arrancar a Instância da Base de Dados:
-SQL> startup
-
--- Output:
--- ORACLE instance started.
-
--- Total System Global Area 1342177280 bytes
--- Fixed Size                  8792536 bytes
--- Variable Size             620758568 bytes
--- Database Buffers          704643072 bytes
--- Redo Buffers                7983104 bytes
--- Database mounted.
--- Database opened.
-
--- Validar a alteração do parâmetro com o valor:
-SQL> show parameter db_domain
-
--- Output:
--- NAME                                 TYPE        VALUE
--- ------------------------------------ ----------- ------------------------------
--- db_domain                            string      
-~~~
-
-&nbsp;
-
-* * *
-
 ## 1. Ligar à bash do container oracle:
 ~~~bash
+# Descobrir o container-id do Oracle
 [user@localhost ~]$ sudo docker ps -a
+
+# Aceder à linha de comandos do container
 [user@localhost ~]$ sudo docker exec -it <container-id> bash
 ~~~
 
@@ -77,7 +26,7 @@ SQL> show parameter db_domain
 
 ~~~bash
 # Estabelecer ligação à CDB
-[oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1@localhost:1521/ORCLCDB as sysdba
+[oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1@localhost:1521/ORCLCDB.localdomain as sysdba
 
 # Output:
 # SQL*Plus: Release 12.2.0.1.0 Production on Mon Nov 16 05:44:34 2020
@@ -111,7 +60,7 @@ SQL> show con_id
 Mostrar todos os serviços associados à instalação: 
 
 ~~~sql
--- SQL> select name, con_id from v$active_services order by 1;
+SQL> select name, con_id from v$active_services order by 1;
 
 -- Output:
 -- NAME                                                             CON_ID
@@ -120,7 +69,7 @@ Mostrar todos os serviços associados à instalação:
 -- ORCLCDBXDB                                                       1
 -- SYS$BACKGROUND                                                   1
 -- SYS$USERS                                                        1
--- orclpdb1                                                         3
+-- orclpdb1.localdomain                                             3
 ~~~
 
 **Ligar à CDB usando a autenticação do SO:**
@@ -160,7 +109,7 @@ SQL> show con_id
 **Ligar a uma Pluggable DataBase (PDB):**
 
 ~~~bash
-[oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1@localhost:1521/orclpdb1 as sysdba
+[oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1@localhost:1521/orclpdb1.localdomain as sysdba
 ~~~
 
 Verificar nome e numero da ligacao: 
@@ -186,12 +135,18 @@ SQL> show con_id
 **Ligar a uma PDB através de uma ligação à CDB**
 
 ~~~bash
+# Aceder à linha de comandos do container
+[user@localhost ~]$ sudo docker exec -it <container-id> bash
+
+# Aceder como sysdba à da CDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
+~~~
+~~~sql
+-- Estabelecer ligação através da CDB à PDB:
+SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1.localdomain as sysdba
 
-SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1 as sysdba
-
-# Output:
-# Connected.
+-- Output:
+-- Connected.
 ~~~
 
 &nbsp;
@@ -218,17 +173,21 @@ Antes de começar é necessário criar a pasta para acomodar os ficheiros da nov
 Usando a bash do container como anteriormente:
 
 ~~~bash
-# Aceder como sysdba à root da CDB:
-[oracle@container-id /]$ sqlplus sys/Oradoc_db1@localhost:1521/ORCLCDB as sysdba  
+# Aceder à linha de comandos do container
+[user@localhost ~]$ sudo docker exec -it <container-id> bash
 
-# Comando de criação da PDB através da PDB Seed:
+# Aceder como sysdba à root da CDB:
+[oracle@container-id /]$ sqlplus sys/Oradoc_db1 as sysdba  
+~~~
+~~~sql
+-- Comando de criação da PDB através da PDB Seed:
 SQL> create pluggable database aebd 
         admin user aebd_admin identified by aebd 
         roles = (DBA) 
         FILE_NAME_CONVERT=('/u02/app/oracle/oradata/ORCL/pdbseed','/u02/app/oracle/oradata/ORCL/aebd');
 
-# Output:
-# Pluggable database created.
+-- Output:
+-- Pluggable database created.
 ~~~
 
 Verificar o estado da nova PDB criada:
@@ -265,18 +224,18 @@ SQL> select name, con_id from v$active_services order by 1;
 -- Output:
 -- NAME                                                          CON_ID
 -- ------------------------------------------------------------- ----------
--- ORCLCDB                                                       1
+-- ORCLCDB.localdomain                                           1
 -- ORCLCDBXDB                                                    1
 -- SYS$BACKGROUND                                                1
 -- SYS$USERS                                                     1
--- aebd                                                          5
--- orclpdb1                                                      3
+-- aebd.localdomain                                              5
+-- orclpdb1.localdomain                                          3
 ~~~
 
 Foi criada a nova PDB. É possível ver agora quais os datafiles criados:
 
 ~~~ sql
-SQL> select name from v$datafile where con_id=5;
+SQL> select name from v$datafile where con_id=4;
 
 -- Output:
 -- NAME
@@ -297,13 +256,19 @@ SQL> select name from v$datafile where con_id=5;
 **Garantir que a ligação estaelecida é à CDB como SYSDBA**
 
 ~~~bash
+# Aceder à linha de comandos do container
+[user@localhost ~]$ sudo docker exec -it <container-id> bash
+
+# Aceder como sysdba à root da CDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
+~~~
+~~~sql
 SQL> show con_name
 
-# Output:
-# CON_NAME
-# ------------------------------
-# CDB$ROOT
+-- Output:
+-- CON_NAME
+-- ------------------------------
+-- CDB$ROOT
 ~~~
 
 **Desligar a Base de Dados:**
@@ -478,7 +443,7 @@ SQL> alter pluggable database aebd rename global_name to aebd;
 
 ~~~sql
 -- Ligar à PDB
-SQL> connect sys/Oradoc_db1@localhost:1521/aebd as sysdba
+SQL> connect sys/Oradoc_db1@localhost:1521/aebd.localdomain as sysdba
 
 -- Alterar o nome
 SQL> alter pluggable database aebd rename global_name to aebd1;
@@ -510,12 +475,14 @@ SQL> select name, open_mode from v$pdbs;
 
 ~~~bash
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
+~~~
+~~~sql
 SQL> show con_name
 
-# Output:
-# CON_NAME
-# ------------------------------
-# CDB$ROOT
+-- Output:
+-- CON_NAME
+-- ------------------------------
+-- CDB$ROOT
 ~~~
 
 Verificar quais os tablespaces existentes na CDB
@@ -663,7 +630,7 @@ SQL> select file_name, con_id from cdb_temp_files where con_id=1;
 ~~~bash
 #Garantir a Ligação à PDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
-SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1 as sysdba
+SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1.localdomain as sysdba
 ~~~
 ~~~sql
 create tablespace pdata datafile '/u02/app/oracle/oradata/ORCL/pdata01.dbf' SIZE 10M;
@@ -675,11 +642,32 @@ create tablespace pdata datafile '/u02/app/oracle/oradata/ORCL/pdata01.dbf' SIZE
 Verificar a criação do tablespace e do datafile:
 
 ~~~sql
+-- Verificar criação do tablespace:
 SQL> select tablespace_name, con_id from cdb_tablespaces order by con_id;
 
+-- Output:
+-- TABLESPACE_NAME                    CON_ID
+-- ------------------------------ ----------
+-- SYSTEM                                  3
+-- SYSAUX                                  3
+-- UNDOTBS1                                3
+-- TEMP                                    3
+-- USERS                                   3
+-- PDATA                                   3
+
+-- Verificar criação do Datafile
 SQL> select file_name, con_id from cdb_data_files order by con_id;
 
-SQL> select file_name from dba_data_files;
+-- Output
+-- FILE_NAME                                                    CON_ID
+-----------------------------------------------------------     ------
+-- /u02/app/oracle/oradata/ORCLCDB/orclpdb1/system01.dbf        3
+-- /u02/app/oracle/oradata/ORCLCDB/orclpdb1/sysaux01.dbf        3
+-- /u02/app/oracle/oradata/ORCLCDB/orclpdb1/undotbs01.dbf       3
+-- FILE_NAME                                                    CON_ID
+-----------------------------------------------------------     ------
+-- /u02/app/oracle/oradata/ORCLCDB/orclpdb1/users01.dbf         3
+-- /u02/app/oracle/oradata/ORCL/pdata01.dbf                     3
 ~~~
 
 
@@ -688,19 +676,38 @@ SQL> select file_name from dba_data_files;
 ~~~bash
 #Garantir a Ligação à PDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
-SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1 as sysdba
+~~~
+~~~sql
+SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1.localdomain as sysdba
 ~~~
 
 Verificar a criação do tablespace temporário e do tempfile:
 ~~~sql
 -- Criar tablespace temporário:
-SQL> create temporary tablespace temp_pdb3 tempfile '/u01/app/oracle/oradata/cdb1/pdb3/temppdb301.dbf' SIZE 10M;
+SQL> create temporary tablespace temp_pdb3 tempfile '/u02/app/oracle/oradata/ORCL/aebd/temppdb301.dbf' SIZE 10M;
+
+-- Output:
+-- Tablespace created.
 
 -- Verificar a criação do tablespace temporario:
 SQL> select tablespace_name, con_id from cdb_tablespaces where contents='TEMPORARY';
 
+-- Output:
+-- TABLESPACE_NAME                    CON_ID
+-- ------------------------------ ----------
+-- TEMP                                    3
+-- TEMP_PDB3                               3
+
+
 -- Verificar a criação do tempfile:
 SQL>  select file_name from dba_temp_files;
+
+-- Output:
+-- FILE_NAME
+-- --------------------------------------------------------------------------------
+-- /u02/app/oracle/oradata/ORCL/aebd/temppdb301.dbf
+-- /u02/app/oracle/oradata/ORCLCDB/orclpdb1/temp012017-03-02_07-54-38-075-AM.dbf
+
 ~~~
 
 &nbsp;
@@ -736,17 +743,18 @@ SQL> select username, common, con_id from cdb_users where username like 'C##%';
 -- ----------------------- --------- ---------         
 -- C##1                    YES       1
 -- C##1                    YES       3
--- C##1                    YES       5
+-- C##1                    YES       4
 ~~~
 
 Ligar com o user criado a uma PDB:
 
 ~~~sql
-SQL> connect c##1/oracle@localhost:1521/orclpdb1
+SQL> connect c##1/oracle@localhost:1521/orclpdb1.localdomain
 
 -- Output:
 -- ERROR:
 -- ORA-01045: user C##1 lacks CREATE SESSION privilege; logon denied
+-- Warning: You are no longer connected to ORACLE.
 ~~~
 
 Falta a criação dos privilégios necessários! Será abordado mais à frente.
@@ -760,7 +768,8 @@ Ligar à PDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
 ~~~
 ~~~sql
-SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1 as sysdba
+-- Ligar à PDB orclpdb1:
+SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1.localdomain as sysdba
 
 SQL> create user novouser identified by oracle;
 
@@ -782,22 +791,22 @@ NOVOUSER                       NO        3
 **Tentar ligar às PDB existentes:**
 
 ~~~sql
-SQL>  connect novouser/oracle@localhost:1521/aebd1
+SQL>  connect novouser/oracle@localhost:1521/aebd1.localdomain
 
-Output:
-ERROR:
-ORA-01017: invalid username/password; logon denied
+-- Output:
+-- ERROR:
+-- ORA-01017: invalid username/password; logon denied
+-- Warning: You are no longer connected to ORACLE.
 ~~~
 
-O utilizador foi criado no container aebd1, como tal não é possível efetuar o login noutra PDB. É como se o utilizador nem existisse.
-
+O utilizador foi criado no container *orclpdb1.localdomain*, como tal não é possível efetuar o login noutra PDB. É como se o utilizador nem existisse.
 
 ~~~sql
-SQL>  connect novouser/oracle@localhost:1521/aebd1
+SQL>  connect novouser/oracle@localhost:1521/orclpdb1.localdomain
 
-Output:
-ERROR:
-ORA-01045: user NOVOUSER lacks CREATE SESSION privilege; logon denied
+-- Output:
+-- ERROR:
+-- ORA-01045: user NOVOUSER lacks CREATE SESSION privilege; logon denied
 ~~~
 
 Temos novamente falha nos privilégios!
@@ -819,8 +828,8 @@ Criar um _common role_
 ~~~sql
 SQL> create role c##r1 container=all;
 
-Output:
-Role created.
+-- Output:
+-- Role created.
 ~~~
 
 Verificar a criação do role:
@@ -833,11 +842,11 @@ SQL> select role, common, con_id from cdb_roles where role='C##R1';
 -- -----------------------  --------- ---------         
 -- C##R1                    YES       1
 -- C##R1                    YES       3
--- C##R1                    YES       5
+-- C##R1                    YES       4
 ~~~
 
 
-**Criar _role_ numa PDB:
+**Criar _role_ numa PDB:**
 
 Ligar à PDB:
 
@@ -846,7 +855,8 @@ Ligar à PDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
 ~~~
 ~~~sql
-SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1 as sysdba
+-- Ligar à PDB orclpd1.localdomain
+SQL> connect sys/Oradoc_db1@localhost:1521/orclpdb1.localdomain as sysdba
 
 SQL> create role hr_manager;
 
@@ -862,7 +872,7 @@ SQL> select role, common, con_id from cdb_roles where role='HR_MANAGER';
 -- Output:
 -- ROLE                     COMMON    CON_ID
 -- -----------------------  --------- ---------         
--- HR_MANAGER                NO       1
+-- HR_MANAGER                NO       3
 -- ~~~
 
 Tentar criar role global dentro da PDB:
@@ -887,7 +897,6 @@ Podem ser atríbuidos grants _local_ e _common_ a _users_ ou _roles_. Os privil�
 #Garantir a Ligação à CDB:
 [oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
 ~~~
-
 ~~~sql
 SQL> grant create session to c##1 container=all;
 
@@ -904,9 +913,8 @@ where privilege='CREATE SESSION' and grantee='C##1';
 -- C##1                                 CREATE SESSION  YES     3
 -- C##1                                 CREATE SESSION  YES     4
 
-
 -- Validar os privilegios do user criado na aebd:
-SQL> connect c##1/oracle@localhost:1521/pdb2
+SQL> connect c##1/oracle@localhost:1521/aebd1.localdomain
 
 SQL> select * from session_privs;
 
@@ -931,8 +939,8 @@ Fechar todas as PDB:
 ~~~sql
 SQL> alter pluggable database all close immediate;
 
-Output:
-Pluggable database altered.
+-- Output:
+-- Pluggable database altered.
 ~~~
 
 Verificar que todas as PDB estão fechadas:
@@ -940,12 +948,12 @@ Verificar que todas as PDB estão fechadas:
 ~~~sql
 SQL> select name, open_mode from v$pdbs;
 
-Output:
-NAME                          OPEN_MODE
----------------------------   ----------
-PDB$SEED                      READ ONLY
-ORCLPDB1                      MOUNTED
-AEBD                          MOUNTED
+-- Output:
+-- NAME                          OPEN_MODE
+-- ---------------------------   ----------
+-- PDB$SEED                      READ ONLY
+-- ORCLPDB1                      MOUNTED
+-- AEBD                          MOUNTED
 ~~~~
 
 Apagar a PDB incluíndo os datafiles:
@@ -953,26 +961,32 @@ Apagar a PDB incluíndo os datafiles:
 ~~~sql
 SQL> drop pluggable database aebd1 including datafiles;
 
-Output:
-Pluggable database dropped.
-~~~~
+-- Output:
+-- Pluggable database dropped.
+~~~
 
 Confirmar que a PDB foi eliminada:
 
 ~~~sql
 SQL> select name from v$pdbs;
 
-Output:
-NAME
---------------------------------------------------------------------------------
-PDB$SEED
-ORCLPDB1
+-- Output:
+-- NAME
+-- --------------------------------------------------------------------------------
+-- PDB$SEED
+-- ORCLPDB1
 ~~~
 
 * * *
-##8. Reverter todas as alterações##
+
+## 8. Reverter todas as alterações##
 
 Para reverter as alterações aqui executadas deverá:
+
+~~~bash
+#Garantir a Ligação à CDB:
+[oracle@ddfbc6fee0b5 /]$ sqlplus sys/Oradoc_db1 as sysdba
+~~~
 
 Eliminar o utilizador e role _common_ criados:
 ~~~sql
