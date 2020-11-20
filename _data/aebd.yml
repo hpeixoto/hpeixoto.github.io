@@ -9,7 +9,7 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
-  - code: "PL05"
+  - code: "PL06"
     date: "20 nov 2020"
     title: "Tarefas de Administração em Oracle"
     plan: "../../data/aebd/pl06/pa06.pdf"
