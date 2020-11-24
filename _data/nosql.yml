@@ -15,7 +15,7 @@ class:
     plan: "../../data/nosql/pl07/pa07.pdf"
     slides: "../../data/nosql/pl07/nosql_PL07.pdf"
     exercise: "../../data/nosql/pl07/fe05.pdf"
-    material: "http://nosql.hpeixoto.me/api/"
+    material: "https://hpeixoto.me/2020-11-23-elastic_stack/"
     topics: "Elasticsearch | BD Documental | Kibana | API"
 
   - code: "PL06"
