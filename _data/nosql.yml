@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL07"
+    date: "25 nov 2020"
+    title: "Introdução ao Elastic Stack"
+    plan: "../../data/nosql/pl07/pa07.pdf"
+    slides: "../../data/nosql/pl07/nosql_PL07.pdf"
+    exercise: "../../data/nosql/pl07/fe05.pdf"
+    material: "http://nosql.hpeixoto.me/api/"
+    topics: "Elasticsearch | BD Documental | Kibana | API"
+
   - code: "PL06"
     date: "18 nov 2020"
     title: "Introdução ao MongoDB"
