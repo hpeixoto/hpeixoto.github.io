@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL07"
+    date: "27 nov 2020"
+    title: "DBA - Oracle EM + SQLDeveloper"
+    plan: "../../data/aebd/pl07/pa07.pdf"
+    slides: 
+    exercise: "../../data/aebd/pl07/fe04.pdf"
+    material: "../../data/aebd/pl07/swingbench25971.zip"
+    topics: "ORACLE | DBA | Enterprise Manager | SQLDeveloper"
+
   - code: "PL06"
     date: "20 nov 2020"
     title: "Tarefas de Administração em Oracle"

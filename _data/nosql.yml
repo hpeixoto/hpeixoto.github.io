@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL08"
+    date: "02 dez 2020"
+    title: "Introdução às Bases de Dados de Grafos"
+    plan: "../../data/nosql/pl08/pa08.pdf"
+    slides: "../../data/nosql/pl08/nosql_PL08.pdf"
+    exercise: "../../data/nosql/pl08/fe06.pdf"
+    material: "../../data/nosql/pl08/email_neo4j.txt"
+    topics: "Neo4J | BD Grafos | Nós | Relações | Propriedades"
+
   - code: "PL07"
     date: "25 nov 2020"
     title: "Introdução ao Elastic Stack"
