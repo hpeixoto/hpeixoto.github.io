@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL08"
+    date: "04 dez 2020"
+    title: "DBA - Oracle EM + SQLDeveloper (cont.)"
+    plan: "../../data/aebd/pl08/pa08.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "ORACLE | DBA | Enterprise Manager | SQLDeveloper"
+
   - code: "PL07"
     date: "27 nov 2020"
     title: "DBA - Oracle EM + SQLDeveloper"

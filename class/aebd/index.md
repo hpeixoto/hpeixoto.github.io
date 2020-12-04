@@ -31,7 +31,11 @@ image: img/aebd.png
 
 {% endfor %}
 <h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
-<p> Em construção... </p>
+<p> <a href="../../data/aebd/tp/trabalhopratico.pdf"><i class="fa fa-file-text-o"></i> Enunciado </a> <br>
+<i class="fa fa-calendar"></i> <strong> Datas: </strong> <br> 
+<strong> Entrega no dia </strong> A definir.. <br>
+<strong> Apresentação no dia </strong> A definir.. <br>
+Apresentações de 15' com 5' para questões. </p>
 
 ---
 
