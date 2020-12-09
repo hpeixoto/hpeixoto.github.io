@@ -31,7 +31,11 @@ image: img/nosql.png
 
 {% endfor %}
 <h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
-<p> Em construção... </p>
+<p> <a href="../../data/nosql/tp/NOSQL_TP2020.pdf" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado </a> <br>
+<a href="../../data/nosql/tp/hr.zip" ><i class="fa fa-file-text-o"></i> Material </a>  <br> 
+<i class="fa fa-calendar"></i> <strong> Entrega no dia </strong> 27/01/2021 <br>
+<i class="fa fa-calendar"></i> <strong> Apresentações no dia </strong> ??/01/2021 <br>
+A apresentação do trabalho será feita aos docentes da disciplina e consistirá numa apresentação do trabalho realizado e uma demonstração das bases de dados implementadas, bem como das queries definidas e criadas. Todos os elementos do grupo deverão estar presentes durante a apresentação do trabalho. </p>
 
 ---
 
