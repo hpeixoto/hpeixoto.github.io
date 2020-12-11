@@ -33,14 +33,14 @@ image: img/aebd.png
 <h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
 <p> <a href="../../data/aebd/tp/trabalhopratico.pdf" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado </a> <br>
 <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br> 
-<strong> Entrega no dia </strong> A definir.. <br>
-<strong> Apresentação no dia </strong> A definir.. <br>
+<strong> Entrega no dia </strong> 21 janeiro até as 12h via Partilha de ficheiros do grupo do Blackboard. <br>
+<strong> Apresentação no dia </strong>22 janeiro a partir das 16h <br>
 Apresentações de 15' com 5' para questões. </p>
 
 ---
 
 <h2> <i class="fa fa-file-text-o"></i> Teste</h2>
-<p> Em construção... </p>
+<p> <i class="fa fa-calendar"></i> <strong> 15 janeiro 16h </strong> <br>  </p>
 
 ---
 
