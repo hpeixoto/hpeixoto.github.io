@@ -10,7 +10,7 @@ image: "none"
 <i class="fa fa-map-marker"></i> {{job.institution}}   
 <i class="fa fa-calendar"></i> {{ job.start }}{% if job.end %} - {{ job.end }} {% endif %}  
 <br>
-<strong> Main Responsabilities: </strong>{{ job.tasks }}
+<strong> Main Responsibilities: </strong>{{ job.tasks }}
 
 ---
 
