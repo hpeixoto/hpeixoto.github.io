@@ -9,6 +9,15 @@ class:
   #   material: "../../data/nosql/pl07/email_neo4j.txt"
   #   topics: "Graph Database | neo4j | Cypher"
 
+  - code: "PL10"
+    date: "16 dez 2020"
+    title: "Bases de dados multi-modelo"
+    plan: "../../data/nosql/pl10/pa10.pdf"
+    slides: "../../data/nosql/pl10/nosql_PL10.pdf"
+    exercise: 
+    material: "../../data/nosql/pl10/pa10.zip"
+    topics: "TP | ArangoDB | Multi-Modelo"
+
   - code: "PL09"
     date: "09 dez 2020"
     title: "Apresentação do Trabalho Prático"
