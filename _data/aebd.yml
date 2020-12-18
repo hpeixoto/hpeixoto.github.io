@@ -1,29 +1,29 @@
 class:
 
-  # - code: "PL07"
-  #   date: "06 Nov 2019"
-  #   title: "Bases de Dados de Grafos - Neo4J"
-  #   plan: "../../data/nosql/pl07/pa07.pdf"
-  #   slides: "../../data/nosql/pl07/nosql07.pdf"
-  #   exercise: "../../data/nosql/pl07/fe07.pdf"
-  #   material: "../../data/nosql/pl07/email_neo4j.txt"
-  #   topics: "Graph Database | neo4j | Cypher"
+  - code: "PL11"
+    date: "08 jan 2021"
+    title: "Acompanhamento do Trabalho Prático"
+    plan: 
+    slides: 
+    exercise: 
+    material: 
+    topics: "ORACLE | DBA | Trabalho Prático"
 
   - code: "PL10"
     date: "18 dez 2020"
     title: "Acompanhamento do Trabalho Prático"
     plan: "../../data/aebd/pl10/pa10.pdf"
-    slides: 
-    exercise: 
-    material: "../../data/aebd/tp/trabalhopratico.pdf"
+    slides:
+    exercise:
+    material:
     topics: "ORACLE | DBA | Trabalho Prático"
 
   - code: "PL09"
     date: "11 dez 2020"
     title: "Acompanhamento do Trabalho Prático"
     plan: "../../data/aebd/pl09/pa09.pdf"
-    slides: 
-    exercise: 
+    slides:
+    exercise:
     material: "../../data/aebd/tp/trabalhopratico.pdf"
     topics: "ORACLE | DBA | Trabalho Prático"
 
