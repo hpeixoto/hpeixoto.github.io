@@ -1,0 +1,19 @@
+class:
+
+  # - code: "PL02"
+  #   date: "23 out 2020"
+  #   title: "Introdução ao Docker"
+  #   plan: "../../data/aebd/pl02/pa02.pdf"
+  #   slides: "../../data/aebd/pl02/aebd_PL02.pdf"
+  #   exercise: 
+  #   material: "https://mega.nz/file/Y4tg1RzB#sFdXdIl0S8wEwtrxclH2k8ie85pjEHeJaywhYAwzXho"
+  #   topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
+
+  - code: "PL01"
+    date: "22 fev 2021"
+    title: "Apresentação"
+    plan: "../../data/saec/pl01/pa01.pdf"
+    slides: "../../data/saec/pl01/saec_PL01.pdf"
+    exercise: 
+    material: 
+    topics: "Apresentação | Programa | Planeamento | Avaliação | Biografia"
