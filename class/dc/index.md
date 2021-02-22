@@ -39,10 +39,5 @@ Apresentações de 15' com 5' para questões. </p>
 
 ---
 
-<h2> <i class="fa fa-file-text-o"></i> Teste</h2>
-<p> <i class="fa fa-calendar"></i> <strong> A definir... </strong> <br>  </p>
-
----
-
 <h2> <i class="fa fa-envelope"></i> Submissão de FE</h2>
 <p> Submissão por grupo no Blackboard (Troca de Arquivos do Grupo). Submeter pdf com o nome da Ficha de Exercícios. </p>
