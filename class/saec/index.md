@@ -42,4 +42,4 @@ Apresentações de 15' com 5' para questões. </p>
 ---
 
 <h2> <i class="fa fa-envelope"></i> Submissão de FE</h2>
-<p> Submissão por grupo no Blackboard (Troca de Arquivos do Grupo). Submeter pdf com o nome da Ficha de Exercícios. </p>
+<p> Submissão por grupo no Blackboard (Troca de Arquivos do Grupo). Colocando pastas para cada uma das FE, e um PDF para cada elemento do grupo.</p>
