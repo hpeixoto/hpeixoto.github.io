@@ -9,13 +9,13 @@ class:
   - name: "Learning and Knowledge Extraction Systems"
     course: "Integrated Master in Biomedical Engineer"
     institution: "University of Minho"
-    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | R | Decision Support Systems | CRISP-DM"
+    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | Python | Decision Support Systems | CRISP-DM"
     url: "../class/saec"
 
   - name: "Knowledge Discovery"
     course: "Integrated Master in Informatics"
     institution: "University of Minho"
-    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | R | Decision Support Systems | CRISP-DM"
+    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | Python | Decision Support Systems | CRISP-DM"
     url: "../class/dc"
 
   - name: "Database Administration"

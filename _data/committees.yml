@@ -4,6 +4,35 @@
 committees:
 
   - year: 2021
+    name: "2nd EAI International Conference on AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart-Cities"
+    nick: "AISCOVID-19"
+    role: "General Chair"
+    type: "Conference"
+    local: ""
+
+
+  - year: 2021
+    name: "The Thirteenth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2021"
+    role: "Technical Program Committe"
+    type: "Conference"
+    local: "Nice, France"
+
+  - year: 2021
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2021"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Salinas, Ecuador"
+
+  - year: 2021
+    name: "Forth International Conference on Applied Informatics"
+    nick: "ICAI 2021"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Buenos Aires, Argentina"
+
+  - year: 2021
     name: "Journal of Computational Science"
     nick:  "JOCSCI"
     role: "Reviewer"
