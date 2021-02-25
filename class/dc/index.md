@@ -31,10 +31,10 @@ image: "none"
 
 {% endfor %}
 <h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
-<p> <!--<a href="" target="_blank">--><i class="fa fa-file-text-o"></i> Enunciado <!--</a>--> <br>
-<i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
-Entrega no dia <strong> a definir...</strong> via Partilha de ficheiros do grupo do Blackboard. <br>
-Apresentação no dia <strong> a definir...</strong> <br>
+<!--<p> <a href="" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado</a> <br>-->
+<p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
+Entrega: <strong> a definir...</strong> (Partilha de ficheiros do grupo do Blackboard.)<br>
+Apresentação: <strong> a definir...</strong> <br>
 Apresentações de 15' com 5' para questões. </p>
 
 ---

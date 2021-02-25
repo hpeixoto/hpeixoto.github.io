@@ -9,6 +9,14 @@ class:
   #   material: "https://mega.nz/file/Y4tg1RzB#sFdXdIl0S8wEwtrxclH2k8ie85pjEHeJaywhYAwzXho"
   #   topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
 
+  - code: "PL01"
+    date: "26 fev 2021"
+    title: "Introdução à metodologia CRISP-DM"
+    plan: "../../data/dc/pl01/pa01.pdf"
+    slides: "../../data/dc/pl01/dc_PL01.pdf"
+    exercise: "../../data/dc/pl01/fe01.pdf"
+    material: 
+    topics: "Data Mining | CRISP-DM | Business Understanding | Data Understanding"
 
   - code: "PL00"
     date: "19 fev 2021"
