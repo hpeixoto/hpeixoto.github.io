@@ -22,7 +22,7 @@ class:
     date: "19 fev 2021"
     title: "Apresentação"
     plan: "../../data/dc/pl00/pa00.pdf"
-    slides: "../../data/dc/pl00/dc_PL00.pdf"
+    slides: "../../data/dc/pl00/dc_pl00.pdf"
     exercise: 
     material: 
     topics: "Apresentação | Programa | Planeamento | Avaliação | Biografia"

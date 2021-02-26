@@ -22,7 +22,7 @@ class:
     date: "22 fev 2021"
     title: "Apresentação"
     plan: "../../data/saec/pl00/pa00.pdf"
-    slides: "../../data/saec/pl00/saec_PL00.pdf"
+    slides: "../../data/saec/pl00/saec_pl00.pdf"
     exercise: 
     material: 
     topics: "Apresentação | Programa | Planeamento | Avaliação | Biografia"
