@@ -13,7 +13,7 @@ class:
     date: "26 fev 2021"
     title: "Introdução à metodologia CRISP-DM"
     plan: "../../data/dc/pl01/pa01.pdf"
-    slides: "../../data/dc/pl01/dc_PL01.pdf"
+    slides: "../../data/dc/pl01/dc_pl01.pdf"
     exercise: "../../data/dc/pl01/fe01.pdf"
     material: 
     topics: "Data Mining | CRISP-DM | Business Understanding | Data Understanding"
