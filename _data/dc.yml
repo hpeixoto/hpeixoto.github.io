@@ -9,6 +9,15 @@ class:
   #   material: "https://mega.nz/file/Y4tg1RzB#sFdXdIl0S8wEwtrxclH2k8ie85pjEHeJaywhYAwzXho"
   #   topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
 
+  - code: "PL02"
+    date: "05 mar 2021"
+    title: "Introdução ao Weka"
+    plan: "../../data/dc/pl02/pa02.pdf"
+    slides: "../../data/dc/pl02/dc_PL02.pdf"
+    exercise: "../../data/dc/pl02/fe02.pdf"
+    material: 
+    topics: "WEKA | PreProcess | Classificação | Supervised Learning"
+
   - code: "PL01"
     date: "26 fev 2021"
     title: "Introdução à metodologia CRISP-DM"
