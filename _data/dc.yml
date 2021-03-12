@@ -13,7 +13,7 @@ class:
     date: "12 mar 2021"
     title: "Explorar o Weka"
     plan: "../../data/dc/pl03/pa03.pdf"
-    slides: "../../data/dc/pl03/dc_PL03.pdf"
+    slides: "../../data/dc/pl03/dc_pl03.pdf"
     exercise: "../../data/dc/pl03/fe03.pdf"
     material: 
     topics: "WEKA | PreProcess | Classificação | Supervised Learning"
@@ -22,7 +22,7 @@ class:
     date: "05 mar 2021"
     title: "Introdução ao Weka"
     plan: "../../data/dc/pl02/pa02.pdf"
-    slides: "../../data/dc/pl02/dc_PL02.pdf"
+    slides: "../../data/dc/pl02/dc_pl02.pdf"
     exercise: "../../data/dc/pl02/fe02.pdf"
     material: 
     topics: "WEKA | PreProcess | Classificação | Supervised Learning"
