@@ -9,6 +9,15 @@ class:
   #   material: "https://mega.nz/file/Y4tg1RzB#sFdXdIl0S8wEwtrxclH2k8ie85pjEHeJaywhYAwzXho"
   #   topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
 
+  - code: "PL03"
+    date: "17 mar 2021"
+    title: "Explorar o Weka"
+    plan: "../../data/saec/pl03/pa03.pdf"
+    slides: "../../data/saec/pl03/saec_PL03.pdf"
+    exercise: "../../data/saec/pl03/fe03.pdf"
+    material: 
+    topics: "WEKA | PreProcess | Classificação | Supervised Learning"
+
   - code: "PL02"
     date: "09 mar 2021"
     title: "Introdução ao Weka"
