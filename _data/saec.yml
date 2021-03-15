@@ -10,7 +10,7 @@ class:
   #   topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
 
   - code: "PL03"
-    date: "17 mar 2021"
+    date: "16 mar 2021"
     title: "Explorar o Weka"
     plan: "../../data/saec/pl03/pa03.pdf"
     slides: "../../data/saec/pl03/saec_PL03.pdf"
