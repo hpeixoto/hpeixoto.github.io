@@ -13,7 +13,7 @@ class:
     date: "16 mar 2021"
     title: "Explorar o Weka"
     plan: "../../data/saec/pl03/pa03.pdf"
-    slides: "../../data/saec/pl03/saec_PL03.pdf"
+    slides: "../../data/saec/pl03/saec_pl03.pdf"
     exercise: "../../data/saec/pl03/fe03.pdf"
     material: 
     topics: "WEKA | PreProcess | Classificação | Supervised Learning"
@@ -22,7 +22,7 @@ class:
     date: "09 mar 2021"
     title: "Introdução ao Weka"
     plan: "../../data/saec/pl02/pa02.pdf"
-    slides: "../../data/saec/pl02/saec_PL02.pdf"
+    slides: "../../data/saec/pl02/saec_pl02.pdf"
     exercise: "../../data/saec/pl02/fe02.pdf"
     material: 
     topics: "WEKA | PreProcess | Classificação | Supervised Learning"
@@ -31,7 +31,7 @@ class:
     date: "02 mar 2021"
     title: "Introdução à metodologia CRISP-DM"
     plan: "../../data/saec/pl01/pa01.pdf"
-    slides: "../../data/saec/pl01/saec_PL01.pdf"
+    slides: "../../data/saec/pl01/saec_pl01.pdf"
     exercise: "../../data/saec/pl01/fe01.pdf" 
     material: 
     topics: "Data Mining | CRISP-DM | Business Understanding | Data Understanding"
