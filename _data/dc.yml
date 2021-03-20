@@ -1,13 +1,22 @@
 class:
 
-  # - code: "PL02"
-  #   date: "23 out 2020"
-  #   title: "Introdução ao Docker"
-  #   plan: "../../data/aebd/pl02/pa02.pdf"
-  #   slides: "../../data/aebd/pl02/aebd_PL02.pdf"
-  #   exercise: 
-  #   material: "https://mega.nz/file/Y4tg1RzB#sFdXdIl0S8wEwtrxclH2k8ie85pjEHeJaywhYAwzXho"
-  #   topics: "Virtualbox | Dockers | Containers | HelloWorld | Portainer-ce"
+  # - code: "PL05"
+  #   date: "26 mar 2021"
+  #   title: "Processo de Data Mining"
+  #   plan: "../../data/dc/pl05/pa05.pdf"
+  #   slides: 
+  #   exercise: "../../data/dc/pl05/fe04.pdf"
+  #   material: "../../data/dc/pl05/heart-c.arff" 
+  #   topics: "WEKA | Data Mining | Classificação | Supervised Learning"
+
+  - code: "PL04"
+    date: "19 mar 2021"
+    title: "Explorar o Weka (cont.)"
+    plan: "../../data/dc/pl04/pa04.pdf"
+    slides: "../../data/dc/pl03/dc_pl03.pdf"
+    exercise: "../../data/dc/pl03/fe03.pdf"
+    material: 
+    topics: "WEKA | PreProcess | Classificação | Supervised Learning"
 
   - code: "PL03"
     date: "12 mar 2021"
