@@ -13,9 +13,9 @@ class:
     date: "23 mar 2021"
     title: "Explorar o Weka (cont.)"
     plan: "../../data/saec/pl04/pa04.pdf"
-    slides: "../../data/saec/pl03/saec_pl03.pdf"
-    exercise: "../../data/saec/pl03/fe03.pdf"
-    material: 
+    slides:
+    exercise:
+    material:
     topics: "WEKA | PreProcess | Classificação | Supervised Learning"
 
   - code: "PL03"
