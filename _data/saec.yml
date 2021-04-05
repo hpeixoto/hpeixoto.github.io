@@ -1,13 +1,13 @@
 class:
 
-  # - code: "PL05"
-  #   date: "30 mar 2021"
-  #   title: "Processo de Data Mining"
-  #   plan: "../../data/saec/pl05/pa05.pdf"
-  #   slides: 
-  #   exercise: "../../data/saec/pl05/fe04.pdf"
-  #   material: "../../data/saec/pl05/heart-c.arff" 
-  #   topics: "WEKA | PreProcess | Classificação | Supervised Learning"
+  - code: "PL05"
+    date: "05 abr 2021"
+    title: "Processo de Data Mining"
+    plan: "../../data/saec/pl05/pa05.pdf"
+    slides: 
+    exercise: "../../data/saec/pl05/fe04.pdf"
+    material: "../../data/saec/pl05/heart-c.arff" 
+    topics: "WEKA | PreProcess | Classificação | Supervised Learning"
 
   - code: "PL04"
     date: "23 mar 2021"
