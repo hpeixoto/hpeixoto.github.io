@@ -31,7 +31,7 @@ image: "none"
 
 {% endfor %}
 <h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
-<!--<p> <a href="" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado</a> <br>-->
+<p> <a href="../../data/dc/tpraticoSAEC.pdf" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado</a> <br>
 <p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
 Entrega: <strong> 16 junho 2021</strong> (Partilha de ficheiros do grupo do Blackboard.)<br>
 Apresentação: <strong> 18 junho 2021</strong> <br>
