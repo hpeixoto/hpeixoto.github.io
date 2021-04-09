@@ -4,11 +4,18 @@
 committees:
 
   - year: 2021
+    name: "2021 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick:  "3ICT21"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain"
+
+  - year: 2021
     name: "2nd EAI International Conference on AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart-Cities"
     nick: "AISCOVID-19"
     role: "General Chair"
     type: "Conference"
-    local: ""
+    local: "Held online"
 
   - year: 2021
     name: "The Thirteenth International Conference on eHealth, Telemedicine, and Social Medicine"

@@ -1,13 +1,13 @@
 class:
 
-  # - code: "PL06"
-  #   date: "16 abr 2021"
-  #   title: "Processo de Data Mining (cont.)"
-  #   plan: "../../data/dc/pl05/pa05.pdf"
-  #   slides: 
-  #   exercise: "../../data/dc/pl05/fe04.pdf"
-  #   material: "../../data/dc/pl05/heart-c.arff" 
-  #   topics: "WEKA | Data Mining | Classificação | Supervised Learning"
+  - code: "PL06"
+    date: "16 abr 2021"
+    title: "Processo de Data Mining (cont.)"
+    plan: "../../data/dc/pl06/pa06.pdf"
+    slides: 
+    exercise: "../../data/dc/pl05/fe04.pdf"
+    material: "../../data/dc/pl05/heart-c.arff" 
+    topics: "WEKA | Data Mining | Classificação | Supervised Learning"
 
   - code: "PL05"
     date: "26 mar 2021"
