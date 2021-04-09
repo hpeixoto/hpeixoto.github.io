@@ -35,7 +35,7 @@ image: "none"
 <p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
 Entrega: <strong> 16 junho 2021</strong> (Partilha de ficheiros do grupo do Blackboard.)<br>
 Apresentação: <strong> 18 junho 2021</strong> <br>
-Apresentações de 15' com 5' para questões. </p>
+Apresentações de 10' com 5' para questões. </p>
 
 ---
 
