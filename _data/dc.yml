@@ -1,6 +1,6 @@
 class:
 
-- code: "PL07"
+  - code: "PL07"
     date: "16 abr 2021"
     title: "Processo de Data Mining (cont.) | Trabalho Prático"
     plan: "../../data/dc/pl06/pa06.pdf"
