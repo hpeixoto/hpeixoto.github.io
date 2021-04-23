@@ -1,9 +1,18 @@
 class:
 
+  - code: "PL08"
+    date: "23 abr 2021"
+    title: "Introdução ao RapidMiner"
+    plan: "../../data/dc/pl08/pa08.pdf"
+    slides: "../../data/dc/pl08/dc_pl08.pdf"
+    exercise: "../../data/dc/pl08/fe05.pdf"
+    material: "../../data/dc/pl08/material.zip"
+    topics: "RapidMiner Studio | Correlação"
+
   - code: "PL07"
     date: "16 abr 2021"
     title: "Processo de Data Mining (cont.) | Trabalho Prático"
-    plan: "../../data/dc/pl06/pa06.pdf"
+    plan: "../../data/dc/pl07/pa07.pdf"
     slides: 
     exercise: "../../data/dc/pl05/fe04.pdf"
     material: "../../data/dc/pl05/heart-c.arff" 

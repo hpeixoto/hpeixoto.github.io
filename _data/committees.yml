@@ -4,6 +4,27 @@
 committees:
 
   - year: 2021
+    name: "Scalable Information Systemss"
+    nick:  "SIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2021
+    name: "BMC Medical Research Methodology"
+    nick:  "BMC"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2021
+    name: "Next-Generation Applications and Implementations of Gamification Systems"
+    nick:  "NGA-IGS"
+    role: "Reviewer"
+    type: "Book"
+    local: "--"
+
+  - year: 2021
     name: "2021 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
     nick:  "3ICT21"
     role: "Reviewer"
