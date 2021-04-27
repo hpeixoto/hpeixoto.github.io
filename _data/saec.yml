@@ -4,9 +4,9 @@ class:
     date: "27 abr 2021"
     title: "Introdução ao RapidMiner"
     plan: "../../data/saec/pl08/pa08.pdf"
-    slides: 
-    exercise: 
-    material: 
+    slides: "../../data/saec/pl08/saec_pl08.pdf"
+    exercise: "../../data/saec/pl08/fe05.pdf"
+    material: "../../data/saec/pl08/material.zip"
     topics: "RapidMiner Studio | Correlação"
 
   - code: "PL07"
