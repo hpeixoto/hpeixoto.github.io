@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL09"
+    date: "04 mai 2021"
+    title: "RapidMiner - Regras de Associação"
+    plan: "../../data/saec/pl09/pa09.pdf"
+    slides: "../../data/saec/pl09/saec_pl09.pdf"
+    exercise: "../../data/saec/pl09/fe06.pdf"
+    material: "../../data/saec/pl09/material.zip"
+    topics: "RapidMiner Studio | Regras de Associação"
+
   - code: "PL08"
     date: "27 abr 2021"
     title: "Introdução ao RapidMiner"
