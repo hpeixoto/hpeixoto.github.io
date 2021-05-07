@@ -4,7 +4,14 @@
 committees:
 
   - year: 2021
-    name: "Scalable Information Systemss"
+    name: "Expert Systems with Application"
+    nick:  "ESWA"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2021
+    name: "Scalable Information Systems"
     nick:  "SIS"
     role: "Reviewer"
     type: "Journal"
