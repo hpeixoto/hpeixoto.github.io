@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL10"
+    date: "11 mai 2021"
+    title: "RapidMiner - Regressão Linear"
+    plan: "../../data/saec/pl10/pa10.pdf"
+    slides: "../../data/saec/pl10/saec_pl10.pdf"
+    exercise: "../../data/saec/pl10/fe07.pdf"
+    material: "../../data/saec/pl10/material.zip"
+    topics: "RapidMiner Studio | Regressão Linear"
+
   - code: "PL09"
     date: "04 mai 2021"
     title: "RapidMiner - Regras de Associação"
