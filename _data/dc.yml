@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL11"
+    date: "14 mai 2021"
+    title: "Acompanhamento de Trabalho Prático"
+    plan: "../../data/dc/pl11/pa11.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "RapidMiner | Weka | Regressão | Classificação | Crisp-DM"
+
   - code: "PL10"
     date: "07 mai 2021"
     title: "RapidMiner - Regressão Linear"
