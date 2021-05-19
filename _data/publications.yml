@@ -3,6 +3,43 @@
 
 papers:
 
+    - title: "Development of FHIR based web applications for appointment management in healthcare"
+      authors: "António Chaves, Tiago Guimarães, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, José Machado"
+      year: 2021
+      booktitle: "The 12th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.184"
+      pages: "917-022"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier B.V."
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2021.03.114"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050921007596"
+      citations:
+
+
+    - title: "Architecture for Intensive Care Data Processing and Visualization in Real-time"
+      authors: "Ricardo Cruz, Tiago Guimarães, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Filipe Santos"
+      year: 2021
+      booktitle: "The 12th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.184"
+      pages: "923-928"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier B.V."
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2021.03.115"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050921007602"
+      citations:
+
     - title: "Overcoming Challenges in Healthcare Interoperability Regulatory Compliance"
       authors: "António Castanheira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021

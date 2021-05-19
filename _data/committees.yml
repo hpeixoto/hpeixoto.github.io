@@ -4,7 +4,14 @@
 committees:
 
   - year: 2021
-    name: "Expert Systems with Application"
+    name: "Artificial Intelligence in Medicine (EPIA2021)"
+    nick:  "AIM"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Held online"
+
+  - year: 2021
+    name: "Expert Systems with Applications"
     nick:  "ESWA"
     role: "Reviewer"
     type: "Journal"
