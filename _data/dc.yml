@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL12"
+    date: "21 mai 2021"
+    title: "Rapid Miner - K-mean clustering"
+    plan: "../../data/dc/pl12/pa12.pdf"
+    slides: "../../data/dc/pl12/dc_pl12.pdf"
+    exercise: "../../data/dc/pl12/fe08.pdf"
+    material: "../../data/dc/pl12/pl12.dataset.csv"
+    topics: "RapidMiner | Clustering | K-Means | Crisp-DM"
+
   - code: "PL11"
     date: "14 mai 2021"
     title: "Acompanhamento de Trabalho Prático"
