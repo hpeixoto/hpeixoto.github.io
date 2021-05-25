@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL12"
+    date: "25 mai 2021"
+    title: "Acompanhamento de Trabalho Prático"
+    plan: "../../data/saec/pl12/pa12.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "RapidMiner | Weka Crisp-DM"
+
   - code: "PL11"
     date: "18 mai 2021"
     title: "Acompanhamento de Trabalho Prático"
@@ -7,7 +16,7 @@ class:
     slides: 
     exercise: 
     material: 
-    topics: "RapidMiner | Weka | Regressão | Classificação | Crisp-DM"
+    topics: "RapidMiner | Weka Crisp-DM"
 
   - code: "PL10"
     date: "11 mai 2021"
