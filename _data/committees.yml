@@ -4,6 +4,20 @@
 committees:
 
   - year: 2021
+    name: "1st Disruptive Technologies Tech Ethics and Artificial Intelligent"
+    nick: "DiTTEt 2021"
+    role: "Program Committe"
+    type: "Workshop"
+    local: "Salamanca, Spain"
+
+  - year: 2021
+    name: "12th International Symposium on Ambient Intelligence"
+    nick: "ISAmI 2021"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Salamanca, Spain"
+
+  - year: 2021
     name: "Artificial Intelligence in Medicine (EPIA2021)"
     nick:  "AIM"
     role: "Program Committee"
@@ -156,13 +170,6 @@ committees:
     role: "Program Committe"
     type: "Workshop"
     local: "Budva, Montenegro"
-
-  - year: 2020
-    name: "1 Disruptive Technologies Tech Ethics and Artificial Intelligent"
-    nick: "DiTTEt 2020"
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Salamanca, Spain"
 
   - year: 2020
     name: "4th International WorkShop on Information and Knowledge in Internet of Things"
