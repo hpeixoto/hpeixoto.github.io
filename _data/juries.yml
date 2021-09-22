@@ -2,6 +2,35 @@
 #type: Workshop, Conference, Journal
 
 juries:
+
+  - title: "Prespective Analytics – Utilização de Espaços, Previsão e Otimização"
+    institution:  "University of Minho"
+    date: "Set. 2021"
+    student: "Luana Lima"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
+  - title: "Componentes de Business Analytics para Instituição de Saúde Pública – Área de Decisão de Enfermagem"
+    institution:  "University of Minho"
+    date: "Set. 2021"
+    student: "Marco Cruz"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
+  - title: "IOT: Perceção automática do contexto/localização inteligente"
+    institution:  "University of Minho"
+    date: "Set. 2021"
+    student: "Bruno Magalhães"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
+  - title: "Predictive Business Analytics – Determinar a Ocorrência Futura de Casos de Infeção Hospitalar"
+    institution:  "University of Minho"
+    date: "Set. 2021"
+    student: "Filipa Cardoso"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
   - title: "mHealth – Aceitação Tecnológica"
     institution:  "University of Minho"
     date: "Jul. 2020"
