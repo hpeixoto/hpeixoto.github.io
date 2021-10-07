@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "07 out 2021"
+    title: "Introdução ao MySQL"
+    plan: 
+    slides: 
+    exercise: 
+    material: 
+    topics: "MySQL | DataGrip | Tabelas | Schemas"
