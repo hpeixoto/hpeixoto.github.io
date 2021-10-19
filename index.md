@@ -1,12 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Post-Doctoral researcher at University of Minho
+subtitle: Researcher at Centro Algoritmi, University of Minho
 ---
 
-Currently working as Integrated Researcher at the <a href="https://www.uminho.pt/PT" target="_blank">University of Minho's</a> <a href="http://algoritmi.uminho.pt" target="_blank">Algoritmi Research Center</a>. Invited Assistant Professor, teaching Knowledge Discovery, noSQL Databases, Database Administration and Electronic Health Records.    
-Previously worked as Information Systems Director at <a href="http://www.chedv.min-saude.pt/" target="_blank">Centro Hospitalar de Entre o Douro e Vouga E.P.E.</a>, also performed as Project Manager and IT Specialist at  <a href="http://www.chts.min-saude.pt/" target="_blank">Centro Hospitalar do Tâmega e Sousa E.P.E.</a> during the early days!
-Long-held interests in Machine Learning, Data Mining, eHealth, Medical Information Systems, interoperability and integration in healthcare domain.
+Currently working as Auxiliar Researcher at <a href="http://algoritmi.uminho.pt" target="_blank">Centro Algoritmi</a> in the <a href="https://www.uminho.pt/PT" target="_blank">University of Minho</a>.  Invited Assistant Professor, teaching Knowledge Discovery, noSQL Databases, Database Administration and Electronic Health Records. Previously worked as Information Systems Director at <a href="http://www.chedv.min-saude.pt/" target="_blank">Centro Hospitalar de Entre o Douro e Vouga E.P.E.</a>, also performed as Project Manager and IT Specialist at <a href="http://www.chts.min-saude.pt/" target="_blank">Centro Hospitalar do Tâmega e Sousa E.P.E.</a> during the early days! Long-held interests in Machine Learning, Data Mining, eHealth, Medical Information Systems, interoperability and integration in healthcare domain.
 
 ---
 

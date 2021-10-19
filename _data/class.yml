@@ -1,5 +1,11 @@
 class:
 
+  - name: "Learning and Knowledge Extraction"
+    course: "Master in Biomedical Engineer"
+    institution: "University of Minho"
+    topics: "Knowledge Extraction | Data Mining | Weka | RapidMiner | Python | Decision Support Systems | CRISP-DM"
+    url: "../class/aec"
+
   - name: "Bases de dados para a Bioinformatica"
     course: "Master in Bioinformatics"
     institution: "University of Minho"

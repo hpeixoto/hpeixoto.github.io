@@ -3,6 +3,7 @@
 
 jobs:
 
+
   - title: "Information Systems Director"
     institution:  "Centro Hospitalar de Entre o Douro e Vouga E.P.E."
     start: "Jan. 2019"
@@ -18,7 +19,7 @@ jobs:
             - Elaborate the anual IT budget;<br>
             - Elaborate tecnichal applications for funding oportunities under the P2020 framework;<br>
             - Member of the cibersecurity committee;<br>
-            - Member of the informatization committee;"
+            - Member of the informatization committee."
 
   - title: "Invited Assistant Professor"
     institution:  "University of Minho"
@@ -44,7 +45,6 @@ jobs:
             - Administration and Healthservice Management; <br>
             - Human Resources Management; <br>
             Teaching of classes of: Technologies and Information Systems."
-
 
   - title: "Project Manager"
     institution:  "Centro Hospitalar do Tâmega e Sousa E.P.E."
