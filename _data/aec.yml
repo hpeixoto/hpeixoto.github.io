@@ -3,9 +3,9 @@ class:
   - code: "PL02"
     date: "25 out 2021"
     title: "Introdução ao RapidMiner"
-    plan: "../../data/aec/pl02/pa02.pdf"
-    slides: "../../data/aec/pl02/dc_pl02.pdf"
-    exercise: "../../data/aec/pl02/fe02.pdf"
+    plan: "../../data/aec/pl02/aec_pa02.pdf"
+    slides: "../../data/aec/pl02/aec_pl02.pdf"
+    exercise: "../../data/aec/pl02/aec_fe02.pdf"
     material: "../../data/aec/pl02/material.zip"
     topics: "RapidMiner Studio | Correlação"
 
