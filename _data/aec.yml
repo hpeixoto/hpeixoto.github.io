@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL03"
+    date: "03 nov 2021"
+    title: "Introdução ao Weka"
+    plan: "../../data/aec/pl03/aec_pa03.pdf"
+    slides: "../../data/aec/pl03/aec_pl03.pdf"
+    exercise: "../../data/aec/pl03/aec_fe03.pdf"
+    material: 
+    topics: "WEKA | Classificação"
+
   - code: "PL02"
     date: "25 out 2021"
     title: "Introdução ao RapidMiner"
