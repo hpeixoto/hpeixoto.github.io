@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL05"
+    date: "15 nov 2021"
+    title: "Explorar o Weka (cont.)"
+    plan: "../../data/aec/pl05/aec_pa05.pdf"
+    slides:
+    exercise: 
+    material: 
+    topics: "WEKA | Database | Data Wharehouse | Data Set | OLAP | OLTP"
+
   - code: "PL04"
     date: "08 nov 2021"
     title: "Explorar o Weka"
