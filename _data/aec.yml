@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL06"
+    date: "17 nov 2021"
+    title: "Processo de Data Mining"
+    plan: "../../data/aec/pl06/aec_pa06.pdf"
+    slides:
+    exercise: "../../data/aec/pl06/aec_fe05.pdf"
+    material: "../../data/aec/pl06/heart-c.arff"
+    topics: "Data Mining | WEKA | CRISP-DM | Classification | Outliers"
+
   - code: "PL05"
     date: "15 nov 2021"
     title: "Explorar o Weka (cont.)"
