@@ -1,5 +1,23 @@
 class:
 
+  - code: "PL07"
+    date: "24 nov 2021"
+    title: "Introdução ao Trabalho Prático"
+    plan: "../../data/aec/pl08/aec_pa08.pdf"
+    slides:
+    exercise: 
+    material: 
+    topics: "Data Mining | WEKA | RapidMiner | CRISP-DM | Data Sets"
+
+  - code: "PL07"
+    date: "22 nov 2021"
+    title: "Processo de Data Mining (cont.)"
+    plan: "../../data/aec/pl07/aec_pa07.pdf"
+    slides:
+    exercise: "../../data/aec/pl06/aec_fe05.pdf"
+    material: "../../data/aec/pl06/heart-c.arff"
+    topics: "Data Mining | WEKA | CRISP-DM | Classification | Outliers"
+
   - code: "PL06"
     date: "17 nov 2021"
     title: "Processo de Data Mining"

@@ -32,6 +32,12 @@ image: "none"
 ---
 {% endfor %}
 
+---
+
+<h2>Links úteis</h2>
+<p> <a href="https://en.wikipedia.org/wiki/Precision_and_recall" target="_blank"> DM - Métricas </a> </p>
+
+
 <h2>Discord Server</h2>
 <p> <i class="fa fa-comments" aria-hidden="true"></i> <a href="https://discord.gg/nx7QM7EG" target="_blank"> AEC - server </a> </p>
 
