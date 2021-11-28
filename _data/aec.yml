@@ -1,6 +1,15 @@
 class:
 
-  - code: "PL07"
+  - code: "PL09"
+    date: "29 nov 2021"
+    title: "RapidMiner: Regras de Associação"
+    plan: "../../data/aec/pl09/aec_pa09.pdf"
+    slides: "../../data/aec/pl09/aec_pl09.pdf"
+    exercise: "../../data/aec/pl09/aec_fe09.pdf"
+    material: "../../data/aec/pl09/material.zip"
+    topics: "Data Mining | RapidMiner | Regras Associação"
+  
+  - code: "PL08"
     date: "24 nov 2021"
     title: "Introdução ao Trabalho Prático"
     plan: "../../data/aec/pl08/aec_pa08.pdf"
