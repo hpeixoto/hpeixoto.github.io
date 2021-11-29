@@ -5,7 +5,7 @@ class:
     title: "RapidMiner: Regras de Associação"
     plan: "../../data/aec/pl09/aec_pa09.pdf"
     slides: "../../data/aec/pl09/aec_pl09.pdf"
-    exercise: "../../data/aec/pl09/aec_fe09.pdf"
+    exercise: "../../data/aec/pl09/aec_fe06.pdf"
     material: "../../data/aec/pl09/material.zip"
     topics: "Data Mining | RapidMiner | Regras Associação"
   
