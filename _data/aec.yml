@@ -1,7 +1,7 @@
 class:
 
-  - code: "PL09"
-    date: "29 nov 2021"
+  - code: "PL10"
+    date: "06 dez 2021"
     title: "RapidMiner: Regras de Associação(cont.) | Acompanhamento Trabalho Prático"
     plan: "../../data/aec/pl10/aec_pa10.pdf"
     slides: 
