@@ -2,6 +2,15 @@ class:
 
   - code: "PL09"
     date: "29 nov 2021"
+    title: "RapidMiner: Regras de Associação(cont.) | Acompanhamento Trabalho Prático"
+    plan: "../../data/aec/pl10/aec_pa10.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Data Mining | RapidMiner | Regras Associação | Trabalho Prático"
+
+  - code: "PL09"
+    date: "29 nov 2021"
     title: "RapidMiner: Regras de Associação"
     plan: "../../data/aec/pl09/aec_pa09.pdf"
     slides: "../../data/aec/pl09/aec_pl09.pdf"
