@@ -1,13 +1,31 @@
 class:
 
+  - code: "PL13"
+    date: "04 jan 2022"
+    title: " Acompanhamento Trabalho Prático"
+    plan: "../../data/aec/pl13/aec_pa13.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Data Mining | RapidMiner | Trabalho Prático"
+
+  - code: "PL12"
+    date: "15 dez 2021"
+    title: " Acompanhamento Trabalho Prático"
+    plan: "../../data/aec/pl12/aec_pa11.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Data Mining | RapidMiner | Trabalho Prático"
+
   - code: "PL11"
     date: "13 dez 2021"
-    title: "RapidMiner: Regressão Linear | Acompanhamento Trabalho Prático"
+    title: "Python: Classificação | Acompanhamento Trabalho Prático"
     plan: "../../data/aec/pl11/aec_pa11.pdf"
-    slides: "../../data/aec/pl11/aec_pl11.pdf"
-    exercise: "../../data/aec/pl11/aec_fe07.pdf"
-    material: "../../data/aec/pl11/material.zip"
-    topics: "Data Mining | RapidMiner | Regressão Linear | Trabalho Prático"
+    slides: 
+    exercise: 
+    material: "https://colab.research.google.com/github/rafiag/DTI2020/blob/main/004_Classification_Bank_Marketing_Dataset_(Assignment).ipynb#scrollTo=xL-Nk3m_eQsX"
+    topics: "Data Mining | Python | Classification | Trabalho Prático"
 
   - code: "PL10"
     date: "06 dez 2021"
