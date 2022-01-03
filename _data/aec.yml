@@ -16,7 +16,7 @@ class:
     slides: 
     exercise: 
     material: 
-    topics: "Data Mining | RapidMiner | Trabalho Prático"
+    topics: "Data Mining | CRISP-DM | Trabalho Prático"
 
   - code: "PL11"
     date: "13 dez 2021"
