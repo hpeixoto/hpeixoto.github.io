@@ -2,7 +2,7 @@ class:
 
   - code: "PL13"
     date: "04 jan 2022"
-    title: " Acompanhamento Trabalho Prático"
+    title: " Acompanhamento Trabalho Prático (online)"
     plan: "../../data/aec/pl13/aec_pa13.pdf"
     slides: 
     exercise: 
