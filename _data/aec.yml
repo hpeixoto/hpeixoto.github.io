@@ -7,12 +7,12 @@ class:
     slides: 
     exercise: 
     material: 
-    topics: "Data Mining | RapidMiner | Trabalho Prático"
+    topics: "Data Mining | CRISP-DM | Trabalho Prático"
 
   - code: "PL12"
     date: "15 dez 2021"
     title: " Acompanhamento Trabalho Prático"
-    plan: "../../data/aec/pl12/aec_pa11.pdf"
+    plan: "../../data/aec/pl12/aec_pa12.pdf"
     slides: 
     exercise: 
     material: 
