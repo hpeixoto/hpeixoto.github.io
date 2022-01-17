@@ -3,6 +3,20 @@
 
 committees:
 
+  - year: 2022
+    name: "2021 International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick:  "ARTIIS 2022"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Held online"
+
+  - year: 2022
+    name: "IKIT 2022 book: Information and Knowledge in Internet of Things"
+    nick:  "ICITS 2022"
+    role: "Programm Committee"
+    type: "Book"
+    local: "--"
+
   - year: 2021
     name: "2021 International Conference on Data Analytics for Business and Industry (ICDABI)"
     nick:  "DATA'21"
