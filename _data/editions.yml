@@ -1,0 +1,21 @@
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#type: Workshop, Conference, Journal
+editor:
+
+    - year: 2022
+      name: "Special Issue Computer-Aided Diagnosis"
+      edition: "AI"
+      role: "Guest Editor"
+      type: "Special Issue"
+      editor: "MDPI"
+      deadline: "31 Aug, 2022"
+      url: "https://www.mdpi.com/journal/ai/special_issues/computer_aided_diagnosis_2021"
+
+    - year: 2022
+      name: "Big Data Analytics and Artificial Intelligence in the Healthcare Industry"
+      edition: "IGI"
+      role: "Guest Editor"
+      type: "Special Issue"
+      editor: "IGI"
+      deadline: "Expired"
+      url: "https://www.igi-global.com/book/big-data-analytics-artificial-intelligence/276086"

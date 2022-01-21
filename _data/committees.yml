@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "The 2022 International Conference on Decision Aid Sciences and Applications"
+    nick:  "DASA'22"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Thailand - Held online"
+
+  - year: 2022
     name: "2021 International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
     nick:  "ARTIIS 2022"
     role: "Reviewer"

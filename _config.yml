@@ -29,6 +29,7 @@ navbar-links:
   Research:
     - Publications: "publications"
     - Committees: "committees"
+    - Editiorial Board: "editions"
     - Projects: "projects"
   Academic:
     - Teaching: "teaching"

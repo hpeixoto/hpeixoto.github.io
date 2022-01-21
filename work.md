@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Work
-image: "none"
 ---
 
 {% for job in site.data.work.jobs %}

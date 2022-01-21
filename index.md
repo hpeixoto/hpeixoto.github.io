@@ -22,25 +22,33 @@ Currently working as Auxiliar Researcher at <a href="http://algoritmi.uminho.pt"
 </div> 
 
 ---
-
 ## Lastest publications
 
 #### Book chapters
-{% for pub in site.data.publications.bookchaps limit: 1%}
- {% assign counter = counter | plus:1 %}
+{% assign counter = 1 %}
+{% for pub in site.data.publications.papers %}
+{% if pub.type == 'book' and counter < 4 %}
+{% assign counter = counter | plus:1 %}
   {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {% if pub.volume %}{{ pub.volume }},{% endif %} {% if pub.booktitle %}{{ pub.booktitle }}{% endif %} {% if pub.conference %}{{ pub.conference }}{% endif %}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a> 
+    {% endif %}
 {% endfor %}
 
 #### Journals
-{% for pub in site.data.publications.journals limit: 1%}
- {% assign counter = counter | plus:1 %}
-  {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{pub.journal}}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.publisher %}, {{ pub.publisher}}{% endif %}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
+{% assign counter = 1 %}
+{% for pub in site.data.publications.papers %}
+{% if pub.type == 'journal' and counter < 4 %}
+{% assign counter = counter | plus:1 %}
+{{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{pub.journal}}{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.publisher %}, {{ pub.publisher}}{% endif %}. <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
+{% endif %}
 {% endfor %}
 
 #### Conf. Papers
-{% for pub in site.data.publications.confs limit: 1%}
+{% assign counter = 1 %}
+{% for pub in site.data.publications.papers %}
+{% if pub.type == 'conference' and counter < 4 %}
  {% assign counter = counter | plus:1 %}
   {{ counter }}. {{ pub.authors }} ({{ pub.year }}). _**{{ pub.title }}**_. {{ pub.conference }} <a href="{{ pub.url }}" target="_blank"><i class="fa fa-external-link" aria-hidden="true"></i></a>  
+    {% endif %}
 {% endfor %}
 
 <p><a href="/publications"><i class="fa fa-plus-square"></i> <strong>Show More</strong></a></p>

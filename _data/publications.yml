@@ -1,6 +1,5 @@
 #status: Accepted, In Press, Published, Submitted, Under revision
 #type: Workshop, Conference
-
 papers:
 
     - title: "Development of FHIR based web applications for appointment management in healthcare"
@@ -60,7 +59,7 @@ papers:
 
     - title: "Anticipating Maintenance in Telecom Installation Processes"
       authors: "Diana Costa, Carlos Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2020 (to be published) 
+      year: 2020
       booktitle: "Lecture Notes in Computer Science (LNCS)"
       volume: 
       pages:
@@ -78,7 +77,7 @@ papers:
 
     - title: "Integrating a Data Mining Engine into Recommender Systems"
       authors: "Vitor Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2020 (to be published) 
+      year: 2020
       booktitle: "Lecture Notes in Computer Science (LNCS)"
       volume: 
       pages:
@@ -96,7 +95,7 @@ papers:
 
     - title: "Improving Performance of Recommendation System Architecture"
       authors: "Gil Cunha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2020 (to be published) 
+      year: 2020
       booktitle: "Lecture Notes in Computer Science (LNCS)"
       volume: 
       pages:

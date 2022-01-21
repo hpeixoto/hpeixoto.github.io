@@ -3,6 +3,49 @@
 
 jobs:
 
+  - title: "Assistant Researcher"
+    institution:  "Centro ALGORITMI"
+    start: "Jul. 2021"
+    end: "present"
+    url:  "https://algoritmi.uminho.pt/"
+    local: "Braga, Portugal"
+    icon: "../img/um.png"
+    tasks: "<br>
+            - Member of the Computer Science and Technology (CST) R&D Group:<br>
+            &nbsp;&nbsp;&nbsp;- Artificial Intelligence and Intelligent Systems;<br>
+            &nbsp;&nbsp;&nbsp;- Biomedical and Health Informatics;<br>
+            &nbsp;&nbsp;&nbsp;- Language Processing;<br>
+            &nbsp;&nbsp;&nbsp;- High Performance Computing;<br>
+            - Member of the Knowledge Engineering Group (KEG) R&D Lab."
+            
+  - title: "Invited Assistant Professor"
+    institution:  "University of Minho"
+    start: "Feb. 2017"
+    end: "present"
+    url:  "http://www.uminho.pt/"
+    local: "Braga, Portugal"
+    icon: "../img/um.png"
+    tasks: "<br> Teaching of classes of: <br>
+                - Learning and Knowledge Extraction Systems (MSc in Biomedical Engineer);<br>
+                - Electronic Health Record (MSc in Biomedical Engineer); <br>
+                - noSQL Databases (MSc in Informatics); <br>
+                - Database Administration (MSc in Informatics).<br>"
+
+  - title: "Researcher"
+    institution:  "Centro ALGORITMI"
+    start: "Jan. 2019"
+    end: "Jun. 2021"
+    url:  "https://algoritmi.uminho.pt/"
+    local: "Braga, Portugal"
+    icon: "../img/um.png"
+    tasks: "<br>
+            - Grant on the Project - Decision Support System for Intensive Medicine (DSSI4IM) <br>
+            - Member of the Computer Science and Technology (CST) R&D Group:<br>
+            &nbsp;&nbsp;&nbsp;- Artificial Intelligence and Intelligent Systems;<br>
+            &nbsp;&nbsp;&nbsp;- Biomedical and Health Informatics;<br>
+            &nbsp;&nbsp;&nbsp;- Language Processing;<br>
+            &nbsp;&nbsp;&nbsp;- High Performance Computing;<br>
+            - Member of the Knowledge Engineering Group (KEG) R&D Lab."
 
   - title: "Information Systems Director"
     institution:  "Centro Hospitalar de Entre o Douro e Vouga E.P.E."
@@ -20,19 +63,6 @@ jobs:
             - Elaborate tecnichal applications for funding oportunities under the P2020 framework;<br>
             - Member of the cibersecurity committee;<br>
             - Member of the informatization committee."
-
-  - title: "Invited Assistant Professor"
-    institution:  "University of Minho"
-    start: "Feb. 2017"
-    end: "present"
-    url:  "http://www.uminho.pt/"
-    local: "Braga, Portugal"
-    icon: "../img/um.png"
-    tasks: "<br> Teaching of classes of: <br>
-                - Learning and Knowledge Extraction Systems (MSc in Biomedical Engineer);<br>
-                - Electronic Health Record (MSc in Biomedical Engineer); <br>
-                - noSQL Databases (MSc in Informatics); <br>
-                - Database Administration (MSc in Informatics).<br>"
 
   - title: "Guest Lecturer"
     institution:  "Instituto Piaget"
@@ -71,12 +101,12 @@ jobs:
             <b>Software and hardware experience:</b> knowledge of most of the common tools around the healthcare unity, overall knowledge for repair and interventions. Supervision and installation of medical equipment for integration with the HIS. Participation in VMWare virtualization projects, user management through Windows Active Directory and Thin Client installation for end-user usage.<br>
             <b>User training:</b> Organization of workshops for end-users training and development of user's manuals. Wiki and bug-traker implementation for IT kowledge base.<br>
             <b>Major Implementations:</b><br>
-            – Preventive action management plan based on PHP, Mysql;<br>
-            – Appointment Alert System through SMS and email for all patients;<br>
-            – Eco IT/GreenIT implementation whti automatic and programmed shutdowns and power ups for servers, and client machines;<br>
-            – Electronic Semantic Health Record with timeline navigation;<br>
-            – Informatization of several clinical information forms for EHR integration;<br>
-            – Secure password generation for servers and databases implemented in .Net."
+            - Preventive action management plan based on PHP, Mysql;<br>
+            - Appointment Alert System through SMS and email for all patients;<br>
+            - Eco IT/GreenIT implementation whti automatic and programmed shutdowns and power ups for servers, and client machines;<br>
+            - Electronic Semantic Health Record with timeline navigation;<br>
+            - Informatization of several clinical information forms for EHR integration;<br>
+            - Secure password generation for servers and databases implemented in .Net."
 
   - title: "Head of the Job Oportunities Dep."
     institution:  "GAEB - Biomedical Engineering Student Association"
