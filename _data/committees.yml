@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "13th International Symposium on Ambient Intelligence"
+    nick:  "ISAMI'22"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "L'Aquila, Italy"
+
+  - year: 2022
     name: "SLATE 2022: Symposium on Languages, Applications and Technologies"
     nick:  "SLATE 2022"
     role: "Program Committee"
