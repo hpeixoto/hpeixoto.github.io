@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "Technologies, Business, Innovation, and Entrepreneurship: New Trends and Challenges"
+    nick:  "TBIE-CN 2021"
+    role: "Program Committee"
+    type: "Book"
+    local: "--"
+
+  - year: 2022
     name: "13th International Symposium on Ambient Intelligence"
     nick:  "ISAMI'22"
     role: "Scientific Committee"
