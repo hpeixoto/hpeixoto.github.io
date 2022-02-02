@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "Fifth International Conference on Applied Informatics"
+    nick: "ICAI 2022"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Arequipa, Peru"
+
+  - year: 2022
     name: "Technologies, Business, Innovation, and Entrepreneurship: New Trends and Challenges"
     nick:  "TBIE-CN 2021"
     role: "Program Committee"
