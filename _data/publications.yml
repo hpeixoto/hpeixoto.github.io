@@ -12,7 +12,7 @@ papers:
       publisher: "Elsevier B.V."
       isbn: "1877-0509"
       doi: "/10.1016/j.procs.2021.03.114"
-      pub: "scopus"
+      pub: "scopus isi dblp SJR 2020: 0.33"
       scopus: 1
       isi:
       q: 
@@ -61,54 +61,54 @@ papers:
       authors: "Diana Costa, Carlos Pereira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2020
       booktitle: "Lecture Notes in Computer Science (LNCS)"
-      volume: 
-      pages:
-      editor: 
-      publisher: "Springer"
-      isbn: 
-      doi: 
-      pub: 
+      volume: "12490"
+      pages: "322-334"
+      editor: "Cesar Analide and Paulo Novais and David Camacho and Hujun Yin"
+      publisher: "Springer International Publishing"
+      isbn: "978-3-030-62365-4"
+      doi: "/10.1007/978-3-030-62365-4_31"
+      pub: "scopus dblp IF 2005: 0.40 Q4 SJR 2020: 0.25 Q3"
       scopus: 
       isi:
       q: 
       type: "book"
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-62365-4_31"
       citations:
 
     - title: "Integrating a Data Mining Engine into Recommender Systems"
       authors: "Vitor Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2020
       booktitle: "Lecture Notes in Computer Science (LNCS)"
-      volume: 
-      pages:
-      editor: 
-      publisher: "Springer"
-      isbn: 
-      doi: 
-      pub:
+      volume: "12490"
+      pages: "209-220"
+      editor: "Cesar Analide and Paulo Novais and David Camacho and Hujun Yin"
+      publisher: "Springer International Publishing"
+      isbn: "978-3-030-62365-4"
+      doi: "/10.1007/978-3-030-62365-4_31"
+      pub: "scopus dblp IF 2005: 0.40 Q4 SJR 2020: 0.25 Q3"
       scopus: 
       isi:
       q: 
       type: "book"
-      url: 
-      citations:
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-62362-3_19"
+      citations: 
 
     - title: "Improving Performance of Recommendation System Architecture"
       authors: "Gil Cunha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2020
       booktitle: "Lecture Notes in Computer Science (LNCS)"
-      volume: 
-      pages:
-      editor: 
-      publisher: "Springer"
-      isbn: 
-      doi: 
-      pub:
+      volume: "12490"
+      pages: "495-506"
+      editor: "Cesar Analide and Paulo Novais and David Camacho and Hujun Yin"
+      publisher: "Springer International Publishing"
+      isbn:  "978-3-030-62365-4"
+      doi: "/10.1007/978-3-030-62365-4_47"
+      pub: "scopus dblp IF 2005: 0.40 Q4 SJR 2020: 0.25 Q3"
       scopus: 
       isi:
       q: 
       type: "book"
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-62365-4_47"
       citations:
 
     - title: "Prediction of Length of Stay for Stroke Patients Using Artificial Neural Networks"
