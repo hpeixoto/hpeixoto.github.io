@@ -2,6 +2,42 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "A Comparative Study of Data Mining Techniques applied to Renal-Cell Carcinomas"
+      authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2021
+      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCares"
+      volume: 
+      pages: 
+      editor: 
+      publisher: "Springer"
+      isbn:
+      doi: 
+      pub:
+      scopus: 
+      isi:
+      q: 
+      type: "book"
+      url:
+      citations:
+
+    - title: "Predicting Diabetes Disease in the Female Adult Population"
+      authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2021
+      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCares"
+      volume: 
+      pages: 
+      editor: 
+      publisher: "Springer"
+      isbn:
+      doi: 
+      pub:
+      scopus: 
+      isi:
+      q: 
+      type: "book"
+      url:
+      citations:
+
     - title: "Development of FHIR based web applications for appointment management in healthcare"
       authors: "António Chaves, Tiago Guimarães, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, José Machado"
       year: 2021
@@ -19,7 +55,6 @@ papers:
       type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050921007596"
       citations:
-
 
     - title: "Architecture for Intensive Care Data Processing and Visualization in Real-time"
       authors: "Ricardo Cruz, Tiago Guimarães, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Filipe Santos"
@@ -277,7 +312,6 @@ papers:
       type: "book"
       url: "https://link.springer.com/chapter/10.1007%2F978-3-030-16187-3_54"
       citations:
-
 
     - title: "Predicting Death and Morbidity in Perforated Peptic Ulcer"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Correia e Silva, Soraia Pereira, Tiago Jesus, Vítor Lopes, António Abelha e José Machado"
