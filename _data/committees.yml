@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "2nd Disruptive Technologies Tech Ethics and Artificial Intelligent"
+    nick: "DiTTEt 2022"
+    role: "Scientific Committe"
+    type: "Conference"
+    local: "Salamanca, Spain"
+
+  - year: 2022
     name: "Fifth International Conference on Applied Informatics"
     nick: "ICAI 2022"
     role: "Program Committe"
