@@ -1,5 +1,11 @@
 class:
 
+  - name: "TIC aplicadas à Vigilância Epidemiológica"
+    course: "2ª edição da Pós-graduação em Prevenção, Controlo de infeção e Resistência aos Antimicrobianos"
+    institution: "CESPU"
+    topics: "Sistemas de Informação | TIC | Interoperabilidade"
+    url: "../class/cespu"
+
   - name: "Learning and Knowledge Extraction"
     course: "Master in Biomedical Engineer"
     institution: "University of Minho"

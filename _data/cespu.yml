@@ -1,0 +1,10 @@
+class:
+
+  - code: "Prática"
+    date: "05/11 fev 2022"
+    title: "Dos dados à informação"
+    plan: 
+    slides: "../../data/cespu/slides.pdf"
+    exercise: "../../data/cespu/cespu_tic.pdf"
+    material: "../../data/cespu/export.csv"
+    topics: "TIC | DADOS | SAUDE"
