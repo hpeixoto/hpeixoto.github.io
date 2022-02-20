@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "22 fev 2022"
+    title: "Introdução ao Docker"
+    plan: "../../data/aieb/pl01/aieb_pa01.pdf"
+    slides: "../../data/aieb/pl01/aieb_pl01.pdf"
+    exercise:
+    material: 
+    topics: "Apresentação | SCRUM | Trabalhos Práticos"

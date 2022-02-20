@@ -1,5 +1,11 @@
 class:
 
+  - name: "Software applied to Biomedical Enginneering"
+    course: "Master in Biomedical Engineer"
+    institution: "University of Minho"
+    topics: "Biomedical Engineering | Software Development | Interoperability | Health Records"
+    url: "../class/aieb"
+
   - name: "TIC aplicadas à Vigilância Epidemiológica"
     course: "2ª edição da Pós-graduação em Prevenção, Controlo de infeção e Resistência aos Antimicrobianos"
     institution: "CESPU"
