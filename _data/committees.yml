@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "International Journal of Computing and Digital Systems"
+    nick:  "IJCDS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"  
+
+  - year: 2022
     name: "2nd Disruptive Technologies Tech Ethics and Artificial Intelligent"
     nick: "DiTTEt 2022"
     role: "Scientific Committe"

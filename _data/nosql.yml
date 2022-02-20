@@ -1,0 +1,19 @@
+class:
+
+  - code: "PL01"
+    date: "25 fev 2022"
+    title: "Introdução ao Docker"
+    plan: "../../data/nosql/pl02/nosql_pa02.pdf"
+    slides: "../../data/nosql/pl02/nosql_pl02.pdf"
+    exercise:
+    material: 
+    topics: "Docker | noSQL | Databases"
+
+  - code: "PL00"
+    date: "18 fev 2022"
+    title: "Apresentação"
+    plan: "../../data/nosql/pl01/nosql_pa01.pdf"
+    slides: "../../data/nosql/pl01/nosql_pl01.pdf"
+    exercise:
+    material: 
+    topics: "Apresentação | noSQL | Databases"
