@@ -34,7 +34,6 @@ image: img/nosql.png
 ---
 <h2> Material de Apoio </h2>
 <!--<h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>-->
-<p> <a href="https://mega.nz/file/xtkz2QQb#e5zwF8qoHOpcbeVtdMCfiRZaBCO3zM7ZHvheWMOEx0E" target="_blank"><i class="fa fa-file-text-o"></i> Máquina Virtual</a> <br>
-<!--<p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
-Entrega: <strong> a definir </strong> (Partilha de ficheiros do grupo do Blackboard.)<br>
-Apresentação: <strong> a definir </strong> <br>-->
+<p> <a href="https://mega.nz/file/xtkz2QQb#e5zwF8qoHOpcbeVtdMCfiRZaBCO3zM7ZHvheWMOEx0E" target="_blank"><i class="fa fa-file-text-o"></i> Máquina Virtual</a> </p>
+<p> <i class="fa fa-user"></i> <strong> user: </strong>  root <br> 
+<i class="fa fa-lock"></i> <strong> senha: </strong>  uminho#2022! </p>
