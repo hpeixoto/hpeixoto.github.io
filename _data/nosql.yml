@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL02"
+    date: "04 mar 2022"
+    title: "Introdução ao Oracle"
+    plan: "../../data/nosql/pl02/nosql_pa02.pdf"
+    slides: "../../data/nosql/pl02/nosql_pl02.pdf"
+    exercise: "../../data/nosql/pl02/nosql_fe02.pdf"
+    material:  "../../data/nosql/pl02/scripts.zip"
+    topics: "Oracle | noSQL | Databases"
+
   - code: "PL01"
     date: "25 fev 2022"
     title: "Introdução ao Docker"

@@ -34,22 +34,22 @@ Host server is running *CentOS 7* and running docker and docker-compose, let us 
         # useradd -u 54321 -g oinstall -G dba oracle
         
         -- Create project folder
-        # cd /home/uminho
+        # cd /home/<user>
         # mkdir dockers
 
         -- Create data folder for the containers
-        # cd /home/uminho/dockers
+        # cd /home/<user>/dockers
         # mkdir data
 
         -- create folder for oracle container
-        # cd /home/uminho/dockers/data/
+        # cd /home/<user>/dockers/data/
         # mkdir oracle
 
         -- Ensure Permissions
-        # chown -R oracle:dba /home/uminho/dockers/data/oracle 
-        # chmod 777 -R /home/uminho/dockers/data/oracle
+        # chown -R oracle:dba /home/<user>/dockers/data/oracle 
+        # chmod 777 -R /home/<user>/dockers/data/oracle
 
-- Create docker-compose.yml file in /home/uminho/dockers
+- Create docker-compose.yml file in /home/<user>/dockers
 
         version: '3'
         services: 
@@ -64,14 +64,18 @@ Host server is running *CentOS 7* and running docker and docker-compose, let us 
             env_file:
               - ora.conf
 
-- Create ora.conf file inside /home/uminho/dockers/
+- Create ora.conf file inside /home/<user>/dockers/
         
         DB_SID=ORCLCDB
         DB_PDB=orclpdb1
 
+- Install docker-compose
+
+        [Docker-compose install](https://docs.docker.com/compose/install/)
+
 - Start you container
 	
-        # cd /home/uminho/dockers/
+        # cd /home/<user>/dockers/
         # docker-compose up -d
 
 - Check if it is running
