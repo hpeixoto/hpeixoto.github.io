@@ -49,7 +49,7 @@ Host server is running *CentOS 7* and running docker and docker-compose, let us 
         # chown -R oracle:dba /home/<user>/dockers/data/oracle 
         # chmod 777 -R /home/<user>/dockers/data/oracle
 
-- Create docker-compose.yml file in /home/<user>/dockers
+- Create docker-compose.yml file in /home/< user >/dockers
 
         version: '3'
         services: 
@@ -64,7 +64,7 @@ Host server is running *CentOS 7* and running docker and docker-compose, let us 
             env_file:
               - ora.conf
 
-- Create ora.conf file inside /home/<user>/dockers/
+- Create ora.conf file inside /home/< user >/dockers/
         
         DB_SID=ORCLCDB
         DB_PDB=orclpdb1
@@ -85,4 +85,3 @@ Host server is running *CentOS 7* and running docker and docker-compose, let us 
 - Your container should provide "health: starting" as status. After a few minutes it should go live and the status changes to "healthy".
 
 And thats it!! You should have a running Oracle Database in your system! To start creating schemas you should connect to your PDB and use *system* as your user. Default password is **Oradoc_db1**.
-
