@@ -5,7 +5,7 @@ class:
     title: "Introdução ao Oracle"
     plan: "../../data/nosql/pl02/nosql_pa02.pdf"
     slides: "../../data/nosql/pl02/nosql_pl02.pdf"
-    exercise: "../../data/nosql/pl02/nosql_fe02.pdf"
+    exercise: "../../data/nosql/pl02/nosql_fe01.pdf"
     material:  "../../data/nosql/pl02/scripts.zip"
     topics: "Oracle | noSQL | Databases"
 
