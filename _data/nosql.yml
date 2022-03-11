@@ -1,13 +1,22 @@
 class:
 
-  - code: "PL03"
-    date: "11 mar 2022"
+  - code: "PL04"
+    date: "18 mar 2022"
     title: "Mini Projeto"
-    plan: "../../data/nosql/pl03/nosql_pa03.pdf"
+    plan: "../../data/nosql/pl04/nosql_pa04.pdf"
     slides: 
-    exercise: "../../data/nosql/pl03/nosql_fe02.pdf"
+    exercise: "../../data/nosql/pl04/nosql_fe02.pdf"
     material: "http://nosql.hpeixoto.me/api"
     topics: "Oracle | noSQL | Databases | REST | API"
+
+  - code: "PL03"
+    date: "11 mar 2022"
+    title: "Introdução ao Oracle (cont)"
+    plan: "../../data/nosql/pl03/nosql_pa03.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Oracle | noSQL | Databases"
 
   - code: "PL02"
     date: "04 mar 2022"
