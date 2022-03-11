@@ -6,7 +6,7 @@ class:
     plan: "../../data/nosql/pl03/nosql_pa03.pdf"
     slides: 
     exercise: "../../data/nosql/pl03/nosql_fe02.pdf"
-    material: 
+    material: "http://nosql.hpeixoto.me/api"
     topics: "Oracle | noSQL | Databases | REST | API"
 
   - code: "PL02"
