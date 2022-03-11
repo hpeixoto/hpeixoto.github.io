@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL03"
+    date: "11 mar 2022"
+    title: "Mini Projeto"
+    plan: "../../data/nosql/pl03/nosql_pa03.pdf"
+    slides: 
+    exercise: "../../data/nosql/pl03/nosql_fe02.pdf"
+    material: 
+    topics: "Oracle | noSQL | Databases | REST | API"
+
   - code: "PL02"
     date: "04 mar 2022"
     title: "Introdução ao Oracle"
