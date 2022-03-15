@@ -1,10 +1,29 @@
 class:
 
-  - code: "PL01"
-    date: "22 fev 2022"
-    title: "Introdução ao Docker"
-    plan: "../../data/aieb/pl01/aieb_pa01.pdf"
-    slides: "../../data/aieb/pl01/aieb_pl01.pdf"
+  - code: "PL03"
+    date: "15 mar 2022"
+    title: "Ponto de Situaçãp"
+    plan: "../../data/aieb/pl02/aieb_pa03.pdf"
+    slides: 
     exercise:
     material: 
+    topics: "SCRUM | Trabalhos Práticos"
+
+  - code: "PL02"
+    date: "08 mar 2022"
+    title: "Sprint Planning"
+    plan: "../../data/aieb/pl02/aieb_pa02.pdf"
+    slides: 
+    exercise:
+    material: 
+    topics: " SCRUM | Sprint Planning"
+
+
+  - code: "PL01"
+    date: "22 fev 2022"
+    title: "Introdução aos Projetos"
+    plan: "../../data/aieb/pl01/aieb_pa01.pdf"
+    slides: 
+    exercise:
+    material: "https://www.goodday.work/"
     topics: "Apresentação | SCRUM | Trabalhos Práticos"
