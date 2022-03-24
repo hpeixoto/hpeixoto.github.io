@@ -4,11 +4,10 @@ class:
     date: "25 mar 2022"
     title: "Mini Projeto"
     plan: "../../data/nosql/pl05/nosql_pa05.pdf"
-    slides: "../../data/nosql/pl05/nosql_pl05.pdf"
+    slides: "../../data/nosql/pl05/nosql_PL05.pdf"
     exercise: "../../data/nosql/pl05/nosql_fe03.pdf"
     material: "http://nosql.hpeixoto.me/api"
     topics: "MongoDB | noSQL | Databases | REST | API"
-
 
   - code: "PL04"
     date: "18 mar 2022"
