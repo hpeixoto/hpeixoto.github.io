@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "International Conference on Health and Social Care Information Systems and Technologies"
+    nick: "HCist 2022"
+    role: "Scientific Committe"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+
+  - year: 2022
     name: "Open Computer Science"
     nick:  "OCS"
     role: "Reviewer"
