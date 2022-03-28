@@ -4,6 +4,14 @@
 committees:
 
   - year: 2022
+    name: "13º Simpósio de Informática"
+    nick: "INForum 2022"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Guarda, Portugal"
+
+
+  - year: 2022
     name: "International Conference on Health and Social Care Information Systems and Technologies"
     nick: "HCist 2022"
     role: "Scientific Committe"
