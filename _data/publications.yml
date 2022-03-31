@@ -6,36 +6,36 @@ papers:
       authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
       booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCares"
-      volume: 
-      pages: 
+      volume: 432 
+      pages: "53-62"
       editor: 
-      publisher: "Springer"
-      isbn:
-      doi: 
+      publisher: "Springer International Publishing"
+      isbn: "978-3-030-99197-5"
+      doi: "/10.1007/978-3-030-99197-5_5"
       pub:
       scopus: 
       isi:
       q: 
       type: "book"
-      url:
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-99197-5_5"
       citations:
 
     - title: "Predicting Diabetes Disease in the Female Adult Population"
       authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
       booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCares"
-      volume: 
-      pages: 
+      volume: 432
+      pages: "63-73"
       editor: 
-      publisher: "Springer"
-      isbn:
-      doi: 
+      publisher: "Springer International Publishing"
+      isbn: "978-3-030-99197-5"
+      doi: "/10.1007/978-3-030-99197-5_6"
       pub:
       scopus: 
       isi:
       q: 
       type: "book"
-      url:
+      url: "https://link.springer.com/chapter/10.1007/978-3-030-99197-5_6"
       citations:
 
     - title: "Development of FHIR based web applications for appointment management in healthcare"
@@ -368,7 +368,7 @@ papers:
       q: 2
       dblp: 
       url: "https://link.springer.com/article/10.1007/s11276-018-01905-4"
-      citations: 2
+      citations: 4
 
     - title: "Business intelligence for nutrition therapy"
       authors: "Rita Reis, Ana Mendonça, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Jose Machado"

@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "2022 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
+    nick: "ICETSIS 2022"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Virtual"
+
+  - year: 2022
     name: "13º Simpósio de Informática"
     nick: "INForum 2022"
     role: "Program Committe"
