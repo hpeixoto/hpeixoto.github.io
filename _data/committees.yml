@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "3rd EAI International Conference on IoT and Big Data Technologies for HealthCare"
+    nick: "EAI IoTCare 2022"
+    role: "Program Committe"
+    type: "Conference"
+    local: "Leicester, Great Britain"
+
+  - year: 2022
     name: "2022 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
     nick: "ICETSIS 2022"
     role: "Reviewer"
