@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick:  "3ICT22"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain"
+
+  - year: 2022
     name: "3rd EAI International Conference on IoT and Big Data Technologies for HealthCare"
     nick: "EAI IoTCare 2022"
     role: "Technical Program Committe"

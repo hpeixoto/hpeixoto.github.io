@@ -2,6 +2,27 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Pervasive Monitoring System for Services and Servers in Healthcare Environment"
+      authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      journal: "The 3rd International Workshop on Hospital 4.0 (Hospital) - in press"
+      volume: "Procedia Computer Science vol. 201C"
+      pages: "720-725"
+      editor: ""
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: ""
+      pub: "scopus isi dblp SJR 2017: 0.26 SJR 2019: 0.3420"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 
+      type: "book"
+      url: ""
+      citations: 
+
+
     - title: "A Comparative Study of Data Mining Techniques applied to Renal-Cell Carcinomas"
       authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
