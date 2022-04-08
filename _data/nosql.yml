@@ -2,7 +2,7 @@ class:
 
   - code: "PL07"
     date: "08 abr 2022"
-    title: "Introdução ao Modelo Documental - ElastiSearch"
+    title: "Modelo Documental - ElasticSearch"
     plan: "../../data/nosql/pl07/nosql_pa07.pdf"
     slides: "../../data/nosql/pl07/nosql_pl07.pdf"
     exercise: "../../data/nosql/pl07/nosql_fe05.pdf"
