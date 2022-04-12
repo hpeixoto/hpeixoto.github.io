@@ -32,6 +32,14 @@ image: img/nosql.png
 {% endfor %}
 
 ---
+<h2> Trabalho Prático </h2>
+<!--<h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>-->
+<p> <a href="../../data/nosql/tp/NOSQL_Enunciado_TP2022.pdf" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado Trabalho Prático</a> </p>
+<p> <a href="../../data/nosql/tp/hr.zip" target="_blank"><i class="fa fa-file-text-o"></i> hr.zip</a> </p>
+<p> <i class="fa fa-calendar"></i> <strong> Data Entrega: </strong>  12 jun 2022 <br> 
+<i class="fa fa-calendar"></i> <strong> Apresentações: </strong>  a definir </p>
+
+---
 <h2> Material de Apoio </h2>
 <!--<h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>-->
 <p> <a href="https://mega.nz/file/w0szwY7L#2onFNpqZO1sdy-wS-XLYeq2OATPHCXwoiDRnQu7QPNU" target="_blank"><i class="fa fa-file-text-o"></i> Máquina Virtual com oracle</a> </p>
