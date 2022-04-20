@@ -2,6 +2,46 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Real-Time UCI Monitoring Using Apache Kafka"
+      authors: "Rui Santos, Ana Regina Sousa, Manuel Filipe Santos, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2022
+      journal: "Big Data Analytics and Artificial Intelligence in the Healthcare Industry"
+      volume: ""
+      pages: "1-37"
+      editor: "Machado, J., Peixoto, H., & Sousa, R. (Eds.)"
+      publisher: "IGI Global"
+      issn: ""
+      doi: "/10.4018/978-1-7998-9172-7"
+      pub: ""
+      scopus: 
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type: "conference"
+      url: ""
+      citations: 
+
+    - title: "Online platform for viewing trends and opinions on sports events based on Social Media Data"
+      authors: "Maria Pinto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Alexandre Ulisses and Pedro Santos"
+      year: 2022
+      journal: "CISTI'2022 - 17th Iberian Conference on Information Systems and Technologies"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 1
+      type: "conference"
+      url: ""
+      citations: 
+
     - title: "Pervasive Monitoring System for Services and Servers in Healthcare Environment"
       authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2022
@@ -22,11 +62,10 @@ papers:
       url: ""
       citations: 
 
-
     - title: "A Comparative Study of Data Mining Techniques applied to Renal-Cell Carcinomas"
       authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
-      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCares"
+      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCare"
       volume: 432 
       pages: "53-62"
       editor: 
@@ -44,7 +83,7 @@ papers:
     - title: "Predicting Diabetes Disease in the Female Adult Population"
       authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
-      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCares"
+      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCare"
       volume: 432
       pages: "63-73"
       editor: 
