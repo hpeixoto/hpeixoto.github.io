@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL08"
+    date: "22 abr 2022"
+    title: "ElasticSearch (cont.) - Trabalho Prático"
+    plan: "../../data/nosql/pl08/nosql_pa08.pdf"
+    slides:
+    exercise:
+    material: 
+    topics: "ElasticSearch | noSQL | Trabalho Prático"
+
   - code: "PL07"
     date: "08 abr 2022"
     title: "Modelo Documental - ElasticSearch"

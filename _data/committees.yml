@@ -4,6 +4,21 @@
 committees:
 
   - year: 2022
+    name: "Journal of King Saud University - Computer and Information Sciences"
+    nick:  "JKSU-CIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2022
+    name: "Mathematis - MDPI"
+    nick:  "Mathematics"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+
+  - year: 2022
     name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
     nick:  "3ICT22"
     role: "Reviewer"
