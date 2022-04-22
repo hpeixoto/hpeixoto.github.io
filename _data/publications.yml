@@ -1,6 +1,26 @@
 #status: Accepted, In Press, Published, Submitted, Under revision
 #type: Workshop, Conference
 papers:
+    - title: "Predicting Diabetes Disease for healthy smart cities "
+      authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Vasco Ramos, Carolina Marques and José Machado"
+      year: 2022
+      journal: "EAI Endorsed Trans Smart Cities"
+      volume: "6(18)"
+      pages: ""
+      editor: ""
+      publisher: "MDPI"
+      issn: ""
+      doi: "/10.4108/eetsc.v6i18.589"
+      pub: ""
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      ieee: 
+      type: "journal"
+      url: ""
+      citations: 
+
 
     - title: "Real-Time UCI Monitoring Using Apache Kafka"
       authors: "Rui Santos, Ana Regina Sousa, Manuel Filipe Santos, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
