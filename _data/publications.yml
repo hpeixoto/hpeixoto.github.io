@@ -21,7 +21,6 @@ papers:
       url: "https://publications.eai.eu/index.php/sc/article/view/589"
       citations: 
 
-
     - title: "Real-Time UCI Monitoring Using Apache Kafka"
       authors: "Rui Santos, Ana Regina Sousa, Manuel Filipe Santos, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2022
@@ -65,13 +64,13 @@ papers:
     - title: "Pervasive Monitoring System for Services and Servers in Healthcare Environment"
       authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2022
-      journal: "The 3rd International Workshop on Hospital 4.0 (Hospital) - in press"
+      journal: "The 3rd International Workshop on Hospital 4.0 (Hospital)"
       volume: "Procedia Computer Science vol. 201C"
       pages: "720-725"
-      editor: ""
+      editor: "Elhadi Shakshuki"
       publisher: "Elsevier"
       issn: "1877-0509"
-      doi: ""
+      doi: "/10.1016/j.procs.2022.03.097"
       pub: "scopus isi dblp SJR 2017: 0.26 SJR 2019: 0.3420"
       scopus: 1
       isi: 1
@@ -79,23 +78,23 @@ papers:
       dblp: 1
       ieee: 
       type: "book"
-      url: ""
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050922005105"
       citations: 
 
     - title: "A Comparative Study of Data Mining Techniques applied to Renal-Cell Carcinomas"
       authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
-      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCare"
+      booktitle: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering "
       volume: 432 
       pages: "53-62"
-      editor: 
+      editor: "Spinsante. S.. Silva. B.. Goleva. R."
       publisher: "Springer International Publishing"
       isbn: "978-3-030-99197-5"
       doi: "/10.1007/978-3-030-99197-5_5"
-      pub:
-      scopus: 
+      pub: "SJR 2019: 0.15"
+      scopus: 1
       isi:
-      q: 
+      q: 4
       type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-99197-5_5"
       citations:
@@ -103,17 +102,17 @@ papers:
     - title: "Predicting Diabetes Disease in the Female Adult Population"
       authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
-      booktitle: "Proceedings of the 8th EAI International Conference on IoT Technologies for HealthCare"
+      booktitle: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering"
       volume: 432
       pages: "63-73"
-      editor: 
+      editor: "Spinsante. S.. Silva. B.. Goleva. R."
       publisher: "Springer International Publishing"
       isbn: "978-3-030-99197-5"
       doi: "/10.1007/978-3-030-99197-5_6"
-      pub:
-      scopus: 
+      pub: "SJR 2019: 0.15"
+      scopus: 1
       isi:
-      q: 
+      q: 4
       type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-99197-5_6"
       citations:
@@ -130,8 +129,8 @@ papers:
       doi: "/10.1016/j.procs.2021.03.114"
       pub: "scopus isi dblp SJR 2020: 0.33"
       scopus: 1
-      isi:
-      q: 
+      isi: 1
+      q: 4
       type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050921007596"
       citations:

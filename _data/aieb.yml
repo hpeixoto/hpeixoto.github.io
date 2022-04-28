@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL06"
+    date: "19 abr 2022"
+    title: "Sprint Review e Planning"
+    plan: "../../data/aieb/pl06/aieb_pa06.pdf"
+    slides: 
+    exercise:
+    material: 
+    topics: "SCRUM | Trabalhos Práticos"
+
   - code: "PL05"
     date: "29 mar 2022"
     title: "Ponto de Situação"
@@ -30,7 +39,7 @@ class:
 
   - code: "PL02"
     date: "08 mar 2022"
-    title: "Sprint Planning"
+    title: "Sprint Planning #1"
     plan: "../../data/aieb/pl02/aieb_pa02.pdf"
     slides: 
     exercise:
