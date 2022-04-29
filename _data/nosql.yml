@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL09"
+    date: "29 abr 2022"
+    title: "Modelo de Grafos - Neo4j"
+    plan: "../../data/nosql/pl09/nosql_pa09.pdf"
+    slides: "../../data/nosql/pl09/nosql_pl09.pdf"
+    exercise: "../../data/nosql/pl09/nosql_fe06.pdf"
+    material: "../../data/nosql/pl09/email_neo4j.txt"
+    topics: "Grafos | Neo4J | noSQL"
+
   - code: "PL08"
     date: "22 abr 2022"
     title: "ElasticSearch (cont.) - Trabalho Prático"
