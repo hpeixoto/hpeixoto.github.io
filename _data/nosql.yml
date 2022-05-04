@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL10"
+    date: "06 mai 2022"
+    title: "Acompanhamento de Trabalhos Práticos"
+    plan: "../../data/nosql/pl10/nosql_pa10.pdf"
+    slides:
+    exercise:
+    material:
+    topics: "Trabalho Prático | noSQL"
+
   - code: "PL09"
     date: "29 abr 2022"
     title: "Modelo de Grafos - Neo4j"

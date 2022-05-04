@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "MobiApps 2022"
+    nick:  "MobiApps"
+    role: "Reviewer"
+    type: "Conference"
+    local: "--"
+    
+  - year: 2022
     name: "Journal of King Saud University - Computer and Information Sciences"
     nick:  "JKSU-CIS"
     role: "Reviewer"
