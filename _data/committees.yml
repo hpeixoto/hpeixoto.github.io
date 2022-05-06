@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "Artificial Intelligence in Medicine (EPIA2022)"
+    nick:  "AIM"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+
+  - year: 2022
     name: "MobiApps 2022"
     nick:  "MobiApps"
     role: "Reviewer"
