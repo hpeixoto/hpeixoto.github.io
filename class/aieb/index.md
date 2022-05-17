@@ -33,7 +33,7 @@ image: img/nosql.png
 
 ---
 <h2> Material de Apoio </h2>
-<!--<h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>-->
-<!--<p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
-Entrega: <strong> a definir </strong> (Partilha de ficheiros do grupo do Blackboard.)<br>
-Apresentação: <strong> a definir </strong> <br>-->
+<h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
+<p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
+Apresentação Grupo: <strong> 09 Junho - 09h </strong> <br>
+Entrega Relatório Individual: <strong> 19 Junho - 23h59 </strong> <br>
