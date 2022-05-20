@@ -3,6 +3,24 @@ class:
   - code: "PL10"
     date: "06 mai 2022"
     title: "Acompanhamento de Trabalhos Práticos"
+    plan: "../../data/nosql/pl12/nosql_pa12.pdf"
+    slides: "../../data/nosql/pl12/nosql_PL12.pdf"
+    exercise:
+    material:
+    topics: "Trabalho Prático | noSQL | ArangoDB | Multimodelo"
+
+  - code: "PL11"
+    date: "13 mai 2022"
+    title: "Acompanhamento de Trabalhos Práticos"
+    plan: "../../data/nosql/pl11/nosql_pa11.pdf"
+    slides:
+    exercise:
+    material:
+    topics: "Trabalho Prático | noSQL"
+
+  - code: "PL10"
+    date: "06 mai 2022"
+    title: "Acompanhamento de Trabalhos Práticos"
     plan: "../../data/nosql/pl10/nosql_pa10.pdf"
     slides:
     exercise:
