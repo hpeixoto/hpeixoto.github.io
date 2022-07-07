@@ -2,6 +2,45 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
+      authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      year: 2022
+      journal: "Wireless Networks"
+      volume: "jornal n. 11276"
+      pages: "1-9"
+      editor: "Chlamtac, I. (ed)"
+      publisher: "Springer US"
+      issn: "1572-8196"
+      doi: "/10.1007/s11276-018-01905-4"
+      pub: "scopus springer IF 2019: 2.6590 Q2 SJR 2019: 0.4820 Q2"
+      type: "journal"
+      scopus: 1
+      isi:
+      q: 2
+      dblp: 
+      url: "https://link.springer.com/article/10.1007/s11276-018-01905-4"
+      citations: 5
+
+    - title: "Pervasive Monitoring System for Services and Servers in Healthcare Environment"
+      authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      journal: "The 3rd International Workshop on Hospital 4.0 (Hospital)"
+      volume: "Procedia Computer Science vol. 201C"
+      pages: "720-725"
+      editor: "Elhadi Shakshuki"
+      publisher: "Elsevier"
+      issn: "1877-0509"
+      doi: "/10.1016/j.procs.2022.03.097"
+      pub: "scopus isi dblp SJR 2017: 0.26 SJR 2019: 0.3420"
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 1
+      ieee: 
+      type: "book"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050922005105"
+      citations: 
+
     - title: "Predictive Analytics to support diabetic patient detection"
       authors: "Maria João Vaz, João Lopes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Filipe Santos"
       year: 2022
@@ -80,26 +119,6 @@ papers:
       url: ""
       citations: 
 
-    - title: "Pervasive Monitoring System for Services and Servers in Healthcare Environment"
-      authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2022
-      journal: "The 3rd International Workshop on Hospital 4.0 (Hospital)"
-      volume: "Procedia Computer Science vol. 201C"
-      pages: "720-725"
-      editor: "Elhadi Shakshuki"
-      publisher: "Elsevier"
-      issn: "1877-0509"
-      doi: "/10.1016/j.procs.2022.03.097"
-      pub: "scopus isi dblp SJR 2017: 0.26 SJR 2019: 0.3420"
-      scopus: 1
-      isi: 1
-      q: 
-      dblp: 1
-      ieee: 
-      type: "book"
-      url: "https://www.sciencedirect.com/science/article/pii/S1877050922005105"
-      citations: 
-
     - title: "A Comparative Study of Data Mining Techniques applied to Renal-Cell Carcinomas"
       authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
@@ -118,7 +137,7 @@ papers:
       url: "https://link.springer.com/chapter/10.1007/978-3-030-99197-5_5"
       citations:
 
-    - title: "Predicting Diabetes Disease in the Female Adult Population"
+    - title: "Predicting Diabetes Disease in the Female Adult Population, Using Data Mining"
       authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2021
       booktitle: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering"
@@ -152,7 +171,7 @@ papers:
       q: 4
       type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050921007596"
-      citations:
+      citations: 2
 
     - title: "Architecture for Intensive Care Data Processing and Visualization in Real-time"
       authors: "Ricardo Cruz, Tiago Guimarães, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Filipe Santos"
@@ -261,7 +280,25 @@ papers:
       dblp: 1
       type: "conference"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-11890-7_55"
-      citations: 
+      citations: 4
+
+    - title: "ICU data management - A permissioned blockchain approach"
+      authors: "Tiago Guimarães, Ailton Moreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Manuel Filipe Santos"
+      year: 2020
+      booktitle: "The 11th International Conference on Emerging Ubiquitous Systems and Pervasive Networks (EUSPN 2020) / The 10th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH 2020) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.177"
+      pages: "546-551"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier B.V."
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2020.10.076"
+      pub: "scopus"
+      scopus: 1
+      isi:
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050920323462"
+      citations: 3
 
     - title: "A New Architecture for Intelligent Clinical Decision Support for Intensive Medicine"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel Filipe Santos"
@@ -279,7 +316,7 @@ papers:
       q: 
       type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050920305147"
-      citations:
+      citations: 4
 
     - title: "Modular Blockchain Implementation in Intensive Medicine"
       authors: "Tiago Guimarães, Hugo Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Manuel Filipe Santos"
@@ -297,7 +334,7 @@ papers:
       q: 
       type: "conference"
       url: "http://www.sciencedirect.com/science/article/pii/S187705092030510X"
-      citations: 1
+      citations: 3
 
     - title: "Death and morbidity prediction using data mining in perforated peptic ulcers"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Lara Silva, Tiago Jesus, Vitor Neves Lopes, António Abelha"
@@ -333,7 +370,7 @@ papers:
       q: 2
       type: "journal"
       url: "https://www.mdpi.com/1099-4300/21/12/1163"
-      citations: 4
+      citations: 19
 
     - title: "Predicting Postoperative Complications for Gastric Cancer Patients Using Data Mining"
       authors: "**<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Alexandra Francisco, Ana Duarte, Márcia Esteves, Sara Oliveira, Vítor Lopes, António Abelha, and José Machado"
@@ -448,25 +485,6 @@ papers:
       type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-11890-7_55"
       citations: 
-
-    - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
-      authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
-      year: 2019
-      journal: "Wireless Networks"
-      volume: "jornal n. 11276"
-      pages: "1-9"
-      editor: "Chlamtac, I. (ed)"
-      publisher: "Springer US"
-      issn: "1572-8196"
-      doi: "/10.1007/s11276-018-01905-4"
-      pub: "scopus springer IF 2019: 2.6590 Q2 SJR 2019: 0.4820 Q2"
-      type: "journal"
-      scopus: 1
-      isi:
-      q: 2
-      dblp: 
-      url: "https://link.springer.com/article/10.1007/s11276-018-01905-4"
-      citations: 4
 
     - title: "Business intelligence for nutrition therapy"
       authors: "Rita Reis, Ana Mendonça, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and Jose Machado"
