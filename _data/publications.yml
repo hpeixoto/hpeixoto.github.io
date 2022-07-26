@@ -222,7 +222,7 @@ papers:
       pub: "scopus dblp IF 2005: 0.40 Q4 SJR 2020: 0.25 Q3"
       scopus: 
       isi:
-      q: 
+      q: 2
       type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-62365-4_31"
       citations:
@@ -240,7 +240,7 @@ papers:
       pub: "scopus dblp IF 2005: 0.40 Q4 SJR 2020: 0.25 Q3"
       scopus: 
       isi:
-      q: 
+      q: 2
       type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-62362-3_19"
       citations: 
@@ -258,7 +258,7 @@ papers:
       pub: "scopus dblp IF 2005: 0.40 Q4 SJR 2020: 0.25 Q3"
       scopus: 
       isi:
-      q: 
+      q: 2
       type: "book"
       url: "https://link.springer.com/chapter/10.1007/978-3-030-62365-4_47"
       citations:
@@ -1073,7 +1073,7 @@ papers:
       pub: "scopus dblp"
       scopus: 1
       isi: 
-      q: 
+      q: 2
       dblp: 1
       ieee: 
       isbn: "978-3-642-03067-3"

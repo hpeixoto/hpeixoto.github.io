@@ -4,6 +4,20 @@
 committees:
 
   - year: 2022
+    name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick:  "3ICT21"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain"
+    
+  - year: 2022
+    name: "Sustainable, Innovative and Intelligent Societies and Cities"
+    nick:  "SIISC"
+    role: "Reviewer"
+    type: "Book"
+    local: "--"  
+
+  - year: 2022
     name: "Sustainability - MDPI"
     nick:  "Sustainability"
     role: "Reviewer"
