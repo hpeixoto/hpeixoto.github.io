@@ -4,6 +4,13 @@
 committees:
 
   - year: 2022
+    name: "Mathematical Biosciences and Engineering - AIMS"
+    nick:  "MBE"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2022
     name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
     nick:  "3ICT21"
     role: "Reviewer"

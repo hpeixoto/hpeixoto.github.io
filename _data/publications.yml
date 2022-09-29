@@ -2,6 +2,141 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "OpenEHR based bariatric surgery follow-up"
+      authors: "Ana Afonso, César Alvaréz, Diana Ferreira, Daniela Oliveira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      year: 2022
+      booktitle: "12th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH 2022)"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: "conference"
+      scopus:
+      isi:
+      q: 
+      dblp: 
+      url: 
+      citations: 0
+
+    - title: "Evaluation of Transfer Learning to improve Arrhythmia Classification for a small ECG Database"
+      authors: "Larissa Montenegro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: "conference"
+      scopus:
+      isi:
+      q: 2
+      dblp: 
+      url: 
+      citations: 0
+
+    - title: "Prediction models applied to lung cancer using Data Mining"
+      authors: "Rita Sousa, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: "conference"
+      scopus:
+      isi:
+      q:
+      dblp: 
+      url: 
+      citations: 0
+
+    - title: "Improving the Effectiveness of Heart Disease Diagnosis with Machine Learning"
+      authors: "Catarina Oliveira, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: "conference"
+      scopus:
+      isi:
+      q:
+      dblp: 
+      url: 
+      citations: 0
+
+    - title: "A comprehensive study on personal and medical information to predict diabetes"
+      authors: "Nuno Pimenta, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: "conference"
+      scopus:
+      isi:
+      q:
+      dblp: 
+      url: 
+      citations: 0
+
+    - title: "Sustainable and Social Energy on Smart Cities: Systematic Review"
+      authors: "Regina Sousa, Diogo Lopes, António Silva, Dalila Durães, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and Paulo Novais"
+      year: 2022
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: "conference"
+      scopus:
+      isi:
+      q:
+      dblp: 
+      url: 
+      citations: 0
+
+
+    - title: "Determining Internal Medicine Length of Stay by means of Predictive Analytics"
+      authors: "Diogo Peixoto, Mariana Faria, Rui Macedo, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, João Lopes, Agostinho Barbosa, Tiago Guimarães and Manuel Santos"
+      year: 2022
+      journal: "Progress in Artificial Intelligence. EPIA 2022. Lecture Notes in Computer Science"
+      volume: "13566"
+      pages: "171--182"
+      editor: "Marreiros, Goreti and Martins, Bruno and Paiva, Ana and Ribeiro, Bernardete and Sardinha, Alberto"
+      publisher: "Springer, Cham"
+      issn: ""
+      doi: "/10.1007/978-3-031-16474-3_15"
+      pub: ""
+      type: "book"
+      scopus: 
+      isi: 
+      q: 2
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-16474-3_15"
+      citations: 0
+      
+
     - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
       authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2022
@@ -106,9 +241,9 @@ papers:
       volume: ""
       pages: ""
       editor: ""
-      publisher: ""
+      publisher: "IEEE"
       issn: ""
-      doi: ""
+      doi: "/10.23919/CISTI54924.2022.9820365"
       pub: ""
       scopus: 1
       isi: 1
@@ -116,12 +251,12 @@ papers:
       dblp: 1
       ieee: 1
       type: "conference"
-      url: ""
+      url: "https://ieeexplore.ieee.org/document/9820365"
       citations: 
 
     - title: "A Comparative Study of Data Mining Techniques applied to Renal-Cell Carcinomas"
       authors: "Ana Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2021
+      year: 2022
       booktitle: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering "
       volume: 432 
       pages: "53-62"
@@ -139,7 +274,7 @@ papers:
 
     - title: "Predicting Diabetes Disease in the Female Adult Population, Using Data Mining"
       authors: "Carolina Marques, Vasco Ramos, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2021
+      year: 2022
       booktitle: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering"
       volume: 432
       pages: "63-73"
@@ -147,7 +282,7 @@ papers:
       publisher: "Springer International Publishing"
       isbn: "978-3-030-99197-5"
       doi: "/10.1007/978-3-030-99197-5_6"
-      pub: "SJR 2019: 0.15"
+      pub: "SJR 2019: 0.15 Scopus"
       scopus: 1
       isi:
       q: 4
