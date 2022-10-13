@@ -4,6 +4,11 @@ title: Supervising
 image: "none"
 ---
 
-<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4">
-    <p>... Under construction ... </p>
-</div>
+{% for supervision in site.data.supervision.supervisions %}
+<h3>  <a href="{{ jurie.url }}" target="_blank">{{supervision.title}} <i class="fa fa-external-link" aria-hidden="true"></i></a></h3>
+<i class="fa fa-location-arrow"></i> {{supervision.institution}} | <i class="fa fa-calendar"></i> {{ supervision.date }}  
+<strong> Candidate: </strong>{{ supervision.student }}
+
+---
+
+{% endfor %}
