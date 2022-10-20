@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL04"
+    date: "20 out 2022"
+    title: "Regressão Linear"
+    plan: "../../data/aec/pl04/aec_pa04.pdf"
+    slides: "../../data/aec/pl04/aec_pl04.pdf"
+    exercise: "../../data/aec/pl04/aec_fe04.pdf"
+    material: "../../data/aec/pl04/pl04-dataset.csv"
+    topics: "RapidMiner Studio | Regressão Linear"
+
   - code: "PL03"
     date: "13 out 2022"
     title: "Regras de Associação"

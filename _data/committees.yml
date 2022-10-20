@@ -1,7 +1,13 @@
 #role: Reviewer, Program Committee, Scientific Committee, Track Chair
 #type: Workshop, Conference, Journal
-
 committees:
+
+  - year: 2023
+    name: "International Conference On Cyber Management And Engineering"
+    nick:  "CyMaEn'23"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Thailand"
 
   - year: 2022
     name: "Mathematical Biosciences and Engineering - AIMS"

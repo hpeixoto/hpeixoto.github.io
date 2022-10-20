@@ -3,6 +3,20 @@
 
 juries:
 
+  - title: "Raciocínio Baseado na Ética Médica na Decisão em Grupo"
+    institution:  "University of Minho"
+    date: "Out. 2022"
+    student: "Gabriel Pontes"
+    course: "Doutoramento em Engenharia Biomédica"
+    url: ""
+
+  - title: "An Evolving Cognitive Approach to Dyscalculia Screening and Therapeutics"
+    institution:  "University of Minho"
+    date: "Abr. 2022"
+    student: "Filipa Ferraz"
+    course: "Doutoramento em Engenharia Biomédica"
+    url: ""
+
   - title: "Smart Cities: Rotas Adaptáveis e Inteligentes"
     institution:  "University of Minho"
     date: "Jul. 2022"
@@ -19,7 +33,7 @@ juries:
 
   - title: "Business Intelligence em saúde baseada em blockchain"
     institution:  "University of Minho"
-    date: "junh. 2022"
+    date: "Jun. 2022"
     student: "Ricardo Duarte"
     course: "Research Plan in Doctoral Program in Information Systems and Technology"
     url: ""
