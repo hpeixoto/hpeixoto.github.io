@@ -6,7 +6,7 @@ class:
     plan: "../../data/aec/pl04/aec_pa04.pdf"
     slides: "../../data/aec/pl04/aec_pl04.pdf"
     exercise: "../../data/aec/pl04/aec_fe04.pdf"
-    material: "../../data/aec/pl04/pl04-dataset.csv"
+    material: "../../data/aec/pl04/material.csv"
     topics: "RapidMiner Studio | Regressão Linear"
 
   - code: "PL03"
