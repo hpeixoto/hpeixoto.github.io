@@ -1,5 +1,15 @@
 class:
 
+  - code: "PL05"
+    date: "27 out 2022"
+    title: "Classificação"
+    plan: "../../data/aec/pl05/aec_pa05.pdf"
+    slides: "../../data/aec/pl05/aec_pl05.pdf"
+    exercise: "../../data/aec/pl05/aec_fe05.pdf"
+    material: "../../data/aec/pl05/material.zip"
+    topics: "RapidMiner Studio | Classificação"
+
+
   - code: "PL04"
     date: "20 out 2022"
     title: "Regressão Linear"
