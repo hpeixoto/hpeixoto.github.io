@@ -63,19 +63,20 @@ papers:
       authors: "Catarina Oliveira, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2022
       journal: ""
+      booktitle: "Highlights in Practical Applications of Agents, Multi-Agent Systems, and Complex Systems Simulation. The PAAMS Collection"
       volume: ""
-      pages: ""
+      pages: "222-231"
       editor: ""
-      publisher: ""
+      publisher: "Springer International Publishing"
       issn: ""
-      doi: ""
+      doi: "/0.1007/978-3-031-18697-4_18"
       pub: ""
       type: "conference"
-      scopus:
+      scopus: 1
       isi:
       q:
       dblp: 
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-18697-4_18"
       citations: 0
 
     - title: "A comprehensive study on personal and medical information to predict diabetes"
