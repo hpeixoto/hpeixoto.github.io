@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL07"
+    date: "10 nov 2022"
+    title: "Projeto de DM - Cont."
+    plan: "../../data/aec/pl07/aec_pa07.pdf"
+    slides: 
+    exercise: "../../data/aec/pl06/aec_fe06.pdf"
+    material: "../../data/aec/pl06/heart-c.csv"
+    topics: "RapidMiner Studio | Data Mining | Outliers | Normalization"
+
   - code: "PL06"
     date: "03 nov 2022"
     title: "Projeto de DM"
