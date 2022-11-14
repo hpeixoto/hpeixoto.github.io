@@ -2,23 +2,58 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Association Models for Relating Problems with Semiologic Data in Intensive Medicine"
+      authors: "Inês Tavares, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** Álvaro Silva, Maria Manuel and César Quintas"
+      year: 2022
+      booktitle: "The 13th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.210"
+      pages: "254-259"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier B.V."
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2022.10.146"
+      pub: "scopus isi dblp SJR 2021: 0.57"
+      scopus: 1
+      isi: 1
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050922016039"
+      citations: 0
+
+    - title: "Predictive analytics for hospital inpatient flow determination"
+      authors: "Diogo Peixoto, Agostinho Barbosa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, João Lopes, Tiago Guimarães, Manuel Santos"
+      year: 2022
+      booktitle: "The 13th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.210"
+      pages: "224-229"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier B.V."
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2022.10.141"
+      pub: "scopus isi dblp SJR 2021: 0.57"
+      scopus: 1
+      isi: 1
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050922015988"
+      citations: 0
+
     - title: "OpenEHR based bariatric surgery follow-up"
       authors: "Ana Afonso, César Alvaréz, Diana Ferreira, Daniela Oliveira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2022
-      booktitle: "12th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare (ICTH 2022)"
-      volume: ""
-      pages: ""
-      editor: ""
-      publisher: ""
-      issn: ""
-      doi: ""
-      pub: ""
-      type: "conference"
-      scopus:
-      isi:
+      booktitle: "The 13th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
+      volume: "Procedia Computer Science vol.210"
+      pages: "271-276"
+      editor: "Shakshuki, E., Yasar, A."
+      publisher: "Elsevier B.V."
+      isbn: "1877-0509"
+      doi: "/10.1016/j.procs.2022.10.149"
+      pub: "scopus isi dblp SJR 2021: 0.57"
+      scopus: 1
+      isi: 1
       q: 
-      dblp: 
-      url: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050922015988"
       citations: 0
 
     - title: "Evaluation of Transfer Learning to improve Arrhythmia Classification for a small ECG Database"
@@ -117,7 +152,6 @@ papers:
       url: 
       citations: 0
 
-
     - title: "Determining Internal Medicine Length of Stay by means of Predictive Analytics"
       authors: "Diogo Peixoto, Mariana Faria, Rui Macedo, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, João Lopes, Agostinho Barbosa, Tiago Guimarães and Manuel Santos"
       year: 2022
@@ -136,7 +170,6 @@ papers:
       dblp: 
       url: "https://link.springer.com/chapter/10.1007/978-3-031-16474-3_15"
       citations: 0
-      
 
     - title: "A Data Mining Approach to Classify Serum Creatinine Values in Patients Undergoing Continuous Ambulatory Peritoneal Dialysis"
       authors: "Claúdia Brito, Marisa Esteves, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
