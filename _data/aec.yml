@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL08"
+    date: "17 nov 2022"
+    title: "Acompanhamento de Trabalho Prático | Projeto de DM - Cont."
+    plan: "../../data/aec/pl08/aec_pa08.pdf"
+    slides: 
+    exercise: "../../data/aec/pl06/aec_fe06.pdf"
+    material: "../../data/aec/pl06/heart-c.csv"
+    topics: "RapidMiner Studio | Data Mining | Outliers | Normalization"
+
   - code: "PL07"
     date: "10 nov 2022"
     title: "Projeto de DM - Cont."
