@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL09"
+    date: "24 nov 2022"
+    title: "Introdução ao Python para DM | Acompanhamento de Trabalho Prático"
+    plan: "../../data/aec/pl09/aec_pa09.pdf"
+    slides: 
+    exercise: "../../data/aec/pl09/aec_fe07.pdf"
+    material:
+    topics: "Python | Data Mining"
+
   - code: "PL08"
     date: "17 nov 2022"
     title: "Acompanhamento de Trabalho Prático | Projeto de DM - Cont."
