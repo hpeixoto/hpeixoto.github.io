@@ -34,7 +34,7 @@ image: "none"
 
 
 ---
-<p>Acesso discord: <a href="https://discord.gg/J2XKEXv9" target="_blank"> <i class="fa-brands fa-discord"></i>  </a> </p>
+<p>Acesso discord: <a href="https://discord.gg/J2XKEXv9" target="_blank"> AQUI.  </a> </p>
 <h2> <i class="fa fa-hand-paper-o"></i> Trabalho Prático</h2>
 <p> <a href="#" target="_blank"><i class="fa fa-file-text-o"></i> Enunciado</a> <br>
 <p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
