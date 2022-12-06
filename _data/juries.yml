@@ -3,6 +3,13 @@
 
 juries:
 
+  - title: "Segurança e Imutabilidade de dados abertos na área clínica"
+    institution:  "University of Minho"
+    date: "Dec. 2022"
+    student: "Paulo Gomes"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
   - title: "Raciocínio Baseado na Ética Médica na Decisão em Grupo"
     institution:  "University of Minho"
     date: "Out. 2022"
