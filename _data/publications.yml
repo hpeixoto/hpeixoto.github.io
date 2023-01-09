@@ -2,8 +2,26 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "The Covid-19 Influence on the Desire to Stay at Home: A Big Data Architecture"
+      authors: "Regina Sousa, Daniela Oliveira, Ana Carneiro, Luís Pinto, Ana Pereira, Ana Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2022
+      booktitle: "Intelligent Data Engineering and Automated Learning -- IDEAL 2022"
+      volume: "Lecture Notes in Computer Science book series vol. 13756)"
+      pages: "199-210"
+      editor: "Hujun Yin, David Camacho and Peter Tino"
+      publisher: "Springer International Publishing"
+      isbn: "978-3-031-21753-1"
+      doi: "10.1007/978-3-031-21753-1_20"
+      pub: "scopus "
+      scopus: 1
+      isi: 1
+      q: 2
+      type: "conference"
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-21753-1_20"
+      citations: 0
+
     - title: "Association Models for Relating Problems with Semiologic Data in Intensive Medicine"
-      authors: "Inês Tavares, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** Álvaro Silva, Maria Manuel and César Quintas"
+      authors: "Inês Tavares, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Álvaro Silva, Maria Manuel and César Quintas"
       year: 2022
       booktitle: "The 13th International Conference on Ambient Systems, Networks and Technologies (ANT) / The 3rd International Conference on Emerging Data and Industry 4.0 (EDI40) / Affiliated Workshops"
       volume: "Procedia Computer Science vol.210"
@@ -59,20 +77,20 @@ papers:
     - title: "Evaluation of Transfer Learning to improve Arrhythmia Classification for a small ECG Database"
       authors: "Larissa Montenegro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2022
-      journal: ""
+      journal: "Advances in Artificial Intelligence – IBERAMIA 2022"
       volume: ""
-      pages: ""
-      editor: ""
-      publisher: ""
+      pages: "231-242"
+      editor: "Bicharra Garcia, Ana Cristina Ferro, Mariza Rodríguez Ribón, Julio Cesar"
+      publisher: "Springer International Publishing"
       issn: ""
-      doi: ""
+      doi: "/10.1007/978-3-031-22419-5_20"
       pub: ""
       type: "conference"
-      scopus:
+      scopus: 1
       isi:
       q: 2
       dblp: 
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-22419-5_20"
       citations: 0
 
     - title: "Prediction models applied to lung cancer using Data Mining"
@@ -116,40 +134,40 @@ papers:
 
     - title: "A comprehensive study on personal and medical information to predict diabetes"
       authors: "Nuno Pimenta, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2022
-      journal: ""
+      year: 2023
+      journal: "Lecture Notes in Networks and Systems"
       volume: ""
-      pages: ""
+      pages: "197-207"
       editor: ""
-      publisher: ""
+      publisher: "Springer International Publishing"
       issn: ""
-      doi: ""
+      doi: "/10.1007/978-3-031-20859-1_20"
       pub: ""
       type: "conference"
-      scopus:
-      isi:
+      scopus: 1
+      isi: 
       q:
       dblp: 
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-20859-1_20"
       citations: 0
 
     - title: "Sustainable and Social Energy on Smart Cities: Systematic Review"
       authors: "Regina Sousa, Diogo Lopes, António Silva, Dalila Durães, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and Paulo Novais"
       year: 2022
-      journal: ""
-      volume: ""
-      pages: ""
+      journal: "Advanced Research in Technologies, Information, Innovation and Sustainability. ARTIIS 2022. Communications in Computer and Information Science"
+      volume: "1676"
+      pages: "72-84"
       editor: ""
-      publisher: ""
+      publisher: "Springer, Cham"
       issn: ""
-      doi: ""
+      doi: "/10.1007/978-3-031-20316-9_6"
       pub: ""
       type: "conference"
-      scopus:
+      scopus: 1
       isi:
       q:
       dblp: 
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-20316-9_6"
       citations: 0
 
     - title: "Determining Internal Medicine Length of Stay by means of Predictive Analytics"
