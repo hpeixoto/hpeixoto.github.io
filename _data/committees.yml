@@ -3,6 +3,41 @@
 committees:
 
   - year: 2023
+    name: "Arab ICT Conference 2023s"
+    nick:  "AICTC 2023"
+    role: "Technical Program Committee"
+    type: "Conference"
+    local: "Kingdmom of Bahrain"
+
+  - year: 2023
+    name: "Sustainable Smart Cities and Territories International Conference"
+    nick:  "SSCt 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Manizales, Colombia"
+
+  - year: 2023
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick:  "ARTIIS 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Madrid, Spain"
+
+  - year: 2023
+    name: "14th International Symposium on Ambient Intelligence"
+    nick:  "ISAmI 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+
+  - year: 2023
+    name: "SLATE 2023: Symposium on Languages, Applications and Technologies"
+    nick:  "SLATE 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Vila do Conde, Portugal"
+
+  - year: 2023
     name: "International Conference On Cyber Management And Engineering"
     nick:  "CyMaEn'23"
     role: "Reviewer"
@@ -167,7 +202,7 @@ committees:
   - year: 2022
     name: "IKIT 2022 book: Information and Knowledge in Internet of Things"
     nick:  "ICITS 2022"
-    role: "Programm Committee"
+    role: "Program Committee"
     type: "Book"
     local: "--"
 
@@ -272,7 +307,7 @@ committees:
   - year: 2021
     name: "IKIT 2021 book: Information and Knowledge in Internet of Things"
     nick:  "ICITS 2021"
-    role: "Programm Committee"
+    role: "Program Committee"
     type: "Book"
     local: "--"
 
@@ -314,7 +349,7 @@ committees:
   - year: 2020
     name: "Hospital 4.0 Workshop"
     nick: "EDI4.0"
-    role: "Programm Committee"
+    role: "Program Committee"
     type: "Workshop"
     local: "Warsaw, Polan"
 
@@ -544,6 +579,6 @@ committees:
 
   - year: 2010
     name: "INFORUM 2010 - Simpósio de Informática"
-    role: "Programm Committee"
+    role: "Program Committee"
     type: "Symposium"
     local: "Braga, Portugal"
