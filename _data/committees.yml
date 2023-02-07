@@ -3,6 +3,13 @@
 committees:
 
   - year: 2023
+    name: "5th International Congress on Blockchain and Applications"
+    nick:  "BLOCKCHAIN'23"
+    role: "Local Chair"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+
+  - year: 2023
     name: "Arab ICT Conference 2023s"
     nick:  "AICTC 2023"
     role: "Technical Program Committee"
