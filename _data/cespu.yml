@@ -1,10 +1,19 @@
 class:
 
-  - code: "Prática"
-    date: "05/11 fev 2022"
+  - code: "Teórica-Prática"
+    date: "10 fev 2023"
     title: "Dos dados à informação"
     plan: 
-    slides: "../../data/cespu/slides.pdf"
+    slides: "../../data/cespu/slides_aula2.pdf"
     exercise: "../../data/cespu/cespu_tic.pdf"
     material: "../../data/cespu/export.csv"
+    topics: "TIC | DADOS | SAUDE"
+
+  - code: "Teórica"
+    date: "04 fev 2023"
+    title: "Dos dados à informação"
+    plan: 
+    slides: "../../data/cespu/slides_aula1.pdf"
+    exercise: 
+    material:
     topics: "TIC | DADOS | SAUDE"
