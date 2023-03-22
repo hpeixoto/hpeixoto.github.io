@@ -3,6 +3,35 @@
 committees:
 
   - year: 2023
+    name: "International Workshop on Mobile Applications"
+    nick:  "Mobiapps 23"
+    role: "TPC reviewer"
+    type: "Conference"
+    local: "Marrakech, Marocco"
+
+MobiApps 2023
+  - year: 2023
+    name: "21st International Conference on Practical Applications of Agents and Multi-Agent Systems"
+    nick:  "PAAMS 23"
+    role: "Local Organizing Committee"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+
+  - year: 2023
+    name: "20th International Conference on Distributed Computing and Artificial Intelligence"
+    nick:  "DCAI 23"
+    role: "Local Organizing Committee"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+
+  - year: 2023
+    name: "6th International Conference on Applied Informatics"
+    nick:  "ICAI 2023"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Universidad Ecotec Guayaquil, Ecuador"
+
+  - year: 2023
     name: "5th International Congress on Blockchain and Applications"
     nick:  "BLOCKCHAIN'23"
     role: "Local Chair"
