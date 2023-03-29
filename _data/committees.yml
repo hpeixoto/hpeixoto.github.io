@@ -2,6 +2,14 @@
 #type: Workshop, Conference, Journal
 committees:
 
+  - year: 2022
+    name: "Computer Methods in Biomechanics and Biomedical Engineering"
+    nick:  ""
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+
   - year: 2023
     name: "International Workshop on Mobile Applications"
     nick:  "Mobiapps 23"
