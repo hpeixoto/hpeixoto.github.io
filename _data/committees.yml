@@ -2,13 +2,19 @@
 #type: Workshop, Conference, Journal
 committees:
 
-  - year: 2022
+  - year: 2023
+    name: "The Thirteenth International Conference on Ambient Computing, Applications, Services and Technologies"
+    nick:  "AMBIENT 2023"
+    role: "Technical Program Committee"
+    type: "Conference"
+    local: "Porto, Portugal"
+
+  - year: 2023
     name: "Computer Methods in Biomechanics and Biomedical Engineering"
     nick:  ""
     role: "Reviewer"
     type: "Journal"
     local: "--"
-
 
   - year: 2023
     name: "International Workshop on Mobile Applications"
