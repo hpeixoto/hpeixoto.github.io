@@ -95,21 +95,21 @@ papers:
 
     - title: "Prediction models applied to lung cancer using Data Mining"
       authors: "Rita Sousa, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2022
-      journal: ""
-      volume: ""
+      year: 2023
+      journal: " Intelligent Distributed Computing XV. IDC 2022. Studies in Computational Intelligence"
+      volume: "1089"
       pages: ""
-      editor: ""
-      publisher: ""
+      editor: "Lars Braubach, Kai Jander, Costin Bădică"
+      publisher: "Springer International Publishing"
       issn: ""
-      doi: ""
+      doi: "/10.1007/978-3-031-29104-3_22"
       pub: ""
       type: "conference"
-      scopus:
+      scopus: 0
       isi:
       q:
       dblp: 
-      url: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-29104-3_22"
       citations: 0
 
     - title: "Improving the Effectiveness of Heart Disease Diagnosis with Machine Learning"
