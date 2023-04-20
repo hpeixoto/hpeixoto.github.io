@@ -74,6 +74,25 @@ papers:
       url: "https://link.springer.com/chapter/10.1007/978-3-031-29104-3_22"
       citations: 0
 
+    - title: "A comprehensive study on personal and medical information to predict diabetes"
+      authors: "Nuno Pimenta, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2023
+      journal: "Lecture Notes in Networks and Systems"
+      volume: ""
+      pages: "197-207"
+      editor: ""
+      publisher: "Springer International Publishing"
+      issn: ""
+      doi: "/10.1007/978-3-031-20859-1_20"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q:
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-20859-1_20"
+      citations: 0
+
     - title: "The Covid-19 Influence on the Desire to Stay at Home: A Big Data Architecture"
       authors: "Regina Sousa, Daniela Oliveira, Ana Carneiro, Luís Pinto, Ana Pereira, Ana Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2022
@@ -183,25 +202,6 @@ papers:
       q:
       dblp: 
       url: "https://link.springer.com/chapter/10.1007/978-3-031-18697-4_18"
-      citations: 0
-
-    - title: "A comprehensive study on personal and medical information to predict diabetes"
-      authors: "Nuno Pimenta, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2023
-      journal: "Lecture Notes in Networks and Systems"
-      volume: ""
-      pages: "197-207"
-      editor: ""
-      publisher: "Springer International Publishing"
-      issn: ""
-      doi: "/10.1007/978-3-031-20859-1_20"
-      pub: ""
-      type: "conference"
-      scopus: 1
-      isi: 
-      q:
-      dblp: 
-      url: "https://link.springer.com/chapter/10.1007/978-3-031-20859-1_20"
       citations: 0
 
     - title: "Sustainable and Social Energy on Smart Cities: Systematic Review"
