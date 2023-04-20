@@ -2,6 +2,97 @@
 #type: Workshop, Conference
 papers:
 
+    # - title: ""
+    #   authors: " **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+    #   year: 
+    #   booktitle: ""
+    #   volume: ""
+    #   pages: ""
+    #   editor: ""
+    #   publisher: ""
+    #   isbn: ""
+    #   doi: ""
+    #   pub: ""
+    #   scopus: 
+    #   isi: 
+    #   q: 
+    #   type: ""
+    #   url: ""
+    #   citations: 0
+
+   - title: "A Data Acquisition and Consolidation System based on openEHR applied to Physical Medicine and Rehabilitation"
+      authors: "Ines Silva, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado"
+      year: 2023
+      booktitle: "The 14th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2022) and The 6th International Conference on Emerging Data and Industry 4.0 (EDI40)"
+      volume: "Procedia Computer Science. 200"
+      pages: "844-849"
+      editor: ""
+      publisher: "Science Direct"
+      isbn: ""
+      doi: "/10.1016/j.procs.2023.03.113"
+      pub: ""
+      scopus: 1
+      isi: 
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050923006488"
+      citations: 0
+
+   - title: "Enhancing Clinical Management of Bariatric Surgery Using Business Intelligence"
+      authors: "Lara Vaz,  **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Júlio Duarte, César Alvarez and José Machado"
+      year: 2023
+      booktitle: "The 14th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2022) and The 6th International Conference on Emerging Data and Industry 4.0 (EDI40)"
+      volume: "Procedia Computer Science. 200"
+      pages: "850-855"
+      editor: ""
+      publisher: "Science Direct"
+      isbn: ""
+      doi: "/10.1016/j.procs.2023.03.114"
+      pub: ""
+      scopus: 1
+      isi: 
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S187705092300649X"
+      citations: 0
+
+    - title: "Interoperability of Clinical Data through FHIR: A review"
+      authors: "Nuno Pimenta, António Chaves, Regina Sousa, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2023
+      booktitle: "The 14th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2022) and The 6th International Conference on Emerging Data and Industry 4.0 (EDI40)"
+      volume: "Procedia Computer Science. 200"
+      pages: "856-861"
+      editor: ""
+      publisher: "Science Direct"
+      isbn: ""
+      doi: "/10.1016/j.procs.2023.03.115"
+      pub: ""
+      scopus: 1
+      isi: 
+      q: 
+      type: "conference"
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050923006506"
+      citations: 0
+
+    - title: "Prediction models applied to lung cancer using Data Mining"
+      authors: "Rita Sousa, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2023
+      journal: " Intelligent Distributed Computing XV. IDC 2022. Studies in Computational Intelligence"
+      volume: "1089"
+      pages: "195–200"
+      editor: "Lars Braubach, Kai Jander, Costin Bădică"
+      publisher: "Springer International Publishing"
+      issn: ""
+      doi: "/10.1007/978-3-031-29104-3_22"
+      pub: ""
+      type: "conference"
+      scopus: 0
+      isi:
+      q:
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-29104-3_22"
+      citations: 0
+
     - title: "The Covid-19 Influence on the Desire to Stay at Home: A Big Data Architecture"
       authors: "Regina Sousa, Daniela Oliveira, Ana Carneiro, Luís Pinto, Ana Pereira, Ana Peixoto, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2022
@@ -91,25 +182,6 @@ papers:
       q: 2
       dblp: 
       url: "https://link.springer.com/chapter/10.1007/978-3-031-22419-5_20"
-      citations: 0
-
-    - title: "Prediction models applied to lung cancer using Data Mining"
-      authors: "Rita Sousa, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2023
-      journal: " Intelligent Distributed Computing XV. IDC 2022. Studies in Computational Intelligence"
-      volume: "1089"
-      pages: "195–200"
-      editor: "Lars Braubach, Kai Jander, Costin Bădică"
-      publisher: "Springer International Publishing"
-      issn: ""
-      doi: "/10.1007/978-3-031-29104-3_22"
-      pub: ""
-      type: "conference"
-      scopus: 0
-      isi:
-      q:
-      dblp: 
-      url: "https://link.springer.com/chapter/10.1007/978-3-031-29104-3_22"
       citations: 0
 
     - title: "Improving the Effectiveness of Heart Disease Diagnosis with Machine Learning"
