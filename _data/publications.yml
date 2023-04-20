@@ -55,6 +55,7 @@ papers:
       type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050923006506"
       citations: 0
+      
     - title: "Prediction models applied to lung cancer using Data Mining"
       authors: "Rita Sousa, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2023
