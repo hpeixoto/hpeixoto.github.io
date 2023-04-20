@@ -2,25 +2,7 @@
 #type: Workshop, Conference
 papers:
 
-    # - title: ""
-    #   authors: " **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
-    #   year: 
-    #   booktitle: ""
-    #   volume: ""
-    #   pages: ""
-    #   editor: ""
-    #   publisher: ""
-    #   isbn: ""
-    #   doi: ""
-    #   pub: ""
-    #   scopus: 
-    #   isi: 
-    #   q: 
-    #   type: ""
-    #   url: ""
-    #   citations: 0
-
-   - title: "A Data Acquisition and Consolidation System based on openEHR applied to Physical Medicine and Rehabilitation"
+    - title: "A Data Acquisition and Consolidation System based on openEHR applied to Physical Medicine and Rehabilitation"
       authors: "Ines Silva, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado"
       year: 2023
       booktitle: "The 14th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2022) and The 6th International Conference on Emerging Data and Industry 4.0 (EDI40)"
@@ -38,7 +20,7 @@ papers:
       url: "https://www.sciencedirect.com/science/article/pii/S1877050923006488"
       citations: 0
 
-   - title: "Enhancing Clinical Management of Bariatric Surgery Using Business Intelligence"
+    - title: "Enhancing Clinical Management of Bariatric Surgery Using Business Intelligence"
       authors: "Lara Vaz,  **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Júlio Duarte, César Alvarez and José Machado"
       year: 2023
       booktitle: "The 14th International Conference on Ambient Systems, Networks and Technologies Networks (ANT 2022) and The 6th International Conference on Emerging Data and Industry 4.0 (EDI40)"
@@ -73,7 +55,6 @@ papers:
       type: "conference"
       url: "https://www.sciencedirect.com/science/article/pii/S1877050923006506"
       citations: 0
-
     - title: "Prediction models applied to lung cancer using Data Mining"
       authors: "Rita Sousa, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2023
