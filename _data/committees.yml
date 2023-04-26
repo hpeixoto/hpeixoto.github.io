@@ -3,6 +3,20 @@
 committees:
 
   - year: 2023
+    name: "Knowledge and Information Systems"
+    nick:  ""
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2023
+    name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
+    nick: "MiCRADS 2023"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Bogotá, Colombia"
+
+  - year: 2023
     name: "The Thirteenth International Conference on Ambient Computing, Applications, Services and Technologies"
     nick:  "AMBIENT 2023"
     role: "Technical Program Committee"
