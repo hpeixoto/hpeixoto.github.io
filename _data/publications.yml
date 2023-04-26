@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Smart Cities using Crowdsensing and Geoferenced Notifications"
+      authors: "Rui Miranda, Eduarda Ribeiro, Dalila Durães, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Ricardo Machado, António Abelha and José Machado"
+      year: 2023
+      booktitle: "Sustainable Smart Cities and Territories International Conference"
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      isbn: ""
+      doi: ""
+      pub: ""
+      scopus: 
+      isi: 
+      q: 
+      type: "conference"
+      url: ""
+      citations: 0
+
+
     - title: "A Data Acquisition and Consolidation System based on openEHR applied to Physical Medicine and Rehabilitation"
       authors: "Ines Silva, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado"
       year: 2023
