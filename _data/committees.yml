@@ -3,6 +3,20 @@
 committees:
 
   - year: 2023
+    name: "Special Issue "Machine and Deep Learning in the Health Domain"
+    nick:  "Computers"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2023
+    name: "Operations Research and Decisions"
+    nick:  "ORD"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2023
     name: "Knowledge and Information Systems"
     nick:  ""
     role: "Reviewer"
