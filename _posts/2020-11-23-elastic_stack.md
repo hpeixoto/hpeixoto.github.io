@@ -143,9 +143,9 @@ PUT /inspections/_doc/12345
 }
 ~~~
 
-Ao indexar os documentos anteriores é automaticamente criado o indice: **_inspecion_**
+Ao indexar os documentos anteriores é automaticamente criado o indice: **_inspections_**
 
-Em vez de criar um indice dinnâmeico podemos criar um índice previamente:
+Em vez de criar um indice dinâmico podemos criar um índice previamente:
 
 ~~~javascript
 DELETE /inspections
