@@ -3,6 +3,13 @@
 committees:
 
   - year: 2023
+    name: "Artificial Intelligence in Medicine (EPIA2023)"
+    nick:  "EPIA"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Faial, Azores"
+
+  - year: 2023
     name: "Special Issue 'Machine and Deep Learning in the Health Domain'"
     nick: "Computers"
     role: "Reviewer"
