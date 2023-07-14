@@ -3,6 +3,13 @@
 committees:
 
   - year: 2023
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Madrid,  Spain"
+
+  - year: 2023
     name: "International Conference on Computer and Applications "
     nick: "ICCA 2023"
     role: "Reviewer"
