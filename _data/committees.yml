@@ -3,6 +3,27 @@
 committees:
 
   - year: 2023
+    name: "International Conference on Computer and Applications "
+    nick: "ICCA 2023"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Beirut, Lebanon"  
+
+  - year: 2023
+    name: "Seventh International Conference on Advances in Biomedical Engineering"
+    nick: "ICABME 23"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Beirut, Lebanon"  
+
+  - year: 2023
+    name: "Open Computer Science"
+    nick:  "OCS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"  
+
+  - year: 2023
     name: "Artificial Intelligence in Medicine (EPIA2023)"
     nick:  "EPIA"
     role: "Program Committee"
@@ -87,7 +108,7 @@ committees:
     local: "Guimarães, Portugal"
 
   - year: 2023
-    name: "Arab ICT Conference 2023s"
+    name: "Arab ICT Conference 2023"
     nick:  "AICTC 2023"
     role: "Technical Program Committee"
     type: "Conference"
