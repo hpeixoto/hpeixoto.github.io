@@ -3,6 +3,13 @@
 
 juries:
 
+  - title: "Sistema de Deteção e Prevenção de Doenças Pulmonares"
+    institution:  "ISEP - Instituto Superior de Engenharia do Porto"
+    date: "Jul. 2023"
+    student: "Diogo Formosinho"
+    course: "Mestrado em Engenharia em Inteligência Artificial"
+    url: ""
+
   - title: "Segurança e Imutabilidade de dados abertos na área clínica"
     institution:  "University of Minho"
     date: "Dec. 2022"
