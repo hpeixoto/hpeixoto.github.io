@@ -1,82 +1,10 @@
 class:
 
-  - code: "PL09"
-    date: "24 nov 2022"
-    title: "Introdução ao Python para DM | Acompanhamento de Trabalho Prático"
-    plan: "../../data/aec/pl09/aec_pa09.pdf"
-    slides: 
-    exercise: "../../data/aec/pl09/aec_fe07.pdf"
-    material:
-    topics: "Python | Data Mining"
-
-  - code: "PL08"
-    date: "17 nov 2022"
-    title: "Acompanhamento de Trabalho Prático | Projeto de DM - Cont."
-    plan: "../../data/aec/pl08/aec_pa08.pdf"
-    slides: 
-    exercise: "../../data/aec/pl06/aec_fe06.pdf"
-    material: "../../data/aec/pl06/heart-c.csv"
-    topics: "RapidMiner Studio | Data Mining | Outliers | Normalization"
-
-  - code: "PL07"
-    date: "10 nov 2022"
-    title: "Projeto de DM - Cont."
-    plan: "../../data/aec/pl07/aec_pa07.pdf"
-    slides: 
-    exercise: "../../data/aec/pl06/aec_fe06.pdf"
-    material: "../../data/aec/pl06/heart-c.csv"
-    topics: "RapidMiner Studio | Data Mining | Outliers | Normalization"
-
-  - code: "PL06"
-    date: "03 nov 2022"
-    title: "Projeto de DM"
-    plan: "../../data/aec/pl06/aec_pa06.pdf"
-    slides: 
-    exercise: "../../data/aec/pl06/aec_fe06.pdf"
-    material: "../../data/aec/pl06/heart-c.csv"
-    topics: "RapidMiner Studio | Data Mining"
-
-  - code: "PL05"
-    date: "27 out 2022"
-    title: "Classificação"
-    plan: "../../data/aec/pl05/aec_pa05.pdf"
-    slides: "../../data/aec/pl05/aec_pl05.pdf"
-    exercise: "../../data/aec/pl05/aec_fe05.pdf"
-    material: "../../data/aec/pl05/material.zip"
-    topics: "RapidMiner Studio | Classificação"
-
-  - code: "PL04"
-    date: "20 out 2022"
-    title: "Regressão Linear"
-    plan: "../../data/aec/pl04/aec_pa04.pdf"
-    slides: "../../data/aec/pl04/aec_pl04.pdf"
-    exercise: "../../data/aec/pl04/aec_fe04.pdf"
-    material: "../../data/aec/pl04/material.zip"
-    topics: "RapidMiner Studio | Regressão Linear"
-
-  - code: "PL03"
-    date: "13 out 2022"
-    title: "Regras de Associação"
-    plan: "../../data/aec/pl03/aec_pa03.pdf"
-    slides: "../../data/aec/pl03/aec_pl03.pdf"
-    exercise: "../../data/aec/pl03/aec_fe03.pdf"
-    material: "../../data/aec/pl03/material.zip"
-    topics: "RapidMiner Studio | Regras de Associação"
-
-  - code: "PL02"
-    date: "08 out 2022"
-    title: "Introdução ao RapidMiner"
-    plan: "../../data/aec/pl02/aec_pa02.pdf"
-    slides: "../../data/aec/pl02/aec_pl02.pdf"
-    exercise: "../../data/aec/pl02/aec_fe02.pdf"
-    material: "../../data/aec/pl02/material.zip"
-    topics: "RapidMiner Studio | Correlação"
-
   - code: "PL01"
-    date: "29 set 2022"
+    date: "19 set 2023"
     title: "Introdução à metodologia CRISP-DM"
     plan: "../../data/aec/pl01/aec_pa01.pdf"
-    slides: "../../data/aec/pl01/aec_pl01.pdf"
-    exercise: "../../data/aec/pl01/aec_fe01.pdf" 
+    slides: 
+    exercise: 
     material: 
     topics: "Data Mining | CRISP-DM | Business Understanding | Data Understanding"

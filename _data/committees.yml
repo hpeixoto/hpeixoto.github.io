@@ -3,6 +3,20 @@
 committees:
 
   - year: 2024
+    name: "The Third International Conference on Innovations in Computing Research"
+    nick:  "ICR24"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Athens, Greece"
+
+  - year: 2023
+    name: "2023 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick:  "3ICT23"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain"
+
+  - year: 2024
     name: "7th International Conference on Information Technology & Systems"
     nick:  "ICITS 2024"
     role: "Scientific Committee"
@@ -179,7 +193,7 @@ committees:
 
   - year: 2022
     name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT21"
+    nick:  "3ICT22"
     role: "Reviewer"
     type: "Conference"
     local: "Bahrain"
@@ -225,14 +239,6 @@ committees:
     role: "Reviewer"
     type: "Journal"
     local: "--"
-
-
-  - year: 2022
-    name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT22"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Bahrain"
 
   - year: 2022
     name: "3rd EAI International Conference on IoT and Big Data Technologies for HealthCare"
