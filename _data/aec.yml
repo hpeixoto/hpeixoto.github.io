@@ -4,7 +4,7 @@ class:
     date: "19 set 2023"
     title: "Introdução à metodologia CRISP-DM"
     plan: "../../data/aec/pl01/aec_pa01.pdf"
-    slides: 
-    exercise: 
+    slides: "../../data/aec/pl01/aec_pl01.pdf"
+    exercise: "../../data/aec/pl01/aec_fe01.pdf"
     material: 
     topics: "Data Mining | CRISP-DM | Business Understanding | Data Understanding"
