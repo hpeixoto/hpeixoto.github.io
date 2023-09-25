@@ -1,5 +1,23 @@
 class:
 
+  - code: "PL03"
+    date: "03 out 2023"
+    title: "RapidMiner: Regras de Associação"
+    plan: "../../data/aec/pl03/aec_pa03.pdf"
+    slides: "../../data/aec/pl03/aec_pl03.pdf"
+    exercise: "../../data/aec/pl03/aec_fe03.pdf"
+    material: "../../data/aec/pl03/material.pdf"
+    topics: "Data Mining | CRISP-DM | RapidMiner | Regras de Associação"
+
+  - code: "PL02"
+    date: "26 set 2023"
+    title: "Introdução ao RapidMiner - Correlações"
+    plan: "../../data/aec/pl02/aec_pa02.pdf"
+    slides: "../../data/aec/pl02/aec_pl02.pdf"
+    exercise: "../../data/aec/pl02/aec_fe02.pdf"
+    material: "../../data/aec/pl02/material.zip"
+    topics: "Data Mining | CRISP-DM | RapidMiner | Correlações"
+
   - code: "PL01"
     date: "19 set 2023"
     title: "Introdução à metodologia CRISP-DM"
