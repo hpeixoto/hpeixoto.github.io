@@ -6,7 +6,7 @@ class:
     plan: "../../data/aec/pl03/aec_pa03.pdf"
     slides: "../../data/aec/pl03/aec_pl03.pdf"
     exercise: "../../data/aec/pl03/aec_fe03.pdf"
-    material: "../../data/aec/pl03/material.pdf"
+    material: "../../data/aec/pl03/material.zip"
     topics: "Data Mining | CRISP-DM | RapidMiner | Regras de Associação"
 
   - code: "PL02"
