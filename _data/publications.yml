@@ -2,6 +2,44 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Information Technology Monitoring in Healthcare: A Case Study"
+      authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2023
+      booktitle: "Information Technology and Systems. ICITS 2023"
+      volume: "Lecture Notes in Networks and Systems, 485"
+      pages: "351-361"
+      editor: "Rocha, Á., Ferrás, C., Ibarra, W."
+      publisher: "Springer, Cham."
+      isbn: ""
+      doi: "10.1007/978-3-031-33261-6_30"
+      pub: ""
+      scopus: 1
+      isi: 1
+      q: 
+      type: "conference"
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-33261-6_30"
+      citations: 0
+
+      
+    - title: "Steps Towards Intelligent Diabetic Foot Ulcer Follow-Up Based on Deep Learning"
+      authors: "António Chaves,	Regina Sousa, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2023
+      booktitle: "AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart Cities. AISCOVID 2022"
+      volume: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 692"
+      pages: "81-90"
+      editor: " José Machado, Hugo Peixoto"
+      publisher: "Springer, Cham."
+      isbn: ""
+      doi: "10.1007/978-3-031-38204-8_7"
+      pub: ""
+      scopus: 1
+      isi: 1
+      q: 
+      type: "conference"
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-38204-8_7"
+      citations: 0
+
     - title: "Implementing a Software-as-a-Service strategy in healthcare workflows"
       authors: "	Regina Sousa, Hugo Peixoto, António Abelha and José Machado"
       year: 2023

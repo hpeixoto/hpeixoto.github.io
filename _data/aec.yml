@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL05"
+    date: "17 out 2023"
+    title: "RapidMiner: Algoritmos de Classificação"
+    plan: "../../data/aec/pl05/aec_pa05.pdf"
+    slides: "../../data/aec/pl05/aec_pl05.pdf"
+    exercise: "../../data/aec/pl05/aec_fe05.pdf"
+    material: "../../data/aec/pl05/material.zip"
+    topics: "Data Mining | CRISP-DM | RapidMiner | Classificação"
+
   - code: "PL04"
     date: "10 out 2023"
     title: "RapidMiner: Regressão Linear"
