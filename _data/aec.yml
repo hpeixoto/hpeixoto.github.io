@@ -1,13 +1,22 @@
 class:
 
+  - code: "PL06"
+    date: "24 out 2023"
+    title: "RapidMiner: Classificação"
+    plan: "../../data/aec/pl06/aec_pa06.pdf"
+    slides: "../../data/aec/pl06/aec_pl06.pdf"
+    exercise: "../../data/aec/pl06/aec_fe06.pdf"
+    material: "../../data/aec/pl06/material.zip"
+    topics: "Data Mining | CRISP-DM | RapidMiner | Classificação"
+
   - code: "PL05"
     date: "17 out 2023"
-    title: "RapidMiner: Algoritmos de Classificação"
+    title: "RapidMiner: Revisão de Modelos"
     plan: "../../data/aec/pl05/aec_pa05.pdf"
     slides: 
     exercise: "../../data/aec/pl05/aec_fe05.pdf"
     material: "../../data/aec/pl05/material.zip"
-    topics: "Data Mining | CRISP-DM | RapidMiner | Classificação"
+    topics: "Data Mining | CRISP-DM | RapidMiner | Regressão Linear e Regras de Associação"
 
   - code: "PL04"
     date: "10 out 2023"
