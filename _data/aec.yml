@@ -9,7 +9,6 @@ class:
     material: "../../data/aec/pl06/material.zip"
     topics: "Data Mining | CRISP-DM | RapidMiner | Classificação"
 
-
   - code: "PL06"
     date: "24 out 2023"
     title: "RapidMiner: Classificação"
