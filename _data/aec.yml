@@ -1,5 +1,15 @@
 class:
 
+  - code: "PL07"
+    date: "31 out 2023"
+    title: "RapidMiner: Classificação (cont.)"
+    plan: "../../data/aec/pl07/aec_pa07.pdf"
+    slides: 
+    exercise: "../../data/aec/pl06/aec_fe06.pdf"
+    material: "../../data/aec/pl06/material.zip"
+    topics: "Data Mining | CRISP-DM | RapidMiner | Classificação"
+
+
   - code: "PL06"
     date: "24 out 2023"
     title: "RapidMiner: Classificação"
