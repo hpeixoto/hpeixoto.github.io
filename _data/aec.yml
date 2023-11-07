@@ -9,7 +9,6 @@ class:
     material: 
     topics: "Data Mining | CRISP-DM | RapidMiner | Trabalho Práticos"
 
-
   - code: "PL08"
     date: "07 nov 2023"
     title: "RapidMiner: Classificação (cont.)"
