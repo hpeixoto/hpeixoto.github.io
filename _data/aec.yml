@@ -2,7 +2,7 @@ class:
 
   - code: "PL09"
     date: "14 nov 2023"
-    title: "RapidMiner: Classificação (cont.)"
+    title: "Introdução ao Trabalho Prático"
     plan: "../../data/aec/pl09/aec_pa09.pdf"
     slides: 
     exercise: 

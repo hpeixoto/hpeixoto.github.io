@@ -37,5 +37,5 @@ image: "none"
 <h2> Material de Apoio </h2>
 <h2> <i class="fa fa-hand-paper-o"></i> <a href="../../data/aec/aec_TPratico.pdf" target="_blank"> Trabalho Prático </a></h2> 
 <p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
-Apresentação Grupo: <strong> a definir </strong> <br>
-Entrega Relatório Individual: <strong> a definir </strong> <br>
+Entrega Trabalho (elearning) Grupo: <strong> 14 janeiro 2024 </strong> <br>
+Apresentações: <strong> 16 janeiro 2024 </strong> <br>
