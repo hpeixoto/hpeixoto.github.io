@@ -43,55 +43,55 @@ papers:
     - title: "Implementing a Software-as-a-Service strategy in healthcare workflows"
       authors: "	Regina Sousa, Hugo Peixoto, António Abelha and José Machado"
       year: 2023
-      booktitle: "DCAI23"
+      booktitle: "Distributed Computing and Artificial Intelligence, 20th International Conference"
       volume: ""
-      pages: ""
+      pages: "347--356"
       editor: ""
-      publisher: ""
-      isbn: ""
-      doi: ""
+      publisher: "Springer Nature Switzerland"
+      isbn: "978-3-031-38333-5"
+      doi: "10.1007/978-3-031-38333-5_35"
       pub: ""
-      scopus: 
+      scopus: 1
       isi: 
       q: 
       type: "conference"
-      url: ""
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-38333-5_35"
       citations: 0
 
     - title: "Multi-Agent System for Multimodal Machine Learning Object Detection"
       authors: "Eduardo Coelho, Nuno Pimenta, Hugo Peixoto, Dalila Durães, Pedro Melo, Vítor Alves, Lourenço Bandeira, José Machado and Paulo Novais"
       year: 2023
-      booktitle: "HAIS23"
+      booktitle: "Hybrid Artificial Intelligent Systems"
       volume: ""
-      pages: ""
+      pages: "673-681"
       editor: ""
-      publisher: ""
+      publisher: "Springer Nature Switzerland"
       isbn: ""
-      doi: ""
+      doi: "10.1007/978-3-031-40725-3_57"
       pub: ""
-      scopus: 
+      scopus: 1
       isi: 
       q: 
       type: "conference"
-      url: ""
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-40725-3_57"
       citations: 0
 
     - title: "Intelligent Systems in Healthcare: an Architecture proposal"
       authors: "António Chaves, Larissa Montenegro, Hugo Peixoto, António Abelha, Luis Gomes and José Machado"
       year: 2023
-      booktitle: "ISAmI23"
+      booktitle: "Ambient Intelligence -- Software and Applications -- 14th International Symposium on Ambient Intelligence"
       volume: ""
-      pages: ""
+      pages: "230-238"
       editor: ""
-      publisher: ""
+      publisher: "Springer Nature Switzerland"
       isbn: ""
-      doi: ""
+      doi: "10.1007/978-3-031-43461-7_23"
       pub: ""
-      scopus: 
+      scopus: 1
       isi: 
       q: 
       type: "conference"
-      url: ""
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-43461-7_23"
       citations: 0
 
     - title: "Better Medical Efficiency by means of Hospital Bed Management Optimization – a Comparison of Artificial Intelligence Techniques"
@@ -117,11 +117,11 @@ papers:
       year: 2023
       booktitle: "Sustainable Smart Cities and Territories International Conference"
       volume: ""
-      pages: ""
+      pages: "97–110"
       editor: ""
       publisher: ""
       isbn: ""
-      doi: ""
+      doi: "10.1007/978-3-031-36957-5_9"
       pub: ""
       scopus: 
       isi: 

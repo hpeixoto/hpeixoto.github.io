@@ -2,6 +2,26 @@
 #type: Workshop, Conference, Journal
 editor:
 
+    - year: 2023
+      name: "Blockchain and Applications, 5th International Congress"
+      edition: "Lecture Notes in Networks and Systems"
+      role: "Editor"
+      type: "Conference"
+      editor: "Springer Cham"
+      doi: "10.1007/978-3-031-45155-3"
+      deadline: "14 Nov, 2022"
+      url: "https://link.springer.com/book/10.1007/978-3-031-45155-3"
+
+    - year: 2023
+      name: "AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart Cities"
+      edition: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering"
+      role: "Editor"
+      type: "Conference"
+      editor: "Springer Cham"
+      doi: "10.1007/978-3-031-38204-8"
+      deadline: "30 Jul, 2022"
+      url: "https://link.springer.com/book/10.1007/978-3-031-38204-8"
+
     - year: 2022
       name: "Special Issue Computer-Aided Diagnosis"
       edition: "AI"
