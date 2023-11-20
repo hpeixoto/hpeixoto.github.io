@@ -3,6 +3,20 @@
 committees:
 
   - year: 2024
+    name: " Frontiers in Public Health - Disaster and Emergency Medicine "
+    nick: ""
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2024
+    name: "The Sixteenth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2024"
+    role: "Technical Program Committe"
+    type: "Conference"
+    local: "Barcelona, Spain"
+
+  - year: 2024
     name: "2024 International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
     nick:  "ICETSIS 2024"
     role: "TPC Reviewer"
