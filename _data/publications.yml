@@ -2,6 +2,24 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Enhancing Data Science Interoperability: An Innovative System for Managing OpenEHR Structures"
+      authors: "Miguel Dias, Regina Sousa, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
+      year: 2023
+      booktitle: "Data Science and Artificial Intelligence"
+      volume: "Communications in Computer and Information Science, 1942"
+      pages: "288-299"
+      editor: "Anutariya, Chutiporn and Bonsangue, Marcello M."
+      publisher: "Springer Nature Singapore"
+      isbn: "978-981-99-7969-1"
+      doi: "10.1007/978-981-99-7969-1_21"
+      pub: ""
+      scopus: 1
+      isi: 1
+      q: 
+      type: "conference"
+      url: "https://link.springer.com/chapter/10.1007/978-981-99-7969-1_21"
+      citations: 0
+
     - title: "Information Technology Monitoring in Healthcare: A Case Study"
       authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2023
@@ -19,7 +37,6 @@ papers:
       type: "conference"
       url: "https://link.springer.com/chapter/10.1007/978-3-031-33261-6_30"
       citations: 0
-
       
     - title: "Steps Towards Intelligent Diabetic Foot Ulcer Follow-Up Based on Deep Learning"
       authors: "António Chaves,	Regina Sousa, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"

@@ -1,6 +1,15 @@
 class:
 
-  - code: "PL10"
+  - code: "PL11"
+    date: "21 nov 2023"
+    title: "Trabalho Prático (cont.)"
+    plan: "../../data/aec/pl11/aec_pa11.pdf"
+    slides: 
+    exercise: 
+    material:
+    topics: "Data Mining | CRISP-DM | RapidMiner | Trabalho Práticos"
+
+  - code: "PL10"  
     date: "14 nov 2023"
     title: "k-means Clustering"
     plan: "../../data/aec/pl10/aec_pa10.pdf"
