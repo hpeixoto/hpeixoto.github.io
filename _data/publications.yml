@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Urban Traffic Simulation Using Mobility Patterns Synthesized from Real Sensors"
+      authors: "Fábio Gonçalves, Gonçalo O. Silva, Alexandre Santos, Ana Maria A. C. Rocha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Dalila Durães, José Machado"
+      year: 2023
+      journal: "Electronics"
+      volume: "12"
+      pages: "24"
+      editor: ""
+      publisher: "MDPI"
+      issn: ""
+      doi: "10.3390/electronics12244971"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 2
+      dblp: 
+      url: "https://www.mdpi.com/2079-9292/12/24/4971"
+      citations: 0
+
     - title: "Enhancing Data Science Interoperability: An Innovative System for Managing OpenEHR Structures"
       authors: "Miguel Dias, Regina Sousa, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
       year: 2023
