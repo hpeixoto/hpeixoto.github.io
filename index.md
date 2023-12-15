@@ -12,7 +12,7 @@ Currently working as Auxiliar Researcher at <a href="http://algoritmi.uminho.pt"
 
 <div class="main-explain-area jumbotron">
     <strong><i class="fa fa-book"></i> Research:</strong><br> 
-        Data Mining | Electronic Health Record | Multi-agent Systems | Interoperability | Business Intelligence | Knowledge Extraction | Decision Support Systems | CRISP-DM  <br><br><br>
+        Interoperability | Electronic Health Records | Multi-agent Systems | Knowledge Representation | Business Intelligence | Knowledge Extraction | Decision Support Systems | CRISP-DM | Data Mining<br><br><br>
     <strong><i class="fa fa-database"></i> Databases:</strong><br> 
         mySQL | Oracle | MongoDB | neo4j   <br><br><br>
     <strong><i class="fa fa-code"></i> Languages:</strong><br> 
