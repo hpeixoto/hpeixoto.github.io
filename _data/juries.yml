@@ -3,6 +3,13 @@
 
 juries:
 
+  - title: "Suporte à decisão clínica baseado em padrões de dados abertos e modelos de decisão"
+    institution:  "University of Minho"
+    date: "Dez. 2023"
+    student: "Beatriz Silva
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
   - title: "Sistema de Deteção de Quedas Automático Baseado em Vídeo"
     institution:  "ISEP - Instituto Superior de Engenharia do Porto"
     date: "Jul. 2023"

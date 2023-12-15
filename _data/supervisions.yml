@@ -1,18 +1,18 @@
 supervisions:
 
-  - title: ""
-    institution:  "Interfaces Hotelaria"
-    date: ""
+  - title: "Interfaces Hotelaria"
+    institution:  "University of Minho"
+    date: "Dec. 2023"
     student: "José Martins"
-    grade: 
+    grade: 17
     course: "Mestrado em Engenharia Informática"
     url: ""
 
   - title: "Business Intelligence Applied to Clinical Management of Bariatric surgery"
     institution:  "University of Minho"
-    date: ""
+    date: "Nov. 2023"
     student: "Lara Vaz"
-    grade: 
+    grade: 19
     course: "Mestrado em Engenharia Biomédica"
     url: ""
 
@@ -26,17 +26,17 @@ supervisions:
 
   - title: "Sistema para a Segurança e Consistência na Interoperabilidade de Dados de Clínicos"
     institution:  "University of Minho"
-    date: ""
+    date: "Jul. 2023"
     student: "Nuno Braz"
-    grade: 
+    grade: 19
     course: "Mestrado em Engenharia Biomédica"
     url: ""
 
   - title: "Sistema de Aquisição e Consolidação de Dados para a Medicina Física e de Reabilitação"
     institution:  "University of Minho"
-    date: ""
+    date: "Nov. 2023"
     student: "Inês Silva"
-    grade: 
+    grade: 19
     course: "Mestrado em Engenharia Biomédica"
     url: ""
 
