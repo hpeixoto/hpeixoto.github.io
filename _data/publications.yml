@@ -131,21 +131,21 @@ papers:
       citations: 0
 
     - title: "Better Medical Efficiency by means of Hospital Bed Management Optimization – a Comparison of Artificial Intelligence Techniques"
-      authors: "Afonso Lobo, Agostinho Barbosa, Hugo Peixoto, Tiago Guimarães, Manuel Santos and João Lopes"
+      authors: "Afonso Lobo, Agostinho Barbosa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel Santos and João Lopes"
       year: 2023
-      booktitle: "EPIA2023"
-      volume: ""
-      pages: ""
+      booktitle: "Lecture Notes in Computer Science "
+      volume: "14116"
+      pages: "260-273"
       editor: ""
-      publisher: ""
+      publisher: "Springer"
       isbn: ""
-      doi: ""
+      doi: "10.1007/978-3-031-49011-8_21"
       pub: ""
-      scopus: 
+      scopus: 1
       isi: 
-      q: 
+      q: 3
       type: "conference"
-      url: ""
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-49011-8_21"
       citations: 0
 
     - title: "Smart Cities using Crowdsensing and Geoferenced Notifications"
@@ -155,7 +155,7 @@ papers:
       volume: ""
       pages: "97–110"
       editor: ""
-      publisher: ""
+      publisher: "Springer"
       isbn: ""
       doi: "10.1007/978-3-031-36957-5_9"
       pub: ""
@@ -163,7 +163,7 @@ papers:
       isi: 
       q: 
       type: "conference"
-      url: ""
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-36957-5_9"
       citations: 0
 
 

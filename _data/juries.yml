@@ -3,9 +3,16 @@
 
 juries:
 
-  - title: "Suporte à decisão clínica baseado em padrões de dados abertos e modelos de decisão"
+  - title: "How we can use NFTs in the Defi Market to change the way we trade"
     institution:  "University of Minho"
     date: "Dez. 2023"
+    student: "Gonçalo Cruz"
+    course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    url: ""
+
+  - title: "Suporte à decisão clínica baseado em padrões de dados abertos e modelos de decisão"
+    institution:  "University of Minho"
+    date: "Dec. 2023"
     student: "Beatriz Silva"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
     url: ""
@@ -33,7 +40,7 @@ juries:
 
   - title: "Raciocínio Baseado na Ética Médica na Decisão em Grupo"
     institution:  "University of Minho"
-    date: "Out. 2022"
+    date: "Oct. 2022"
     student: "Gabriel Pontes"
     course: "Doutoramento em Engenharia Biomédica"
     url: ""
@@ -68,28 +75,28 @@ juries:
 
   - title: "Prespective Analytics – Utilização de Espaços, Previsão e Otimização"
     institution:  "University of Minho"
-    date: "Set. 2021"
+    date: "Sep. 2021"
     student: "Luana Lima"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
     url: ""
 
   - title: "Componentes de Business Analytics para Instituição de Saúde Pública – Área de Decisão de Enfermagem"
     institution:  "University of Minho"
-    date: "Set. 2021"
+    date: "Sep. 2021"
     student: "Marco Cruz"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
     url: ""
 
   - title: "IOT: Perceção automática do contexto/localização inteligente"
     institution:  "University of Minho"
-    date: "Set. 2021"
+    date: "Sep. 2021"
     student: "Bruno Magalhães"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
     url: ""
 
   - title: "Predictive Business Analytics – Determinar a Ocorrência Futura de Casos de Infeção Hospitalar"
     institution:  "University of Minho"
-    date: "Set. 2021"
+    date: "Sep. 2021"
     student: "Filipa Cardoso"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
     url: ""
