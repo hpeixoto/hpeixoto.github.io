@@ -3,6 +3,27 @@
 committees:
 
   - year: 2024
+    name: "Symposium on Languages, Applications and Technologies"
+    nick:  "SLATE 2024"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "University of Aveiro, Águeda, Portugal"
+
+  - year: 2024
+    name: "7th International Conference on Applied Informatics"
+    nick:  "ICAI 2024"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Vina del Mar, Chile"
+
+  - year: 2024
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Santiago do Chile, Chile"
+
+  - year: 2024
     name: " Frontiers in Public Health - Disaster and Emergency Medicine "
     nick: ""
     role: "Reviewer"
