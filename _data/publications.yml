@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Revolutionising the Quality of Life: The Role of Real-Time Sensing in Smart Cities"
+      authors: "Rui Miranda, Carlos Alves, Regina Sousa, António  Chaves, Larissa Montenegro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Ricardo Machadom António Abelha, Paulo Novais, José Machado"
+      year: 2023
+      journal: "Electronics"
+      volume: "13"
+      pages: ""
+      editor: ""
+      publisher: "MDPI"
+      issn: ""
+      doi: "10.3390/electronics13030550"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 2
+      dblp: 
+      url: "https://www.mdpi.com/2079-9292/13/3/550"
+      citations: 0
+
     - title: "Urban Traffic Simulation Using Mobility Patterns Synthesized from Real Sensors"
       authors: "Fábio Gonçalves, Gonçalo O. Silva, Alexandre Santos, Ana Maria A. C. Rocha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Dalila Durães, José Machado"
       year: 2023
