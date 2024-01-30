@@ -38,7 +38,7 @@ papers:
       q: 2
       dblp: 
       url: "https://www.mdpi.com/2079-9292/12/24/4971"
-      citations: 0
+      citations: 1
 
     - title: "Enhancing Data Science Interoperability: An Innovative System for Managing OpenEHR Structures"
       authors: "Miguel Dias, Regina Sousa, Júlio Duarte, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha and José Machado"
