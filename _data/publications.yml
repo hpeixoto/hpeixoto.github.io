@@ -78,10 +78,9 @@ papers:
       
     - title: "Steps Towards Intelligent Diabetic Foot Ulcer Follow-Up Based on Deep Learning"
       authors: "António Chaves,	Regina Sousa, António Abelha and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
-      authors: "Vasco Ramos, Carolina Marques, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2023
-      booktitle: "AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart Cities. AISCOVID 2022"
-      volume: "Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, 692"
+      booktitle: "3rd International Conference on AI-assisted Solutions for COVID-19 and Biometrical Applications in Smart Cities, AISCOVID-19 2022"
+      volume: "Lecture Notes of the Institute for Computer Sciences, Social-Informatics and Telecommunications Engineering, 692"
       pages: "81-90"
       editor: " José Machado, Hugo Peixoto"
       publisher: "Springer, Cham."
@@ -367,7 +366,7 @@ papers:
       q: 2
       dblp: 
       url: "https://link.springer.com/chapter/10.1007/978-3-031-22419-5_20"
-      citations: 0
+      citations: 1
 
     - title: "Improving the Effectiveness of Heart Disease Diagnosis with Machine Learning"
       authors: "Catarina Oliveira, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"

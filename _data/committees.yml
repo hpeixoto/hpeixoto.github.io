@@ -3,6 +3,13 @@
 committees:
 
   - year: 2024
+    name: "2024 IEEE 22nd Mediterranean Electrotechnical Conference"
+    nick:  "MELECON 2024"
+    role: "Technical Programm Committee"
+    type: "Conference"
+    local: "INOV, Porto, Portugal"
+
+  - year: 2024
     name: "Symposium on Languages, Applications and Technologies"
     nick:  "SLATE 2024"
     role: "Scientific Committee"
