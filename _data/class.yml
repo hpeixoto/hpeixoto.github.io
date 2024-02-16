@@ -1,6 +1,6 @@
 class:
 
-  - name: "Clinical and Managment Databases"
+  - name: "Clinical and Hospital Management Databases"
     course: "Biomedical Engineering"
     institution: "University of Minho"
     topics: "Databases"
