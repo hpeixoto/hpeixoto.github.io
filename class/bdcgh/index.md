@@ -5,9 +5,6 @@ subtitle: Bases de Dados Clínicas e de Gestão Hospitalar
 image: "none"
 ---
 
-
-<!--<h3 style="text-align:center;">Sistemas de Aprendizagem e Extração de Conhecimento</h3>-->
-
 ---
 <h2> <i class="fa fa-file-o"></i> Aulas </h2>
 ---
