@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "16 fev 2024"
+    title: "Introdução"
+    plan: "../../data/bdcgh/pl01/bdcgh_pa01.pdf"
+    slides: "../../data/bdcgh/pl01/bdcgh_pl01.pdf"
+    exercise: "../../data/bdcgh/pl01/bdcgh_fe01.pdf"
+    material: 
+    topics: "Data Bases | Introduction"

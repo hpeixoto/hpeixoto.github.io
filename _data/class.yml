@@ -1,5 +1,11 @@
 class:
 
+  - name: "Clinical and Managment Databases"
+    course: "Biomedical Engineering"
+    institution: "University of Minho"
+    topics: "Databases"
+    url: "../class/bdcgh"
+
   - name: "Software applied to Biomedical Enginneering"
     course: "Master in Biomedical Engineer"
     institution: "University of Minho"
@@ -67,7 +73,6 @@ class:
     url: "../class/nosql"
 
   
-
   - name: "Technologies and Information Systems"
     course: "Post-Graduation in Administration and Healthservice Management"
     institution: "Piaget Institute"
