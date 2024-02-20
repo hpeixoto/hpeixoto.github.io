@@ -1,10 +1,19 @@
 class:
 
+  - code: "PL02"
+    date: "20/23 fev 2024"
+    title: "Modelo Conceptual"
+    plan: "../../data/bdcgh/pl02/bdcgh_pa02.pdf"
+    slides: "../../data/bdcgh/pl02/bdcgh_pl02.pdf"
+    exercise: "../../data/bdcgh/pl02/bdcgh_fe01.pdf"
+    material: 
+    topics: "Data Bases | Introduction | Modelo Conceptual"
+
   - code: "PL01"
     date: "16 fev 2024"
     title: "Introdução"
     plan: "../../data/bdcgh/pl01/bdcgh_pa01.pdf"
     slides: "../../data/bdcgh/pl01/bdcgh_pl01.pdf"
-    exercise: "../../data/bdcgh/pl01/bdcgh_fe01.pdf"
+    exercise: 
     material: 
     topics: "Data Bases | Introduction"
