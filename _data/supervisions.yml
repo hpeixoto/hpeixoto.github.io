@@ -1,5 +1,21 @@
 supervisions:
 
+  - title: "Predictive Analytics na Determinação do Fluxo de Admissões Hospitalares"
+    institution:  "University of Minho"
+    date: "Feb 2024"
+    student: "Diogo Peixoto"
+    grade: 20
+    course: "Mestrado em Engenharia de Sistemas de Informação"
+    url: ""
+
+  - title: "Interfaces Hotelaria"
+    institution:  "University of Minho"
+    date: ""
+    student: "Ana  Barbosa"
+    grade: 17
+    course: "Mestrado em Engenharia Informática"
+    url: ""
+
   - title: "Interfaces Hotelaria"
     institution:  "University of Minho"
     date: "Dec. 2023"
