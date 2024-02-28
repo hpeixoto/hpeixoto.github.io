@@ -5,7 +5,7 @@ class:
     title: "Modelo Conceptual"
     plan: "../../data/bdcgh/pl03/bdcgh_pa03.pdf"
     slides: 
-    exercise: "../../data/bdcgh/pl02/bdcgh_fe03.pdf"
+    exercise: "../../data/bdcgh/pl03/bdcgh_fe03.pdf"
     material: 
     topics: "Bases de Dados | Modelo Conceptual | Diagrama ER"
 
