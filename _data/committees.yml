@@ -3,6 +3,13 @@
 committees:
 
   - year: 2024
+    name: "15th International Symposium on Ambient Intelligence"
+    nick:  "ISAmI 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Salamanca, Spain"
+
+  - year: 2024
     name: "2024 IEEE 22nd Mediterranean Electrotechnical Conference"
     nick:  "MELECON 2024"
     role: "Technical Programm Committee"
