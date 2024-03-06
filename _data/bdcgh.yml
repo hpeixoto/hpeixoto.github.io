@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL04"
+    date: "06/08 mar 2024"
+    title: "Modelo Conceptual e Lógico"
+    plan: "../../data/bdcgh/pl04/bdcgh_pa04.pdf"
+    slides: 
+    exercise: "../../data/bdcgh/pl04/bdcgh_fe03.pdf"
+    material: 
+    topics: "Bases de Dados | Modelo Conceptual | MySQL | Modelo Lógico"
+
   - code: "PL03"
     date: "28 fev / 01 mar 2024"
     title: "Modelo Conceptual"

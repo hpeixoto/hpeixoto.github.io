@@ -3,6 +3,13 @@
 committees:
 
   - year: 2024
+    name: "Software and Systems Modeling"
+    nick:  ""
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2024
     name: "15th International Symposium on Ambient Intelligence"
     nick:  "ISAmI 2024"
     role: "Program Committee"
