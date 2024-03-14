@@ -1,7 +1,16 @@
 class:
 
+  - code: "Teórica"
+    date: "15 mar 2024"
+    title: "Introdução ao SQL"
+    plan: 
+    slides: 
+    exercise: "../../data/bdcgh/teoricas/bdcgh_fe_sql.pdf"
+    material: 
+    topics: "Bases de Dados | SQL"
+
   - code: "PL05"
-    date: "13/16 mar 2024"
+    date: "13/15 mar 2024"
     title: "Modelo Lógico"
     plan: "../../data/bdcgh/pl05/bdcgh_pa05.pdf"
     slides: "../../data/bdcgh/pl05/bdcgh_pl05.pdf"
