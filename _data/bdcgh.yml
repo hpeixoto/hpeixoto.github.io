@@ -1,5 +1,15 @@
 class:
 
+  - code: "PL06"
+    date: "19/21 mar 2024"
+    title: "Modelo Físico"
+    plan: "../../data/bdcgh/pl06/bdcgh_pa06.pdf"
+    slides: 
+    exercise: "../../data/bdcgh/pl06/bdcgh_fe03.pdf"
+    material: 
+    topics: "Bases de Dados | Modelo Físico | MySQL | Workbench"
+
+
   - code: "Teórica"
     date: "15 mar 2024"
     title: "Introdução ao SQL"
