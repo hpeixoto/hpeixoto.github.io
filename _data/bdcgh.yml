@@ -9,7 +9,6 @@ class:
     material: 
     topics: "Bases de Dados | Modelo Físico | MySQL | Workbench"
 
-
   - code: "Teórica"
     date: "15 mar 2024"
     title: "Introdução ao SQL"
@@ -63,3 +62,5 @@ class:
     exercise: 
     material: 
     topics: "Bases de Dados | Introdução"
+
+

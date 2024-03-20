@@ -3,6 +3,13 @@
 committees:
 
   - year: 2024
+    name: "International Workshop on Mobile Applications"
+    nick:  "Mobiapps 24"
+    role: "TPC reviewer"
+    type: "Conference"
+    local: "Vienna, Austria"
+
+  - year: 2024
     name: "Software and Systems Modeling"
     nick:  ""
     role: "Reviewer"
