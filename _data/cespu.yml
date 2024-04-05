@@ -1,19 +1,10 @@
 class:
 
-  - code: "Teórica-Prática"
-    date: "10 fev 2023"
+  - code: "TIC aplicadas à Vigilância Epidemiológica"
+    date: "6 abril 2024"
     title: "Dos dados à informação"
     plan: 
-    slides: "../../data/cespu/slides_aula2.pdf"
-    exercise: "../../data/cespu/cespu_tic.pdf"
-    material: "../../data/cespu/export.csv"
-    topics: "TIC | DADOS | SAUDE"
-
-  - code: "Teórica"
-    date: "04 fev 2023"
-    title: "Dos dados à informação"
-    plan: 
-    slides: "../../data/cespu/slides_aula1.pdf"
-    exercise: 
-    material:
+    slides: "../../data/cespu/TIC_CESPU2024.pdf"
+    exercise: "../../data/cespu/ficha_powerBI.pdf"
+    material: "../../data/cespu/dataset.csv"
     topics: "TIC | DADOS | SAUDE"
