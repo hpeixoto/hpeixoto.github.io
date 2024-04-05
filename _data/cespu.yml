@@ -1,7 +1,7 @@
 class:
 
   - code: "TIC aplicadas à Vigilância Epidemiológica"
-    date: "6 abril 2024"
+    date: "06 abril 2024"
     title: "Dos dados à informação"
     plan: 
     slides: "../../data/cespu/TIC_CESPU2024.pdf"
