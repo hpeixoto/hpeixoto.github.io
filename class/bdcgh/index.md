@@ -28,3 +28,10 @@ image: "none"
 
 ---
 {% endfor %}
+
+---
+<h2> Trabalho Prático </h2>
+<h2> <i class="fa fa-hand-paper-o"></i> <a href="../../data/bdcgh/bdcgh_trabPrat.pdf" target="_blank"> Trabalho Prático </a></h2> 
+<p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
+Entrega Trabalho (elearning) Grupo: <strong> a definir </strong> <br>
+Apresentações: <strong> a definir </strong> <br>
