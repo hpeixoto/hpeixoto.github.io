@@ -1,6 +1,13 @@
 #role: Reviewer, Program Committee, Scientific Committee, Track Chair
 #type: Workshop, Conference, Journal
 committees:
+  - year: 2025
+    name: "The Fourth International Conference on Innovations in Computing Research"
+    nick:  "ICR25"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Athens, Greece"
+
 
   - year: 2024
     name: "International Workshop on Mobile Applications"
