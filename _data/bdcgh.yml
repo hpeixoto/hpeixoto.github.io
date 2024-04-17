@@ -6,7 +6,7 @@ class:
     plan: "../../data/bdcgh/pl09/bdcgh_pa09.pdf"
     slides: "../../data/bdcgh/pl09/bdcgh_pl09.pdf"
     exercise: "../../data/bdcgh/pl09/bdcgh_fe05.pdf"
-    material:
+    material: "../../data/bdcgh/pl09/ubers.sql"
     topics: "Bases de Dados | Triggers | Funções | Procedimentos | MySQL | Workbench"
 
   - code: "PL08"
