@@ -4,7 +4,7 @@ class:
     date: "17/19 abr 2024"
     title: "Triggers, Funções e Procedimentos"
     plan: "../../data/bdcgh/pl09/bdcgh_pa09.pdf"
-    slides: 
+    slides: "../../data/bdcgh/pl09/bdcgh_pl09.pdf"
     exercise: "../../data/bdcgh/pl09/bdcgh_fe05.pdf"
     material: "../../data/bdcgh/pl09/material.zip"
     topics: "Bases de Dados | Triggers | Funções | Procedimentos | MySQL | Workbench"
