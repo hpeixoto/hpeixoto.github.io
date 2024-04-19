@@ -1,6 +1,7 @@
 #role: Reviewer, Program Committee, Scientific Committee, Track Chair
 #type: Workshop, Conference, Journal
 committees:
+
   - year: 2025
     name: "The Fourth International Conference on Innovations in Computing Research"
     nick:  "ICR25"
@@ -8,6 +9,12 @@ committees:
     type: "Conference"
     local: "Athens, Greece"
 
+  - year: 2024
+    name: "The Second Jordanian International Biomedical Engineering Conference 2024"
+    nick:  "JIBEC'2024"
+    role: "TPC Reviewer"
+    type: "Conference"
+    local: "Dead Sea, Jordan"
 
   - year: 2024
     name: "International Workshop on Mobile Applications"
