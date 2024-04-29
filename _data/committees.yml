@@ -2,6 +2,13 @@
 #type: Workshop, Conference, Journal
 committees:
 
+  - year: 2024
+    name: "Artificial Intelligence in Medicine (EPIA2024)"
+    nick:  "EPIA"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Viana do Castelo, Portugal"
+
   - year: 2025
     name: "The Fourth International Conference on Innovations in Computing Research"
     nick:  "ICR25"
