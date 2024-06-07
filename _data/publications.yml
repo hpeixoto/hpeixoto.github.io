@@ -2,9 +2,104 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Streamlining Healthcare Quality Management with an Web Audit Platform"
+      authors: "Rita Sousa, Carlos Esteves, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2024
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: ""
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: ""
+      citations: 0
+
+    - title: "Harnessing Data Mining to Predict Survival Outcomes in Patients with Hepatic Cirrhosis"
+      authors: "Regina Sousa, Madalena Passos, Mariana Almeida, Mariana Ribeiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2024
+      journal: ""
+      volume: ""
+      pages: ""
+      editor: ""
+      publisher: ""
+      issn: ""
+      doi: ""
+      pub: ""
+      type: ""
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: ""
+      citations: 0
+
+    - title: "Towards a Standardized Real-Time Data Repository based on Laboratory Test Results"
+      authors: "Regina Sousa, Madalena Passos, Mariana Almeida, Mariana Ribeiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2024
+      journal: "Procedia Computer Science"
+      volume: "231"
+      pages: "452-457"
+      editor: ""
+      publisher: "Elsevier"
+      issn: ""
+      doi: "10.1016/j.procs.2023.12.233"
+      pub: ""
+      type: ""
+      scopus: 1
+      isi: 1
+      q: 
+      dblp: 
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050923022457"
+      citations: 0
+
+    - title: "The Interplay of Inflation, Healthcare Spending, and Suicide Rates: An Empirical Analysis"
+      authors: "Regina Sousa, Cláudia Ribeiro, Cátia Cardoso, Bárbara Freixo, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, António Abelha, José Machado"
+      year: 2024
+      journal: "Lecture Notes in Networks and Systems"
+      volume: "932"
+      pages: "467–476"
+      editor: ""
+      publisher: "Springer Nature Switzerland"
+      issn: "978-3-031-54235-0"
+      doi: "10.1007/978-3-031-54235-0_42"
+      pub: ""
+      type: ""
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-54235-0_42"
+      citations: 0
+
+    - title: "Collaborative Platform for Intelligent Monitoring of Diabetic Foot Patients - Colab4IMDF"
+      authors: "António Chaves, Regina Sousa, José Machado, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2024
+      journal: "Lecture Notes in Networks and Systems"
+      volume: "932"
+      pages: "195--204"
+      editor: ""
+      publisher: "Springer Nature Switzerland"
+      issn: "78-3-031-54256-5"
+      doi: "10.1007/978-3-031-54256-5_18"
+      pub: ""
+      type: ""
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-031-54256-5_18"
+      citations: 0
+
     - title: "Revolutionising the Quality of Life: The Role of Real-Time Sensing in Smart Cities"
       authors: "Rui Miranda, Carlos Alves, Regina Sousa, António  Chaves, Larissa Montenegro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Ricardo Machadom António Abelha, Paulo Novais, José Machado"
-      year: 2023
+      year: 2024
       journal: "Electronics"
       volume: "13"
       pages: ""
