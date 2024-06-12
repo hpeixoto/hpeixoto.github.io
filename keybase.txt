@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/hpeixoto
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hpeixoto.me
+  * I am hpeixoto (https://keybase.io/hpeixoto) on keybase.
+  * I have a public key with fingerprint 59CE 1F51 4D84 13AC BF9C  9122 8B64 9F53 0E4F E4E0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012047026793970127b782d65b2981b5de8d76a295adec3c2f950b08b98bdf1d04f90a",
+      "fingerprint": "59ce1f514d8413acbf9c91228b649f530e4fe4e0",
+      "host": "keybase.io",
+      "key_id": "8b649f530e4fe4e0",
+      "kid": "010154b62b37e7efbd3323f01a9103cef5b9d47e08ea39e4fd3c571d8b75d20f9aba0a",
+      "uid": "104b48f5e6d2bfec2535932d96949819",
+      "username": "hpeixoto"
+    },
+    "service": {
+      "hostname": "hpeixoto.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1718186593,
+  "expire_in": 157680000,
+  "prev": "4173a791c7da6cd0c339a1c4ae23e89f963f0e2b50b714eb901df25796aec2a7",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJtUFRVGF5CjI9BGGmwInG8mBaudr/vPYt9IFMjlitFhBCy3nvPOXgX
+2F12l68QkKiGBAJGNiBMUEFoRshS1Kkxg0FLMCKn1DQMlU+ZsnBGZjKge5n803T+
+nPO+53me87zveXsDvQ3+XuWwKX7J1pFhr/7uumwDVp1SASHbYT5hKiDS0cKGMiBy
+uS3pKiRMBEnRJCuQNC8ABghaJMiCSEOek2kgUjIHkQgFXqIBJ0GkMAqNAUfKpCgD
+UYaYgiSLASkRRgKrtjTkdDhVm1uT5YCCKMxRLBRZipEUGQMFUDQtyjwLMMeQiMWI
+RaRG3Gl36QzNnCy50HrVruW0wLJg73/wD3yTFMfKPC0zAhIQliHD0AwmKQlQJKMg
+zMkAsgIiRSQxQGNDRuEECoqywEGaxECSpQXf2QtyFMnKrIg5xENaxkihOYYDDA0B
+D1itD0AHupDTJmUiDb3TgdQ8u9tOFBoJLZujKkhvrF7JfxDrtchIOJzaUbFn6Bdu
+t8Nl0onufIeOzEWy5V8Ni6zaoNZGjZGDnC7VbiNMlIZU3KouSgmUSIm85stIoDyH
+6kQWVUdwAi+S2tLfQTmaJEsJjCQAShGgxCuQVBgGSJTCSohmkAgw4LVGIVrWPlKg
+WCQDkoKY5gTAS1rlkkDoVWXZ7ISJFTSfUpqm6VLTbJI724mIwp7ulEUGL3/DYp+H
+9Pky+PsFP5i69z3Bhv7VjbmhkyXbQ2O64vz3v1709eyjIQUXHHOmmk/4wcifTjS3
+vYEDYq+VNX319N6KefuVPX8drjq2vLe7b9PyIPhkA3x+RIgaffHx2JS/V55asqNx
+0dvhHZsz+r267vf7JZ5qiWn/1T6UWz4ytqbketLYqxerg57zTP0ZMLquO9BvjTni
+zOV3MpN2rdz7jPl+QnG+NTyxjmtfcbmoafLIm2EfBtysTY3yPq9kCYmn1em8iUBP
+nzX6kHxpn9HxbcMAYbgRvBRsKbPeOmqdX53+W1hB54WXKpJei8uyu+pfwYNt75qr
+m30fq384PtHf3Vrx463620pW0YH5iKmZp5ZNJF9fJVqGdwX9/oSPd+IG67meAd+E
+5B/MVNGl6dZl0Up51Lk7m+wdG2PPfFxa88HdbaWL75wuWcu58Pa55Bc2vHWv8m7p
+1d1Vf2z9ebgror1hx8V9zbgg9GDXF9bMyLUvx9fdOHuyb1XveOiW5OyQiO9qPCi2
+g7elXIm2ZE7Nmeczjg/hKCM6kBts3G8WvGbTPuoDIbYqz7ObcXJ76tx7nbuvLTl+
+0xMeday+ujL16MaEiS/9xipbqyJ7Asb5rGJ0cPRwx56yXywd0zGf3rsdcrLKpyXs
+kcHugCPranOcnw+EXe30m63dNnTWWjg06FZbip3g/Ezj9xnf5J04FDhZ91nbipn4
+8aXxvm15XUHRcfP/AKjuwSc=
+=Y0hp
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hpeixoto
+
+==================================================================
