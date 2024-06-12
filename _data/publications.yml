@@ -2,7 +2,7 @@
 #type: Workshop, Conference
 papers:
 
-    - title: "Streamlining Healthcare Quality Management with an Web Audit Platform"
+    - title: "(to be published) Streamlining Healthcare Quality Management with an Web Audit Platform"
       authors: "Rita Sousa, Carlos Esteves, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2024
       journal: ""
@@ -13,7 +13,7 @@ papers:
       issn: ""
       doi: ""
       pub: ""
-      type: ""
+      type: "conference"
       scopus: 1
       isi: 
       q: 
@@ -21,7 +21,7 @@ papers:
       url: ""
       citations: 0
 
-    - title: "Harnessing Data Mining to Predict Survival Outcomes in Patients with Hepatic Cirrhosis"
+    - title: "(to be published) Harnessing Data Mining to Predict Survival Outcomes in Patients with Hepatic Cirrhosis"
       authors: "Regina Sousa, Madalena Passos, Mariana Almeida, Mariana Ribeiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2024
       journal: ""
@@ -32,7 +32,7 @@ papers:
       issn: ""
       doi: ""
       pub: ""
-      type: ""
+      type: "conference"
       scopus: 1
       isi: 
       q: 
@@ -51,7 +51,7 @@ papers:
       issn: ""
       doi: "10.1016/j.procs.2023.12.233"
       pub: ""
-      type: ""
+      type: "conference"
       scopus: 1
       isi: 1
       q: 
@@ -70,7 +70,7 @@ papers:
       issn: "978-3-031-54235-0"
       doi: "10.1007/978-3-031-54235-0_42"
       pub: ""
-      type: ""
+      type: "conference"
       scopus: 1
       isi: 
       q: 
@@ -89,7 +89,7 @@ papers:
       issn: "78-3-031-54256-5"
       doi: "10.1007/978-3-031-54256-5_18"
       pub: ""
-      type: ""
+      type: "conference"
       scopus: 1
       isi: 
       q: 
