@@ -1,0 +1,3078 @@
+[
+    {
+        "cod_postal": 4839,
+        "localidade": "NESPEREIRA GMR"
+    },
+    {
+        "cod_postal": 4840,
+        "localidade": "BALAN\u00c7A"
+    },
+    {
+        "cod_postal": 4845,
+        "localidade": "RIO CALDO"
+    },
+    {
+        "cod_postal": 4850,
+        "localidade": "ANISS\u00d3"
+    },
+    {
+        "cod_postal": 4925,
+        "localidade": "VIANA DO CASTELO"
+    },
+    {
+        "cod_postal": 2669,
+        "localidade": "VILA FRANCA DO ROS\u00c1RIO"
+    },
+    {
+        "cod_postal": 2670,
+        "localidade": "LOURES"
+    },
+    {
+        "cod_postal": 4904,
+        "localidade": "VIANA DO CASTELO"
+    },
+    {
+        "cod_postal": 4835,
+        "localidade": "GUIMAR\u00c3ES"
+    },
+    {
+        "cod_postal": 4950,
+        "localidade": "ABEDIM"
+    },
+    {
+        "cod_postal": 4890,
+        "localidade": "ARNOIA"
+    },
+    {
+        "cod_postal": 4900,
+        "localidade": "VIANA DO CASTELO"
+    },
+    {
+        "cod_postal": 4860,
+        "localidade": "ABADIM"
+    },
+    {
+        "cod_postal": 4870,
+        "localidade": "ALVADIA"
+    },
+    {
+        "cod_postal": 4880,
+        "localidade": "ATEI"
+    },
+    {
+        "cod_postal": 2440,
+        "localidade": "BATALHA"
+    },
+    {
+        "cod_postal": 2404,
+        "localidade": "LEIRIA"
+    },
+    {
+        "cod_postal": 2405,
+        "localidade": "MACEIRA LRA"
+    },
+    {
+        "cod_postal": 2499,
+        "localidade": "SANTA CATARINA DA SERRA"
+    },
+    {
+        "cod_postal": 2500,
+        "localidade": "A DOS FRANCOS"
+    },
+    {
+        "cod_postal": 2240,
+        "localidade": "\u00c1GUAS BELAS FZZ"
+    },
+    {
+        "cod_postal": 2230,
+        "localidade": "ALCARAVELA"
+    },
+    {
+        "cod_postal": 2410,
+        "localidade": "LEIRIA"
+    },
+    {
+        "cod_postal": 1500,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1949,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1950,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1166,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1167,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1169,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1499,
+        "localidade": "CRUZ QUEBRADA-DAFUNDO"
+    },
+    {
+        "cod_postal": 2070,
+        "localidade": "CARTAXO"
+    },
+    {
+        "cod_postal": 4800,
+        "localidade": "GUIMAR\u00c3ES"
+    },
+    {
+        "cod_postal": 1170,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 4795,
+        "localidade": "AVES"
+    },
+    {
+        "cod_postal": 4804,
+        "localidade": "GUIMAR\u00c3ES"
+    },
+    {
+        "cod_postal": 4805,
+        "localidade": "BALAZAR GMR"
+    },
+    {
+        "cod_postal": 7080,
+        "localidade": "VENDAS NOVAS"
+    },
+    {
+        "cod_postal": 6370,
+        "localidade": "ALGODRES FAG"
+    },
+    {
+        "cod_postal": 6400,
+        "localidade": "P\u00cdNZIO"
+    },
+    {
+        "cod_postal": 6420,
+        "localidade": "TRANCOSO"
+    },
+    {
+        "cod_postal": 7009,
+        "localidade": "\u00c9VORA"
+    },
+    {
+        "cod_postal": 7040,
+        "localidade": "ARRAIOLOS"
+    },
+    {
+        "cod_postal": 7050,
+        "localidade": "MONTEMOR-O-NOVO"
+    },
+    {
+        "cod_postal": 5300,
+        "localidade": "BRAGAN\u00c7A"
+    },
+    {
+        "cod_postal": 6424,
+        "localidade": "TRANCOSO-SANTA MARIA"
+    },
+    {
+        "cod_postal": 6430,
+        "localidade": "AVELOSO"
+    },
+    {
+        "cod_postal": 6440,
+        "localidade": "FIGUEIRA CASTELO RODRIGO"
+    },
+    {
+        "cod_postal": 7000,
+        "localidade": "N SENHORA GRA\u00c7A DO DIVOR"
+    },
+    {
+        "cod_postal": 5200,
+        "localidade": "AZINHOSO"
+    },
+    {
+        "cod_postal": 5210,
+        "localidade": "MIRANDA DO DOURO"
+    },
+    {
+        "cod_postal": 7004,
+        "localidade": "\u00c9VORA"
+    },
+    {
+        "cod_postal": 7005,
+        "localidade": "\u00c9VORA"
+    },
+    {
+        "cod_postal": 5225,
+        "localidade": "ATENOR"
+    },
+    {
+        "cod_postal": 5230,
+        "localidade": "ALGOSO"
+    },
+    {
+        "cod_postal": 5335,
+        "localidade": "AGROCH\u00c3O"
+    },
+    {
+        "cod_postal": 5340,
+        "localidade": "ALA"
+    },
+    {
+        "cod_postal": 5350,
+        "localidade": "ALF\u00c2NDEGA DA F\u00c9"
+    },
+    {
+        "cod_postal": 5360,
+        "localidade": "ASSARES"
+    },
+    {
+        "cod_postal": 5370,
+        "localidade": "ABAMBRES"
+    },
+    {
+        "cod_postal": 5301,
+        "localidade": "BRAGAN\u00c7A"
+    },
+    {
+        "cod_postal": 5320,
+        "localidade": "ALVAREDOS"
+    },
+    {
+        "cod_postal": 4974,
+        "localidade": "ARCOS DE VALDEVEZ"
+    },
+    {
+        "cod_postal": 4980,
+        "localidade": "AZIAS"
+    },
+    {
+        "cod_postal": 5160,
+        "localidade": "ADEGANHA"
+    },
+    {
+        "cod_postal": 5180,
+        "localidade": "FORNOS FEC"
+    },
+    {
+        "cod_postal": 4910,
+        "localidade": "\u00c2NCORA"
+    },
+    {
+        "cod_postal": 4920,
+        "localidade": "CAMPOS VNC"
+    },
+    {
+        "cod_postal": 4930,
+        "localidade": "AR\u00c3O"
+    },
+    {
+        "cod_postal": 4939,
+        "localidade": "NEIVA"
+    },
+    {
+        "cod_postal": 4940,
+        "localidade": "AGUALONGA"
+    },
+    {
+        "cod_postal": 4824,
+        "localidade": "FAFE"
+    },
+    {
+        "cod_postal": 4825,
+        "localidade": "AGRELA STS"
+    },
+    {
+        "cod_postal": 4809,
+        "localidade": "S\u00c3O LOUREN\u00c7O SANDE"
+    },
+    {
+        "cod_postal": 4810,
+        "localidade": "GUIMAR\u00c3ES"
+    },
+    {
+        "cod_postal": 4830,
+        "localidade": "\u00c1GUAS SANTAS"
+    },
+    {
+        "cod_postal": 4785,
+        "localidade": "COVELAS TRF"
+    },
+    {
+        "cod_postal": 4820,
+        "localidade": "ABOIM FAF"
+    },
+    {
+        "cod_postal": 4780,
+        "localidade": "AREIAS STS"
+    },
+    {
+        "cod_postal": 4814,
+        "localidade": "GUIMAR\u00c3ES"
+    },
+    {
+        "cod_postal": 4815,
+        "localidade": "S\u00c3O FAUSTINO"
+    },
+    {
+        "cod_postal": 2460,
+        "localidade": "ALCOBA\u00c7A"
+    },
+    {
+        "cod_postal": 2384,
+        "localidade": "ALCANENA"
+    },
+    {
+        "cod_postal": 2395,
+        "localidade": "MINDE"
+    },
+    {
+        "cod_postal": 2420,
+        "localidade": "ARRABAL"
+    },
+    {
+        "cod_postal": 2434,
+        "localidade": "MARINHA GRANDE"
+    },
+    {
+        "cod_postal": 2435,
+        "localidade": "CASAL DOS BERNARDOS"
+    },
+    {
+        "cod_postal": 2495,
+        "localidade": "S\u00c3O MAMEDE"
+    },
+    {
+        "cod_postal": 2634,
+        "localidade": "ARRUDA DOS VINHOS"
+    },
+    {
+        "cod_postal": 2635,
+        "localidade": "RIO DE MOURO"
+    },
+    {
+        "cod_postal": 2250,
+        "localidade": "CONST\u00c2NCIA"
+    },
+    {
+        "cod_postal": 2414,
+        "localidade": "LEIRIA"
+    },
+    {
+        "cod_postal": 2415,
+        "localidade": "BIDOEIRA DE CIMA"
+    },
+    {
+        "cod_postal": 2305,
+        "localidade": "AL\u00c9M DA RIBEIRA"
+    },
+    {
+        "cod_postal": 2330,
+        "localidade": "ENTRONCAMENTO"
+    },
+    {
+        "cod_postal": 2430,
+        "localidade": "MARINHA GRANDE"
+    },
+    {
+        "cod_postal": 2490,
+        "localidade": "ALBURITEL"
+    },
+    {
+        "cod_postal": 2664,
+        "localidade": "S\u00c3O JULI\u00c3O DO TOJAL"
+    },
+    {
+        "cod_postal": 2665,
+        "localidade": "AZUEIRA"
+    },
+    {
+        "cod_postal": 2480,
+        "localidade": "PORTO DE M\u00d3S"
+    },
+    {
+        "cod_postal": 2205,
+        "localidade": "ABRANTES"
+    },
+    {
+        "cod_postal": 2445,
+        "localidade": "PATAIAS"
+    },
+    {
+        "cod_postal": 1149,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1150,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2424,
+        "localidade": "ARRABAL"
+    },
+    {
+        "cod_postal": 2425,
+        "localidade": "MONTE REAL"
+    },
+    {
+        "cod_postal": 2484,
+        "localidade": "PORTO DE MOS-S JOAO BAPTISTA"
+    },
+    {
+        "cod_postal": 2485,
+        "localidade": "MIRA DE AIRE"
+    },
+    {
+        "cod_postal": 2550,
+        "localidade": "CADAVAL"
+    },
+    {
+        "cod_postal": 2400,
+        "localidade": "LEIRIA"
+    },
+    {
+        "cod_postal": 2540,
+        "localidade": "BOMBARRAL"
+    },
+    {
+        "cod_postal": 2461,
+        "localidade": "ALCOBA\u00c7A"
+    },
+    {
+        "cod_postal": 2475,
+        "localidade": "BENEDITA"
+    },
+    {
+        "cod_postal": 2139,
+        "localidade": "SAMORA CORREIA"
+    },
+    {
+        "cod_postal": 2140,
+        "localidade": "CHAMUSCA"
+    },
+    {
+        "cod_postal": 2130,
+        "localidade": "BENAVENTE"
+    },
+    {
+        "cod_postal": 2200,
+        "localidade": "ABRANTES"
+    },
+    {
+        "cod_postal": 2354,
+        "localidade": "ZIBREIRA"
+    },
+    {
+        "cod_postal": 5000,
+        "localidade": "ABA\u00c7AS"
+    },
+    {
+        "cod_postal": 2601,
+        "localidade": "ALHANDRA"
+    },
+    {
+        "cod_postal": 2605,
+        "localidade": "BELAS"
+    },
+    {
+        "cod_postal": 2120,
+        "localidade": "SALVATERRA DE MAGOS"
+    },
+    {
+        "cod_postal": 2260,
+        "localidade": "ATALAIA VNB"
+    },
+    {
+        "cod_postal": 2419,
+        "localidade": "LEIRIA"
+    },
+    {
+        "cod_postal": 2300,
+        "localidade": "JUNCEIRA"
+    },
+    {
+        "cod_postal": 5155,
+        "localidade": "CEDOVIM"
+    },
+    {
+        "cod_postal": 2450,
+        "localidade": "FAMALIC\u00c3O NZR"
+    },
+    {
+        "cod_postal": 5054,
+        "localidade": "PESO DA R\u00c9GUA"
+    },
+    {
+        "cod_postal": 5060,
+        "localidade": "CELEIR\u00d3S SBR"
+    },
+    {
+        "cod_postal": 2135,
+        "localidade": "SAMORA CORREIA"
+    },
+    {
+        "cod_postal": 1449,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1495,
+        "localidade": "ALG\u00c9S"
+    },
+    {
+        "cod_postal": 1849,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1885,
+        "localidade": "MOSCAVIDE"
+    },
+    {
+        "cod_postal": 1100,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1399,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 5070,
+        "localidade": "ALIJ\u00d3"
+    },
+    {
+        "cod_postal": 1959,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2100,
+        "localidade": "CANHA"
+    },
+    {
+        "cod_postal": 1208,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1209,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1249,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2090,
+        "localidade": "ALPIAR\u00c7A"
+    },
+    {
+        "cod_postal": 2009,
+        "localidade": "SANTAR\u00c9M"
+    },
+    {
+        "cod_postal": 1049,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1050,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1066,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1067,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1068,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1069,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1000,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 5004,
+        "localidade": "VILA REAL"
+    },
+    {
+        "cod_postal": 5030,
+        "localidade": "ALVA\u00c7\u00d5ES DO CORGO"
+    },
+    {
+        "cod_postal": 5110,
+        "localidade": "ARMAMAR"
+    },
+    {
+        "cod_postal": 5150,
+        "localidade": "ALMENDRA"
+    },
+    {
+        "cod_postal": 1070,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1800,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2754,
+        "localidade": "CASCAIS"
+    },
+    {
+        "cod_postal": 1769,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 5085,
+        "localidade": "CASAL DE LOIVOS"
+    },
+    {
+        "cod_postal": 5090,
+        "localidade": "CANDEDO MUR"
+    },
+    {
+        "cod_postal": 5100,
+        "localidade": "LAMEGO"
+    },
+    {
+        "cod_postal": 1886,
+        "localidade": "MOSCAVIDE"
+    },
+    {
+        "cod_postal": 1900,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1199,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1200,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1679,
+        "localidade": "PONTINHA"
+    },
+    {
+        "cod_postal": 1685,
+        "localidade": "CANE\u00c7AS"
+    },
+    {
+        "cod_postal": 2004,
+        "localidade": "SANTAR\u00c9M"
+    },
+    {
+        "cod_postal": 2005,
+        "localidade": "V\u00c1RZEA STR"
+    },
+    {
+        "cod_postal": 1300,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1269,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 5040,
+        "localidade": "VILA MARIM"
+    },
+    {
+        "cod_postal": 5114,
+        "localidade": "ARMAMAR"
+    },
+    {
+        "cod_postal": 5120,
+        "localidade": "ADORIGO"
+    },
+    {
+        "cod_postal": 2890,
+        "localidade": "ALCOCHETE"
+    },
+    {
+        "cod_postal": 1349,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1350,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2054,
+        "localidade": "VILA NOVA DA RAINHA"
+    },
+    {
+        "cod_postal": 2065,
+        "localidade": "ALCOENTRE"
+    },
+    {
+        "cod_postal": 1675,
+        "localidade": "PONTINHA"
+    },
+    {
+        "cod_postal": 1750,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2080,
+        "localidade": "ALMEIRIM"
+    },
+    {
+        "cod_postal": 1649,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1990,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2124,
+        "localidade": "SALVATERRA DE MAGOS"
+    },
+    {
+        "cod_postal": 2125,
+        "localidade": "GL\u00d3RIA DO RIBATEJO"
+    },
+    {
+        "cod_postal": 1689,
+        "localidade": "FAM\u00d5ES"
+    },
+    {
+        "cod_postal": 1700,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2784,
+        "localidade": "OEIRAS"
+    },
+    {
+        "cod_postal": 2785,
+        "localidade": "S\u00c3O DOMINGOS DE RANA"
+    },
+    {
+        "cod_postal": 5050,
+        "localidade": "COVELINHAS"
+    },
+    {
+        "cod_postal": 5130,
+        "localidade": "CASTANHEIRO DO SUL"
+    },
+    {
+        "cod_postal": 1400,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1549,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1600,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1998,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1999,
+        "localidade": "SANTA MARIA DOS OLIVAIS"
+    },
+    {
+        "cod_postal": 2000,
+        "localidade": "SANTAR\u00c9M"
+    },
+    {
+        "cod_postal": 2755,
+        "localidade": "ALCABIDECHE"
+    },
+    {
+        "cod_postal": 2789,
+        "localidade": "S\u00c3O DOMINGOS DE RANA"
+    },
+    {
+        "cod_postal": 2790,
+        "localidade": "QUEIJAS"
+    },
+    {
+        "cod_postal": 1250,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2150,
+        "localidade": "AZINHAGA"
+    },
+    {
+        "cod_postal": 4960,
+        "localidade": "ALVAREDO"
+    },
+    {
+        "cod_postal": 5140,
+        "localidade": "AMEDO"
+    },
+    {
+        "cod_postal": 4970,
+        "localidade": "ABOIM DAS CHO\u00c7AS"
+    },
+    {
+        "cod_postal": 1748,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1749,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2040,
+        "localidade": "ALCOBERTAS"
+    },
+    {
+        "cod_postal": 2050,
+        "localidade": "AZAMBUJA"
+    },
+    {
+        "cod_postal": 1092,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1098,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 1099,
+        "localidade": "LISBOA"
+    },
+    {
+        "cod_postal": 2691,
+        "localidade": "SANTA IRIA DE AZ\u00d3IA"
+    },
+    {
+        "cod_postal": 2694,
+        "localidade": "SANTA IRIA DE AZ\u00d3IA"
+    },
+    {
+        "cod_postal": 2695,
+        "localidade": "BOBADELA LRS"
+    },
+    {
+        "cod_postal": 2749,
+        "localidade": "QUELUZ"
+    },
+    {
+        "cod_postal": 2750,
+        "localidade": "CASCAIS"
+    },
+    {
+        "cod_postal": 2724,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2725,
+        "localidade": "MEM MARTINS"
+    },
+    {
+        "cod_postal": 3004,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 3020,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 2819,
+        "localidade": "SOBREDA"
+    },
+    {
+        "cod_postal": 2820,
+        "localidade": "CHARNECA DA CAPARICA"
+    },
+    {
+        "cod_postal": 2855,
+        "localidade": "CORROIOS"
+    },
+    {
+        "cod_postal": 2951,
+        "localidade": "QUINTA DO ANJO"
+    },
+    {
+        "cod_postal": 2954,
+        "localidade": "PALMELA"
+    },
+    {
+        "cod_postal": 2955,
+        "localidade": "PINHAL NOVO"
+    },
+    {
+        "cod_postal": 2744,
+        "localidade": "PORTO SALVO"
+    },
+    {
+        "cod_postal": 2745,
+        "localidade": "QUELUZ"
+    },
+    {
+        "cod_postal": 2719,
+        "localidade": "TERRUGEM SNT"
+    },
+    {
+        "cod_postal": 2720,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2756,
+        "localidade": "ALCABIDECHE"
+    },
+    {
+        "cod_postal": 2760,
+        "localidade": "CAXIAS"
+    },
+    {
+        "cod_postal": 2761,
+        "localidade": "CAXIAS"
+    },
+    {
+        "cod_postal": 2765,
+        "localidade": "ESTORIL"
+    },
+    {
+        "cod_postal": 2834,
+        "localidade": "BARREIRO"
+    },
+    {
+        "cod_postal": 2835,
+        "localidade": "BAIXA DA BANHEIRA"
+    },
+    {
+        "cod_postal": 2814,
+        "localidade": "ALMADA"
+    },
+    {
+        "cod_postal": 2815,
+        "localidade": "SOBREDA"
+    },
+    {
+        "cod_postal": 2904,
+        "localidade": "SET\u00daBAL"
+    },
+    {
+        "cod_postal": 2844,
+        "localidade": "SEIXAL"
+    },
+    {
+        "cod_postal": 2845,
+        "localidade": "AMORA"
+    },
+    {
+        "cod_postal": 2900,
+        "localidade": "SET\u00daBAL"
+    },
+    {
+        "cod_postal": 2626,
+        "localidade": "VIALONGA"
+    },
+    {
+        "cod_postal": 2630,
+        "localidade": "ARRANH\u00d3"
+    },
+    {
+        "cod_postal": 2689,
+        "localidade": "PORTELA LRS"
+    },
+    {
+        "cod_postal": 2659,
+        "localidade": "ERICEIRA"
+    },
+    {
+        "cod_postal": 2660,
+        "localidade": "FRIELAS"
+    },
+    {
+        "cod_postal": 2690,
+        "localidade": "SANTA IRIA DE AZ\u00d3IA"
+    },
+    {
+        "cod_postal": 2794,
+        "localidade": "QUEIJAS"
+    },
+    {
+        "cod_postal": 2795,
+        "localidade": "LINDA A VELHA"
+    },
+    {
+        "cod_postal": 2870,
+        "localidade": "MONTIJO"
+    },
+    {
+        "cod_postal": 2560,
+        "localidade": "A DOS CUNHADOS"
+    },
+    {
+        "cod_postal": 2929,
+        "localidade": "AZEIT\u00c3O"
+    },
+    {
+        "cod_postal": 2950,
+        "localidade": "PALMELA"
+    },
+    {
+        "cod_postal": 2970,
+        "localidade": "SESIMBRA"
+    },
+    {
+        "cod_postal": 2639,
+        "localidade": "RIO DE MOURO"
+    },
+    {
+        "cod_postal": 2640,
+        "localidade": "SANTO ISIDORO MFR"
+    },
+    {
+        "cod_postal": 2959,
+        "localidade": "PINHAL NOVO"
+    },
+    {
+        "cod_postal": 2965,
+        "localidade": "POCEIR\u00c3O"
+    },
+    {
+        "cod_postal": 2681,
+        "localidade": "CAMARATE"
+    },
+    {
+        "cod_postal": 2685,
+        "localidade": "SACAV\u00c9M"
+    },
+    {
+        "cod_postal": 2714,
+        "localidade": "SINTRA"
+    },
+    {
+        "cod_postal": 2715,
+        "localidade": "PERO PINHEIRO"
+    },
+    {
+        "cod_postal": 2616,
+        "localidade": "ALVERCA DO RIBATEJO"
+    },
+    {
+        "cod_postal": 2619,
+        "localidade": "ALVERCA DO RIBATEJO"
+    },
+    {
+        "cod_postal": 2620,
+        "localidade": "OLIVAL BASTO"
+    },
+    {
+        "cod_postal": 3025,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 2839,
+        "localidade": "LAVRADIO"
+    },
+    {
+        "cod_postal": 2840,
+        "localidade": "ALDEIA DE PAIO PIRES"
+    },
+    {
+        "cod_postal": 2680,
+        "localidade": "CAMARATE"
+    },
+    {
+        "cod_postal": 2675,
+        "localidade": "ODIVELAS"
+    },
+    {
+        "cod_postal": 2699,
+        "localidade": "BOBADELA LRS"
+    },
+    {
+        "cod_postal": 2700,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2621,
+        "localidade": "P\u00d3VOA DE SANTO ADRI\u00c3O"
+    },
+    {
+        "cod_postal": 2625,
+        "localidade": "P\u00d3VOA DE SANTA IRIA"
+    },
+    {
+        "cod_postal": 2594,
+        "localidade": "SOBRAL DE MONTE AGRA\u00c7O"
+    },
+    {
+        "cod_postal": 2600,
+        "localidade": "VILA FRANCA DE XIRA"
+    },
+    {
+        "cod_postal": 2654,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2655,
+        "localidade": "ERICEIRA"
+    },
+    {
+        "cod_postal": 2729,
+        "localidade": "MEM MARTINS"
+    },
+    {
+        "cod_postal": 2730,
+        "localidade": "BARCARENA"
+    },
+    {
+        "cod_postal": 2774,
+        "localidade": "PA\u00c7O DE ARCOS"
+    },
+    {
+        "cod_postal": 2674,
+        "localidade": "LOURES"
+    },
+    {
+        "cod_postal": 2775,
+        "localidade": "PAREDE"
+    },
+    {
+        "cod_postal": 2614,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2615,
+        "localidade": "ALVERCA DO RIBATEJO"
+    },
+    {
+        "cod_postal": 2706,
+        "localidade": "TERRUGEM SNT"
+    },
+    {
+        "cod_postal": 2709,
+        "localidade": "TERRUGEM SNT"
+    },
+    {
+        "cod_postal": 2710,
+        "localidade": "SINTRA"
+    },
+    {
+        "cod_postal": 2580,
+        "localidade": "ABRIGADA"
+    },
+    {
+        "cod_postal": 2530,
+        "localidade": "ATALAIA LNH"
+    },
+    {
+        "cod_postal": 2769,
+        "localidade": "ESTORIL"
+    },
+    {
+        "cod_postal": 2770,
+        "localidade": "PA\u00c7O DE ARCOS"
+    },
+    {
+        "cod_postal": 2609,
+        "localidade": "BELAS"
+    },
+    {
+        "cod_postal": 2610,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2804,
+        "localidade": "ALMADA"
+    },
+    {
+        "cod_postal": 2805,
+        "localidade": "ALMADA"
+    },
+    {
+        "cod_postal": 2644,
+        "localidade": "MAFRA"
+    },
+    {
+        "cod_postal": 2645,
+        "localidade": "ALCABIDECHE"
+    },
+    {
+        "cod_postal": 2809,
+        "localidade": "ALMADA"
+    },
+    {
+        "cod_postal": 2810,
+        "localidade": "ALMADA"
+    },
+    {
+        "cod_postal": 2649,
+        "localidade": "ALCABIDECHE"
+    },
+    {
+        "cod_postal": 2650,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2581,
+        "localidade": "ALENQUER"
+    },
+    {
+        "cod_postal": 2590,
+        "localidade": "SOBRAL DE MONTE AGRA\u00c7O"
+    },
+    {
+        "cod_postal": 4099,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 2739,
+        "localidade": "AGUALVA-CAC\u00c9M"
+    },
+    {
+        "cod_postal": 2740,
+        "localidade": "PORTO SALVO"
+    },
+    {
+        "cod_postal": 3200,
+        "localidade": "LOUS\u00c3"
+    },
+    {
+        "cod_postal": 2565,
+        "localidade": "CAMPELOS"
+    },
+    {
+        "cod_postal": 2704,
+        "localidade": "AMADORA"
+    },
+    {
+        "cod_postal": 2520,
+        "localidade": "FERREL"
+    },
+    {
+        "cod_postal": 3880,
+        "localidade": "OVAR"
+    },
+    {
+        "cod_postal": 2779,
+        "localidade": "PAREDE"
+    },
+    {
+        "cod_postal": 2780,
+        "localidade": "OEIRAS"
+    },
+    {
+        "cod_postal": 3800,
+        "localidade": "AVEIRO"
+    },
+    {
+        "cod_postal": 2799,
+        "localidade": "LINDA A VELHA"
+    },
+    {
+        "cod_postal": 2800,
+        "localidade": "ALMADA"
+    },
+    {
+        "cod_postal": 2734,
+        "localidade": "BARCARENA"
+    },
+    {
+        "cod_postal": 2735,
+        "localidade": "AGUALVA-CAC\u00c9M"
+    },
+    {
+        "cod_postal": 2525,
+        "localidade": "ATOUGUIA DA BALEIA"
+    },
+    {
+        "cod_postal": 3624,
+        "localidade": "MOIMENTA DA BEIRA"
+    },
+    {
+        "cod_postal": 3630,
+        "localidade": "ANTAS PND"
+    },
+    {
+        "cod_postal": 3730,
+        "localidade": "AR\u00d5ES"
+    },
+    {
+        "cod_postal": 2504,
+        "localidade": "A DOS FRANCOS"
+    },
+    {
+        "cod_postal": 2510,
+        "localidade": "\u00d3BIDOS"
+    },
+    {
+        "cod_postal": 2705,
+        "localidade": "COLARES"
+    },
+    {
+        "cod_postal": 3650,
+        "localidade": "ALHAIS"
+    },
+    {
+        "cod_postal": 3740,
+        "localidade": "CEDRIM"
+    },
+    {
+        "cod_postal": 3744,
+        "localidade": "SEVER DO VOUGA"
+    },
+    {
+        "cod_postal": 3750,
+        "localidade": "AGAD\u00c3O"
+    },
+    {
+        "cod_postal": 3885,
+        "localidade": "ARADA"
+    },
+    {
+        "cod_postal": 3680,
+        "localidade": "ARCOZELO DAS MAIAS"
+    },
+    {
+        "cod_postal": 3754,
+        "localidade": "\u00c1GUEDA"
+    },
+    {
+        "cod_postal": 3770,
+        "localidade": "BUSTOS"
+    },
+    {
+        "cod_postal": 4100,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4149,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4150,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 3860,
+        "localidade": "AVANCA"
+    },
+    {
+        "cod_postal": 3701,
+        "localidade": "S\u00c3O JO\u00c3O DA MADEIRA"
+    },
+    {
+        "cod_postal": 3720,
+        "localidade": "OLIVEIRA DE AZEM\u00c9IS"
+    },
+    {
+        "cod_postal": 4430,
+        "localidade": "VILA NOVA DE GAIA"
+    },
+    {
+        "cod_postal": 3850,
+        "localidade": "ALBERGARIA-A-VELHA"
+    },
+    {
+        "cod_postal": 3804,
+        "localidade": "AVEIRO"
+    },
+    {
+        "cod_postal": 3810,
+        "localidade": "AVEIRO"
+    },
+    {
+        "cod_postal": 3070,
+        "localidade": "MIRA"
+    },
+    {
+        "cod_postal": 3610,
+        "localidade": "TAROUCA"
+    },
+    {
+        "cod_postal": 3620,
+        "localidade": "ALDEIA DE NACOMBA"
+    },
+    {
+        "cod_postal": 4454,
+        "localidade": "MATOSINHOS"
+    },
+    {
+        "cod_postal": 4455,
+        "localidade": "LAVRA"
+    },
+    {
+        "cod_postal": 3840,
+        "localidade": "VAGOS"
+    },
+    {
+        "cod_postal": 3440,
+        "localidade": "\u00d3VOA"
+    },
+    {
+        "cod_postal": 3030,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 4049,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 3864,
+        "localidade": "ESTARREJA"
+    },
+    {
+        "cod_postal": 3865,
+        "localidade": "CANELAS ETR"
+    },
+    {
+        "cod_postal": 3870,
+        "localidade": "BUNHEIRO"
+    },
+    {
+        "cod_postal": 3570,
+        "localidade": "AGUIAR DA BEIRA"
+    },
+    {
+        "cod_postal": 2821,
+        "localidade": "CHARNECA DA CAPARICA"
+    },
+    {
+        "cod_postal": 2825,
+        "localidade": "CAPARICA"
+    },
+    {
+        "cod_postal": 3640,
+        "localidade": "ARNAS"
+    },
+    {
+        "cod_postal": 3660,
+        "localidade": "BAI\u00d5ES"
+    },
+    {
+        "cod_postal": 2910,
+        "localidade": "SET\u00daBAL"
+    },
+    {
+        "cod_postal": 3220,
+        "localidade": "LAMAS MCV"
+    },
+    {
+        "cod_postal": 3670,
+        "localidade": "ALCOFRA"
+    },
+    {
+        "cod_postal": 3684,
+        "localidade": "SOUTO DE LAF\u00d5ES"
+    },
+    {
+        "cod_postal": 3700,
+        "localidade": "S\u00c3O JO\u00c3O DA MADEIRA"
+    },
+    {
+        "cod_postal": 3780,
+        "localidade": "AMOREIRA DA G\u00c2NDARA"
+    },
+    {
+        "cod_postal": 3514,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 3515,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 3530,
+        "localidade": "ABRUNHOSA-A-VELHA"
+    },
+    {
+        "cod_postal": 3534,
+        "localidade": "MANGUALDE"
+    },
+    {
+        "cod_postal": 3550,
+        "localidade": "ANTAS PCT"
+    },
+    {
+        "cod_postal": 3330,
+        "localidade": "CADAFAZ GOI"
+    },
+    {
+        "cod_postal": 3475,
+        "localidade": "ARCA"
+    },
+    {
+        "cod_postal": 3600,
+        "localidade": "ALMOFALA CDR"
+    },
+    {
+        "cod_postal": 3814,
+        "localidade": "AVEIRO"
+    },
+    {
+        "cod_postal": 3830,
+        "localidade": "\u00cdLHAVO"
+    },
+    {
+        "cod_postal": 3420,
+        "localidade": "\u00c1ZERE TBU"
+    },
+    {
+        "cod_postal": 3150,
+        "localidade": "ANOBRA"
+    },
+    {
+        "cod_postal": 2830,
+        "localidade": "BARREIRO"
+    },
+    {
+        "cod_postal": 3130,
+        "localidade": "ALFARELOS"
+    },
+    {
+        "cod_postal": 3230,
+        "localidade": "CUMEEIRA"
+    },
+    {
+        "cod_postal": 3300,
+        "localidade": "ARGANIL"
+    },
+    {
+        "cod_postal": 3519,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 3520,
+        "localidade": "NELAS"
+    },
+    {
+        "cod_postal": 3080,
+        "localidade": "FIGUEIRA DA FOZ"
+    },
+    {
+        "cod_postal": 3084,
+        "localidade": "FIGUEIRA DA FOZ"
+    },
+    {
+        "cod_postal": 3090,
+        "localidade": "MARINHA DAS ONDAS"
+    },
+    {
+        "cod_postal": 3270,
+        "localidade": "GRA\u00c7A"
+    },
+    {
+        "cod_postal": 3460,
+        "localidade": "TONDELA"
+    },
+    {
+        "cod_postal": 3044,
+        "localidade": "CERNACHE"
+    },
+    {
+        "cod_postal": 3045,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 2975,
+        "localidade": "QUINTA DO CONDE"
+    },
+    {
+        "cod_postal": 2864,
+        "localidade": "MOITA"
+    },
+    {
+        "cod_postal": 2865,
+        "localidade": "FERN\u00c3O FERRO"
+    },
+    {
+        "cod_postal": 3510,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 3400,
+        "localidade": "OLIVEIRA DO HOSPITAL"
+    },
+    {
+        "cod_postal": 3505,
+        "localidade": "BARREIROS VIS"
+    },
+    {
+        "cod_postal": 3260,
+        "localidade": "AGUDA"
+    },
+    {
+        "cod_postal": 3034,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 3040,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 3094,
+        "localidade": "FIGUEIRA DA FOZ"
+    },
+    {
+        "cod_postal": 3100,
+        "localidade": "SANTIAGO DE LIT\u00c9M"
+    },
+    {
+        "cod_postal": 2914,
+        "localidade": "SET\u00daBAL"
+    },
+    {
+        "cod_postal": 2925,
+        "localidade": "AZEIT\u00c3O"
+    },
+    {
+        "cod_postal": 3350,
+        "localidade": "ARRIFANA PRS"
+    },
+    {
+        "cod_postal": 3105,
+        "localidade": "ALMAGREIRA PBL"
+    },
+    {
+        "cod_postal": 3360,
+        "localidade": "CARVALHO PCV"
+    },
+    {
+        "cod_postal": 3250,
+        "localidade": "ALMOSTER AVZ"
+    },
+    {
+        "cod_postal": 3430,
+        "localidade": "CARREGAL DO SAL"
+    },
+    {
+        "cod_postal": 3320,
+        "localidade": "CABRIL PPS"
+    },
+    {
+        "cod_postal": 3305,
+        "localidade": "ANCERIZ"
+    },
+    {
+        "cod_postal": 2860,
+        "localidade": "ALHOS VEDROS"
+    },
+    {
+        "cod_postal": 3000,
+        "localidade": "COIMBRA"
+    },
+    {
+        "cod_postal": 3405,
+        "localidade": "BOBADELA OHP"
+    },
+    {
+        "cod_postal": 2985,
+        "localidade": "CANHA"
+    },
+    {
+        "cod_postal": 3054,
+        "localidade": "MEALHADA"
+    },
+    {
+        "cod_postal": 3060,
+        "localidade": "AN\u00c7\u00c3"
+    },
+    {
+        "cod_postal": 3140,
+        "localidade": "ABRUNHEIRA"
+    },
+    {
+        "cod_postal": 3240,
+        "localidade": "ANSI\u00c3O"
+    },
+    {
+        "cod_postal": 3525,
+        "localidade": "CANAS DE SENHORIM"
+    },
+    {
+        "cod_postal": 3464,
+        "localidade": "TONDELA"
+    },
+    {
+        "cod_postal": 4775,
+        "localidade": "CHAV\u00c3O"
+    },
+    {
+        "cod_postal": 3560,
+        "localidade": "\u00c1GUAS BOAS"
+    },
+    {
+        "cod_postal": 3280,
+        "localidade": "CASTANHEIRA DE P\u00caRA"
+    },
+    {
+        "cod_postal": 2829,
+        "localidade": "COSTA DE CAPARICA"
+    },
+    {
+        "cod_postal": 3500,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 3504,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 3049,
+        "localidade": "TAVEIRO"
+    },
+    {
+        "cod_postal": 3050,
+        "localidade": "MEALHADA"
+    },
+    {
+        "cod_postal": 4755,
+        "localidade": "AD\u00c3ES"
+    },
+    {
+        "cod_postal": 4620,
+        "localidade": "SANTA EULALIA"
+    },
+    {
+        "cod_postal": 4550,
+        "localidade": "BAIRROS"
+    },
+    {
+        "cod_postal": 4486,
+        "localidade": "MINDELO"
+    },
+    {
+        "cod_postal": 4490,
+        "localidade": "P\u00d3VOA DE VARZIM"
+    },
+    {
+        "cod_postal": 4650,
+        "localidade": "TORNO"
+    },
+    {
+        "cod_postal": 4635,
+        "localidade": "BANHO E CARVALHOSA"
+    },
+    {
+        "cod_postal": 4500,
+        "localidade": "ESPINHO"
+    },
+    {
+        "cod_postal": 4709,
+        "localidade": "CELEIR\u00d3S BRG"
+    },
+    {
+        "cod_postal": 4710,
+        "localidade": "BRAGA"
+    },
+    {
+        "cod_postal": 4615,
+        "localidade": "FREIXO DE CIMA"
+    },
+    {
+        "cod_postal": 4525,
+        "localidade": "CANEDO VFR"
+    },
+    {
+        "cod_postal": 4760,
+        "localidade": "VILA NOVA DE FAMALIC\u00c3O"
+    },
+    {
+        "cod_postal": 4640,
+        "localidade": "ANCEDE"
+    },
+    {
+        "cod_postal": 4719,
+        "localidade": "BRAGA"
+    },
+    {
+        "cod_postal": 4720,
+        "localidade": "VILELA AMR"
+    },
+    {
+        "cod_postal": 4510,
+        "localidade": "JOVIM"
+    },
+    {
+        "cod_postal": 4560,
+        "localidade": "GALEGOS PNF"
+    },
+    {
+        "cod_postal": 4169,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4199,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4200,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4495,
+        "localidade": "P\u00d3VOA DE VARZIM"
+    },
+    {
+        "cod_postal": 4575,
+        "localidade": "ALPENDURADA E MATOS"
+    },
+    {
+        "cod_postal": 4704,
+        "localidade": "BRAGA"
+    },
+    {
+        "cod_postal": 4705,
+        "localidade": "ARENTIM"
+    },
+    {
+        "cod_postal": 4750,
+        "localidade": "ABADE DE NEIVA"
+    },
+    {
+        "cod_postal": 4714,
+        "localidade": "BRAGA"
+    },
+    {
+        "cod_postal": 4715,
+        "localidade": "BRAGA"
+    },
+    {
+        "cod_postal": 4515,
+        "localidade": "COVELO GDM"
+    },
+    {
+        "cod_postal": 4520,
+        "localidade": "ESCAP\u00c3ES"
+    },
+    {
+        "cod_postal": 4564,
+        "localidade": "PENAFIEL"
+    },
+    {
+        "cod_postal": 4570,
+        "localidade": "BALAZAR PVZ"
+    },
+    {
+        "cod_postal": 4464,
+        "localidade": "SENHORA DA HORA"
+    },
+    {
+        "cod_postal": 4465,
+        "localidade": "S\u00c3O MAMEDE DE INFESTA"
+    },
+    {
+        "cod_postal": 4414,
+        "localidade": "CANELAS VNG"
+    },
+    {
+        "cod_postal": 4415,
+        "localidade": "PEROSINHO"
+    },
+    {
+        "cod_postal": 4269,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4300,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4450,
+        "localidade": "MATOSINHOS"
+    },
+    {
+        "cod_postal": 4409,
+        "localidade": "VILA NOVA DE GAIA"
+    },
+    {
+        "cod_postal": 4434,
+        "localidade": "VILA NOVA DE GAIA"
+    },
+    {
+        "cod_postal": 4435,
+        "localidade": "RIO TINTO"
+    },
+    {
+        "cod_postal": 4585,
+        "localidade": "AGUIAR DE SOUSA"
+    },
+    {
+        "cod_postal": 4440,
+        "localidade": "CAMPO VLG"
+    },
+    {
+        "cod_postal": 4470,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 4249,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4250,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4479,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 4480,
+        "localidade": "VILA DO CONDE"
+    },
+    {
+        "cod_postal": 4404,
+        "localidade": "VILA NOVA DE GAIA"
+    },
+    {
+        "cod_postal": 8801,
+        "localidade": "TAVIRA"
+    },
+    {
+        "cod_postal": 8900,
+        "localidade": "VILA NOVA DE CACELA"
+    },
+    {
+        "cod_postal": 4504,
+        "localidade": "ESPINHO"
+    },
+    {
+        "cod_postal": 4505,
+        "localidade": "ARGONCILHE"
+    },
+    {
+        "cod_postal": 4420,
+        "localidade": "GONDOMAR"
+    },
+    {
+        "cod_postal": 4535,
+        "localidade": "LOUROSA"
+    },
+    {
+        "cod_postal": 8000,
+        "localidade": "FARO"
+    },
+    {
+        "cod_postal": 4471,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 4474,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 4475,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 7425,
+        "localidade": "MONTARGIL"
+    },
+    {
+        "cod_postal": 7430,
+        "localidade": "ALDEIA DA MATA"
+    },
+    {
+        "cod_postal": 4369,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4400,
+        "localidade": "VILA NOVA DE GAIA"
+    },
+    {
+        "cod_postal": 4424,
+        "localidade": "GONDOMAR- SAO COSME"
+    },
+    {
+        "cod_postal": 4425,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 4410,
+        "localidade": "ARCOZELO VNG"
+    },
+    {
+        "cod_postal": 8670,
+        "localidade": "ALJEZUR"
+    },
+    {
+        "cod_postal": 4540,
+        "localidade": "ALBERGARIA DA SERRA"
+    },
+    {
+        "cod_postal": 4445,
+        "localidade": "ALFENA"
+    },
+    {
+        "cod_postal": 4349,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4350,
+        "localidade": "CAMPANHA"
+    },
+    {
+        "cod_postal": 8125,
+        "localidade": "QUARTEIRA"
+    },
+    {
+        "cod_postal": 4599,
+        "localidade": "SEROA"
+    },
+    {
+        "cod_postal": 4600,
+        "localidade": "AMARANTE"
+    },
+    {
+        "cod_postal": 4460,
+        "localidade": "GUIF\u00d5ES"
+    },
+    {
+        "cod_postal": 4484,
+        "localidade": "TOUGUINHA"
+    },
+    {
+        "cod_postal": 4485,
+        "localidade": "GUILHABREU"
+    },
+    {
+        "cod_postal": 4580,
+        "localidade": "PAREDES"
+    },
+    {
+        "cod_postal": 7555,
+        "localidade": "CERCAL DO ALENTEJO"
+    },
+    {
+        "cod_postal": 7565,
+        "localidade": "ALVALADE"
+    },
+    {
+        "cod_postal": 7570,
+        "localidade": "AZINH BARROS S MAM S\u00c1D\u00c3O"
+    },
+    {
+        "cod_postal": 7860,
+        "localidade": "MOURA"
+    },
+    {
+        "cod_postal": 7750,
+        "localidade": "ALCARIA RUIVA"
+    },
+    {
+        "cod_postal": 7540,
+        "localidade": "ABELA"
+    },
+    {
+        "cod_postal": 7100,
+        "localidade": "ARCOS ETZ"
+    },
+    {
+        "cod_postal": 7150,
+        "localidade": "BORBA"
+    },
+    {
+        "cod_postal": 7160,
+        "localidade": "BENCATEL"
+    },
+    {
+        "cod_postal": 7250,
+        "localidade": "S\u00c3O BR\u00c1S DOS MATOS"
+    },
+    {
+        "cod_postal": 7580,
+        "localidade": "ALC\u00c1CER DO SAL"
+    },
+    {
+        "cod_postal": 9125,
+        "localidade": "CANI\u00c7O"
+    },
+    {
+        "cod_postal": 7670,
+        "localidade": "CONCEI\u00c7\u00c3O ORQ"
+    },
+    {
+        "cod_postal": 7700,
+        "localidade": "ALMOD\u00d4VAR"
+    },
+    {
+        "cod_postal": 7170,
+        "localidade": "REDONDO"
+    },
+    {
+        "cod_postal": 7200,
+        "localidade": "SANTIAGO MAIOR"
+    },
+    {
+        "cod_postal": 9240,
+        "localidade": "BOA VENTURA"
+    },
+    {
+        "cod_postal": 9270,
+        "localidade": "ACHADAS DA CRUZ"
+    },
+    {
+        "cod_postal": 7500,
+        "localidade": "VILA NOVA DE SANTO ANDR\u00c9"
+    },
+    {
+        "cod_postal": 4700,
+        "localidade": "BRAGA"
+    },
+    {
+        "cod_postal": 7801,
+        "localidade": "BEJA"
+    },
+    {
+        "cod_postal": 7830,
+        "localidade": "VILA NOVA DE S\u00c3O BENTO"
+    },
+    {
+        "cod_postal": 7875,
+        "localidade": "SAFARA"
+    },
+    {
+        "cod_postal": 7220,
+        "localidade": "ALQUEVA"
+    },
+    {
+        "cod_postal": 7230,
+        "localidade": "BARRANCOS"
+    },
+    {
+        "cod_postal": 7240,
+        "localidade": "GRANJA MOU"
+    },
+    {
+        "cod_postal": 7300,
+        "localidade": "RIBEIRA DE NISA"
+    },
+    {
+        "cod_postal": 4630,
+        "localidade": "AVESSADAS"
+    },
+    {
+        "cod_postal": 7645,
+        "localidade": "VILA NOVA DE MILFONTES"
+    },
+    {
+        "cod_postal": 7665,
+        "localidade": "SAB\u00d3IA"
+    },
+    {
+        "cod_postal": 8501,
+        "localidade": "PORTIM\u00c3O"
+    },
+    {
+        "cod_postal": 8550,
+        "localidade": "ALFERCE"
+    },
+    {
+        "cod_postal": 8601,
+        "localidade": "LAGOS"
+    },
+    {
+        "cod_postal": 8650,
+        "localidade": "BAR\u00c3O DE S\u00c3O MIGUEL"
+    },
+    {
+        "cod_postal": 7780,
+        "localidade": "CASTRO VERDE"
+    },
+    {
+        "cod_postal": 8600,
+        "localidade": "ODI\u00c1XERE"
+    },
+    {
+        "cod_postal": 7800,
+        "localidade": "BEJA"
+    },
+    {
+        "cod_postal": 8135,
+        "localidade": "ALMANCIL"
+    },
+    {
+        "cod_postal": 8136,
+        "localidade": "ALMANCIL"
+    },
+    {
+        "cod_postal": 8150,
+        "localidade": "S\u00c3O BR\u00c1S DE ALPORTEL"
+    },
+    {
+        "cod_postal": 9000,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 7301,
+        "localidade": "PORTALEGRE"
+    },
+    {
+        "cod_postal": 7320,
+        "localidade": "N SRA GRA\u00c7A P\u00d3VOA MEADAS"
+    },
+    {
+        "cod_postal": 7330,
+        "localidade": "BEIR\u00c3"
+    },
+    {
+        "cod_postal": 7340,
+        "localidade": "ARRONCHES"
+    },
+    {
+        "cod_postal": 7350,
+        "localidade": "ELVAS"
+    },
+    {
+        "cod_postal": 7450,
+        "localidade": "ASSUMAR"
+    },
+    {
+        "cod_postal": 7354,
+        "localidade": "ELVAS"
+    },
+    {
+        "cod_postal": 7370,
+        "localidade": "CAMPO MAIOR"
+    },
+    {
+        "cod_postal": 8004,
+        "localidade": "FARO"
+    },
+    {
+        "cod_postal": 8005,
+        "localidade": "FARO"
+    },
+    {
+        "cod_postal": 7885,
+        "localidade": "AMARELEJA"
+    },
+    {
+        "cod_postal": 8401,
+        "localidade": "LAGOA"
+    },
+    {
+        "cod_postal": 8500,
+        "localidade": "ALVOR"
+    },
+    {
+        "cod_postal": 8009,
+        "localidade": "FARO"
+    },
+    {
+        "cod_postal": 8100,
+        "localidade": "ALTE"
+    },
+    {
+        "cod_postal": 8800,
+        "localidade": "CACHOPO"
+    },
+    {
+        "cod_postal": 8950,
+        "localidade": "AZINHAL CTM"
+    },
+    {
+        "cod_postal": 8970,
+        "localidade": "ALCOUTIM"
+    },
+    {
+        "cod_postal": 5430,
+        "localidade": "VALPACOS"
+    },
+    {
+        "cod_postal": 7440,
+        "localidade": "ALTER DO CH\u00c3O"
+    },
+    {
+        "cod_postal": 7460,
+        "localidade": "CABE\u00c7O DE VIDE"
+    },
+    {
+        "cod_postal": 7470,
+        "localidade": "CANO"
+    },
+    {
+        "cod_postal": 7480,
+        "localidade": "ALC\u00d3RREGO"
+    },
+    {
+        "cod_postal": 9064,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 9100,
+        "localidade": "GAULA"
+    },
+    {
+        "cod_postal": 9135,
+        "localidade": "CAMACHA"
+    },
+    {
+        "cod_postal": 9225,
+        "localidade": "PORTO DA CRUZ"
+    },
+    {
+        "cod_postal": 9230,
+        "localidade": "ARCO DE S\u00c3O JORGE"
+    },
+    {
+        "cod_postal": 7490,
+        "localidade": "BROTAS"
+    },
+    {
+        "cod_postal": 7520,
+        "localidade": "SINES"
+    },
+    {
+        "cod_postal": 7090,
+        "localidade": "ALC\u00c1\u00c7OVAS"
+    },
+    {
+        "cod_postal": 6030,
+        "localidade": "VILA VELHA DE R\u00d3D\u00c3O"
+    },
+    {
+        "cod_postal": 5450,
+        "localidade": "VILA POUCA DE AGUIAR"
+    },
+    {
+        "cod_postal": 6230,
+        "localidade": "ALCAIDE"
+    },
+    {
+        "cod_postal": 6040,
+        "localidade": "ATALAIA GAV"
+    },
+    {
+        "cod_postal": 5385,
+        "localidade": "AGUIEIRAS"
+    },
+    {
+        "cod_postal": 5400,
+        "localidade": "CHAVES"
+    },
+    {
+        "cod_postal": 6150,
+        "localidade": "ALVITO DA BEIRA"
+    },
+    {
+        "cod_postal": 6285,
+        "localidade": "PI\u00d3D\u00c3O"
+    },
+    {
+        "cod_postal": 6160,
+        "localidade": "\u00c1LVARO"
+    },
+    {
+        "cod_postal": 6110,
+        "localidade": "FUNDADA"
+    },
+    {
+        "cod_postal": 6120,
+        "localidade": "ENVENDOS"
+    },
+    {
+        "cod_postal": 6270,
+        "localidade": "ALVOCO DA SERRA"
+    },
+    {
+        "cod_postal": 6185,
+        "localidade": "BOGAS DE BAIXO"
+    },
+    {
+        "cod_postal": 6360,
+        "localidade": "A\u00c7ORES"
+    },
+    {
+        "cod_postal": 4745,
+        "localidade": "ALVARELHOS TRF"
+    },
+    {
+        "cod_postal": 5425,
+        "localidade": "ANELHE"
+    },
+    {
+        "cod_postal": 6100,
+        "localidade": "CABE\u00c7UDO"
+    },
+    {
+        "cod_postal": 6290,
+        "localidade": "ALDEIAS GVA"
+    },
+    {
+        "cod_postal": 9880,
+        "localidade": "GUADALUPE"
+    },
+    {
+        "cod_postal": 6201,
+        "localidade": "COVILH\u00c3"
+    },
+    {
+        "cod_postal": 5460,
+        "localidade": "ALTURAS DO BARROSO"
+    },
+    {
+        "cod_postal": 5445,
+        "localidade": "ARGERIZ"
+    },
+    {
+        "cod_postal": 4660,
+        "localidade": "ANREADE"
+    },
+    {
+        "cod_postal": 4740,
+        "localidade": "ESPOSENDE"
+    },
+    {
+        "cod_postal": 9625,
+        "localidade": "FENAIS DA AJUDA"
+    },
+    {
+        "cod_postal": 9630,
+        "localidade": "ACHADA"
+    },
+    {
+        "cod_postal": 5470,
+        "localidade": "CABRIL MTR"
+    },
+    {
+        "cod_postal": 6301,
+        "localidade": "GUARDA"
+    },
+    {
+        "cod_postal": 6320,
+        "localidade": "\u00c1GUAS BELAS SBG"
+    },
+    {
+        "cod_postal": 6060,
+        "localidade": "ALCAFOZES"
+    },
+    {
+        "cod_postal": 6324,
+        "localidade": "CERDEIRA SBG"
+    },
+    {
+        "cod_postal": 6350,
+        "localidade": "ALDEIA NOVA ALD"
+    },
+    {
+        "cod_postal": 6355,
+        "localidade": "ADE"
+    },
+    {
+        "cod_postal": 6050,
+        "localidade": "ALPALH\u00c3O"
+    },
+    {
+        "cod_postal": 9004,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 6215,
+        "localidade": "BARCO CVL"
+    },
+    {
+        "cod_postal": 4764,
+        "localidade": "VILA NOVA DE FAMALIC\u00c3O"
+    },
+    {
+        "cod_postal": 4765,
+        "localidade": "BAIRRO"
+    },
+    {
+        "cod_postal": 6004,
+        "localidade": "CASTELO BRANCO"
+    },
+    {
+        "cod_postal": 6005,
+        "localidade": "ALCAINS"
+    },
+    {
+        "cod_postal": 6200,
+        "localidade": "COVILH\u00c3"
+    },
+    {
+        "cod_postal": 7374,
+        "localidade": "CAMPO MAIOR"
+    },
+    {
+        "cod_postal": 7400,
+        "localidade": "GALVEIAS"
+    },
+    {
+        "cod_postal": 6225,
+        "localidade": "ALDEIA S FRANCISCO ASSIS"
+    },
+    {
+        "cod_postal": 9900,
+        "localidade": "HORTA"
+    },
+    {
+        "cod_postal": 7900,
+        "localidade": "ALFUND\u00c3O"
+    },
+    {
+        "cod_postal": 6090,
+        "localidade": "\u00c1GUAS"
+    },
+    {
+        "cod_postal": 6250,
+        "localidade": "BELMONTE"
+    },
+    {
+        "cod_postal": 6260,
+        "localidade": "MANTEIGAS"
+    },
+    {
+        "cod_postal": 6300,
+        "localidade": "AD\u00c3O"
+    },
+    {
+        "cod_postal": 9600,
+        "localidade": "CALHETAS"
+    },
+    {
+        "cod_postal": 8700,
+        "localidade": "FUSETA"
+    },
+    {
+        "cod_postal": 4730,
+        "localidade": "CERV\u00c3ES"
+    },
+    {
+        "cod_postal": 4625,
+        "localidade": "ARIZ MCN"
+    },
+    {
+        "cod_postal": 4690,
+        "localidade": "ALH\u00d5ES"
+    },
+    {
+        "cod_postal": 9504,
+        "localidade": "PONTA DELGADA"
+    },
+    {
+        "cod_postal": 9024,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 9030,
+        "localidade": "CURRAL DAS FREIRAS"
+    },
+    {
+        "cod_postal": 9050,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 9980,
+        "localidade": "CORVO"
+    },
+    {
+        "cod_postal": 4905,
+        "localidade": "ALDREU"
+    },
+    {
+        "cod_postal": 9944,
+        "localidade": "S\u00c3O ROQUE DO PICO"
+    },
+    {
+        "cod_postal": 3774,
+        "localidade": "OLIVEIRA DO BAIRRO"
+    },
+    {
+        "cod_postal": 5164,
+        "localidade": "TORRE DE MONCORVO"
+    },
+    {
+        "cod_postal": 7154,
+        "localidade": "BORBA"
+    },
+    {
+        "cod_postal": 8203,
+        "localidade": "GUIA ABF"
+    },
+    {
+        "cod_postal": 8954,
+        "localidade": "CASTRO MARIM"
+    },
+    {
+        "cod_postal": 8804,
+        "localidade": "TAVIRA"
+    },
+    {
+        "cod_postal": 9545,
+        "localidade": "AJUDA DA BRETANHA"
+    },
+    {
+        "cod_postal": 8201,
+        "localidade": "ALBUFEIRA"
+    },
+    {
+        "cod_postal": 8300,
+        "localidade": "SILVES"
+    },
+    {
+        "cod_postal": 3074,
+        "localidade": "MIRA"
+    },
+    {
+        "cod_postal": 8604,
+        "localidade": "LAGOS"
+    },
+    {
+        "cod_postal": 4477,
+        "localidade": "MAIA"
+    },
+    {
+        "cod_postal": 2629,
+        "localidade": "P\u00d3VOA DE SANTA IRIA"
+    },
+    {
+        "cod_postal": 4458,
+        "localidade": "PERAFITA"
+    },
+    {
+        "cod_postal": 9680,
+        "localidade": "VILA FRANCA DO CAMPO"
+    },
+    {
+        "cod_postal": 7630,
+        "localidade": "ODEMIRA"
+    },
+    {
+        "cod_postal": 9701,
+        "localidade": "TERRA CH\u00c3"
+    },
+    {
+        "cod_postal": 9760,
+        "localidade": "AGUALVA"
+    },
+    {
+        "cod_postal": 4459,
+        "localidade": "PERAFITA"
+    },
+    {
+        "cod_postal": 2848,
+        "localidade": "AMORA"
+    },
+    {
+        "cod_postal": 4964,
+        "localidade": "MELGA\u00c7O"
+    },
+    {
+        "cod_postal": 4944,
+        "localidade": "PAREDES DE COURA"
+    },
+    {
+        "cod_postal": 4664,
+        "localidade": "RESENDE"
+    },
+    {
+        "cod_postal": 2154,
+        "localidade": "GOLEG\u00c3"
+    },
+    {
+        "cod_postal": 2025,
+        "localidade": "ABR\u00c3"
+    },
+    {
+        "cod_postal": 9901,
+        "localidade": "HORTA"
+    },
+    {
+        "cod_postal": 9904,
+        "localidade": "HORTA"
+    },
+    {
+        "cod_postal": 9930,
+        "localidade": "CALHETA DE NESQUIM"
+    },
+    {
+        "cod_postal": 9360,
+        "localidade": "PONTA DO SOL"
+    },
+    {
+        "cod_postal": 9374,
+        "localidade": "CALHETA (MADEIRA)"
+    },
+    {
+        "cod_postal": 9350,
+        "localidade": "CAMPAN\u00c1RIO"
+    },
+    {
+        "cod_postal": 9934,
+        "localidade": "LAJES DO PICO"
+    },
+    {
+        "cod_postal": 7604,
+        "localidade": "ALJUSTREL"
+    },
+    {
+        "cod_postal": 7754,
+        "localidade": "M\u00c9RTOLA"
+    },
+    {
+        "cod_postal": 4754,
+        "localidade": "BARCELOS"
+    },
+    {
+        "cod_postal": 4763,
+        "localidade": "RIBEIR\u00c3O"
+    },
+    {
+        "cod_postal": 4901,
+        "localidade": "VIANA DO CASTELO"
+    },
+    {
+        "cod_postal": 9020,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 7940,
+        "localidade": "CUBA"
+    },
+    {
+        "cod_postal": 3254,
+        "localidade": "ALVAI\u00c1ZERE"
+    },
+    {
+        "cod_postal": 2688,
+        "localidade": "PRIOR VELHO"
+    },
+    {
+        "cod_postal": 7464,
+        "localidade": "FRONTEIRA"
+    },
+    {
+        "cod_postal": 4594,
+        "localidade": "PA\u00c7OS DE FERREIRA"
+    },
+    {
+        "cod_postal": 9304,
+        "localidade": "C\u00c2MARA DE LOBOS"
+    },
+    {
+        "cod_postal": 9325,
+        "localidade": "ESTREITO C\u00c2MARA DE LOBOS"
+    },
+    {
+        "cod_postal": 2350,
+        "localidade": "TORRES NOVAS"
+    },
+    {
+        "cod_postal": 4990,
+        "localidade": "PONTE DE LIMA"
+    },
+    {
+        "cod_postal": 3654,
+        "localidade": "VILA NOVA DE PAIVA"
+    },
+    {
+        "cod_postal": 2380,
+        "localidade": "BUGALHOS"
+    },
+    {
+        "cod_postal": 2334,
+        "localidade": "ENTRONCAMENTO"
+    },
+    {
+        "cod_postal": 4935,
+        "localidade": "VIANA DO CASTELO"
+    },
+    {
+        "cod_postal": 3450,
+        "localidade": "ALMA\u00c7A"
+    },
+    {
+        "cod_postal": 3465,
+        "localidade": "BARREIRO DE BESTEIROS"
+    },
+    {
+        "cod_postal": 9940,
+        "localidade": "PRAINHA"
+    },
+    {
+        "cod_postal": 8400,
+        "localidade": "ESTOMBAR"
+    },
+    {
+        "cod_postal": 9370,
+        "localidade": "ARCO DA CALHETA"
+    },
+    {
+        "cod_postal": 3813,
+        "localidade": "NOSSA SENHORA DE F\u00c1TIMA"
+    },
+    {
+        "cod_postal": 3884,
+        "localidade": "OVAR"
+    },
+    {
+        "cod_postal": 7924,
+        "localidade": "ALVITO"
+    },
+    {
+        "cod_postal": 4770,
+        "localidade": "ABADE DE VERMOIM"
+    },
+    {
+        "cod_postal": 3048,
+        "localidade": "TAVEIRO"
+    },
+    {
+        "cod_postal": 3334,
+        "localidade": "G\u00d3IS"
+    },
+    {
+        "cod_postal": 7595,
+        "localidade": "TORR\u00c3O"
+    },
+    {
+        "cod_postal": 7600,
+        "localidade": "ALJUSTREL"
+    },
+    {
+        "cod_postal": 3144,
+        "localidade": "MONTEMOR-O-VELHO"
+    },
+    {
+        "cod_postal": 8200,
+        "localidade": "ALBUFEIRA"
+    },
+    {
+        "cod_postal": 8365,
+        "localidade": "ALCANTARILHA"
+    },
+    {
+        "cod_postal": 2584,
+        "localidade": "ALENQUER"
+    },
+    {
+        "cod_postal": 9700,
+        "localidade": "ANGRA DO HERO\u00cdSMO"
+    },
+    {
+        "cod_postal": 9054,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 9060,
+        "localidade": "FUNCHAL"
+    },
+    {
+        "cod_postal": 9800,
+        "localidade": "MANADAS"
+    },
+    {
+        "cod_postal": 4590,
+        "localidade": "CARVALHOSA"
+    },
+    {
+        "cod_postal": 4050,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4000,
+        "localidade": "PORTO"
+    },
+    {
+        "cod_postal": 4405,
+        "localidade": "VILA NOVA DE GAIA"
+    },
+    {
+        "cod_postal": 2894,
+        "localidade": "ALCOCHETE"
+    },
+    {
+        "cod_postal": 9684,
+        "localidade": "VILA FRANCA DO CAMPO"
+    },
+    {
+        "cod_postal": 5374,
+        "localidade": "MIRANDELA"
+    },
+    {
+        "cod_postal": 3064,
+        "localidade": "CANTANHEDE"
+    },
+    {
+        "cod_postal": 3404,
+        "localidade": "OLIVEIRA DO HOSPITAL"
+    },
+    {
+        "cod_postal": 9555,
+        "localidade": "CANDEL\u00c1RIA PDL"
+    },
+    {
+        "cod_postal": 9560,
+        "localidade": "LAGOA (S\u00c3O MIGUEL)"
+    },
+    {
+        "cod_postal": 7920,
+        "localidade": "ALVITO"
+    },
+    {
+        "cod_postal": 6000,
+        "localidade": "CASTELO BRANCO"
+    },
+    {
+        "cod_postal": 9385,
+        "localidade": "PONTA DO PARGO"
+    },
+    {
+        "cod_postal": 6264,
+        "localidade": "MANTEIGAS"
+    },
+    {
+        "cod_postal": 7864,
+        "localidade": "MOURA"
+    },
+    {
+        "cod_postal": 3154,
+        "localidade": "CONDEIXA-A-NOVA"
+    },
+    {
+        "cod_postal": 9400,
+        "localidade": "PORTO SANTO"
+    },
+    {
+        "cod_postal": 7960,
+        "localidade": "PEDR\u00d3G\u00c3O VDG"
+    },
+    {
+        "cod_postal": 3234,
+        "localidade": "PENELA"
+    },
+    {
+        "cod_postal": 7244,
+        "localidade": "MOUR\u00c3O"
+    },
+    {
+        "cod_postal": 2423,
+        "localidade": "LEIRIA"
+    },
+    {
+        "cod_postal": 3104,
+        "localidade": "POMBAL"
+    },
+    {
+        "cod_postal": 4605,
+        "localidade": "VILA ME\u00c3"
+    },
+    {
+        "cod_postal": 4610,
+        "localidade": "CARAMOS"
+    },
+    {
+        "cod_postal": 9950,
+        "localidade": "BANDEIRAS"
+    },
+    {
+        "cod_postal": 9300,
+        "localidade": "C\u00c2MARA DE LOBOS"
+    },
+    {
+        "cod_postal": 9850,
+        "localidade": "CALHETA (S\u00c3O JORGE)"
+    },
+    {
+        "cod_postal": 9804,
+        "localidade": "VELAS"
+    },
+    {
+        "cod_postal": 3734,
+        "localidade": "VALE DE CAMBRA"
+    },
+    {
+        "cod_postal": 8375,
+        "localidade": "S BARTOLOMEU DE MESSINES"
+    },
+    {
+        "cod_postal": 9500,
+        "localidade": "PONTA DELGADA"
+    },
+    {
+        "cod_postal": 6294,
+        "localidade": "GOUVEIA"
+    },
+    {
+        "cod_postal": 2718,
+        "localidade": "PERO PINHEIRO"
+    },
+    {
+        "cod_postal": 4614,
+        "localidade": "FELGUEIRAS"
+    },
+    {
+        "cod_postal": 4634,
+        "localidade": "MARCO DE CANAVESES"
+    },
+    {
+        "cod_postal": 4595,
+        "localidade": "ARREIGADA"
+    },
+    {
+        "cod_postal": 8104,
+        "localidade": "LOUL\u00c9"
+    },
+    {
+        "cod_postal": 6274,
+        "localidade": "SEIA"
+    },
+    {
+        "cod_postal": 2628,
+        "localidade": "P\u00d3VOA DE SANTA IRIA"
+    },
+    {
+        "cod_postal": 4624,
+        "localidade": "LOUSADA"
+    },
+    {
+        "cod_postal": 9580,
+        "localidade": "ALMAGREIRA VPT"
+    },
+    {
+        "cod_postal": 4924,
+        "localidade": "VILA NOVA DE CERVEIRA"
+    },
+    {
+        "cod_postal": 3503,
+        "localidade": "VISEU"
+    },
+    {
+        "cod_postal": 9200,
+        "localidade": "\u00c1GUA DE PENA"
+    },
+    {
+        "cod_postal": 4914,
+        "localidade": "CAMINHA"
+    },
+    {
+        "cod_postal": 9875,
+        "localidade": "SANTO ANT\u00c3O"
+    },
+    {
+        "cod_postal": 9960,
+        "localidade": "FAJ\u00c3 GRANDE"
+    },
+    {
+        "cod_postal": 9970,
+        "localidade": "CAVEIRA"
+    },
+    {
+        "cod_postal": 9650,
+        "localidade": "\u00c1GUA RETORTA"
+    },
+    {
+        "cod_postal": 9675,
+        "localidade": "FURNAS"
+    }
+]
