@@ -3,6 +3,20 @@
 committees:
 
   - year: 2024
+    name: "The 2024 International Conference on Decision Aid Sciences and Applications"
+    nick:  "DASA'24"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Kingdom of Bahrain (Hybrid)"
+
+  - year: 2024
+    name: "2024 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick:  "3ICT24"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain"
+
+  - year: 2024
     name: "2024 International Conference on Data Analytics for Business and Industry (ICDABI)"
     nick:  "DATA'24"
     role: "Technical Program Committee"
