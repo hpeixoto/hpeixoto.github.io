@@ -2,6 +2,26 @@
 #type: Workshop, Conference, Journal
 
 juries:
+  - title: "Desenvolvimento e Avaliação de uma Biblioteca de Redes Neuronais de Valores Complexos"
+    institution:  "ISEP - Instituto Superior de Engenharia do Porto"
+    date: "Jul. 2024"
+    student: "Pedro Alves"
+    course: "Mestrado em Engenharia em Inteligência Artificial"
+    url: ""
+
+  - title: "AsyncAPI-First Design for Event-Driven Architectures: Improve Developer Experience"
+    institution:  "FEUP"
+    date: "Jul. 2024"
+    student: "José Silva"
+    course: "Mestrado em Engenharia Informática e Computação"
+    url: ""
+
+  - title: "Evaluating Kafka Developer Toolkits: A Comparative Analysis and End-User Study"
+    institution:  "FEUP"
+    date: "Jul. 2024"
+    student: "Ângela Coelho"
+    course: "Mestrado em Engenharia Informática e Computação"
+    url: ""
 
   - title: "O relativismo do Princípio da Autonomia da Vontade face aos contratos eletrônicos de adesão"
     institution:  "University of Minho"
