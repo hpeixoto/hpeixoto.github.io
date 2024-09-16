@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL03"
+    date: "16 set 2023"
+    title: "Correlações"
+    plan: "../../data/aec/pl03/aec_pa03.pdf"
+    slides: "../../data/aec/pl03/aec_pl03.pdf"
+    exercise: "../../data/aec/pl03/aec_fe02.pdf"
+    material: "../../data/aec/pl03/material.zip"
+    topics: "CRISP-DM | Data Mining | Correlações"
+
   - code: "PL02"
     date: "16 set 2023"
     title: "Introdução ao CRISP-DM"
