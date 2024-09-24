@@ -11,7 +11,7 @@ supervisions:
   - title: "Interfaces Hotelaria"
     institution:  "University of Minho"
     date: ""
-    student: "Ana  Barbosa"
+    student: "Ana Barbosa"
     grade: 17
     course: "Mestrado em Engenharia Informática"
     url: ""
@@ -56,46 +56,46 @@ supervisions:
     course: "Mestrado em Engenharia Biomédica"
     url: ""
 
-  - title: "In-memory data grid clusters - HR employee data fusion"
+  - title: "In memory data grid clusters HR employee data fusion"
     institution:  "University of Minho"
-    date: ""
+    date: "Dec. 2022"
     student: "João Mota"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/84472"
 
-  - title: "Aplicação Multidispositivo de Monitorização de Serviços em Ambiente Hospitalar"
+  - title: "Multiplatform application for monitoring services in a hospital environment"
     institution:  "University of Minho"
-    date: ""
+    date: "Dec. 2022"
     student: "Carolina Marques"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/83933"
 
   - title: "Plataforma Multidisciplinar de Registo e Monitorização de Cirurgia Bariátrica baseada em OpenEHR"
     institution:  "University of Minho"
-    date: ""
+    date: "Dec. 2022"
     student: "Ana Afonso"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/84365"
   
-  - title: "Arquitetura de Monitorização para Serviços e Servidores em Ambiente Hospitalar"
+  - title: "Monitoring architecture for services and servers in healthcare environment"
     institution:  "University of Minho"
-    date: ""
+    date: "Dec. 2022"
     student: "Vasco Ramos"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/83934"
 
 
   - title: "Plataforma online para visualização de tendências e opiniões de eventos desportivos com base em redes sociais"
     institution:  "University of Minho"
-    date: ""
+    date: "Apr. 2022"
     student: "Maria Inês Pinto"
     grade: 16
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/79934"
 
   - title: "Modelos de Data Mining para Associação de Problemas com Dados Semiológicos em Medicina Intensiva"
     institution:  "University of Minho"
@@ -107,19 +107,19 @@ supervisions:
 
   - title: "Plataforma de registo Clínico para Medicina Física e de Reabilitação"
     institution:  "University of Minho"
-    date: ""
+    date: "Apr. 2022"
     student: "Alexandru Dorment"
     grade: 16
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/79369"
 
-  - title: "Arquiteturas de Microsserviços na área da saúde com Apache Kafka"
+  - title: "	Microservices architectures in healthcare with Apache Kafka"
     institution:  "University of Minho"
     date: "2022"
     student: "Rui Santos"
     grade: 17
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/79371"
 
   - title: "Análise e processamento de dados clínicos monitorizados em tempo real"
     institution:  "University of Minho"
@@ -135,7 +135,7 @@ supervisions:
     student: "Vitor Peixoto"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/81295"
 
   - title: "Data Analysis and Recommender System Architecture for E-Commerce Platforms"
     institution:  "University of Minho"
@@ -143,7 +143,7 @@ supervisions:
     student: "Gil Cunha"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/81087"
 
   - title: "Implementação de sistema de monitorização e controlo de interoperabilidade clínica"
     institution:  "University of Minho"
@@ -151,7 +151,7 @@ supervisions:
     student: "António Castanheira"
     grade: 17
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/81201"
 
   - title: "Indicadores de Desempenho em Plataformas HL7"
     institution:  "University of Minho"
@@ -159,12 +159,12 @@ supervisions:
     student: "Bruno Arieira"
     grade: 17
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: https://repositorium.sdum.uminho.pt/handle/1822/81290"
 
-  - title: "Predicting Incidents Arising from the Instalation Process"
+  - title: "Predicting Problems from Telecom Instalation Process"
     institution:  "University of Minho"
     date: "Mar. 2021"
     student: "Diana Costa"
     grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: ""
+    url: "https://repositorium.sdum.uminho.pt/handle/1822/85239"

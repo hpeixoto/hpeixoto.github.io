@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL04"
+    date: "24 set 2023"
+    title: "Data collection and Data preparation"
+    plan: "../../data/aec/pl04/aec_pa04.pdf"
+    slides: 
+    exercise: "../../data/aec/pl04/aec_fe03.pdf"
+    material: 
+    topics: "CRISP-DM | Data Mining | Data Collection | Data Preparation"
+
   - code: "PL03"
     date: "16 set 2023"
     title: "Correlações"
