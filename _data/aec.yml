@@ -1,7 +1,16 @@
 class:
 
+  - code: "PL05"
+    date: "01 out 2024"
+    title: "Data Preparation"
+    plan: "../../data/aec/pl05/aec_pa05.pdf"
+    slides: 
+    exercise: "../../data/aec/pl05/aec_fe04.pdf"
+    material: 
+    topics: "CRISP-DM | Data Mining | Data Preparation | Outliers | Missing Values | Data Transformation"
+
   - code: "PL04"
-    date: "24 set 2023"
+    date: "24 set 2024"
     title: "Data collection and Data preparation"
     plan: "../../data/aec/pl04/aec_pa04.pdf"
     slides: 
@@ -10,7 +19,7 @@ class:
     topics: "CRISP-DM | Data Mining | Data Collection | Data Preparation"
 
   - code: "PL03"
-    date: "16 set 2023"
+    date: "16 set 2024"
     title: "Correlações"
     plan: "../../data/aec/pl03/aec_pa03.pdf"
     slides: "../../data/aec/pl03/aec_pl03.pdf"
@@ -19,7 +28,7 @@ class:
     topics: "CRISP-DM | Data Mining | Correlações"
 
   - code: "PL02"
-    date: "16 set 2023"
+    date: "16 set 2024"
     title: "Introdução ao CRISP-DM"
     plan: "../../data/aec/pl02/aec_pa02.pdf"
     slides: "../../data/aec/pl02/aec_pl02.pdf"
@@ -28,7 +37,7 @@ class:
     topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
 
   - code: "PL01"
-    date: "9 set 2023"
+    date: "9 set 2024"
     title: "Apresentação"
     plan: "../../data/aec/pl01/aec_pa01.pdf"
     slides: "../../data/aec/pl01/aec_pl01.pdf"
