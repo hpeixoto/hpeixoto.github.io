@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL06"
+    date: "08 out 2024"
+    title: "Regras de Associação"
+    plan: "../../data/aec/pl06/aec_pa06.pdf"
+    slides: "../../data/aec/pl06/aec_fe05.pdf"
+    exercise: "../../data/aec/pl06/aec_pl06.pdf"
+    material: "../../data/aec/pl06/material.zip"
+    topics: "CRISP-DM | Data Mining | Association Rules | Confidence | Support"
+
   - code: "PL05"
     date: "01 out 2024"
     title: "Data Preparation"
