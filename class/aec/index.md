@@ -37,5 +37,5 @@ image: "none"
 <h2> Material de Apoio </h2>
 <h2> <i class="fa fa-hand-paper-o"></i> <a href="../../data/aec/#" target="_blank"> Trabalho Prático </a></h2> 
 <p> <i class="fa fa-calendar"></i> <strong> Datas: </strong> <br>
-Entrega Trabalho (elearning) Grupo: <strong> a definir </strong> <br>
-Apresentações: <strong> a definir </strong> <br>
+Entrega Trabalho (elearning) Grupo: <strong> 15/01/2025 </strong> <br>
+Apresentações: <strong> 17/01/2025 </strong> <br>
