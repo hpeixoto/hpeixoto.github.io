@@ -5,11 +5,18 @@ juries:
   
   - title: "Effective Clinical Decision Support Systems by Means of Open Data, Intelligence and Interoperability"
     institution:  "University of Minho"
-    date: " 2024"
+    date: "Nov 2024"
     student: "Francini Hak"
     course: "Doutoramento em Tecnologia e Sistemas de Informação"
     url: ""
 
+  - title: "MSS (Multi-Sensor System) - Manutenção e Evolução de Sistema de Avaliação de Dados e de Sensores e Imagens"
+    institution:  "Universidade de Trás-os-Montes e Alto Douro"
+    date: "Out. 2024"
+    student: "Diogo Medeiros"
+    course: "Mestrado em Engenharia Informática"
+    url: ""
+  
   - title: "Multichannel Mobile Companion for Personalized Healthcare Services"
     institution:  "University of Minho"
     date: "Set. 2024"
@@ -226,5 +233,3 @@ juries:
     student: "Luís Torres"
     course: "Mestrado Integrado em Engenharia Biomédica"
     url: "http://repositorium.sdum.uminho.pt/handle/1822/40861"
-
-
