@@ -4,8 +4,8 @@ class:
     date: "15 out 2024"
     title: "Regressão Linear"
     plan: "../../data/aec/pl07/aec_pa07.pdf"
-    slides: "../../data/aec/pl07/aec_fe06.pdf"
-    exercise: "../../data/aec/pl07/aec_pl07.pdf"
+    slides: "../../data/aec/pl07/aec_pl07.pdf"
+    exercise: "../../data/aec/pl07/aec_fe06.pdf"
     material: "../../data/aec/pl07/material.zip"
     topics: "CRISP-DM | Data Mining | Linear Regression"
 
@@ -13,8 +13,8 @@ class:
     date: "08 out 2024"
     title: "Regras de Associação"
     plan: "../../data/aec/pl06/aec_pa06.pdf"
-    slides: "../../data/aec/pl06/aec_fe05.pdf"
-    exercise: "../../data/aec/pl06/aec_pl06.pdf"
+    slides: "../../data/aec/pl06/aec_pl06.pdf"
+    exercise: "../../data/aec/pl06/aec_fe05.pdf"
     material: "../../data/aec/pl06/material.zip"
     topics: "CRISP-DM | Data Mining | Association Rules | Confidence | Support"
 
