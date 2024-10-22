@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL08"
+    date: "22 out 2024"
+    title: "Classificação"
+    plan: "../../data/aec/pl08/aec_pa08.pdf"
+    slides: "../../data/aec/pl08/aec_pl08.pdf"
+    exercise: "../../data/aec/pl08/aec_fe07.pdf"
+    material: "../../data/aec/pl08/material.zip"
+    topics: "CRISP-DM | Data Mining | Classification"
+
   - code: "PL07"
     date: "15 out 2024"
     title: "Regressão Linear"
