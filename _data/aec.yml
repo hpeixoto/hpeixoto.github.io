@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL09"
+    date: "29 out 2024"
+    title: "Classificação (cont.)"
+    plan: "../../data/aec/pl09/aec_pa09.pdf"
+    slides: 
+    exercise: "../../data/aec/pl09/aec_fe07.pdf"
+    material: "../../data/aec/pl09/material.zip"
+    topics: "CRISP-DM | Data Mining | Classification"
+
   - code: "PL08"
     date: "22 out 2024"
     title: "Classificação"
