@@ -10,11 +10,18 @@ committees:
     local: "Nice, France"
 
   - year: 2024
+    name: "Computers in Biology and Medicine"
+    nick: "CIBM"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2024
     name: "Data Science and Management"
     nick:  "DSM"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
+    local: ""
 
   - year: 2025
     name: "8th International Conference on Information Technology & Systems"
@@ -46,7 +53,7 @@ committees:
 
   - year: 2024
     name: "2024 International Conference on Data Analytics for Business and Industry (ICDABI)"
-    nick:  "DATA'24"
+    nick:  "ICDABI'24"
     role: "Technical Program Committee"
     type: "Conference"
     local: "Held online"

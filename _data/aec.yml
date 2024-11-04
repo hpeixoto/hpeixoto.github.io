@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL10"
+    date: "04 nov 2024"
+    title: "Classificação - Python"
+    plan: "../../data/aec/pl10/aec_pa10.pdf"
+    slides: 
+    exercise: "../../data/aec/pl10/aec_fe08.pdf"
+    material: "../../data/aec/pl10/heart_disease_uci.csv"
+    topics: "Python | Logistic Regression | Random Forest | SVM"
+
   - code: "PL09"
     date: "29 out 2024"
     title: "Classificação (cont.)"
