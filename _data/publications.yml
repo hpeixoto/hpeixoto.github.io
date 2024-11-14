@@ -40,23 +40,23 @@ papers:
       url: "https://www.sciencedirect.com/science/article/pii/S187705092401353X"
       citations: 0
 
-    - title: "(to be published) Harnessing Data Mining to Predict Survival Outcomes in Patients with Hepatic Cirrhosis"
+    - title: "Harnessing Data Mining to Predict Survival Outcomes in Patients with Hepatic Cirrhosis"
       authors: "Regina Sousa, Madalena Passos, Mariana Almeida, Mariana Ribeiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2024
-      journal: ""
-      volume: ""
-      pages: ""
-      editor: ""
-      publisher: ""
+      booktitle: "The 15th International Conference on Ambient Systems, Networks and Technologies Networks (ANT) / The 7th International Conference on Emerging Data and Industry 4.0 (EDI40)"
+      volume: "Procedia Computer Science, Volume 238"
+      pages: "938-943"
+      editor: "Elhadi Shakshuki"
+      publisher: "Science Direct"
       issn: ""
-      doi: ""
+      doi: "10.1016/j.procs.2024.06.116"
       pub: ""
       type: "conference"
       scopus: 1
       isi: 
       q: 
       dblp: 
-      url: ""
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050924013528"
       citations: 0
 
     - title: "Towards a Standardized Real-Time Data Repository based on Laboratory Test Results"
@@ -83,7 +83,7 @@ papers:
       year: 2024
       journal: "Lecture Notes in Networks and Systems"
       volume: "932"
-      pages: "467–476"
+      pages: "467-476"
       editor: ""
       publisher: "Springer Nature Switzerland"
       issn: "978-3-031-54235-0"
