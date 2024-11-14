@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Enhancing Automotive Products with TinyML and MEMS Sensors: A Preliminary Approach"
+      authors: "Lídia Sousa, Rui Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Pedro Melo-Pinto, André Costa, César Melo, Pedro Delgado, Vitor Fukuda and José Machado"
+      year: 2024
+      booktitle: "Data Science and Artificial Intelligence"
+      volume: "Communications in Computer and Information Science (CCIS), volume 2318"
+      pages: "194--208"
+      editor: "Chutiporn Anutariya, Marcello M. Bonsangue, Erna Budhiarti-Nababan, Sitompul Opim Salim"
+      publisher: "Springer Nature Singapore"
+      issn: ""
+      doi: "10.1007/978-981-97-9793-6_14"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-981-97-9793-6_14"
+      citations: 0
+
     - title: "Streamlining Healthcare Quality Management with an Web Audit Platform"
       authors: "Rita Sousa, Carlos Esteves, António Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2024
