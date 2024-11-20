@@ -4,7 +4,7 @@ class:
     date: "20 nov 2024"
     title: "Introdução Base de Dados"
     plan: "../../data/iapdb/pl01/iapdb_pa01.pdf"
-    slides: 
+    slides: "../../data/iapdb/pl01/iapdb_pl01.pdf"
     exercise: "../../data/iapdb/pl01/iapdb_fe01.pdf"
     material: 
     topics: "Base de Dados | Entidades | Relacionamentos | Diagrama ER"
