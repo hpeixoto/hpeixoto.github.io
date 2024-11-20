@@ -3,8 +3,8 @@ class:
   - code: "PL01"
     date: "20 nov 2024"
     title: "Introdução Base de Dados"
-    plan: 
+    plan: "../../data/iapdb/pl01/iapdb_pa01.pdf"
     slides: 
-    exercise: "../../data/aec/pl01/bioinf_fe01.pdf"
+    exercise: "../../data/iapdb/pl01/iapdb_fe01.pdf"
     material: 
     topics: "Base de Dados | Entidades | Relacionamentos | Diagrama ER"
