@@ -6,12 +6,12 @@ image: "none"
 
 {% for jurie in site.data.juries.juries %}
 <!-- <h3>  <a href="{{ jurie.url }}" target="_blank">{{jurie.title}} <i class="fa fa-external-link" aria-hidden="true"></i></a></h3> -->
-<h2>  {{jurie.type}} {{jurie.title}}
-{% if jurie.url %}
+<h3>  {{jurie.type}} {{jurie.title}}
+{% if jurie.url and jurie.url != null %}
     <a href="{{ jurie.url }}"><i class="fa fa-external-link" aria-hidden="true"></i></a>
 {% endif %}
+</h3>
 
-</h2>
 <i class="fa fa-location-arrow"></i> {{jurie.institution}} | <i class="fa fa-calendar"></i> {{ jurie.date }}  
 <strong> Candidate: </strong>{{ jurie.student }}
 
