@@ -5,9 +5,10 @@ juries:
   
   - title: "Effective Clinical Decision Support Systems by Means of Open Data, Intelligence and Interoperability"
     institution:  "University of Minho"
-    date: "Nov 2024"
+    date: "Nov. 2024"
     student: "Francini Hak"
     course: "Doutoramento em Tecnologia e Sistemas de Informação"
+    type: "PhD."
     url: ""
 
   - title: "MSS (Multi-Sensor System) - Manutenção e Evolução de Sistema de Avaliação de Dados e de Sensores e Imagens"
@@ -15,6 +16,7 @@ juries:
     date: "Out. 2024"
     student: "Diogo Medeiros"
     course: "Mestrado em Engenharia Informática"
+    type: "Master."
     url: ""
   
   - title: "Multichannel Mobile Companion for Personalized Healthcare Services"
@@ -22,6 +24,7 @@ juries:
     date: "Set. 2024"
     student: "Ailton Moreira"
     course: "Doutoramento em Tecnologia e Sistemas de Informação"
+    type: "PhD."
     url: ""
 
   - title: "Desenvolvimento e Avaliação de uma Biblioteca de Redes Neuronais de Valores Complexos"
@@ -29,6 +32,7 @@ juries:
     date: "Jul. 2024"
     student: "Pedro Alves"
     course: "Mestrado em Engenharia em Inteligência Artificial"
+    type: "Master."
     url: ""
 
   - title: "AsyncAPI-First Design for Event-Driven Architectures: Improve Developer Experience"
@@ -36,6 +40,7 @@ juries:
     date: "Jul. 2024"
     student: "José Silva"
     course: "Mestrado em Engenharia Informática e Computação"
+    type: "Master."
     url: ""
 
   - title: "Evaluating Kafka Developer Toolkits: A Comparative Analysis and End-User Study"
@@ -43,6 +48,7 @@ juries:
     date: "Jul. 2024"
     student: "Ângela Coelho"
     course: "Mestrado em Engenharia Informática e Computação"
+    type: "Master."
     url: ""
 
   - title: "O relativismo do Princípio da Autonomia da Vontade face aos contratos eletrônicos de adesão"
@@ -50,6 +56,7 @@ juries:
     date: "Apr. 2024"
     student: "Lícia Boaventura"
     course: "Mestrado em Direito e Informática"
+    type: "Master."
     url: ""
 
   - title: "Pervasive Modular Data Science - Otimização e interoperabilidade"
@@ -57,6 +64,7 @@ juries:
     date: "Jan. 2024"
     student: "Beatriz Rodrigues"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "How we can use NFTs in the Defi Market to change the way we trade"
@@ -64,6 +72,7 @@ juries:
     date: "Dez. 2023"
     student: "Gonçalo Cruz"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Suporte à decisão clínica baseado em padrões de dados abertos e modelos de decisão"
@@ -71,6 +80,7 @@ juries:
     date: "Dec. 2023"
     student: "Beatriz Silva"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Sistema de Deteção de Quedas Automático Baseado em Vídeo"
@@ -78,6 +88,7 @@ juries:
     date: "Jul. 2023"
     student: "João Leal"
     course: "Mestrado em Engenharia em Inteligência Artificial"
+    type: "Master."
     url: ""
 
   - title: "Sistema de Deteção e Prevenção de Doenças Pulmonares"
@@ -85,6 +96,7 @@ juries:
     date: "Jul. 2023"
     student: "Diogo Formosinho"
     course: "Mestrado em Engenharia em Inteligência Artificial"
+    type: "Master."
     url: ""
 
   - title: "Segurança e Imutabilidade de dados abertos na área clínica"
@@ -92,6 +104,7 @@ juries:
     date: "Dec. 2022"
     student: "Paulo Gomes"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Raciocínio Baseado na Ética Médica na Decisão em Grupo"
@@ -99,6 +112,7 @@ juries:
     date: "Oct. 2022"
     student: "Gabriel Pontes"
     course: "Doutoramento em Engenharia Biomédica"
+    type: "PhD."
     url: ""
 
   - title: "An Evolving Cognitive Approach to Dyscalculia Screening and Therapeutics"
@@ -106,6 +120,7 @@ juries:
     date: "Abr. 2022"
     student: "Filipa Ferraz"
     course: "Doutoramento em Engenharia Biomédica"
+    type: "PhD."
     url: ""
 
   - title: "Smart Cities: Rotas Adaptáveis e Inteligentes"
@@ -113,6 +128,7 @@ juries:
     date: "Jul. 2022"
     student: "José Pinto"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Documentação e Avaliação tecnológica de soluções em contexto empresarial"
@@ -120,6 +136,7 @@ juries:
     date: "Jul. 2022"
     student: "Beatriz Lobo"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Business Intelligence em saúde baseada em blockchain"
@@ -127,6 +144,7 @@ juries:
     date: "Jun. 2022"
     student: "Ricardo Duarte"
     course: "Research Plan in Doctoral Program in Information Systems and Technology"
+    type: "Pre PhD."
     url: ""
 
   - title: "Prespective Analytics - Utilização de Espaços, Previsão e Otimização"
@@ -134,6 +152,7 @@ juries:
     date: "Sep. 2021"
     student: "Luana Lima"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Componentes de Business Analytics para Instituição de Saúde Pública - Área de Decisão de Enfermagem"
@@ -141,6 +160,7 @@ juries:
     date: "Sep. 2021"
     student: "Marco Cruz"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "IOT: Perceção automática do contexto/localização inteligente"
@@ -148,6 +168,7 @@ juries:
     date: "Sep. 2021"
     student: "Bruno Magalhães"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "Predictive Business Analytics - Determinar a Ocorrência Futura de Casos de Infeção Hospitalar"
@@ -155,6 +176,7 @@ juries:
     date: "Sep. 2021"
     student: "Filipa Cardoso"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "mHealth - Aceitação Tecnológica"
@@ -162,6 +184,7 @@ juries:
     date: "Jul. 2020"
     student: "Ana Ferreira"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "mHealth -Frontoffice para suporte inteligente de doente"
@@ -169,6 +192,7 @@ juries:
     date: "Jul. 2020"
     student: "Eduardo Ferreira"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: ""
 
   - title: "BPM para processos hospitalares usando BPMN"
@@ -176,6 +200,7 @@ juries:
     date: "Nov. 2018"
     student: "João Gomes"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/59125"
   
   - title: "Gestão de Work Flows clinicos"
@@ -183,6 +208,7 @@ juries:
     date: "Nov. 2018"
     student: "Tiago Ribeiro"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/59330"
  
   - title: "Categorização e Determinação dos Fatores de Risco de Doenças Coronárias"
@@ -190,6 +216,7 @@ juries:
     date: "Nov. 2018"
     student: "Lisete Ribeiro"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/59140"
 
   - title: "FHIRBOX - CLINICAL OBSERVATIONS CLOUD INTEGRATION SYSTEM"
@@ -197,6 +224,7 @@ juries:
     date: "Jan. 2018"
     student: "Nuno Alves"
     course: "Mestrado em Engenharia Informática"
+    type: "Master."
     url: "https://www.sciencedirect.com/science/article/pii/S1877050918316764"
   
   - title: "Agendamento Inteligente de Blocos Operatórios"
@@ -204,6 +232,7 @@ juries:
     date: "Dez. 2017"
     student: "Célia Oliveira"
     course: "Mestrado Integrado em Engenharia Biomédica"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/59721"
 
   - title: "Plataforma de Apoio à Prática de Cuidados de Enfermagem em Contexto Hospitalar"
@@ -211,6 +240,7 @@ juries:
     date: "Jul. 2017"
     student: "Daniela Rijo"
     course: "Mestrado Integrado em Engenharia Biomédica"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/59720"
 
   - title: "Prototipagem de componente de Business Intelligence para suporte à gestão na área de saúde de uma Misericórdia"
@@ -218,6 +248,7 @@ juries:
     date: "Dez. 2016"
     student: "Danilo Coelho"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/40261"
 
   - title: "Previsão dos fatores de risco e caracterização dos doentes internados em Cuidados Intensivos"
@@ -225,6 +256,7 @@ juries:
     date: "Dez. 2016"
     student: "Ana Ribeiro"
     course: "Mestrado Integrado em Engenharia e Gestão de Sistemas de Informação"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/54545"
 
   - title: "Plataforma de suporte à decisão médica para transplante de órgãos baseada em Business Intelligence"
@@ -232,4 +264,5 @@ juries:
     date: "Nov. 2015"
     student: "Luís Torres"
     course: "Mestrado Integrado em Engenharia Biomédica"
+    type: "Master."
     url: "http://repositorium.sdum.uminho.pt/handle/1822/40861"
