@@ -10,7 +10,7 @@ education:
     grade: Aproved
     start: "Out. 2009"
     end: "Jul. 2013"
-    url: "http://pdebiom.eng.uminho.pt/pt-pt/node/3"
+    url: "../data/phd.pdf"
     local: "Braga, Portugal"
     topics: "Steps Towards Interoperability in Healthcare Environment."
     icon: "../img/eeuminho.png"
@@ -22,7 +22,7 @@ education:
     grade: 15 out of 20
     start: "Out. 2003"
     end: "Nov. 2008"
-    url: "http://www.biomedica.eng.uminho.pt/"
+    url: "../data/master.pdf"
     local: "Braga, Portugal"
     topics: "Medical Informatics, Multi-Agent Services, Decision Support Systems, Electronic Health Records, Artificial Intelligence Interoperability, Integration, Usability, Image Processing.   
     As a member of the board of Gabinete de Alunos de Engenharia Biomédica I was the Director of the Deparment of Employment during 2006."
