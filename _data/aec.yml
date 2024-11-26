@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL13"
+    date: "26 nov 2024"
+    title: "k-means Clustering"
+    plan: "../../data/aec/pl13/aec_pa13.pdf"
+    slides: "../../data/aec/pl13/aec_pl13.pdf"
+    exercise: "../../data/aec/pl13/aec_fe09.pdf"
+    material: "../../data/aec/pl13/material.zip"
+    topics: "k-means | Clustering | AI Studio"
+
   - code: "PL12"
     date: "19 nov 2024"
     title: "Trabalho Prático"
