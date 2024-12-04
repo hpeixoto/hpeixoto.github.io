@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Ethical Decision-Making in Artificial Intelligence: A Logic Programming Approach"
+      authors: "José Machado, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and António Abelha"
+      year: 2024
+      booktitle: "AI"
+      volume: "5"
+      pages: "2707--2724"
+      editor: ""
+      publisher: "MDPI"
+      issn: ""
+      doi: "10.3390/ai5040130"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 2
+      dblp: 
+      url: "https://www.mdpi.com/2673-2688/5/4/130"
+      citations: 0
+
     - title: "Enhancing Automotive Products with TinyML and MEMS Sensors: A Preliminary Approach"
       authors: "Lídia Sousa, Rui Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Pedro Melo-Pinto, André Costa, César Melo, Pedro Delgado, Vitor Fukuda and José Machado"
       year: 2024
