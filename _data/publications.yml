@@ -2,6 +2,44 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Gamification in mobile applications: techniques, benefits and challenges"
+      authors: "Mariana Oliveira, António Abelha, Regina Sousa and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2024
+      booktitle: "Procedia Computer Science"
+      volume: "251"
+      pages: "678-683"
+      editor: ""
+      publisher: "Springer"
+      issn: ""
+      doi: "10.1016/j.procs.2024.11.168"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050924034021"
+      citations: 0
+
+    - title: "Innovative mobile solutions for visual and mobility disabilities: a comprehensive overview"
+      authors: "Joana Fernandes and José Machado and Júlio Duarte and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2024
+      booktitle: "Procedia Computer Science"
+      volume: "251"
+      pages: "684-689"
+      editor: ""
+      publisher: "Springer"
+      issn: ""
+      doi: "10.1016/j.procs.2024.11.169"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://www.sciencedirect.com/science/article/pii/S1877050924034033"
+      citations: 0
+
     - title: "Ethical Decision-Making in Artificial Intelligence: A Logic Programming Approach"
       authors: "José Machado, Regina Sousa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and António Abelha"
       year: 2024
