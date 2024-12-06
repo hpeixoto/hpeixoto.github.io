@@ -6,5 +6,5 @@ class:
     plan: "../../data/pisi/pl01/pisi_pa01.pdf"
     slides: "../../data/pisi/pl01/pisi_pl01.pdf"
     exercise: "../../data/pisi/pl01/pisi_fe01.pdf"
-    material: 
+    material: "../../data/pisi/pl01/material.zip"
     topics: "Base de Dados | Entidades | Relacionamentos | Diagrama ER"
