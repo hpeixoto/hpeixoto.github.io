@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PSIS
+title: PISI
 subtitle: PISI
 image: "none"
 ---
