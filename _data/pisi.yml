@@ -1,0 +1,10 @@
+class:
+
+  - code: "PL01"
+    date: "06 dez 2024"
+    title: "Introdução Base de Dados"
+    plan: "../../data/pisi/pl01/pisi_pa01.pdf"
+    slides: "../../data/pisi/pl01/pisi_pl01.pdf"
+    exercise: "../../data/pisi/pl01/pisi_fe01.pdf"
+    material: 
+    topics: "Base de Dados | Entidades | Relacionamentos | Diagrama ER"

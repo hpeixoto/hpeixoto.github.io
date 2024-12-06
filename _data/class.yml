@@ -1,5 +1,11 @@
 class:
 
+  - name: "PISI"
+    course: "Mestrado em Direito e Informática"
+    institution: "University of Minho"
+    topics: "Databases"
+    url: "../class/pisi"
+
   - name: "Clinical and Hospital Management Databases"
     course: "Biomedical Engineering"
     institution: "University of Minho"
