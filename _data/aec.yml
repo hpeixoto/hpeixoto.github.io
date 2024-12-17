@@ -1,5 +1,32 @@
 class:
 
+  - code: "PL16"
+    date: "17 dez 2024"
+    title: "Trabalho Prático"
+    plan: "../../data/aec/pl16/aec_pa16.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Trabalho Prático | Orientação | Discussão | Temas"
+
+  - code: "PL15"
+    date: "10 dez 2024"
+    title: "Trabalho Prático"
+    plan: "../../data/aec/pl15/aec_pa15.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Trabalho Prático | Orientação | Discussão | Temas"
+
+  - code: "PL14"
+    date: "03 dez 2024"
+    title: "Trabalho Prático"
+    plan: "../../data/aec/pl14/aec_pa14.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Trabalho Prático | Orientação | Discussão | Temas"
+
   - code: "PL13"
     date: "26 nov 2024"
     title: "k-means Clustering"
