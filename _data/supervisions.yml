@@ -1,5 +1,29 @@
 supervisions:
 
+  - title: "Unpacking the impact of an Artificial Intelligence decision-support tool in radiology training"
+    institution:  "University of Minho"
+    date: "Dez 2024"
+    student: "Beatriz Leite"
+    grade: 19
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
+  - title: "Backend Development and Infrastructure Management for a Mobile App Facilitating a Global Volunteer Network"
+    institution:  "University of Minho"
+    date: "Dez 2024"
+    student: "Mariana Oliveira"
+    grade: 18
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
+  - title: "Empowering Inclusivity and Accessibility: A Mobile Application for Assisting Individuals with Visual Impairments and Limited Mobility"
+    institution:  "University of Minho"
+    date: "Dez 2024"
+    student: "Joana Fernandes"
+    grade: 18
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
   - title: "Predictive Analytics na Determinação do Fluxo de Admissões Hospitalares"
     institution:  "University of Minho"
     date: "Feb 2024"
