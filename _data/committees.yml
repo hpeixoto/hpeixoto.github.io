@@ -3,6 +3,20 @@
 committees:
 
   - year: 2025
+    name: "The 2025 International Conference on the Leadership and Management of Projects in the Digital Age"
+    nick: "ICLAMP2025"
+    role: "TPC Reviewer"
+    type: "Conference"
+    local: "Kingdom of Bahrain"
+
+  - year: 2025
+    name: "expat’25 Special Session AI-PSGUD'25 “AI-Powered Solutions for Smart and Green Urban Development"
+    nick: "expat2025"
+    role: "Track Chair"
+    type: "Conference"
+    local: "Horta, Ilha do Faial, Portugal"
+
+  - year: 2025
     name: "The Seventeenth International Conference on eHealth, Telemedicine, and Social Medicine"
     nick: "eTELEMED 2025"
     role: "Technical Program Committe"
