@@ -1,93 +1,135 @@
 class:
-
-  - code: "PL09"
-    date: "17/19 abr 2024"
-    title: "Triggers, Funções e Procedimentos"
-    plan: "../../data/bdcgh/pl09/bdcgh_pa09.pdf"
-    slides: "../../data/bdcgh/pl09/bdcgh_pl09.pdf"
-    exercise: "../../data/bdcgh/pl09/bdcgh_fe05.pdf"
-    material: "../../data/bdcgh/pl09/ubers.sql"
-    topics: "Bases de Dados | Triggers | Funções | Procedimentos | MySQL | Workbench"
-
-  - code: "PL08"
-    date: "10/12 abr 2024"
-    title: "Implementação de Bases de Dados (cont.)"
-    plan: "../../data/bdcgh/pl08/bdcgh_pa08.pdf"
-    slides: 
-    exercise: "../../data/bdcgh/pl07/bdcgh_fe04.pdf"
-    material: "../../data/bdcgh/pl07/material.zip"
-    topics: "Bases de Dados | Modelação Conceptual | Modelo Lógico | Modelo Físico | MySQL | Workbench"
-
-  - code: "PL07"
-    date: "3/5 abr 2024"
-    title: "Implementação de Bases de Dados"
-    plan: "../../data/bdcgh/pl07/bdcgh_pa07.pdf"
-    slides: 
-    exercise: "../../data/bdcgh/pl07/bdcgh_fe04.pdf"
-    material: "../../data/bdcgh/pl07/material.zip"
-    topics: "Bases de Dados | Modelação Conceptual | Modelo Lógico | Modelo Físico | MySQL | Workbench"
-
-  - code: "PL06"
-    date: "19/21 mar 2024"
-    title: "Modelo Físico"
-    plan: "../../data/bdcgh/pl06/bdcgh_pa06.pdf"
-    slides: 
-    exercise: "../../data/bdcgh/pl06/bdcgh_fe03.pdf"
-    material: 
-    topics: "Bases de Dados | Modelo Físico | MySQL | Workbench"
-
-  - code: "Teórica"
-    date: "15 mar 2024"
-    title: "Introdução ao SQL"
-    plan: 
-    slides: 
-    exercise: "../../data/bdcgh/teoricas/bdcgh_fe_sql.pdf"
-    material: 
-    topics: "Bases de Dados | SQL"
-
-  - code: "PL05"
-    date: "13/15 mar 2024"
-    title: "Modelo Lógico"
-    plan: "../../data/bdcgh/pl05/bdcgh_pa05.pdf"
-    slides: "../../data/bdcgh/pl05/bdcgh_pl05.pdf"
-    exercise: "../../data/bdcgh/pl05/bdcgh_fe03.pdf"
-    material: 
-    topics: "Bases de Dados | Modelo Lógico | MySQL | Workbench"
-
-  - code: "PL04"
-    date: "06/08 mar 2024"
-    title: "Modelo Conceptual (cont.)"
-    plan: "../../data/bdcgh/pl04/bdcgh_pa04.pdf"
-    slides: 
-    exercise: 
-    material: 
-    topics: "Bases de Dados | Modelo Conceptual | Diagrama ER"
-
-  - code: "PL03"
-    date: "28 fev / 01 mar 2024"
-    title: "Modelo Conceptual (cont.)"
-    plan: "../../data/bdcgh/pl03/bdcgh_pa03.pdf"
-    slides: 
-    exercise: "../../data/bdcgh/pl03/bdcgh_fe02.pdf"
-    material: 
-    topics: "Bases de Dados | Modelo Conceptual | Diagrama ER"
-
-  - code: "PL02"
-    date: "20/23 fev 2024"
-    title: "Modelo Conceptual"
-    plan: "../../data/bdcgh/pl02/bdcgh_pa02.pdf"
-    slides: "../../data/bdcgh/pl02/bdcgh_pl02.pdf"
-    exercise: "../../data/bdcgh/pl02/bdcgh_fe01.pdf"
+  - code: "PL01"
+    date: "10 fev 2025"
+    title: "Introdução & Modelo Conceptual"
+    plan: "../../data/bdcgh/pl01/bdcgh_pa01.pdf"
+    slides: "../../data/bdcgh/pl01/bdcgh_pl01.pdf"
+    exercise: "../../data/bdcgh/pl01/bdcgh_fe01.pdf"
     material: 
     topics: "Bases de Dados | Introdução | Modelo Conceptual"
 
-  - code: "PL01"
-    date: "16 fev 2024"
-    title: "Introdução"
-    plan: "../../data/bdcgh/pl01/bdcgh_pa01.pdf"
-    slides: "../../data/bdcgh/pl01/bdcgh_pl01.pdf"
+  - code: "PL02"
+    date: "17 fev 2025"
+    title: "Modelo Conceptual - Continuação"
+    plan: "../../data/bdcgh/pl02/bdcgh_pa02.pdf"
+    slides: "../../data/bdcgh/pl02/bdcgh_pl02.pdf"
+    exercise: "../../data/bdcgh/pl02/bdcgh_fe02.pdf"
+    material: 
+    topics: "Bases de Dados | Modelo Conceptual"
+
+  - code: "PL03"
+    date: "24 fev 2025"
+    title: "Modelo Conceptual - Continuação"
+    plan: "../../data/bdcgh/pl03/bdcgh_pa03.pdf"
+    slides: "../../data/bdcgh/pl03/bdcgh_pl03.pdf"
+    exercise: "../../data/bdcgh/pl03/bdcgh_fe02.pdf"
+    material: 
+    topics: "Bases de Dados | Modelo Conceptual"
+
+  - code: "PL04"
+    date: "03 mar 2025"
+    title: "Modelo Lógico"
+    plan: "../../data/bdcgh/pl04/bdcgh_pa04.pdf"
+    slides: "../../data/bdcgh/pl04/bdcgh_pl04.pdf"
+    exercise: "../../data/bdcgh/pl04/bdcgh_fe03.pdf"
+    material: 
+    topics: "Bases de Dados | Modelo Lógico"
+
+  - code: "PL05"
+    date: "10 mar 2025"
+    title: "Modelo Físico"
+    plan: "../../data/bdcgh/pl05/bdcgh_pa05.pdf"
+    slides: "../../data/bdcgh/pl05/bdcgh_pl05.pdf"
+    exercise: "../../data/bdcgh/pl05/bdcgh_fe04.pdf"
+    material: 
+    topics: "Bases de Dados | Modelo Físico"
+
+  - code: "PL06"
+    date: "17 mar 2025"
+    title: "Introdução ao SQL"
+    plan: "../../data/bdcgh/pl06/bdcgh_pa06.pdf"
+    slides: "../../data/bdcgh/pl06/bdcgh_pl06.pdf"
+    exercise: "../../data/bdcgh/pl06/bdcgh_fe05.pdf"
+    material: 
+    topics: "Bases de Dados | SQL"
+
+  - code: "PL07"
+    date: "24 mar 2025"
+    title: "CheckPoint"
+    plan: "../../data/bdcgh/pl07/bdcgh_pa07.pdf"
+    slides:
+    exercise:
+    material: 
+    topics: "Bases de Dados | CheckPoint"
+
+  - code: "PL08"
+    date: "31 mar 2025"
+    title: "Exploração de Dados"
+    plan: "../../data/bdcgh/pl08/bdcgh_pa08.pdf"
+    slides: "../../data/bdcgh/pl08/bdcgh_pl08.pdf"
+    exercise: "../../data/bdcgh/pl08/bdcgh_fe06.pdf"
+    material: 
+    topics: "Bases de Dados | Exploração de Dados"
+
+  - code: "PL09"
+    date: "07 abr 2025"
+    title: "Algebra Relacional"
+    plan: "../../data/bdcgh/pl09/bdcgh_pa09.pdf"
+    slides: "../../data/bdcgh/pl09/bdcgh_pl09.pdf"
+    exercise: "../../data/bdcgh/pl09/bdcgh_fe07.pdf"
+    material: 
+    topics: "Bases de Dados | Algebra Relacional"
+
+  - code: "PL10"
+    date: "28 abr 2025"
+    title: "Triggers & Funções"
+    plan: "../../data/bdcgh/pl10/bdcgh_pa10.pdf"
+    slides: "../../data/bdcgh/pl10/bdcgh_pl10.pdf"
+    exercise: "../../data/bdcgh/pl10/bdcgh_fe08.pdf"
+    material: 
+    topics: "Bases de Dados | Triggers | Funções"
+
+  - code: "PL11"
+    date: "05 mai 2025"
+    title: "Procedimentos"
+    plan: "../../data/bdcgh/pl11/bdcgh_pa11.pdf"
+    slides: "../../data/bdcgh/pl11/bdcgh_pl11.pdf"
+    exercise: "../../data/bdcgh/pl11/bdcgh_fe09.pdf"
+    material: 
+    topics: "Bases de Dados | Procedimentos"
+
+  - code: "PL12"
+    date: "19 mai 2025"
+    title: "Desenvolvimento de Trabalho Prático"
+    plan: "../../data/bdcgh/pl11/bdcgh_pa11.pdf"
+    slides: "../../data/bdcgh/pl11/bdcgh_pl11.pdf"
+    exercise: "../../data/bdcgh/pl11/bdcgh_fe09.pdf"
+    material: 
+    topics: "Bases de Dados | Trabalho Prático"
+
+  - code: "PL13"
+    date: "26 mai 2025"
+    title: "Aula de Dúvidas"
+    plan: "../../data/bdcgh/pl13/bdcgh_pa13.pdf"
+    slides: 
     exercise: 
     material: 
-    topics: "Bases de Dados | Introdução"
+    topics: "Bases de Dados | Trabalho Prático | Dúvidas"
 
+  - code: "PL14"
+    date: "02 jun 2025"
+    title: "Teste"
+    plan: 
+    slides: 
+    exercise: 
+    material: 
+    topics: "Bases de Dados | Teste"
 
+  - code: "PL15"
+    date: "09 jun 2025"
+    title: "Apresentações Trabalhos Práticos"
+    plan: "../../data/bdcgh/pl15/bdcgh_pa15.pdf"
+    slides: 
+    exercise: 
+    material: 
+    topics: "Bases de Dados | Apresentações TP"

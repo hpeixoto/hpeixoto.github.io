@@ -3,6 +3,20 @@
 committees:
 
   - year: 2025
+    name: "The 22nd IEEE International Conference on Computer Applications"
+    nick: "IEEE-ICCA 2025"
+    role: "TPC Reviewer"
+    type: "Conference"
+    local: "Myanmar"
+
+  - year: 2025
+    name: "Sixth International Conference on Advances in Computational Tools for Engineering Applications"
+    nick: "ACTEA' 2025"
+    role: "TPC Reviewer"
+    type: "Conference"
+    local: "Zouk Mosbeh, Lebanon"
+
+  - year: 2025
     name: "The 2025 International Conference on the Leadership and Management of Projects in the Digital Age"
     nick: "ICLAMP2025"
     role: "TPC Reviewer"
