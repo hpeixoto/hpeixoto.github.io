@@ -3,6 +3,13 @@
 committees:
 
   - year: 2025
+    name: "The 24th EPIA International Conference on Artificial Intelligence"
+    nick: "EPIA 2025"
+    role: "PC Member"
+    type: "Conference"
+    local: "Algarve, Portugal"
+
+  - year: 2025
     name: "The 22nd IEEE International Conference on Computer Applications"
     nick: "IEEE-ICCA 2025"
     role: "TPC Reviewer"
