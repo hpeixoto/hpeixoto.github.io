@@ -3,6 +3,13 @@
 committees:
 
   - year: 2025
+    name: "16th International Symposium on Ambient Intelligence"
+    nick:  "ISAmI 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lille, France"
+
+  - year: 2025
     name: "The 24th EPIA International Conference on Artificial Intelligence"
     nick: "EPIA 2025"
     role: "PC Member"
