@@ -3,6 +3,13 @@
 committees:
 
   - year: 2025
+    name: "8th International Conference on Applied Informatics"
+    nick:  "ICAI 2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Ben Guerir, Morocco"
+
+  - year: 2025
     name: "16th International Symposium on Ambient Intelligence"
     nick:  "ISAmI 2025"
     role: "Program Committee"
