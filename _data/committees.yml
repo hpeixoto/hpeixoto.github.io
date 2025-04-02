@@ -3,6 +3,13 @@
 committees:
 
   - year: 2025
+    name: "BMC Public Health"
+    nick:  "BMC"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2025
     name: "8th International Conference on Applied Informatics"
     nick:  "ICAI 2025"
     role: "Reviewer"
@@ -58,6 +65,20 @@ committees:
     type: "Conference"
     local: "Nice, France"
 
+  - year: 2025
+    name: "8th International Conference on Information Technology & Systems"
+    nick:  "ICITS 2025"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Mexico City, Mexico"
+
+  - year: 2025
+    name: "The Fourth International Conference on Innovations in Computing Research"
+    nick:  "ICR25"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Athens, Greece"
+
   - year: 2024
     name: "Computers in Biology and Medicine"
     nick: "CIBM"
@@ -71,13 +92,6 @@ committees:
     role: "Reviewer"
     type: "Journal"
     local: ""
-
-  - year: 2025
-    name: "8th International Conference on Information Technology & Systems"
-    nick:  "ICITS 2025"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "Mexico City, Mexico"
 
   - year: 2024
     name: "BMC Medical Informatics and Decision Making"
@@ -113,13 +127,6 @@ committees:
     role: "Program Committee"
     type: "Conference"
     local: "Viana do Castelo, Portugal"
-
-  - year: 2025
-    name: "The Fourth International Conference on Innovations in Computing Research"
-    nick:  "ICR25"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "Athens, Greece"
 
   - year: 2024
     name: "The Second Jordanian International Biomedical Engineering Conference 2024"

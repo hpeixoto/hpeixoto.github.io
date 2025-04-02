@@ -3,6 +3,25 @@
 papers:
 
 
+    - title: "An Architectural Proposal for Injury Assessment in Occupational Medicine"
+      authors: "Mariana Fernandes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2025
+      booktitle: "Lecture Notes in Networks and Systems"
+      volume: "1259"
+      pages: "181 – 190"
+      editor: ""
+      publisher: "Springer Nature Switzerland"
+      issn: ""
+      doi: "10.1007/978-3-031-82073-1_18"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 1
+      dblp: 
+      url: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218939404&doi=10.1007%2f978-3-031-82073-1_18&partnerID=40&md5=23320de664283f6cf6082c53b5290499"
+      citations: 0
+
     - title: "Unlocking Healthcare Data Potential: A Comprehensive Integration Approach with GraphQL, openEHR, Redis, and Pervasive Business Intelligence"
       authors: "Regina Sousa, Vasco Abelha, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2024
