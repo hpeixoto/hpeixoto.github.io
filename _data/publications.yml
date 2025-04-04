@@ -1328,25 +1328,25 @@ papers:
       url: "https://www.omicsonline.org/open-access/evaluating-the-prophylaxis-of-the-risk-of-deep-vein-thrombosisu-sing-business-intelligence-2157-7420-1000284.pdf"
       citations:
 
-    - title: "The Future of Records in Anesthesia: Development of an Anesthesia Data Warehouse"
-      authors: "André Dias, João Fernandes, Rui Monteiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
-      year: 2017
-      journal: "Journal Healthcare Communications"
-      volume: "Vol. 2 N.4:61"
-      pages: 
-      editor: "iMedPub Journals"
-      publisher: "iMedPub Journals"
-      issn: "2472-1654"
-      doi: "/10.4172/2472-1654.100102"
-      pub:
-      scopus: 
-      isi: 
-      q: 
-      dblp: 
-      ieee: 
-      type: "journal"
-      url: "http://healthcare-communications.imedpub.com/the-future-of-records-in-anesthesia-development-of-an-anesthesia-data-warehouse.pdf"
-      citations:
+    # - title: "The Future of Records in Anesthesia: Development of an Anesthesia Data Warehouse"
+    #   authors: "André Dias, João Fernandes, Rui Monteiro, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and António Abelha"
+    #   year: 2017
+    #   journal: "Journal Healthcare Communications"
+    #   volume: "Vol. 2 N.4:61"
+    #   pages: 
+    #   editor: "iMedPub Journals"
+    #   publisher: "iMedPub Journals"
+    #   issn: "2472-1654"
+    #   doi: "/10.4172/2472-1654.100102"
+    #   pub:
+    #   scopus: 
+    #   isi: 
+    #   q: 
+    #   dblp: 
+    #   ieee: 
+    #   type: "journal"
+    #   url: "http://healthcare-communications.imedpub.com/the-future-of-records-in-anesthesia-development-of-an-anesthesia-data-warehouse.pdf"
+    #   citations:
 
     - title: "Understanding Stroke in Dialysis and Chronic Kidney Disease"
       authors: "Mariana Rodrigues, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Marisa Esteves, José Machado and António Abelha"
