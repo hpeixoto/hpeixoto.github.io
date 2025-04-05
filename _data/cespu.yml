@@ -5,6 +5,6 @@ class:
     title: "Dos dados à informação"
     plan: 
     slides: "../../data/cespu/TIC_CESPU2025.pdf"
-    exercise: "../../data/cespu/ficha_powerBI.pdf"
-    material: "../../data/cespu/dataset.csv"
+    exercise: "../../data/cespu/ficha_TICCESPU.pdf"
+    material: "../../data/cespu/dataset.zip"
     topics: "TIC | DADOS | SAUDE"
