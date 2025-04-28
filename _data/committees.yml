@@ -2,6 +2,27 @@
 #type: Workshop, Conference, Journal
 committees:
 
+  - year: 2026
+    name: "The Fifth International Conference on Innovations in Computing Research"
+    nick:  "ICR26"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "to be defined"
+
+  - year: 2025
+    name: "2025 IEEE International Conference on Emerging Trends in Engineering & Computing"
+    nick: "ETECOM 2025"
+    role: "TPC Reviewer"
+    type: "Conference"
+    local: "BAHRAIN"
+
+  - year: 2025
+    name: "Eight International Conference on Advances in Biomedical Engineering"
+    nick: "ICABME 25"
+    role: "TPC Reviewer"
+    type: "Conference"
+    local: "Beirut, Lebanon"  
+
   - year: 2025
     name: "BMC Public Health"
     nick:  "BMC"
