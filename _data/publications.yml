@@ -2,6 +2,24 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Exploring the potential of online social listening for noncommunicable disease monitoring"
+      authors: "Diana Braga, Inês Silva, Rafaela Rosário Paulo Novais **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2025
+      booktitle: "PeerJ"
+      volume: "13"
+      pages: "e19311"
+      editor: "Ulysses Albuquerque"
+      publisher: "PeerJ"
+      issn: "2167-8359"
+      doi: "10.7717/peerj.19311"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 1
+      dblp: 
+      url: "https://doi.org/10.7717/peerj.19311"
+      citations: 0
 
     - title: "An Architectural Proposal for Injury Assessment in Occupational Medicine"
       authors: "Mariana Fernandes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
@@ -17,7 +35,7 @@ papers:
       type: "conference"
       scopus: 1
       isi: 
-      q: 1
+      q: 
       dblp: 
       url: "https://www.scopus.com/inward/record.uri?eid=2-s2.0-85218939404&doi=10.1007%2f978-3-031-82073-1_18&partnerID=40&md5=23320de664283f6cf6082c53b5290499"
       citations: 0
