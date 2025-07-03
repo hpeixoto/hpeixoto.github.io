@@ -2,6 +2,85 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Integrating Data Science and AI in Disease Screening: A Scalable, Interoperable Software Architecture Proposal"
+      authors: "Ana Luísa Sá, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2025
+      booktitle: "Procedia Computer Science"
+      volume: "257"
+      pages: "1128 - 1133"
+      editor: "Shakshuki E., Yasar A.-U.-H."
+      publisher: "Elsevier B.V."
+      issn: "18770509"
+      doi: "10.1016/j.procs.2025.03.149"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://www.scopus.com/pages/publications/105005178754"
+      citations: 0
+
+    - title: "An Architectural Proposal for Injury Assessment in Occupational Medicine"
+      authors: "Mariana Fernandes, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2025
+      booktitle: "Lecture Notes in Networks and Systems"
+      volume: "1259"
+      pages: "181 - 190"
+      editor: "Chinthaginjala R., Sitek P., Min-Allah N., Matsui K., Ossowski S., Rodríguez S."
+      publisher: "Springer Science and Business Media Deutschland GmbH"
+      issn: "23673370"
+      doi: "10.1007/978-3-031-82073-1_18"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://www.scopus.com/pages/publications/85218939404"
+      citations: 0
+
+    - title: ""
+      authors: "Inês Mendes, Vasco Miranda, Maria Salazar, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and António Abelha"
+      year: 2025
+      booktitle: "Procedia Computer Science"
+      volume: "257"
+      pages: "1092 - 1097"
+      editor: "Shakshuki E., Yasar A.-U.-H."
+      publisher: "Springer Science and Business Media Deutschland GmbH"
+      issn: "18770509"
+      doi: "10.1016/j.procs.2025.03.143"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://www.scopus.com/pages/publications/105005188184"
+      citations: 0
+
+
+    - title: "Integrating Data Science and AI in Disease Screening: A Scalable, Interoperable Software Architecture Proposal"
+      authors: "Ana Luísa Sá, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
+      year: 2025
+      booktitle: "Procedia Computer Science"
+      volume: "257"
+      pages: "1128 - 1133"
+      editor: "Shakshuki E., Yasar A.-U.-H."
+      publisher: "PeerJ"
+      issn: "18770509"
+      doi: "10.1016/j.procs.2025.03.149"
+      pub: ""
+      type: "confernece"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://www.scopus.com/pages/publications/105005178754"
+      citations: 0
+
+
+
     - title: "Exploring the potential of online social listening for noncommunicable disease monitoring"
       authors: "Diana Braga, Inês Silva, Rafaela Rosário Paulo Novais **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2025

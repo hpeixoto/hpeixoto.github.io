@@ -2,6 +2,20 @@
 #type: Workshop, Conference, Journal
 committees:
 
+  - year: 2025
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Cartagena de Indias, Colombia"
+
+  - year: 2025
+    name: "International Journal of Intelligent Systems"
+    nick:  "IJIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
   - year: 2026
     name: "The Fifth International Conference on Innovations in Computing Research"
     nick:  "ICR26"
