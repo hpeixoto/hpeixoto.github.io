@@ -3,6 +3,20 @@
 committees:
 
   - year: 2025
+    name: "BMC Digital Health"
+    nick:  "BMC"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2025
+    name: "2025 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies"
+    nick:  "3ICT2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain"
+
+  - year: 2025
     name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
     nick: "ARTIIS 2025"
     role: "Program Committee"
