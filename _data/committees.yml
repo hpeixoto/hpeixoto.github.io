@@ -2,6 +2,13 @@
 #type: Workshop, Conference, Journal
 committees:
 
+  - year: 2026
+    name: "International Conference on Artificial Intelligence, Systems, and Emerging Technologies 2026"
+    nick:  "ICAISET2026"
+    role: "TPC"
+    type: "Conference"
+    local: "Cairo, Egypt"
+
   - year: 2025
     name: "BMC Digital Health"
     nick:  "BMC"
