@@ -6,5 +6,5 @@ class:
     plan: "../../data/iia/pl01/iia_pa01.pdf"
     slides: "../../data/iia/pl01/iia_pl01.pdf"
     exercise: "../../data/iia/pl01/iia_fe01.pdf"
-    material: "./../data/iia/pl01/pl01_pre_processamento.ipynb"
+    material: "../../data/iia/pl01/pl01_pre_processamento.ipynb"
     topics: "Apresentação da disciplina | Objetivos | Avaliação | Conteúdos | Metodologia | Bibliografia"
