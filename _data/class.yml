@@ -1,5 +1,11 @@
 class:
 
+  - name: "IIA"
+    course: "Mestrado em Inteligência Artificial"
+    institution: "University of Minho"
+    topics: "IA"
+    url: "../class/iia"
+
   - name: "PISI"
     course: "Mestrado em Direito e Informática"
     institution: "University of Minho"
