@@ -1,125 +1,8 @@
 class:
 
-  - code: "PL16"
-    date: "17 dez 2024"
-    title: "Trabalho Prático"
-    plan: "../../data/aec/pl16/aec_pa16.pdf"
-    slides: 
-    exercise: 
-    material: 
-    topics: "Trabalho Prático | Orientação | Discussão | Temas"
-
-  - code: "PL15"
-    date: "10 dez 2024"
-    title: "Trabalho Prático"
-    plan: "../../data/aec/pl15/aec_pa15.pdf"
-    slides: 
-    exercise: 
-    material: 
-    topics: "Trabalho Prático | Orientação | Discussão | Temas"
-
-  - code: "PL14"
-    date: "03 dez 2024"
-    title: "Trabalho Prático"
-    plan: "../../data/aec/pl14/aec_pa14.pdf"
-    slides: 
-    exercise: 
-    material: 
-    topics: "Trabalho Prático | Orientação | Discussão | Temas"
-
-  - code: "PL13"
-    date: "26 nov 2024"
-    title: "k-means Clustering"
-    plan: "../../data/aec/pl13/aec_pa13.pdf"
-    slides: "../../data/aec/pl13/aec_pl13.pdf"
-    exercise: "../../data/aec/pl13/aec_fe09.pdf"
-    material: "../../data/aec/pl13/material.zip"
-    topics: "k-means | Clustering | AI Studio"
-
-  - code: "PL12"
-    date: "19 nov 2024"
-    title: "Trabalho Prático"
-    plan: "../../data/aec/pl12/aec_pa12.pdf"
-    slides: 
-    exercise: 
-    material: 
-    topics: "Trabalho Prático | Orientação | Discussão | Temas"
-
-  - code: "PL11"
-    date: "19 nov 2024"
-    title: "Classificação - Python"
-    plan: "../../data/aec/pl11/aec_pa11.pdf"
-    slides: 
-    exercise: "../../data/aec/pl11/aec_fe08.pdf"
-    material: "../../data/aec/pl11/heart_disease_uci.csv"
-    topics: "Python | Logistic Regression | Random Forest | SVM"
-
-  - code: "PL10"
-    date: "05 nov 2024"
-    title: "Classificação - Python"
-    plan: "../../data/aec/pl10/aec_pa10.pdf"
-    slides: 
-    exercise: "../../data/aec/pl10/aec_fe08.pdf"
-    material: "../../data/aec/pl10/heart_disease_uci.csv"
-    topics: "Python | Logistic Regression | Random Forest | SVM"
-
-  - code: "PL09"
-    date: "29 out 2024"
-    title: "Classificação (cont.)"
-    plan: "../../data/aec/pl09/aec_pa09.pdf"
-    slides: 
-    exercise: "../../data/aec/pl09/aec_fe07.pdf"
-    material: "../../data/aec/pl09/material.zip"
-    topics: "CRISP-DM | Data Mining | Classification"
-
-  - code: "PL08"
-    date: "22 out 2024"
-    title: "Classificação"
-    plan: "../../data/aec/pl08/aec_pa08.pdf"
-    slides: "../../data/aec/pl08/aec_pl08.pdf"
-    exercise: "../../data/aec/pl08/aec_fe07.pdf"
-    material: "../../data/aec/pl08/material.zip"
-    topics: "CRISP-DM | Data Mining | Classification"
-
-  - code: "PL07"
-    date: "15 out 2024"
-    title: "Regressão Linear"
-    plan: "../../data/aec/pl07/aec_pa07.pdf"
-    slides: "../../data/aec/pl07/aec_pl07.pdf"
-    exercise: "../../data/aec/pl07/aec_fe06.pdf"
-    material: "../../data/aec/pl07/material.zip"
-    topics: "CRISP-DM | Data Mining | Linear Regression"
-
-  - code: "PL06"
-    date: "08 out 2024"
-    title: "Regras de Associação"
-    plan: "../../data/aec/pl06/aec_pa06.pdf"
-    slides: "../../data/aec/pl06/aec_pl06.pdf"
-    exercise: "../../data/aec/pl06/aec_fe05.pdf"
-    material: "../../data/aec/pl06/material.zip"
-    topics: "CRISP-DM | Data Mining | Association Rules | Confidence | Support"
-
-  - code: "PL05"
-    date: "01 out 2024"
-    title: "Data Preparation"
-    plan: "../../data/aec/pl05/aec_pa05.pdf"
-    slides: 
-    exercise: "../../data/aec/pl05/aec_fe04.pdf"
-    material: 
-    topics: "CRISP-DM | Data Mining | Data Preparation | Outliers | Missing Values | Data Transformation"
-
-  - code: "PL04"
-    date: "24 set 2024"
-    title: "Data collection and Data preparation"
-    plan: "../../data/aec/pl04/aec_pa04.pdf"
-    slides: 
-    exercise: "../../data/aec/pl04/aec_fe03.pdf"
-    material: 
-    topics: "CRISP-DM | Data Mining | Data Collection | Data Preparation"
-
   - code: "PL03"
-    date: "16 set 2024"
-    title: "Correlações"
+    date: "01 out 2025"
+    title: "Introdução ao AI Studio - Correlações"
     plan: "../../data/aec/pl03/aec_pa03.pdf"
     slides: "../../data/aec/pl03/aec_pl03.pdf"
     exercise: "../../data/aec/pl03/aec_fe02.pdf"
@@ -127,7 +10,7 @@ class:
     topics: "CRISP-DM | Data Mining | Correlações"
 
   - code: "PL02"
-    date: "16 set 2024"
+    date: "01 out 2025"
     title: "Introdução ao CRISP-DM"
     plan: "../../data/aec/pl02/aec_pa02.pdf"
     slides: "../../data/aec/pl02/aec_pl02.pdf"
@@ -136,9 +19,9 @@ class:
     topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
 
   - code: "PL01"
-    date: "9 set 2024"
+    date: "17 set 2025"
     title: "Apresentação"
-    plan: "../../data/aec/pl01/aec_pa01.pdf"
+    plan:
     slides: "../../data/aec/pl01/aec_pl01.pdf"
     exercise: 
     material: 
