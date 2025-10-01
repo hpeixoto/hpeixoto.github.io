@@ -21,5 +21,8 @@ class:
   - code: "PL01"
     date: "17 set 2025"
     title: "Apresentação"
+    plan: 
     slides: "../../data/aec/pl01/aec_pl01.pdf"
+    exercise: 
+    material:
     topics: "Apresentação da disciplina | Objetivos | Avaliação | Conteúdos | Metodologia | Bibliografia"
