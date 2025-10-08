@@ -1,5 +1,14 @@
 class:
 
+  - code: "PL04"
+    date: "08 out 2025"
+    title: "Data Collection"
+    plan: "../../data/aec/pl04/aec_pa04.pdf"
+    slides: 
+    exercise: "../../data/aec/pl03/aec_fe03.pdf"
+    material: 
+    topics: "Data Collection | Data Mining"
+
   - code: "PL03"
     date: "01 out 2025"
     title: "Introdução ao AI Studio - Correlações"
