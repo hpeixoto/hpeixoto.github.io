@@ -1,6 +1,15 @@
 class:
 
-  - code: "PL01"
+  - code: "PL03"
+    date: "13 Oct 2025"
+    title: "Pré-Processamento de Dados"
+    plan: "../../data/iia/pl01/iia_pa03.pdf"
+    slides: 
+    exercise: 
+    material: "../../data/iia/pl03/2-AulaOperacoesBasicasNLP.ipynb"
+    topics: "Pré-Processamento de Dados | Data Cleaning | Data Wrangling | Data Transformation"
+
+  - code: "PL01/PL02"
     date: "29 set 2025"
     title: "Apresentação"
     plan: "../../data/iia/pl01/iia_pa01.pdf"
