@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "AI-Powered Automation in Healthcare: A Multi-agent Approach with LLM"
+      authors: "Mariana Almeida, José Machado, Regina Sousa and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2025
+      booktitle: "Highlights in Practical Applications of Agents, Multi-Agent Systems and Computational Social Science. The PAAMS Collection"
+      volume: ""
+      pages: "132--143"
+      editor: "Nongaillard, Antoine and Caron, Anne-Cecile and Gonzàlez-Briones, Alfonso and Fernàndez, Alberto and Durães, Dalila and Sharaf, Nada"
+      publisher: "Springer Nature Switzerland"
+      issn: ""
+      doi: "10.1007/978-3-032-05925-3_11"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://link.springer.com/chapter/10.1007/978-3-032-05925-3_11"
+      citations: 0
+
     - title: "Integrating Data Science and AI in Disease Screening: A Scalable, Interoperable Software Architecture Proposal"
       authors: "Ana Luísa Sá, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2025
@@ -455,7 +474,7 @@ papers:
       url: "https://link.springer.com/chapter/10.1007/978-3-031-43461-7_23"
       citations: 0
 
-    - title: "Better Medical Efficiency by means of Hospital Bed Management Optimization – a Comparison of Artificial Intelligence Techniques"
+    - title: "Better Medical Efficiency by means of Hospital Bed Management Optimization – A Comparison of Artificial Intelligence Techniques"
       authors: "Afonso Lobo, Agostinho Barbosa, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Tiago Guimarães, Manuel Santos and João Lopes"
       year: 2023
       booktitle: "Lecture Notes in Computer Science "

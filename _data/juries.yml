@@ -4,6 +4,15 @@
 
 juries:
   
+  - title: "O Futuro da Monitorização de Idosos: Integração da Realidade Aumentada para Auxílio na Prestação de Cuidados"
+    institution:  "ISEP - Instituto Superior de Engenharia do Porto"
+    date: "Out. 2025"
+    student: "Rafael Martins"
+    course: "Mestrado em Engenharia Informática - Jogos, Sistemas Gráficos e Interativos"
+    type: 2
+    external: 1
+    url: ""
+  
   - title: "Effective Clinical Decision Support Systems by Means of Open Data, Intelligence and Interoperability"
     institution:  "University of Minho"
     date: "Nov. 2024"
