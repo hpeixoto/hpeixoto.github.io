@@ -3,6 +3,13 @@
 committees:
 
   - year: 2026
+    name: "International conference on Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) solutions for Europe’s Next-Gen Cloud Infrastructure"
+    nick:  "NOUS2026"
+    role: "SPC"
+    type: "Conference"
+    local: "online"
+
+  - year: 2026
     name: "International Conference on Artificial Intelligence, Systems, and Emerging Technologies 2026"
     nick:  "ICAISET2026"
     role: "TPC"
