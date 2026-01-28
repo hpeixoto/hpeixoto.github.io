@@ -2,6 +2,27 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Enhancing Shared Vehicle Management with AI: A Study on Interior Damage Detection Models"
+      authors: "Sandra Dixe, Cátia Loureiro, Beatriz Miranda, Diana Ferreira, Tiago Aston, Duarte Fernandes and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
+      year: 2025
+      booktitle: "2025 7th Experiment@ International Conference (exp.at'25)"
+      volume: ""
+      pages: "62-67"
+      editor: ""
+      publisher: "IEEE"
+      issn: ""
+      doi: "10.1109/exp.at2565440.2025.11348472"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 
+      dblp: 
+      url: "https://ieeexplore.ieee.org/document/11348472"
+      citations: 0
+
+
+
     - title: "AI-Powered Automation in Healthcare: A Multi-agent Approach with LLM"
       authors: "Mariana Almeida, José Machado, Regina Sousa and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2025

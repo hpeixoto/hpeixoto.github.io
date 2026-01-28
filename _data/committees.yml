@@ -3,6 +3,21 @@
 committees:
 
   - year: 2026
+    name: "International Conference of Frontiers of Engineering and Emerging Technologies"
+    nick: "FET'26"
+    role: "TPC"
+    type: "Conference"
+    local: "Kingdom of Bahrain"
+
+  - year: 2026
+    name: "5th IEEE International Multidisciplinary Conference on Engineering Technology IMCET 2026"
+    nick:  "IEEE-IMCET'26"
+    role: "TPC"
+    type: "Conference"
+    local: "Hybrid"
+
+
+  - year: 2026
     name: "International conference on Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) solutions for Europe’s Next-Gen Cloud Infrastructure"
     nick:  "NOUS2026"
     role: "SPC"
@@ -457,6 +472,20 @@ committees:
     type: "Conference"
     local: "Thailand"
 
+  - year: 2023
+    name: "Mayo Clinic Proceedings: Digital Health"
+    nick:  "MCP: DH"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2022
+    name: "Mayo Clinic Proceedings: Digital Health"
+    nick:  "MCP: DH"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
   - year: 2022
     name: "Mathematical Biosciences and Engineering - AIMS"
     nick:  "MBE"
@@ -661,6 +690,13 @@ committees:
     local: "--"
 
   - year: 2021
+    name: "Measurement"
+    nick:  "Measurement"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2021
     name: "Next-Generation Applications and Implementations of Gamification Systems"
     nick:  "NGA-IGS"
     role: "Reviewer"
@@ -738,6 +774,13 @@ committees:
     local: "Held online"
 
   - year: 2020
+    name: "Journal of King Saud University - Computer and Information Sciences"
+    nick:  "JKSU-CIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: "--"
+
+  - year: 2020
     name: "Open Computer Science"
     nick:  "OCS"
     role: "Reviewer"
@@ -800,7 +843,7 @@ committees:
     type: "Conference"
     local: "Bogotá, Colombia"
 
-  - year: 2020
+  - year: 2019
     name: "International Journal of Medical Informatics"
     nick:  "IIJMI"
     role: "Reviewer"
