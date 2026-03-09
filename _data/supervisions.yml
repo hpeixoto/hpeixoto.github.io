@@ -1,5 +1,45 @@
 supervisions:
 
+  - title: "Aplicação Mobile Informativa para Monitorização e Prevenção do Pé Diabético"
+    institution:  "University of Minho"
+    date: "Dez 2025"
+    student: "Rúben Ganança"
+    grade: 18
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
+  - title: "Intelligent Monitoring of Diabetic Foot Injury"
+    institution:  "University of Minho"
+    date: "Dez 2025"
+    student: "Tayan Peller"
+    grade: 19
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
+  - title: "Development of Machine Learning Models for Optimizing Amblyopia Screening in the Portuguese National Health System"
+    institution:  "University of Minho"
+    date: "Dez 2025"
+    student: "Inês Mendes"
+    grade: 20
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
+  - title: "Chatbots Clínicos no Apoio à Tomada de Decisão Médica"
+    institution:  "University of Minho"
+    date: "Dez 2025"
+    student: "Mariana Almeida"
+    grade: 19
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
+  - title: "Gestão Inteligente e Inovadora de Enfermarias: Solução para Continuação de Cuidado"
+    institution:  "University of Minho"
+    date: "Dez 2025"
+    student: "Bernardo Moraes"
+    grade: 18
+    course: "Mestrado em Engenharia Biomédica"
+    url: ""
+
   - title: "Unpacking the impact of an Artificial Intelligence decision-support tool in radiology training"
     institution:  "University of Minho"
     date: "Dez 2024"

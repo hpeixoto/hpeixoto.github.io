@@ -3,6 +3,13 @@
 committees:
 
   - year: 2026
+    name: "The fifth International Conference on Innovations in Computing Research"
+    nick:  "ICR26"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Berlin, Germany"
+
+  - year: 2026
     name: "International Conference of Frontiers of Engineering and Emerging Technologies"
     nick: "FET'26"
     role: "TPC"
@@ -15,7 +22,6 @@ committees:
     role: "TPC"
     type: "Conference"
     local: "Hybrid"
-
 
   - year: 2026
     name: "International conference on Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) solutions for Europe’s Next-Gen Cloud Infrastructure"
@@ -58,13 +64,6 @@ committees:
     role: "Reviewer"
     type: "Journal"
     local: ""
-
-  - year: 2026
-    name: "The Fifth International Conference on Innovations in Computing Research"
-    nick:  "ICR26"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "to be defined"
 
   - year: 2025
     name: "2025 IEEE International Conference on Emerging Trends in Engineering & Computing"

@@ -2,6 +2,26 @@
 #type: Workshop, Conference, Journal
 editor:
 
+    - year: 2026
+      name: "Advances in Machine Learning for Healthcare Applications: 2nd Edition"
+      edition: "Applied Sciences - Computing and Artificial Intelligence"
+      role: "Guest Editor"
+      type: "Special Issue"
+      editor: "MDPI"
+      doi: ""
+      deadline: "20th june, 2026"
+      url: "https://www.mdpi.com/journal/applsci/special_issues/F8UA250915"
+
+    - year: 2025
+      name: "Advances in Machine Learning for Healthcare Applications"
+      edition: "Applied Sciences - Computing and Artificial Intelligence"
+      role: "Guest Editor"
+      type: "Special Issue"
+      editor: "MDPI"
+      doi: ""
+      deadline: "30 September 2025"
+      url: "https://www.mdpi.com/journal/applsci/special_issues/2O9JLLZF08"
+
     - year: 2023
       name: "Blockchain and Applications, 5th International Congress"
       edition: "Lecture Notes in Networks and Systems"
