@@ -2,6 +2,25 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "From Synthetic Data to Real-World Efficiency: Automated Vehicle Damage Detection and Vehicle Parts Segmentation"
+      authors: "Cátia Loureiro, Sandra Dixe, Cristiana Neto, António Silva, Beatriz Miranda, Ricardo Rodrigues, Nuno M. C. da Costa, Carlos Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and Duarte Fernandes"
+      year: 2026
+      booktitle: "IEEE Access"
+      volume: "14"
+      pages: "11230-11250"
+      editor: ""
+      publisher: "IEEE"
+      issn: ""
+      doi: "10.1109/ACCESS.2026.3653645"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 1
+      dblp: 
+      url: "https://ieeexplore.ieee.org/document/11346931"
+      citations: 0
+
     - title: "Enhancing Shared Vehicle Management with AI: A Study on Interior Damage Detection Models"
       authors: "Sandra Dixe, Cátia Loureiro, Beatriz Miranda, Diana Ferreira, Tiago Aston, Duarte Fernandes and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2025
@@ -16,12 +35,12 @@ papers:
       type: "conference"
       scopus: 1
       isi: 
-      q: 
+      q: 1
       dblp: 
       url: "https://ieeexplore.ieee.org/document/11348472"
       citations: 0
 
-    - title: "AI-Powered Automation in Healthcare: A Multi-agent Approach with LLM"
+    - title: "AI-Powered Automation in Healthcare: A Multi-agent Approach with LLM"
       authors: "Mariana Almeida, José Machado, Regina Sousa and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
       year: 2025
       booktitle: "Highlights in Practical Applications of Agents, Multi-Agent Systems and Computational Social Science. The PAAMS Collection"
@@ -109,7 +128,7 @@ papers:
       issn: "18770509"
       doi: "10.1016/j.procs.2025.03.149"
       pub: ""
-      type: "confernece"
+      type: "conference"
       scopus: 1
       isi: 
       q: 
