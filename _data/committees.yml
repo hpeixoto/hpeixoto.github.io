@@ -3,6 +3,20 @@
 committees:
 
   - year: 2026
+    name: "The 25th EPIA International Conference on Artificial Intelligence"
+    nick: "EPIA 2026"
+    role: "PC Member"
+    type: "Conference"
+    local: "Funchal, Madeira, Portugal"
+
+  - year: 2026
+    name: "2nd International Conference on Artificial Intelligence Systems"
+    nick:  "AIS26"
+    role: "Program Committee"
+    type: "Conference"
+    local: "San Antonio, USA"
+
+  - year: 2026
     name: "The fifth International Conference on Innovations in Computing Research"
     nick:  "ICR26"
     role: "Scientific Committee"
