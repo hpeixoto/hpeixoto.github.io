@@ -3,6 +3,13 @@
 committees:
 
   - year: 2026
+    name: "INQUIRY"
+    nick:  "INQUIRY"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+
+  - year: 2026
     name: "The 25th EPIA International Conference on Artificial Intelligence"
     nick: "EPIA 2026"
     role: "PC Member"
