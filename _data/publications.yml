@@ -40,7 +40,6 @@ papers:
       url: "https://ieeexplore.ieee.org/abstract/document/11456963"
       citations: 0
 
-
     - title: "From Synthetic Data to Real-World Efficiency: Automated Vehicle Damage Detection and Vehicle Parts Segmentation"
       authors: "Cátia Loureiro, Sandra Dixe, Cristiana Neto, António Silva, Beatriz Miranda, Ricardo Rodrigues, Nuno M. C. da Costa, Carlos Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and Duarte Fernandes"
       year: 2026
@@ -61,7 +60,7 @@ papers:
       citations: 0
 
     - title: "An Ontology-Based Web Platform for Medical Care on Transatlantic Cruises"
-      authors: "Hugo Baptista, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Luís Gomes and José Machado"" 
+      authors: "Hugo Baptista, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Luís Gomes and José Machado"
       year: 2025
       booktitle: "Frontiers in Artificial Intelligence and Applications"
       volume: ""
@@ -80,7 +79,7 @@ papers:
       citations: 0
 
     - title: "Low-Power Real-Time TinyML Approach for Pothole and Speed Bump Classification Using IMU Data on FPGA"
-      authors: "César Melo, Pedro Delgado, Gabriel Carvalho, Rui Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, and José Machado"" 
+      authors: "César Melo, Pedro Delgado, Gabriel Carvalho, Rui Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, and José Machado"
       year: 2025
       booktitle: "Frontiers in Artificial Intelligence and Applications"
       volume: ""
