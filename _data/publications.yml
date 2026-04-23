@@ -97,7 +97,7 @@ papers:
       url: "https://www.scopus.com/pages/publications/85218939404"
       citations: 0
 
-    - title: ""
+    - title: "Enhancing Amblyopia Screening with Machine Learning: Challenges and Solutions in Data Preparation"
       authors: "Inês Mendes, Vasco Miranda, Maria Salazar, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and António Abelha"
       year: 2025
       booktitle: "Procedia Computer Science"
@@ -111,7 +111,7 @@ papers:
       type: "conference"
       scopus: 1
       isi: 
-      q: 
+      q: 2
       dblp: 
       url: "https://www.scopus.com/pages/publications/105005188184"
       citations: 0
