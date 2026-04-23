@@ -2,6 +2,45 @@
 #type: Workshop, Conference
 papers:
 
+    - title: "Multimodal video and radar system for edge devices object detection"
+      authors: "Filipa Ferraz, Eduardo Coelho, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Dalila Durães, Pedro Melo-Pinto, Victor Alves, Lourenço Bandeira, José Machado and Paulo Novais"
+      year: 2026
+      booktitle: "Logic Journal of the IGPL"
+      volume: "34"
+      pages: "48298-48311"
+      editor: ""
+      publisher: "Oxford University Press"
+      issn: ""
+      doi: "10.1093/jigpal/jzaf043"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 2
+      dblp: 
+      url: "https://academic.oup.com/jigpal/article-abstract/34/1/jzaf043/8537639"
+      citations: 0
+
+    - title: "Sentinel Mode Using Sensor Fusion for Improving Security in Shared Vehicles"
+      authors: "Sandra Dixe, Cátia Loureiro, Beatriz Miranda, António Silva, Luís Cura, Nuno M. C. da Costa,  Ricardo Rodrigues, Tiago Aston, Diana Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and Duarte Fernandes"
+      year: 2026
+      booktitle: "IEEE Access"
+      volume: "14"
+      pages: "48298-48311"
+      editor: ""
+      publisher: "IEEE"
+      issn: ""
+      doi: "10.1109/ACCESS.2026.3678484"
+      pub: ""
+      type: "journal"
+      scopus: 1
+      isi: 
+      q: 1
+      dblp: 
+      url: "https://ieeexplore.ieee.org/abstract/document/11456963"
+      citations: 0
+
+
     - title: "From Synthetic Data to Real-World Efficiency: Automated Vehicle Damage Detection and Vehicle Parts Segmentation"
       authors: "Cátia Loureiro, Sandra Dixe, Cristiana Neto, António Silva, Beatriz Miranda, Ricardo Rodrigues, Nuno M. C. da Costa, Carlos Ferreira, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, José Machado and Duarte Fernandes"
       year: 2026
@@ -20,6 +59,45 @@ papers:
       dblp: 
       url: "https://ieeexplore.ieee.org/document/11346931"
       citations: 0
+
+    - title: "An Ontology-Based Web Platform for Medical Care on Transatlantic Cruises"
+      authors: "Hugo Baptista, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, Luís Gomes and José Machado"" 
+      year: 2025
+      booktitle: "Frontiers in Artificial Intelligence and Applications"
+      volume: ""
+      pages: "483 - 496"
+      editor: ""
+      publisher: "IOS Press BV"
+      issn: ""
+      doi: "10.3233/FAIA250548"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 1
+      dblp: 
+      url: "https://www.scopus.com/pages/publications/105021112425"
+      citations: 0
+
+    - title: "Low-Power Real-Time TinyML Approach for Pothole and Speed Bump Classification Using IMU Data on FPGA"
+      authors: "César Melo, Pedro Delgado, Gabriel Carvalho, Rui Silva, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**, and José Machado"" 
+      year: 2025
+      booktitle: "Frontiers in Artificial Intelligence and Applications"
+      volume: ""
+      pages: "24-29"
+      editor: ""
+      publisher: "IEEE"
+      issn: ""
+      doi: "10.1109/GCET68529.2025.11450715"
+      pub: ""
+      type: "conference"
+      scopus: 1
+      isi: 
+      q: 1
+      dblp: 
+      url: "https://ieeexplore.ieee.org/abstract/document/11450715"
+      citations: 0
+
 
     - title: "Enhancing Shared Vehicle Management with AI: A Study on Interior Damage Detection Models"
       authors: "Sandra Dixe, Cátia Loureiro, Beatriz Miranda, Diana Ferreira, Tiago Aston, Duarte Fernandes and **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>**"
