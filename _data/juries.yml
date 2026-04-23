@@ -3,6 +3,16 @@
 #external: 1 - Yes, 0 - No
 
 juries:
+
+  - title: "Automated FinOps for Cloud Infrastructure Cost Management"
+    institution:  "FEUP"
+    date: "Jul. 2025"
+    student: "Guilherme Almeida"
+    course: "Mestrado em Engenharia Informática e Computação"
+    type: 2
+    external: 1
+    url: ""
+
   
   - title: "O Futuro da Monitorização de Idosos: Integração da Realidade Aumentada para Auxílio na Prestação de Cuidados"
     institution:  "ISEP - Instituto Superior de Engenharia do Porto"
