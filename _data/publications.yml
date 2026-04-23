@@ -195,27 +195,6 @@ papers:
       citations: 0
 
 
-    - title: "Integrating Data Science and AI in Disease Screening: A Scalable, Interoperable Software Architecture Proposal"
-      authors: "Ana Luísa Sá, **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
-      year: 2025
-      booktitle: "Procedia Computer Science"
-      volume: "257"
-      pages: "1128 - 1133"
-      editor: "Shakshuki E., Yasar A.-U.-H."
-      publisher: "PeerJ"
-      issn: "18770509"
-      doi: "10.1016/j.procs.2025.03.149"
-      pub: ""
-      type: "conference"
-      scopus: 1
-      isi: 
-      q: 
-      dblp: 
-      url: "https://www.scopus.com/pages/publications/105005178754"
-      citations: 0
-
-
-
     - title: "Exploring the potential of online social listening for noncommunicable disease monitoring"
       authors: "Diana Braga, Inês Silva, Rafaela Rosário Paulo Novais **<span style='color: #048A81'><ins>Hugo Peixoto</ins></span>** and José Machado"
       year: 2025
