@@ -1,234 +1,411 @@
 supervisions:
 
-  - title: "Aplicação Mobile Informativa para Monitorização e Prevenção do Pé Diabético"
-    institution:  "University of Minho"
-    date: "Dez 2025"
-    student: "Rúben Ganança"
-    grade: 18
-    course: "Mestrado em Engenharia Biomédica"
-    url: ""
-
-  - title: "Intelligent Monitoring of Diabetic Foot Injury"
-    institution:  "University of Minho"
-    date: "Dez 2025"
-    student: "Tayan Peller"
-    grade: 19
-    course: "Mestrado em Engenharia Biomédica"
-    url: ""
-
   - title: "Development of Machine Learning Models for Optimizing Amblyopia Screening in the Portuguese National Health System"
-    institution:  "University of Minho"
-    date: "Dez 2025"
+    institution: "University of Minho"
     student: "Inês Mendes"
-    grade: 20
     course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2025"
+    grade: 20
+    status: "Closed"
+    url: ""
+
+  - title: "Aplicação Mobile Informativa para Monitorização e Prevenção do Pé Diabético"
+    institution: "University of Minho"
+    student: "Rúben Ganança"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2025"
+    grade: 18
+    status: "Closed"
     url: ""
 
   - title: "Chatbots Clínicos no Apoio à Tomada de Decisão Médica"
-    institution:  "University of Minho"
-    date: "Dez 2025"
+    institution: "University of Minho"
     student: "Mariana Almeida"
-    grade: 19
     course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2025"
+    grade: 19
+    status: "Closed"
     url: ""
 
   - title: "Gestão Inteligente e Inovadora de Enfermarias: Solução para Continuação de Cuidado"
-    institution:  "University of Minho"
-    date: "Dez 2025"
+    institution: "University of Minho"
     student: "Bernardo Moraes"
-    grade: 18
     course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2025"
+    grade: 18
+    status: "Closed"
     url: ""
 
-  - title: "Unpacking the impact of an Artificial Intelligence decision-support tool in radiology training"
-    institution:  "University of Minho"
-    date: "Dez 2024"
-    student: "Beatriz Leite"
-    grade: 19
+  - title: "Intelligent Monitoring of Diabetic Foot Injury"
+    institution: "University of Minho"
+    student: "Tayan Peller"
     course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2025"
+    grade: 19
+    status: "Closed"
+    url: ""
+
+  - title: "Prescriptive Business Intelligence no Controlo da Diabetes"
+    institution: "University of Minho"
+    student: "Rafael de Brito"
+    course: "Mestrado em Engenharia e Gestão de Sistemas de Informação"
+    degree: "Msc"
+    date: "Jul 2025"
+    grade: 19
+    status: "Closed"
     url: ""
 
   - title: "Backend Development and Infrastructure Management for a Mobile App Facilitating a Global Volunteer Network"
-    institution:  "University of Minho"
-    date: "Dez 2024"
+    institution: "University of Minho"
     student: "Mariana Oliveira"
-    grade: 18
     course: "Mestrado em Engenharia Biomédica"
-    url: ""
+    degree: "Msc"
+    date: "Jan 2025"
+    grade: 18
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/99180"
 
   - title: "Empowering Inclusivity and Accessibility: A Mobile Application for Assisting Individuals with Visual Impairments and Limited Mobility"
-    institution:  "University of Minho"
-    date: "Dez 2024"
+    institution: "University of Minho"
     student: "Joana Fernandes"
-    grade: 18
     course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2024"
+    grade: 18
+    status: "Closed"
     url: ""
 
-  - title: "Predictive Analytics na Determinação do Fluxo de Admissões Hospitalares"
-    institution:  "University of Minho"
-    date: "Feb 2024"
-    student: "Diogo Peixoto"
-    grade: 20
-    course: "Mestrado em Engenharia de Sistemas de Informação"
+  - title: "Evaluation of Intelligent Natural Language Models for Medical Image Reporting"
+    institution: "University of Minho"
+    student: "Beatriz Leite"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Dez 2024"
+    grade: 19
+    status: "Closed"
     url: ""
 
   - title: "Interfaces Hotelaria"
-    institution:  "University of Minho"
-    date: ""
-    student: "Ana Barbosa"
-    grade: 17
-    course: "Mestrado em Engenharia Informática"
-    url: ""
-
-  - title: "Interfaces Hotelaria"
-    institution:  "University of Minho"
-    date: "Dec. 2023"
+    institution: "University of Minho"
     student: "José Martins"
-    grade: 17
     course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Dez 2023"
+    grade: 17
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/92801"
+
+  - title: "Plataforma de Extração e Gestão de Conhecimento para Auditoria Clínica"
+    institution: "University of Minho"
+    student: "Rita Sousa"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Nov 2023"
+    grade: 18
+    status: "Closed"
     url: ""
 
   - title: "Business Intelligence Applied to Clinical Management of Bariatric surgery"
-    institution:  "University of Minho"
-    date: "Nov. 2023"
+    institution: "University of Minho"
     student: "Lara Vaz"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Nov 2023"
     grade: 19
-    course: "Mestrado em Engenharia Biomédica"
-    url: ""
-
-  - title: "Plataforma de Extração e Gestão de Conhecimento para Auditoria Clínica"
-    institution:  "University of Minho"
-    date: ""
-    student: "Rita Sousa"
-    grade: 
-    course: "Mestrado em Engenharia Biomédica"
-    url: ""
-
-  - title: "Sistema para a Segurança e Consistência na Interoperabilidade de Dados de Clínicos"
-    institution:  "University of Minho"
-    date: "Jul. 2023"
-    student: "Nuno Braz"
-    grade: 19
-    course: "Mestrado em Engenharia Biomédica"
+    status: "Closed"
     url: ""
 
   - title: "Sistema de Aquisição e Consolidação de Dados para a Medicina Física e de Reabilitação"
-    institution:  "University of Minho"
-    date: "Nov. 2023"
+    institution: "University of Minho"
     student: "Inês Silva"
-    grade: 19
     course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Nov 2023"
+    grade: 19
+    status: "Closed"
     url: ""
 
-  - title: "In memory data grid clusters HR employee data fusion"
-    institution:  "University of Minho"
-    date: "Dec. 2022"
-    student: "João Mota"
-    grade: 18
-    course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/84472"
+  - title: "Sistema para a Segurança e Consistência na Interoperabilidade de Dados de Clínicos"
+    institution: "University of Minho"
+    student: "Nuno Braz"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Jul 2023"
+    grade: 19
+    status: "Closed"
+    url: ""
 
-  - title: "Multiplatform application for monitoring services in a hospital environment"
-    institution:  "University of Minho"
-    date: "Dec. 2022"
-    student: "Carolina Marques"
-    grade: 18
+  - title: "Sistemas para a inteligência do Negócio Adaptativos em Saúde- Gestão de doentes"
+    institution: "University of Minho"
+    student: "Afonso Lobo"
+    course: "Mestrado em Engenharia e Gestão de Sistemas de Informação"
+    degree: "Msc"
+    date: "Jul 2023"
+    grade: 19
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/94180"
+
+  - title: "In-memory data grid clusters - HR employee data fusion"
+    institution: "University of Minho"
+    student: "João Mota"
     course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/83933"
+    degree: "Msc"
+    date: "Dez 2022"
+    grade: 18
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/84472"
 
   - title: "Plataforma Multidisciplinar de Registo e Monitorização de Cirurgia Bariátrica baseada em OpenEHR"
-    institution:  "University of Minho"
-    date: "Dec. 2022"
+    institution: "University of Minho"
     student: "Ana Afonso"
-    grade: 18
     course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/84365"
-  
-  - title: "Monitoring architecture for services and servers in healthcare environment"
-    institution:  "University of Minho"
-    date: "Dec. 2022"
+    degree: "Msc"
+    date: "Dez 2022"
+    grade: 18
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/84365"
+
+  - title: "Arquitetura de Monitorização para Serviços e Servidores em Ambiente Hospitalar"
+    institution: "University of Minho"
     student: "Vasco Ramos"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Dez 2022"
     grade: 18
-    course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/83934"
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/83934"
 
-
-  - title: "Plataforma online para visualização de tendências e opiniões de eventos desportivos com base em redes sociais"
-    institution:  "University of Minho"
-    date: "Apr. 2022"
-    student: "Maria Inês Pinto"
-    grade: 16
+  - title: "Aplicação Multidispositivo de Monitorização de Serviços em Ambiente Hospitalar"
+    institution: "University of Minho"
+    student: "Carolina Marques"
     course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/79934"
+    degree: "Msc"
+    date: "Dez 2022"
+    grade: 18
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/83933"
 
   - title: "Modelos de Data Mining para Associação de Problemas com Dados Semiológicos em Medicina Intensiva"
-    institution:  "University of Minho"
-    date: ""
+    institution: "University of Minho"
     student: "Inês Tavares"
+    course: "Mestrado em Engenharia e Gestão de Sistemas de Informação"
+    degree: "Msc"
+    date: "Jul 2022"
     grade: 19
-    course: "Mestrado em Engenharia de Sistemas de Informação"
+    status: "Closed"
     url: ""
+
+  - title: "Plataforma online para visualização de tendências e opiniões de eventos desportivos com base em redes sociais"
+    institution: "University of Minho"
+    student: "Maria Inês Pinto"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Abr 2022"
+    grade: 16
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/79934"
 
   - title: "Plataforma de registo Clínico para Medicina Física e de Reabilitação"
-    institution:  "University of Minho"
-    date: "Apr. 2022"
+    institution: "University of Minho"
     student: "Alexandru Dorment"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Abr 2022"
     grade: 16
-    course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/79369"
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/79369"
 
-  - title: "	Microservices architectures in healthcare with Apache Kafka"
-    institution:  "University of Minho"
-    date: "2022"
+  - title: "Arquiteturas de Microsserviços na área da saúde com Apache Kafka"
+    institution: "University of Minho"
     student: "Rui Santos"
-    grade: 17
     course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/79371"
-
-  - title: "Análise e processamento de dados clínicos monitorizados em tempo real"
-    institution:  "University of Minho"
-    date: "Jul. 2021"
-    student: "Ricardo Cruz"
+    degree: "Msc"
+    date: "Abr 2022"
     grade: 18
-    course: "Mestrado em Engenharia de Sistemas de Informação"
-    url: ""
-
-  - title: "Building a Hybrid Recomender Engine for E-Commerce"
-    institution:  "University of Minho"
-    date: "Mar. 2021"
-    student: "Vitor Peixoto"
-    grade: 18
-    course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/81295"
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/79371"
 
   - title: "Data Analysis and Recommender System Architecture for E-Commerce Platforms"
-    institution:  "University of Minho"
-    date: "Fev. 2021"
+    institution: "University of Minho"
     student: "Gil Cunha"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Fev 2022"
     grade: 18
-    course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/81087"
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/81087"
 
-  - title: "Implementação de sistema de monitorização e controlo de interoperabilidade clínica"
-    institution:  "University of Minho"
-    date: "Mar. 2021"
-    student: "António Castanheira"
-    grade: 17
-    course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/81201"
+  - title: "Análise e processamento de dados clínicos monitorizados em tempo real"
+    institution: "University of Minho"
+    student: "Ricardo Cruz"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: "Jul 2021"
+    grade: 18
+    status: "Closed"
+    url: ""
 
   - title: "Indicadores de Desempenho em Plataformas HL7"
-    institution:  "University of Minho"
-    date: "Mar. 2021"
+    institution: "University of Minho"
     student: "Bruno Arieira"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Abr 2021"
     grade: 17
-    course: "Mestrado em Engenharia Informática"
-    url: https://repositorium.sdum.uminho.pt/handle/1822/81290"
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/81290"
 
-  - title: "Predicting Problems from Telecom Instalation Process"
-    institution:  "University of Minho"
-    date: "Mar. 2021"
-    student: "Diana Costa"
-    grade: 18
+  - title: "Building a Hybrid Recomender Engine for E-Commerce"
+    institution: "University of Minho"
+    student: "Vitor Peixoto"
     course: "Mestrado em Engenharia Informática"
-    url: "https://repositorium.sdum.uminho.pt/handle/1822/85239"
+    degree: "Msc"
+    date: "Abr 2021"
+    grade: 18
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/81295"
+
+  - title: "Implementação de sistema de monitorização e controlo de interoperabilidade clínica"
+    institution: "University of Minho"
+    student: "António Castanheira"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Abr 2021"
+    grade: 17
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/81201"
+
+  - title: "Predicting problems from Telecom installation processes"
+    institution: "University of Minho"
+    student: "Diana Costa"
+    course: "Mestrado em Engenharia Informática"
+    degree: "Msc"
+    date: "Dez 2020"
+    grade: 18
+    status: "Closed"
+    url: "https://hdl.handle.net/1822/85239"
+
+  - title: "Desenvolvimento de um Motor Centralizado de Disponibilização e Integração em FHIR"
+    institution: "University of Minho"
+    student: "Joana Oliveira"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Computationally-Efficient, Hierarchical Pipeline for Real-Time Freezing of Gait (FoG) - Detection in Parkinson’s Disease using  Wearable IMU Data"
+    institution: "University of Minho"
+    student: "Pedro Flores"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Criação de Modelos de Diagnóstico Precoce em Doenças Oculares: Aplicação à Prevenção de Ectasia Corneal Pós-LASIK"
+    institution: "University of Minho"
+    student: "Daniel Sá"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Modelos Interoperáveis de Gestão de Consentimento Digital em Saúde: Implementação, Ética e Integração com FHIR Consent"
+    institution: "University of Minho"
+    student: "Inês Lameira"
+    course: "Mestrado em Bioinformática"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Personalised Medicine with Digital Twins: The Future of Prevention"
+    institution: "University of Minho"
+    student: "Carolina Santos"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Explainable Artificial Intelligence Applied to Clinical Decision Support Systems"
+    institution: "University of Minho"
+    student: "Cátia Rosário"
+    course: "Mestrado em Bioinformática"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Inteligência Artificial em Trading Fianceiro"
+    institution: "University of Minho"
+    student: "Willma Kakanda"
+    course: "Mestrado em Direito e Informática"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Apoio à Decisão Inteligente para tratamento da Diabetes baseado em modelos de custeio"
+    institution: "University of Minho"
+    student: "Ana Barbosa"
+    course: "Mestrado em Engenharia e Gestão de Sistemas de Informação"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Intelligent Diabetic Foot Ulcer Follow-up"
+    institution: "University of Minho"
+    student: "António Chaves"
+    course: "Doutoramento em Engenharia Informática"
+    degree: "PhD"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Integração de Big Data na tomada de decisão estratégica em sustentabilidade: Modelos e Desafios para a Avaliação de Desempenho nas Instituições de Ensino Superior"
+    institution: "University of Minho"
+    student: "Rita Trindade"
+    course: "Doutoramento em Gestão"
+    degree: "PhD"
+    date: ""
+    grade: 
+    status: "Undergoing"
+    url: ""
+
+  - title: "Design and Implementation of a Back-Office Application for Mentora Health: Supporting Patient Monitoring and Medical Decision"
+    institution: "University of Minho"
+    student: "Bruno Machado"
+    course: "Mestrado em Engenharia Biomédica"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Delayed"
+    url: ""
+
+  - title: "Análise e Caracterização de Sistemas de Informação Low-Code na Área da Saúde"
+    institution: "University of Minho"
+    student: "Pedro Cunha"
+    course: "Mestrado em Engenharia e Gestão de Sistemas de Informação"
+    degree: "Msc"
+    date: ""
+    grade: 
+    status: "Delayed"
+    url: ""

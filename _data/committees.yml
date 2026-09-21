@@ -1,1052 +1,1120 @@
-#role: Reviewer, Program Committee, Scientific Committee, Track Chair
+#role: Reviewer, Program Committee, Scientific Committee, Track Chair, Workshop Chair, Chair, Local Organising Committee
 #type: Workshop, Conference, Journal
 committees:
 
+  ## 2026
   - year: 2026
-    name: "INQUIRY"
-    nick:  "INQUIRY"
+    name: "Generative and Neuro-Symbolic Artificial Intelligence for Real-World Systems - ICSSA"
+    nick: "GNS-AI@ICSSA 2026"
+    role: "Workshop Chair"
+    type: "Conference"
+    local: "Braga, Portugal"
+  - year: 2026
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+  - year: 2026
+    name: "The fifth International Conference on Innovations in Computing Research"
+    nick: "ICR 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Berlin, Germany"
+  - year: 2026
+    name: "International conference on Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) solutions for Europe’s Next-Gen Cloud Infrastructure"
+    nick: "NOUS2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Athens, Greece"
+  - year: 2026
+    name: "16th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Naples, Italy"
+  - year: 2026
+    name: "5th IEEE International Multidisciplinary Conference on Engineering Technology"
+    nick: "IMCET 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Beirut, Lebanon"
+  - year: 2026
+    name: "International Conference of Frontiers of Engineering and Emerging Technologies"
+    nick: "FET 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Bahrain, Bahrain"
+  - year: 2026
+    name: "The Sixteenth International Conference on Ambient Computing, Applications, Services and Technologies"
+    nick: "AMBIENT 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Barcelona, Spain"
+  - year: 2026
+    name: "INQUIRY (Q2)"
+    nick: "INQUIRY"
     role: "Reviewer"
     type: "Journal"
     local: ""
-
+    publisher: "SAGE Publications Inc."
   - year: 2026
-    name: "The 25th EPIA International Conference on Artificial Intelligence"
-    nick: "EPIA 2026"
-    role: "PC Member"
+    name: "Artificial Intelligence in Medicine - EPIA 2026"
+    nick: "AIM@EPIA 2026"
+    role: "Program Committee"
     type: "Conference"
-    local: "Funchal, Madeira, Portugal"
-
+    local: "Madeira, Portugal"
   - year: 2026
-    name: "2nd International Conference on Artificial Intelligence Systems"
-    nick:  "AIS26"
+    name: "The sixth International Conference on Innovations in Computing Research"
+    nick: "ICR 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Berlin, Germany"
+  - year: 2026
+    name: "International Symposium on Technological Innovations for Industry and Society"
+    nick: "ISTIIS 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+  - year: 2026
+    name: "AUS"
+    nick: "AAU@AIS 2026"
     role: "Program Committee"
     type: "Conference"
     local: "San Antonio, USA"
-
   - year: 2026
-    name: "The fifth International Conference on Innovations in Computing Research"
-    nick:  "ICR26"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "Berlin, Germany"
-
-  - year: 2026
-    name: "International Conference of Frontiers of Engineering and Emerging Technologies"
-    nick: "FET'26"
-    role: "TPC"
-    type: "Conference"
-    local: "Kingdom of Bahrain"
-
-  - year: 2026
-    name: "5th IEEE International Multidisciplinary Conference on Engineering Technology IMCET 2026"
-    nick:  "IEEE-IMCET'26"
-    role: "TPC"
-    type: "Conference"
-    local: "Hybrid"
-
-  - year: 2026
-    name: "International conference on Infrastructure-as-a-Service (IaaS) and Platform-as-a-Service (PaaS) solutions for Europe’s Next-Gen Cloud Infrastructure"
-    nick:  "NOUS2026"
-    role: "SPC"
-    type: "Conference"
-    local: "online"
-
-  - year: 2026
-    name: "International Conference on Artificial Intelligence, Systems, and Emerging Technologies 2026"
-    nick:  "ICAISET2026"
-    role: "TPC"
-    type: "Conference"
-    local: "Cairo, Egypt"
-
-  - year: 2025
-    name: "BMC Digital Health"
-    nick:  "BMC"
+    name: "Scientific Reports (Q1)"
+    nick: "SR"
     role: "Reviewer"
     type: "Journal"
     local: ""
+    publisher: "Nature Research"
+  - year: 2026
+    name: "The 2nd International Conference on Artificial Intelligence Systems"
+    nick: "AIS 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "San Antonio, USA"
+  - year: 2026
+    name: "The Eighteenth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2026"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Venice, Italy"
 
+  ## 2025
   - year: 2025
-    name: "2025 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies"
-    nick:  "3ICT2025"
+    name: "The 6th International Workshop on Healthcare Open Data, Intelligence and Interoperability - ICTH"
+    nick: "HODII@ICTH 2025"
+    role: "Organising Committee"
+    type: "Conference"
+    local: "Istambul, Turkey"
+  - year: 2025
+    name: "16th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lille, France"
+  - year: 2025
+    name: "GenAI - Generative AI - Foundations and Applications - EPIA"
+    nick: "GenAI@EPIA 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Faro, Portugal"
+  - year: 2025
+    name: "The Fourth International Conference on Innovations in Computing Research"
+    nick: "ICR 2025"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "London, UK"
+  - year: 2025
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Faro, Portugal"
+  - year: 2025
+    name: "The 22nd IEEE International Conference on Computer Applications"
+    nick: "IEEE-ICCA 2025"
     role: "Reviewer"
     type: "Conference"
-    local: "Bahrain"
-
+    local: "Myanmar, Bahrain"
+  - year: 2025
+    name: "Sixth International Conference on Advances in Computational Tools for Engineering Applications"
+    nick: "ACTEA 2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Zouk Mosbeh, Lebanon"
+  - year: 2025
+    name: "The 2025 International Conference on the Leadership and Management of Projects in the Digital Age"
+    nick: "ICLAMP2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Al Eker, Bahrain"
+  - year: 2025
+    name: "International Conference on Information Technology & Systems"
+    nick: "ICITS 2025"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Mexico City, Mexico"
+  - year: 2025
+    name: "The Seventeenth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Nice, France"
+  - year: 2025
+    name: "The Fifteenth International Conference on Ambient Computing, Applications, Services and Technologies"
+    nick: "AMBIENT 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+  - year: 2025
+    name: "Computers in Biology and Medicine (Q1)"
+    nick: "CBM"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Elsevier Ltd"
+  - year: 2025
+    name: "AI-PSGUD'25 AI-Powered Solutions for Smart and Green Urban Development - EXPAT"
+    nick: "PSGUD@Expat 2025"
+    role: "Workshop Chair"
+    type: "Conference"
+    local: "Faial, Portugal"
+  - year: 2025
+    name: "25ª Conferência da Associação Portuguesa de Sistemas de Informação"
+    nick: "CAPSI 2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "São Miguel, Portugal"
+  - year: 2025
+    name: "International Symposium on Technological Innovations for Industry and Society"
+    nick: "ISTIIS 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Cartagena das Indias, Colombia"
+  - year: 2025
+    name: "BMC Medical Research Methodology (Q1)"
+    nick: "BMC"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "BioMed Central Ltd"
+  - year: 2025
+    name: "International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick: "3ICT 2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain, Bahrain"
+  - year: 2025
+    name: "23st International Conference on Practical Applications of Agents and Multi-Agent Systems"
+    nick: "PAAMS 2025"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lile, France"
+  - year: 2025
+    name: "International Journal of Intelligent Systems (Q2)"
+    nick: "IJIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "John Wiley and Sons Inc"
   - year: 2025
     name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
     nick: "ARTIIS 2025"
     role: "Program Committee"
     type: "Conference"
-    local: "Cartagena de Indias, Colombia"
-
+    local: "Cartagena das Indias, Colombia"
   - year: 2025
-    name: "International Journal of Intelligent Systems"
-    nick:  "IJIS"
-    role: "Reviewer"
-    type: "Journal"
-    local: ""
-
-  - year: 2025
-    name: "2025 IEEE International Conference on Emerging Trends in Engineering & Computing"
+    name: "International Conference on Emerging Trends in Engineering & Computing"
     nick: "ETECOM 2025"
-    role: "TPC Reviewer"
-    type: "Conference"
-    local: "BAHRAIN"
-
-  - year: 2025
-    name: "Eight International Conference on Advances in Biomedical Engineering"
-    nick: "ICABME 25"
-    role: "TPC Reviewer"
-    type: "Conference"
-    local: "Beirut, Lebanon"  
-
-  - year: 2025
-    name: "BMC Public Health"
-    nick:  "BMC"
-    role: "Reviewer"
-    type: "Journal"
-    local: ""
-
-  - year: 2025
-    name: "8th International Conference on Applied Informatics"
-    nick:  "ICAI 2025"
     role: "Reviewer"
     type: "Conference"
-    local: "Ben Guerir, Morocco"
-
+    local: "Riffa, Bahrain"
   - year: 2025
-    name: "16th International Symposium on Ambient Intelligence"
-    nick:  "ISAmI 2025"
+    name: "Eigth International Conference on Advances in Biomedical Engineering"
+    nick: "ICABME 2025"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Beirut, Lebanon"
+  - year: 2025
+    name: "International Conference on Applied Informatics"
+    nick: "ICAI 2025"
     role: "Program Committee"
     type: "Conference"
-    local: "Lille, France"
+    local: "Ben Guerir, Marocco"
 
-  - year: 2025
-    name: "The 24th EPIA International Conference on Artificial Intelligence"
-    nick: "EPIA 2025"
-    role: "PC Member"
-    type: "Conference"
-    local: "Algarve, Portugal"
-
-  - year: 2025
-    name: "The 22nd IEEE International Conference on Computer Applications"
-    nick: "IEEE-ICCA 2025"
-    role: "TPC Reviewer"
-    type: "Conference"
-    local: "Myanmar"
-
-  - year: 2025
-    name: "Sixth International Conference on Advances in Computational Tools for Engineering Applications"
-    nick: "ACTEA' 2025"
-    role: "TPC Reviewer"
-    type: "Conference"
-    local: "Zouk Mosbeh, Lebanon"
-
-  - year: 2025
-    name: "The 2025 International Conference on the Leadership and Management of Projects in the Digital Age"
-    nick: "ICLAMP2025"
-    role: "TPC Reviewer"
-    type: "Conference"
-    local: "Kingdom of Bahrain"
-
-  - year: 2025
-    name: "expat’25 Special Session AI-PSGUD'25 “AI-Powered Solutions for Smart and Green Urban Development"
-    nick: "expat2025"
-    role: "Track Chair"
-    type: "Conference"
-    local: "Horta, Ilha do Faial, Portugal"
-
-  - year: 2025
-    name: "The Seventeenth International Conference on eHealth, Telemedicine, and Social Medicine"
-    nick: "eTELEMED 2025"
-    role: "Technical Program Committe"
-    type: "Conference"
-    local: "Nice, France"
-
-  - year: 2025
-    name: "8th International Conference on Information Technology & Systems"
-    nick:  "ICITS 2025"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "Mexico City, Mexico"
-
-  - year: 2025
-    name: "The Fourth International Conference on Innovations in Computing Research"
-    nick:  "ICR25"
-    role: "Scientific Committee"
+  ## 2024
+  - year: 2024
+    name: "Open Computer Science (Q4)"
+    nick: "OCS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Walter de Gruyter GmbH"
+  - year: 2024
+    name: "The Third International Conference on Innovations in Computing Research"
+    nick: "ICR 2024"
+    role: "Program Committee"
     type: "Conference"
     local: "Athens, Greece"
-
   - year: 2024
-    name: "Computers in Biology and Medicine"
-    nick: "CIBM"
-    role: "Reviewer"
-    type: "Journal"
-    local: ""
-
-  - year: 2024
-    name: "Data Science and Management"
-    nick:  "DSM"
-    role: "Reviewer"
-    type: "Journal"
-    local: ""
-
-  - year: 2024
-    name: "BMC Medical Informatics and Decision Making"
-    nick:  "BMC"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2024
-    name: "The 2024 International Conference on Decision Aid Sciences and Applications"
-    nick:  "DASA'24"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Kingdom of Bahrain (Hybrid)"
-
-  - year: 2024
-    name: "2024 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT24"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Bahrain"
-
-  - year: 2024
-    name: "2024 International Conference on Data Analytics for Business and Industry (ICDABI)"
-    nick:  "ICDABI'24"
-    role: "Technical Program Committee"
-    type: "Conference"
-    local: "Held online"
-
-  - year: 2024
-    name: "Artificial Intelligence in Medicine (EPIA2024)"
-    nick:  "EPIA"
+    name: "The Sixteenth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2024"
     role: "Program Committee"
     type: "Conference"
-    local: "Viana do Castelo, Portugal"
-
+    local: "Barcelona, Spain"
   - year: 2024
-    name: "The Second Jordanian International Biomedical Engineering Conference 2024"
-    nick:  "JIBEC'2024"
-    role: "TPC Reviewer"
+    name: "International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
+    nick: "ICETSIS 2024"
+    role: "Reviewer"
     type: "Conference"
-    local: "Dead Sea, Jordan"
-
+    local: "Bahrain, Bahrain"
   - year: 2024
-    name: "International Workshop on Mobile Applications"
-    nick:  "Mobiapps 24"
-    role: "TPC reviewer"
-    type: "Conference"
-    local: "Vienna, Austria"
-
-  - year: 2024
-    name: "Software and Systems Modeling"
-    nick:  ""
+    name: "Frontiers in Public Health - Disaster and Emergency Medicine (Q1)"
+    nick: "Frontiers 2024"
     role: "Reviewer"
     type: "Journal"
     local: ""
-
-  - year: 2024
-    name: "15th International Symposium on Ambient Intelligence"
-    nick:  "ISAmI 2024"
-    role: "Program Committee"
-    type: "Conference"
-    local: "Salamanca, Spain"
-
-  - year: 2024
-    name: "2024 IEEE 22nd Mediterranean Electrotechnical Conference"
-    nick:  "MELECON 2024"
-    role: "Technical Programm Committee"
-    type: "Conference"
-    local: "INOV, Porto, Portugal"
-
-  - year: 2024
-    name: "Symposium on Languages, Applications and Technologies"
-    nick:  "SLATE 2024"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "University of Aveiro, Águeda, Portugal"
-
-  - year: 2024
-    name: "7th International Conference on Applied Informatics"
-    nick:  "ICAI 2024"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Vina del Mar, Chile"
-
+    publisher: "Frontiers Media SA"
   - year: 2024
     name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
     nick: "ARTIIS 2024"
     role: "Program Committee"
     type: "Conference"
-    local: "Santiago do Chile, Chile"
-
+    local: "Santiago, Chile"
   - year: 2024
-    name: " Frontiers in Public Health - Disaster and Emergency Medicine "
-    nick: ""
-    role: "Reviewer"
-    type: "Journal"
-    local: ""
-
-  - year: 2024
-    name: "The Sixteenth International Conference on eHealth, Telemedicine, and Social Medicine"
-    nick: "eTELEMED 2024"
-    role: "Technical Program Committe"
+    name: "International Symposium on Technological Innovations for Industry and Society"
+    nick: "ISTIIS 2024"
+    role: "Program Committee"
     type: "Conference"
-    local: "Barcelona, Spain"
-
+    local: "Santiago, Chile"
   - year: 2024
-    name: "2024 International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
-    nick:  "ICETSIS 2024"
-    role: "TPC Reviewer"
+    name: "International Conference on Applied Informatics"
+    nick: "ICAI 2024"
+    role: "Program Committee"
     type: "Conference"
-    local: "Bahrain"
-
+    local: "Viña del Mar, Chile"
   - year: 2024
-    name: "The Third International Conference on Innovations in Computing Research"
-    nick:  "ICR24"
-    role: "Scientific Committee"
+    name: "The Fourteenth International Conference on Ambient Computing, Applications, Services and Technologies"
+    nick: "AMBIENT 2024"
+    role: "Program Committee"
     type: "Conference"
-    local: "Athens, Greece"
-
-  - year: 2023
-    name: "2023 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT23"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Bahrain"
-
+    local: "Venice, Italy"
   - year: 2024
-    name: "7th International Conference on Information Technology & Systems"
-    nick:  "ICITS 2024"
+    name: "International Conference on Information Technology & Systems"
+    nick: "ICITS 2024"
     role: "Scientific Committee"
     type: "Conference"
     local: "Temuco, Chile"
-
-  - year: 2023
-    name: "International Conference on Microelectronics"
-    nick:  "IEEE-ICM2023"
-    role: "TCP Reviewer"
+  - year: 2024
+    name: "Symposium on Languages, Applications and Technologies"
+    nick: "SLATE 2024"
+    role: "Scientific Committee"
     type: "Conference"
-    local: "Abu Dhabi, UAE"
+    local: "Águeda, Portugal"
+  - year: 2024
+    name: "22nd Mediterranean Electrotechnical Conference"
+    nick: "MELECON 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Porto, Portugal"
+  - year: 2024
+    name: "15th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Salamanca, Spain"
+  - year: 2024
+    name: "Software and Systems Modeling (Q2)"
+    nick: "SSM"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Springer Verlag"
+  - year: 2024
+    name: "9th International Workshop on Mobile Applications"
+    nick: "MobiApps 2024"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Vienna, Austria"
+  - year: 2024
+    name: "Second Jordanian International Biomedical Engineering Conference"
+    nick: "JIBEC 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Amman, Jordan"
+  - year: 2024
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Viana do Castelo, Portugal"
+  - year: 2024
+    name: "GenAI - Generative AI - Foundations and Applications - EPIA"
+    nick: "GenAI@EPIA 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Viana do Castelo, Portugal"
+  - year: 2024
+    name: "5th International Conference on Data Analytics for Business and Industry"
+    nick: "ICDABI 2024"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Zallaq, Bahrain"
+  - year: 2024
+    name: "The 5th International Workshop on Healthcare Open Data, Intelligence and Interoperability"
+    nick: "HODII@ICTH 2024"
+    role: "Organising Committee"
+    type: "Conference"
+    local: "Leuven, Belgium"
+  - year: 2024
+    name: "International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick: "3ICT 2024"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Sakhir, Bahrain"
+  - year: 2024
+    name: "Data Science and Management (Q1)"
+    nick: "DSM"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "KeAi Communications Co."
+  - year: 2024
+    name: "BMC Medical Research Methodology (Q1)"
+    nick: "BMC"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "BioMed Central Ltd"
+  - year: 2024
+    name: "The 2022 International Conference on Decision Aid Sciences and Applications"
+    nick: "DASA 2024"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Manama, Bahrain"
+  - year: 2024
+    name: "14th International Conference on Methodologies and Intelligent Systems for Technology Enhanced Learning"
+    nick: "MIS4TEL 2024"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Salamanca, Spain"
+  - year: 2024
+    name: "Sustainable, Innovative and Intelligent Industries and Societies"
+    nick: "SIIIS 2024"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Springer Cham"
 
+  ## 2023
+  - year: 2023
+    name: "Mayo Clinic Proceedings: Digital Health (Q1)"
+    nick: "MCP: DH"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Elsevier B.V."
+  - year: 2023
+    name: "International Conference On Cyber Management And Engineering"
+    nick: "CyMaEn 2023"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bangkok, Thailand"
+  - year: 2023
+    name: "Symposium on Languages, Applications and Technologies"
+    nick: "SLATE 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Vila do Conde, Portugal"
+  - year: 2023
+    name: "14th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Guimarães, Portugal"
   - year: 2023
     name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
     nick: "ARTIIS 2023"
     role: "Program Committee"
     type: "Conference"
-    local: "Madrid,  Spain"
-
+    local: "Madrid, Spain"
   - year: 2023
-    name: "International Conference on Computer and Applications "
-    nick: "ICCA 2023"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Beirut, Lebanon"  
-
-  - year: 2023
-    name: "Seventh International Conference on Advances in Biomedical Engineering"
-    nick: "ICABME 23"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Beirut, Lebanon"  
-
-  - year: 2023
-    name: "Open Computer Science"
-    nick:  "OCS"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"  
-
-  - year: 2023
-    name: "Artificial Intelligence in Medicine (EPIA2023)"
-    nick:  "EPIA"
+    name: "International Symposium on Technological Innovations for Industry and Society"
+    nick: "ISTIIS 2023"
     role: "Program Committee"
     type: "Conference"
-    local: "Faial, Azores"
-
+    local: "Madrid, Spain"
   - year: 2023
-    name: "Special Issue 'Machine and Deep Learning in the Health Domain'"
-    nick: "Computers"
+    name: "Sustainable Smart Cities and Territories International Conference"
+    nick: "SSCt 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Manizales, Colombia"
+  - year: 2023
+    name: "7th Arab ICT Conference"
+    nick: "AICTC 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Bahrain, Bahrain"
+  - year: 2023
+    name: "5th International Congress on Blockchain and Applications"
+    nick: "BLOCKCHAIN 2023"
+    role: "Chair"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+  - year: 2023
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Horta, Portugal"
+  - year: 2023
+    name: "6th International Conference"
+    nick: "ICAI 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Guayaquil, Ecuador"
+  - year: 2023
+    name: "20th International Conference on Distributed Computing and Artificial Intelligenc"
+    nick: "DCAI 2023"
+    role: "Local Organising Committee"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+  - year: 2023
+    name: "21st International Conference on Practical Applications of Agents and Multi-Agent Systems"
+    nick: "PAAMS 2023"
+    role: "Local Organising Committee"
+    type: "Conference"
+    local: "Guimarães, Portugal"
+  - year: 2023
+    name: "8th International Workshop on Mobile Applications"
+    nick: "MobiApps 2023"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Marrakech, Marocco"
+  - year: 2023
+    name: "Computer Methods in Biomechanics and Biomedical Engineering (Q3)"
+    nick: "CMBBE 2023"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
+    local: ""
+    publisher: "Taylor and Francis Ltd."
   - year: 2023
-    name: "Operations Research and Decisions"
-    nick: "ORD"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2023
-    name: "Knowledge and Information Systems"
-    nick: ""
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
+    name: "The Thirteenth International Conference on Ambient Computing, Applications, Services and Technologies"
+    nick: "AMBIENT 2023"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Porto, Portugal"
   - year: 2023
     name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
     nick: "MiCRADS 2023"
     role: "Scientific Committee"
     type: "Conference"
     local: "Bogotá, Colombia"
-
   - year: 2023
-    name: "The Thirteenth International Conference on Ambient Computing, Applications, Services and Technologies"
-    nick:  "AMBIENT 2023"
-    role: "Technical Program Committee"
-    type: "Conference"
-    local: "Porto, Portugal"
-
-  - year: 2023
-    name: "Computer Methods in Biomechanics and Biomedical Engineering"
-    nick:  ""
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2023
-    name: "International Workshop on Mobile Applications"
-    nick:  "Mobiapps 23"
-    role: "TPC reviewer"
-    type: "Conference"
-    local: "Marrakech, Marocco"
-
-  - year: 2023
-    name: "21st International Conference on Practical Applications of Agents and Multi-Agent Systems"
-    nick:  "PAAMS 23"
-    role: "Local Organizing Committee"
-    type: "Conference"
-    local: "Guimarães, Portugal"
-
-  - year: 2023
-    name: "20th International Conference on Distributed Computing and Artificial Intelligence"
-    nick:  "DCAI 23"
-    role: "Local Organizing Committee"
-    type: "Conference"
-    local: "Guimarães, Portugal"
-
-  - year: 2023
-    name: "6th International Conference on Applied Informatics"
-    nick:  "ICAI 2023"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Universidad Ecotec Guayaquil, Ecuador"
-
-  - year: 2023
-    name: "BMC Medical Informatics and Decision Making"
-    nick:  "BMC"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2023
-    name: "5th International Congress on Blockchain and Applications"
-    nick:  "BLOCKCHAIN'23"
-    role: "Local Chair"
-    type: "Conference"
-    local: "Guimarães, Portugal"
-
-  - year: 2023
-    name: "Arab ICT Conference 2023"
-    nick:  "AICTC 2023"
-    role: "Technical Program Committee"
-    type: "Conference"
-    local: "Kingdmom of Bahrain"
-
-  - year: 2023
-    name: "Sustainable Smart Cities and Territories International Conference"
-    nick:  "SSCt 2023"
-    role: "Program Committee"
-    type: "Conference"
-    local: "Manizales, Colombia"
-
-  - year: 2023
-    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
-    nick:  "ARTIIS 2023"
-    role: "Program Committee"
-    type: "Conference"
-    local: "Madrid, Spain"
-
-  - year: 2023
-    name: "14th International Symposium on Ambient Intelligence"
-    nick:  "ISAmI 2023"
-    role: "Program Committee"
-    type: "Conference"
-    local: "Guimarães, Portugal"
-
-  - year: 2023
-    name: "SLATE 2023: Symposium on Languages, Applications and Technologies"
-    nick:  "SLATE 2023"
-    role: "Program Committee"
-    type: "Conference"
-    local: "Vila do Conde, Portugal"
-
-  - year: 2023
-    name: "International Conference On Cyber Management And Engineering"
-    nick:  "CyMaEn'23"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Thailand"
-
-  - year: 2023
-    name: "Mayo Clinic Proceedings: Digital Health"
-    nick:  "MCP: DH"
+    name: "Knowledge and Information Systems (Q1)"
+    nick: "KIS"
     role: "Reviewer"
     type: "Journal"
     local: ""
-
-  - year: 2022
-    name: "Mayo Clinic Proceedings: Digital Health"
-    nick:  "MCP: DH"
+    publisher: "Springer London"
+  - year: 2023
+    name: "Operations Research and Decisions (Q3)"
+    nick: "ORD"
     role: "Reviewer"
     type: "Journal"
     local: ""
-
-  - year: 2022
-    name: "Mathematical Biosciences and Engineering - AIMS"
-    nick:  "MBE"
+    publisher: "Wroclaw University of Science and Technology"
+  - year: 2023
+    name: "Computers - Special Issue 'Machine and Deep Learning in the Health Domain’ (Q2)"
+    nick: "COMPUTERS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
-  - year: 2022
-    name: "2022 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT22"
+    local: ""
+    publisher: "Multidisciplinary Digital Publishing Institute (MDPI)"
+  - year: 2023
+    name: "Seventh International Conference on Advances in Biomedical Engineering"
+    nick: "ICABME 2023"
     role: "Reviewer"
     type: "Conference"
-    local: "Bahrain"
-    
-  - year: 2022
-    name: "Sustainable, Innovative and Intelligent Societies and Cities"
-    nick:  "SIISC"
+    local: "Beirut, Lebanon"
+  - year: 2023
+    name: "International Conference on Computer and Applications"
+    nick: "ICCA 2023"
     role: "Reviewer"
-    type: "Book"
-    local: "--"  
+    type: "Conference"
+    local: "Beirut, Lebanon"
+  - year: 2023
+    name: "International Conference on Microelectronics"
+    nick: "ICM 2023"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Abu Dhabi, UAE"
+  - year: 2023
+    name: "International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick: "3ICT 2023"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Sakheer, Bahrain"
+  - year: 2023
+    name: "The 4th International Workshop on Healthcare Open Data, Intelligence and Interoperability"
+    nick: "HODII@ICTH 2023"
+    role: "Organising Committee"
+    type: "Conference"
+    local: "Almaty, Kazakhstan"
 
+  ## 2022
   - year: 2022
-    name: "Sustainability - MDPI"
-    nick:  "Sustainability"
+    name: "Technologies, business, innovation, and entrepreneurship: New trends and challenges"
+    nick: "TBIE-CN 2022"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
+    local: ""
+    publisher: "Springer Cham"
   - year: 2022
-    name: "Artificial Intelligence in Medicine (EPIA2022)"
-    nick:  "AIM"
-    role: "Program Committee"
-    type: "Conference"
-    local: "Lisbon, Portugal"
-
-  - year: 2022
-    name: "MobiApps 2022"
-    nick:  "MobiApps"
-    role: "Reviewer"
-    type: "Conference"
-    local: "--"
-    
-  - year: 2022
-    name: "Journal of King Saud University - Computer and Information Sciences"
-    nick:  "JKSU-CIS"
+    name: "Open Computer Science (Q4)"
+    nick: "OCS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
+    local: ""
+    publisher: "Walter de Gruyter GmbH"
   - year: 2022
-    name: "Mathematis - MDPI"
-    nick:  "Mathematics"
+    name: "International Journal of Computing and Digital Systems (Q3)"
+    nick: "IJCDS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
+    local: ""
+    publisher: "University of Bahrain"
   - year: 2022
-    name: "3rd EAI International Conference on IoT and Big Data Technologies for HealthCare"
-    nick: "EAI IoTCare 2022"
-    role: "Technical Program Committe"
-    type: "Conference"
-    local: "Leicester, Great Britain"
-
-  - year: 2022
-    name: "2022 ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
-    nick: "ICETSIS 2022"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Virtual"
-
-  - year: 2022
-    name: "13º Simpósio de Informática"
-    nick: "INForum 2022"
-    role: "Program Committe"
-    type: "Conference"
-    local: "Guarda, Portugal"
-
-  - year: 2022
-    name: "International Conference on Health and Social Care Information Systems and Technologies"
-    nick: "HCist 2022"
-    role: "Scientific Committe"
-    type: "Conference"
-    local: "Lisbon, Portugal"
-
-  - year: 2022
-    name: "Open Computer Science"
-    nick:  "OCS"
+    name: "Journal of King Saud University - Computer and Information Sciences (Q1)"
+    nick: "JKSU-CIS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"  
-
-  - year: 2022
-    name: "International Journal of Computing and Digital Systems"
-    nick:  "IJCDS"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"  
-
-  - year: 2022
-    name: "2nd Disruptive Technologies Tech Ethics and Artificial Intelligent"
-    nick: "DiTTEt 2022"
-    role: "Scientific Committe"
-    type: "Conference"
-    local: "Salamanca, Spain"
-
+    local: ""
+    publisher: "Springer International Publishing"
   - year: 2022
     name: "Fifth International Conference on Applied Informatics"
     nick: "ICAI 2022"
-    role: "Program Committe"
+    role: "Program Committee"
     type: "Conference"
     local: "Arequipa, Peru"
-
   - year: 2022
-    name: "Technologies, Business, Innovation, and Entrepreneurship: New Trends and Challenges"
-    nick:  "TBIE-CN 2021"
+    name: "Disruptive Technologies Tech Ethics and Artificial Intelligent"
+    nick: "DiTTEt 2022"
     role: "Program Committee"
-    type: "Book"
-    local: "--"
-
-  - year: 2022
-    name: "13th International Symposium on Ambient Intelligence"
-    nick:  "ISAMI'22"
-    role: "Scientific Committee"
     type: "Conference"
-    local: "L'Aquila, Italy"
-
+    local: "Salamanca, Spain"
   - year: 2022
-    name: "SLATE 2022: Symposium on Languages, Applications and Technologies"
-    nick:  "SLATE 2022"
+    name: "International WorkShop on Information and Knowledge in Internet of Things"
+    nick: "IKIT 2022"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+  - year: 2022
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2022"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Santiago de Compostela, Spain"
+  - year: 2022
+    name: "The 2022 International Conference on Decision Aid Sciences and Applications"
+    nick: "DASA 2022"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Chiangrai, Thailand"
+  - year: 2022
+    name: "Symposium on Languages, Applications and Technologies"
+    nick: "SLATE 2022"
     role: "Program Committee"
     type: "Conference"
     local: "Covilhã, Portugal"
-
   - year: 2022
-    name: "The 2022 International Conference on Decision Aid Sciences and Applications"
-    nick:  "DASA'22"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Thailand - Held online"
-
-  - year: 2022
-    name: "2021 International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
-    nick:  "ARTIIS 2022"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Held online"
-
-  - year: 2022
-    name: "IKIT 2022 book: Information and Knowledge in Internet of Things"
-    nick:  "ICITS 2022"
-    role: "Program Committee"
-    type: "Book"
-    local: "--"
-
-  - year: 2021
-    name: "2021 International Conference on Data Analytics for Business and Industry (ICDABI)"
-    nick:  "DATA'21"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Held online"
-
-  - year: 2021
-    name: "1st Disruptive Technologies Tech Ethics and Artificial Intelligent"
-    nick: "DiTTEt 2021"
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Salamanca, Spain"
-
-  - year: 2021
-    name: "12th International Symposium on Ambient Intelligence"
-    nick: "ISAmI 2021"
-    role: "Program Committe"
-    type: "Conference"
-    local: "Salamanca, Spain"
-
-  - year: 2021
-    name: "Artificial Intelligence in Medicine (EPIA2021)"
-    nick:  "AIM"
+    name: "13th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2022"
     role: "Program Committee"
     type: "Conference"
-    local: "Held online"
-
-  - year: 2021
-    name: "Expert Systems with Applications"
-    nick:  "ESWA"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2021
-    name: "Scalable Information Systems"
-    nick:  "SIS"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2021
-    name: "BMC Medical Research Methodology"
-    nick:  "BMC"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2021
-    name: "Measurement"
-    nick:  "Measurement"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2021
-    name: "Next-Generation Applications and Implementations of Gamification Systems"
-    nick:  "NGA-IGS"
-    role: "Reviewer"
-    type: "Book"
-    local: "--"
-
-  - year: 2021
-    name: "2021 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT21"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Bahrain"
-
-  - year: 2021
-    name: "2nd EAI International Conference on AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart-Cities"
-    nick: "AISCOVID-19"
-    role: "General Chair"
-    type: "Conference"
-    local: "Held online"
-
-  - year: 2021
-    name: "The Thirteenth International Conference on eHealth, Telemedicine, and Social Medicine"
-    nick: "eTELEMED 2021"
-    role: "Technical Program Committe"
-    type: "Conference"
-    local: "Nice, France"
-
-  - year: 2021
-    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
-    nick: "ARTIIS 2021"
-    role: "Program Committe"
-    type: "Conference"
-    local: "Salinas, Ecuador"
-
-  - year: 2021
-    name: "Forth International Conference on Applied Informatics"
-    nick: "ICAI 2021"
-    role: "Program Committe"
-    type: "Conference"
-    local: "Buenos Aires, Argentina"
-
-  - year: 2021
-    name: "Journal of Computational Science"
-    nick:  "JOCSCI"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-
-  - year: 2021
-    name: "IKIT 2021 book: Information and Knowledge in Internet of Things"
-    nick:  "ICITS 2021"
+    local: "L'Aquila, Italy"
+  - year: 2022
+    name: "13º Simpósio de Informática"
+    nick: "INFORUM 2022"
     role: "Program Committee"
-    type: "Book"
-    local: "--"
+    type: "Conference"
+    local: "Guarda, Portugal"
+  - year: 2022
+    name: "ASU International Conference in Emerging Technologies for Sustainability and Intelligent Systems"
+    nick: "ICETSIS 2022"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain, Bahrain"
+  - year: 2022
+    name: "3rd EAI International Conference on IoT and Big Data Technologies for HealthCare"
+    nick: "EAI IoTCare 2022"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Leicester, Great Britain"
+  - year: 2022
+    name: "Entropy (Q2)"
+    nick: "Entropy"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Multidisciplinary Digital Publishing Institute (MDPI)"
+  - year: 2022
+    name: "8th International Workshop on Mobile Applications"
+    nick: "MobiApps 2022"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Rome, Italy"
+  - year: 2022
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2022"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+  - year: 2022
+    name: "Sustainable, Innovative and Intelligent Societies and Cities"
+    nick: "SIISC22"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Springer Cham"
+  - year: 2022
+    name: "International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick: "3ICT 2022"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Sakheer, Bahrain"
+  - year: 2022
+    name: "Mathematical Biosciences and Engineering (Q3)"
+    nick: "MBE"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "American Institute of Mathematical Sciences"
+  - year: 2022
+    name: "International Workshop on Hospital 4.0"
+    nick: "Hospital 2022"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Porto, Portugal"
+  - year: 2022
+    name: "20th International Conference on Practical Applications of Agents and Multi-Agent Systems"
+    nick: "PAAMS 2022"
+    role: "Program Committee"
+    type: "Conference"
+    local: "L'Aquila, Italy"
+  - year: 2022
+    name: "Mayo Clinic Proceedings: Digital Health (Q1)"
+    nick: "MCP: DH"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Elsevier B.V."
+  - year: 2022
+    name: "The 3th International Workshop on Healthcare Open Data, Intelligence and Interoperability"
+    nick: "HODII@ICTH 2022"
+    role: "Organising Committee"
+    type: "Conference"
+    local: "Leuven, Belgium"
+  - year: 2022
+    name: "3rd EAI International Conference on AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart-Cities"
+    nick: "EAI AISCOVID-19 2022"
+    role: "Chair"
+    type: "Conference"
+    local: "Portugal (Online)"
 
+  ## 2021
   - year: 2021
-    name: "The 2021 International Conference on Information Technology & Systems"
-    nick:  "ICITS 2021"
+    name: "Information and Knowledge in Internet of Things"
+    nick: "Book IKIT 2021"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Springer Cham"
+  - year: 2021
+    name: "Journal of King Saud University - Computer and Information Sciences (Q1)"
+    nick: "JKSU-CIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Springer International Publishing"
+  - year: 2021
+    name: "International Conference on Information Technology & Systems"
+    nick: "ICITS 2021"
     role: "Scientific Committee"
     type: "Conference"
     local: "Libertad, Ecuador"
-
-  - year: 2020
-    name: "2020 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
-    nick:  "3ICT'20"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Held online"
-
-  - year: 2020
-    name: "The 2020 International Conference on Decision Aid Sciences and Applications"
-    nick:  "DASA'20"
-    role: "Reviewer"
-    type: "Conference"
-    local: "Held online"
-
-  - year: 2020
-    name: "Journal of King Saud University - Computer and Information Sciences"
-    nick:  "JKSU-CIS"
+  - year: 2021
+    name: "Journal of Computational Science (Q1)"
+    nick: "JOCSCI"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
-  - year: 2020
-    name: "Open Computer Science"
-    nick:  "OCS"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"  
-
-  - year: 2020
-    name: "AIM - Artificial Intelligence in Medicine (EPIA)"
-    nick: "EPIA2020 "
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Lisbon, Portugal"
-
-  - year: 2020
-    name: "Hospital 4.0 Workshop"
-    nick: "EDI4.0"
+    local: ""
+    publisher: "Elsevier B.V."
+  - year: 2021
+    name: "Fourth International Conference on Applied Informatics"
+    nick: "ICAI 2021"
     role: "Program Committee"
-    type: "Workshop"
-    local: "Warsaw, Polan"
+    type: "Conference"
+    local: "Buenos Aires, Argentina"
+  - year: 2021
+    name: "International Conference on Advanced Research in Technologies, Information, Innovation and Sustainability"
+    nick: "ARTIIS 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Salinas, Ecuador"
+  - year: 2021
+    name: "The Thirteenth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Nice, France"
+  - year: 2021
+    name: "International Workshop on Hospital 4.0"
+    nick: "Hospital 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Warsaw, Poland"
+  - year: 2021
+    name: "12th International Symposium on Ambient Intelligence"
+    nick: "ISAMI 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Salamanca, Spain"
+  - year: 2021
+    name: "2nd EAI International Conference on AI-assisted Solutions for COVID-19 and Biomedical Applications in Smart-Cities"
+    nick: "EAI AISCOVID-19 2021"
+    role: "Chair"
+    type: "Conference"
+    local: "Portugal (Online)"
+  - year: 2021
+    name: "7th Healthcare Information Systems: Interoperability, Security and Efficiency - WorldCist 2021"
+    nick: "WorldCIST_Workshops 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Terceira, Portugal"
+  - year: 2021
+    name: "2021 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick: "3ICT 2021"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain (Online)"
+  - year: 2021
+    name: "Disruptive Technologies Tech Ethics and Artificial Intelligent"
+    nick: "DiTTEt 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Salamanca, Spain"
+  - year: 2021
+    name: "Next-Generation Applications and Implementations of Gamification Systems"
+    nick: "NGA-IGS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Multidisciplinary Digital Publishing Institute (MDPI)"
+  - year: 2021
+    name: "Measurement: Journal of the International Measurement Confederation (Q1)"
+    nick: "Measurement"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Elsevier B.V."
+  - year: 2021
+    name: "BMC Medical Research Methodology (Q1)"
+    nick: "BMC"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "BioMed Central Ltd"
+  - year: 2021
+    name: "Expert Systems with Applications (Q1)"
+    nick: "ESWA"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Elsevier Ltd"
+  - year: 2021
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2021"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Lisbon, Portugal"
+  - year: 2021
+    name: "Scalable Information Systems"
+    nick: "SIS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "European Alliance for Innovation"
+  - year: 2021
+    name: "2021 International Conference on Data Analytics for Business and Industry (ICDABI)"
+    nick: "DATA 2021"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Held Online"
+  - year: 2021
+    name: "The 2nd International Workshop on Healthcare Open Data, Intelligence and Interoperability"
+    nick: "HODII@ICTH 2021"
+    role: "Organising Committee"
+    type: "Conference"
+    local: "Leuven, Belgium"
 
+  ## 2020
+  - year: 2020
+    name: "International Conference on Information Technology & Systems"
+    nick: "ICITS 2020"
+    role: "Scientific Committee"
+    type: "Conference"
+    local: "Bogota, Colombia"
+  - year: 2020
+    name: "International WorkShop on Information and Knowledge in Internet of Things"
+    nick: "IKIT 2020"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Bogota, Colombia"
   - year: 2020
     name: "11th International Symposium on Ambient Intelligence"
-    nick: "ISAmI 2020"
-    role: "Program Committe"
+    nick: "ISAMI 2020"
+    role: "Program Committee"
     type: "Conference"
     local: "L'Aquila, Italy"
-
   - year: 2020
-    name: "The Twelfth International Conference on eHealth, Telemedicine, and Social Medicine"
-    nick: "eTELEMED 2020"
-    role: "Technical Program Committe"
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2020"
+    role: "Program Committee"
     type: "Conference"
-    local: "Valencia, Spain"
-
+    local: "Lisbon, Portugal"
+  - year: 2020
+    name: "Healthcare Information Systems: Interoperability, Security and Efficiency - WorldCist 2020"
+    nick: "WorldCIST_Workshops 2020"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Budva, Montenegro"
   - year: 2020
     name: "Third International Conference on Applied Informatics"
     nick: "ICAI 2020"
-    role: "Program Committe"
+    role: "Program Committee"
     type: "Conference"
     local: "Ota, Nigeria"
-
   - year: 2020
-    name: "8th World Conference on Information Systems and Technologies"
-    nick: "WorldCIST_Workshops 2020"
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Budva, Montenegro"
-
-  - year: 2020
-    name: "4th International WorkShop on Information and Knowledge in Internet of Things"
-    nick: "IKIT 2020"
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Bogotá, Colombia"
-
-  - year: 2020
-    name: "The 2020 International Conference on Information Technology & Systems"
-    nick:  "ICITS 2020"
-    role: "Scientific Committee"
+    name: "The Twelfth International Conference on eHealth, Telemedicine, and Social Medicine"
+    nick: "eTELEMED 2020"
+    role: "Program Committee"
     type: "Conference"
-    local: "Bogotá, Colombia"
-
-  - year: 2019
-    name: "International Journal of Medical Informatics"
-    nick:  "IIJMI"
+    local: "Valencia, Spain"
+  - year: 2020
+    name: "International Workshop on Hospital 4.0"
+    nick: "Hospital 2020"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Warsaw, Poland"
+  - year: 2020
+    name: "2020 International Conference on Innovation and Intelligence for Informatics, Computing and Technologies"
+    nick: "3ICT 2020"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Bahrain (Online)"
+  - year: 2020
+    name: "The 2020 International Conference on Decision Aid Sciences and Applications"
+    nick: "DASA 2020"
+    role: "Reviewer"
+    type: "Conference"
+    local: "Kingdom of Bahrain (Online)"
+  - year: 2020
+    name: "Open Computer Science (Q4)"
+    nick: "OCS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"  
+    local: ""
+    publisher: "Walter de Gruyter GmbH"
+  - year: 2020
+    name: "The 2nd International Workshop on Healthcare Open Data, Intelligence and Interoperability"
+    nick: "HODII@ICTH 2020"
+    role: "Organising Committee"
+    type: "Conference"
+    local: "Madeira, Portugal"
 
+  ## 2019
   - year: 2019
-    name: "Journal of King Saud University - Computer and Information Sciences"
-    nick:  "JKSU-CIS"
-    role: "Reviewer"
-    type: "Journal"
-    local: "--"
-      
+    name: "Second Intelligent Systems and Technologies for Interactive Human-Machine Relationships"
+    nick: "ISTIHMR 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Madrid, Spain"
   - year: 2019
-    name: "ISAmI'19 (10th International Symposium on Ambient Intelligence)"
+    name: "International WorkShop on Information and Knowledge in Internet of Things"
+    nick: "IKIT 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Madrid, Spain"
+  - year: 2019
+    name: "Artificial Intelligence in Medicine - EPIA"
+    nick: "AIM@EPIA 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Vila Real, Portugal"
+  - year: 2019
+    name: "Second International Conference on Applied Informatics"
+    nick: "ICAI 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Madrid, Spain"
+  - year: 2019
+    name: "3rd International Conference in Engineering Applications"
+    nick: "ICEA2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Ponta Delgada, Portugal"
+  - year: 2019
+    name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
+    nick: "MiCRADS 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Santiago, Chile"
+  - year: 2019
+    name: "Pervasive Information Systems - WorldCist"
+    nick: "WorldCIST_Workshops_PIS 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Galicia, Spain"
+  - year: 2019
+    name: "Healthcare Information Systems: Interoperability, Security and Efficiency - WorldCist"
+    nick: "WorldCIST_Workshops 2019"
+    role: "Program Committee"
+    type: "Conference"
+    local: "Galicia, Spain"
+  - year: 2019
+    name: "10th International Conference on Ambient Intelligence"
     nick: "ISAMI 2019"
     role: "Program Committee"
     type: "Conference"
     local: "Ávila, Spain"
-
   - year: 2019
-    name: "7th World Conference on Information Systems and Technologies"
-    nick: "WorldCIST_Workshops 2019"
-    role: "Program Committe"
-    type: "Conference"
-    local: "Galicia, Spain"
-
-  - year: 2019
-    name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
-    nick: "MiCRADS 2019"
-    role: "Scientific Committee"
-    type: "Conference"
-    local: "Quito, Ecuador"
-
-  - year: 2019
-    name: "Journal of Medical Systems"
-    nick:  "JMS 2019"
+    name: "International Journal of Medical Informatics (Q1)"
+    nick: "IIJMI"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
+    local: ""
+    publisher: "Elsevier B.V."
   - year: 2019
-    name: "Open Computer Science"
-    nick:  "OCS"
+    name: "Journal of King Saud University - Computer and Information Sciences (Q1)"
+    nick: "JKSU-CIS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"  
-
+    local: ""
+    publisher: "Springer International Publishing"
+  - year: 2019
+    name: "Journal of Medical Systems (Q2)"
+    nick: "JMS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
+    publisher: "Springer"
+  - year: 2019
+    name: "Open Computer Science (Q4)"
+    nick: "OCS"
+    role: "Reviewer"
+    type: "Journal"
+    local: ""
   - year: 2019
     name: "Scalable Information Systems"
-    nick:  "SIS 2019"
+    nick: "SIS"
     role: "Reviewer"
     type: "Journal"
-    local: "--"
-
+    local: ""
+    publisher: "European Alliance for Innovation"
   - year: 2019
-    name: "3rd International Conference in Engineering Applications"
-    nick: "ICEA 2019"
-    role: "Scientific Committee"
+    name: "The 3rd International Workshop on Healthcare Interoperability and Pervasive Intelligent Systems - ICTH"
+    nick: "HIPIS 2019"
+    role: "Program Committee"
     type: "Conference"
-    local: "Açores, Portugal"
-      
-  - year: 2019
-    name: "Second International Conference on Applied Informatics"
-    nick: "ICAI 2019"
-    role: "Program Committe"
-    type: "Conference"
-    local: "Madrid, Spain"
+    local: "Coimbra, Portugal"
 
-  - year: 2019
-    name: "EPIA Conference on Artificial Intelligence"
-    nick: "EPIA 2019"
-    role: "Subreviewer"
-    type: "Conference"
-    local: "Vila Real, Portugal"
-
-  - year: 2019
-    name: "3rd International WorkShop on Information and Knowledge in Internet of Things"
-    nick: "IKIT 2019"
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Madrid, Spain"
-
-  - year: 2019
-    name: "Second Intelligent Systems and Technologies for Interactive Human-Machine Relationships"
-    nick: "ISTIHMR 2019"
-    role: "Program Committe"
-    type: "Workshop"
-    local: "Madrid, Spain"
-
+  ## 2018
   - year: 2018
-    name: "6th World Conference on Information Systems and Technologies"
+    name: "Healthcare Information Systems: Interoperability, Security and Efficiency - WorldCist"
     nick: "WorldCIST_Workshops 2018"
-    role: "Program Committe"
+    role: "Program Committee"
     type: "Conference"
-    local: "Galicia, Spain"
-
+    local: "Naples, Italy"
   - year: 2018
     name: "Multidisciplinary International Conference of Research Applied to Defense and Security"
     nick: "MiCRADS 2018"
-    role: "Scientific Committee"
+    role: "Program Committee"
     type: "Conference"
-    local: "Santa Elena Peninsula, Ecuador"
-
+    local: "Salinas, Ecuador"
   - year: 2018
-    name: "The IEEE 6th International Conference on Future Internet of Things and Cloud"
-    nick: "FiCloud 2018"
-    role: "Track Chair"
-    type: "Workshop"
+    name: "The 2nd International Workshop on Applied Knowledge Engineering to Healthcare - FiCloud"
+    nick: "AKEH 2018"
+    role: "Workshop Chair"
+    type: "Conference"
     local: "Barcelona, Spain"
-    
   - year: 2018
-    name: "9th International Symposium on Ambient Intelligence"
+    name: "9th International Conference on Ambient Intelligence"
     nick: "ISAMI 2018"
     role: "Program Committee"
     type: "Conference"
     local: "Toledo, Spain"
-
   - year: 2018
-    name: "Healthcare Interoperability and Pervasive Intelligent System"
-    nick: "HiPIS@ICTH 2018"
+    name: "Healthcare Interoperability and Pervasive Intelligent System Workshop - ICTH 2018"
+    nick: "HiPIS 2018"
     role: "Program Committee"
-    type: "Workshop"
+    type: "Conference"
     local: "Leuven, Belgium"
 
-  - year: 2018
-    name: "Journal of King Saud University - Computer and Information Sciences"
-    nick:  "JKSU-CIS"
-    role: "Reviewer "
-    type: "Journal"
-    local: "--"
-
+  ## 2017
   - year: 2017
-    name: "International Conference on Advanced Technologies Enhancing Education"
-    nick: "ICAT2E2017"
-    role: "Program Committe"
+    name: "The 2017 International Conference on Advanced Technologies Enhancing Education"
+    nick: "ICAT2E 2017"
+    role: "Program Committee"
     type: "Conference"
-    local: "Qindao, China"
-
+    local: "Qingdao, China"
   - year: 2017
-    name: "EPIA Conference on Artificial Intelligence"
-    nick: "EPIA2017"
-    role: "Subreviewer"
+    name: "18th EPIA Conference on Artificial Intelligence"
+    nick: "EPIA 2017"
+    role: "Program Committee"
     type: "Conference"
     local: "Porto, Portugal"
-
   - year: 2017
-    name: "The International Workshop on Applied Knowledge Engineering to Healthcare"
-    nick: "IWAKEHealthCare@FiCloud 2017"
-    role: "Workshop chair"
-    type: "Workshop"
+    name: "The International Workshop on Applied Knowledge Engineering to Healthcare - FiCloud"
+    nick: "AKEH 2017"
+    role: "Workshop Chair"
+    type: "Conference"
     local: "Prague, Czech Republic"
-
   - year: 2017
-    name: "Applied Computational and Artificial Intelligence"
+    name: "Applied Computational and Artificial Intelligence - CENTERIS"
     nick: "ACAI Workshop - CENTERIS 2017"
-    role: "Scientific Committee"
-    type: "Workshop"
-    local: "Porto, Portugal"
-
+    role: "Program Committee"
+    type: "Conference"
+    local: "Barcelona, Spain"
   - year: 2017
-    name: "Healthcare Interoperability and Pervasive Intelligent System"
+    name: "Healthcare Interoperability and Pervasive Intelligent System Workshop - ICTH"
     nick: "HiPIS 2017"
     role: "Program Committee"
-    type: "Workshop"
+    type: "Conference"
     local: "Lund, Sweden"
-
   - year: 2017
-    name: "5th World Conference on Information Systems and Technologies"
+    name: "Healthcare Information Systems: Interoperability, Security and Efficiency - WorldCist"
     nick: "WorldCIST_Workshops 2017"
-    role: "Review Committee"
+    role: "Program Committee"
     type: "Conference"
     local: "Porto Santo, Portugal"
 
+  ## 2016
   - year: 2016
     name: "Intelligent Systems and Applications in Healthcare"
-    nick: "ISA'HEALTH@CBI 2016"
-    role: "Program Committe"
+    nick: "ISA’Health 2016"
+    role: "Program Committee"
     type: "Conference"
     local: "Paris, France"
 
+  ## 2010
   - year: 2010
     name: "INFORUM 2010 - Simpósio de Informática"
+    nick: "INFORUM 2010"
     role: "Program Committee"
-    type: "Symposium"
+    type: "Conference"
     local: "Braga, Portugal"
