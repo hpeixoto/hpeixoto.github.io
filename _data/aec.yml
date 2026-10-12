@@ -1,37 +1,19 @@
 class:
 
-  - code: "PL04"
-    date: "08 out 2025"
-    title: "Data Collection"
-    plan: "../../data/aec/pl04/aec_pa04.pdf"
-    slides: 
-    exercise: "../../data/aec/pl04/aec_fe03.pdf"
-    material: 
-    topics: "Data Collection | Data Mining"
-
-  - code: "PL03"
-    date: "01 out 2025"
-    title: "Introdução ao AI Studio - Correlações"
-    plan: "../../data/aec/pl03/aec_pa03.pdf"
-    slides: "../../data/aec/pl03/aec_pl03.pdf"
-    exercise: "../../data/aec/pl03/aec_fe02.pdf"
-    material: "../../data/aec/pl03/material.zip"
-    topics: "CRISP-DM | Data Mining | Correlações"
-
   - code: "PL02"
     date: "01 out 2025"
     title: "Introdução ao CRISP-DM"
     plan: "../../data/aec/pl02/aec_pa02.pdf"
     slides: "../../data/aec/pl02/aec_pl02.pdf"
-    exercise: "../../data/aec/pl02/aec_fe01.pdf"
+    exercise: 
     material:
     topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
 
   - code: "PL01"
     date: "17 set 2025"
     title: "Apresentação"
-    plan: 
+    plan: "../../data/aec/pl01/aec_pa01.pdf"
     slides: "../../data/aec/pl01/aec_pl01.pdf"
     exercise: 
-    material:
-    topics: "Apresentação da disciplina | Objetivos | Avaliação | Conteúdos | Metodologia | Bibliografia"
+    material: "../../data/aec/pl01/material.zip"
+    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
