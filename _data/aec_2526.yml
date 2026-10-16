@@ -1,0 +1,118 @@
+class:
+
+  - code: "PL01"
+    date: "17 set 2025"
+    title: "Apresentação"
+    plan:
+    slides: "../../data/aec/2526/pl01/aec_pl01.pdf"
+    exercise: "../../data/aec/2526/pl01/aec_fe02-1.pdf"
+    material:
+    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
+
+  - code: "PL02"
+    date: "01 out 2025"
+    title: "Introdução ao CRISP-DM"
+    plan: "../../data/aec/2526/pl02/aec_pa02.pdf"
+    slides: "../../data/aec/2526/pl02/aec_pl02.pdf"
+    exercise: "../../data/aec/2526/pl02/aec_fe01.pdf"
+    material: "../../data/aec/2526/pl02/converter_names.ipynb"
+    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
+
+  - code: "PL03"
+    date: ""
+    title: "Aula 03"
+    plan: "../../data/aec/2526/pl03/aec_pa03.pdf"
+    slides: "../../data/aec/2526/pl03/aec_pl03.pdf"
+    exercise: "../../data/aec/2526/pl03/aec_fe02.pdf"
+    material: "../../data/aec/2526/pl03/material.zip"
+    topics: ""
+
+  - code: "PL04"
+    date: ""
+    title: "Aula 04"
+    plan: "../../data/aec/2526/pl04/aec_pa04.pdf"
+    slides:
+    exercise: "../../data/aec/2526/pl04/aec_fe03.pdf"
+    material: "../../data/aec/2526/pl04/fetch.py"
+    topics: ""
+
+  - code: "PL05"
+    date: ""
+    title: "Aula 05"
+    plan: "../../data/aec/2526/pl05/aec_pa05.pdf"
+    slides:
+    exercise: "../../data/aec/2526/pl05/aec_fe04.pdf"
+    material:
+    topics: ""
+
+  - code: "PL06"
+    date: ""
+    title: "Aula 06"
+    plan: "../../data/aec/2526/pl06/aec_pa06.pdf"
+    slides: "../../data/aec/2526/pl06/aec_pl06.pdf"
+    exercise: "../../data/aec/2526/pl06/aec_fe05.pdf"
+    material: "../../data/aec/2526/pl06/material.zip"
+    topics: ""
+
+  - code: "PL07"
+    date: ""
+    title: "Aula 07"
+    plan: "../../data/aec/2526/pl07/aec_pa07.pdf"
+    slides: "../../data/aec/2526/pl07/aec_pl07.pdf"
+    exercise: "../../data/aec/2526/pl07/aec_fe06.pdf"
+    material: "../../data/aec/2526/pl07/material.zip"
+    topics: ""
+
+  - code: "PL08"
+    date: ""
+    title: "Aula 08"
+    plan: "../../data/aec/2526/pl08/aec_pa08.pdf"
+    slides: "../../data/aec/2526/pl08/aec_pl08.pdf"
+    exercise: "../../data/aec/2526/pl08/aec_fe07.pdf"
+    material: "../../data/aec/2526/pl08/material.zip"
+    topics: ""
+
+  - code: "PL09"
+    date: ""
+    title: "Aula 09"
+    plan: "../../data/aec/2526/pl09/aec_pa09.pdf"
+    slides:
+    exercise:
+    material:
+    topics: ""
+
+  - code: "PL10"
+    date: ""
+    title: "Aula 10"
+    plan: "../../data/aec/2526/pl10/aec_pa10.pdf"
+    slides:
+    exercise: "../../data/aec/2526/pl10/aec_fe08.pdf"
+    material: "../../data/aec/2526/pl10/iris_template.ipynb"
+    topics: ""
+
+  - code: "PL11"
+    date: ""
+    title: "Aula 11"
+    plan: "../../data/aec/2526/pl11/aec_pa11.pdf"
+    slides:
+    exercise:
+    material: "../../data/aec/2526/pl11/f08.ipynb"
+    topics: ""
+
+  - code: "PL12"
+    date: ""
+    title: "Aula 12"
+    plan: "../../data/aec/2526/pl12/aec_pa12.pdf"
+    slides: "../../data/aec/2526/pl12/aec_pl12.pdf"
+    exercise: "../../data/aec/2526/pl12/aec_fe09.pdf"
+    material: "../../data/aec/2526/pl12/pl12.dataset.csv"
+    topics: ""
+
+  - code: "PL13"
+    date: ""
+    title: "Wrap-up"
+    plan:
+    slides: "../../data/aec/2526/pl13/aec_wrapup.pdf"
+    exercise:
+    material: "../../data/aec/2526/pl13/csv_.zip"
+    topics: ""

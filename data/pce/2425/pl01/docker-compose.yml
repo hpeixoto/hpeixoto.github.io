@@ -1,0 +1,44 @@
+services:
+  postgres_db:
+    image: postgres:latest
+    container_name: postgres_db
+    restart: always
+    environment:
+      POSTGRES_DB: nextgen
+      POSTGRES_USER: nextgen_user
+      POSTGRES_PASSWORD: nextgen_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "nextgen_user", "-d", "nextgen"]
+      interval: 10s
+      retries: 5
+      timeout: 5s
+
+  nextgenhealthcare:
+    image: nextgenhealthcare/connect:latest
+    container_name: nextgen_connect
+    restart: always
+    depends_on:
+      postgres_db:
+        condition: service_healthy
+    environment:
+      DATABASE: postgres
+      DATABASE_URL: "jdbc:postgresql://postgres_db:5432/nextgen"
+      DATABASE_DRIVER: "org.postgresql.Driver"
+      DATABASE_USERNAME: "nextgen_user"
+      DATABASE_PASSWORD: "nextgen_password"
+      DATABASE_MAX_CONNECTIONS: "50"
+      DATABASE_TEST_ON_BORROW: "true"
+    ports:
+      - "8080:8080"   # Web Interface
+      - "8443:8443"   # Secure Interface (SSL)
+      - "4000-4100:4000-4100"  # Ports used by NextGen Connect
+    volumes:
+      - mirth_data:/opt/mirth-connect
+
+volumes:
+  pg_data:
+  mirth_data:

@@ -33,6 +33,7 @@ navbar-links:
     - Projects: "projects"
   Academic:
     - Teaching: "teaching"
+    - Material: "sebentas"
     - Supervising: "supervising"
     - Juries: "juries"
   Blog: "blog"

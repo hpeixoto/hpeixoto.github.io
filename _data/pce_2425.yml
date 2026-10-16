@@ -1,0 +1,55 @@
+class:
+
+  - code: "PL01"
+    date: ""
+    title: "Aula 01"
+    plan:
+    slides:
+    exercise: "../../data/pce/2425/pl01/pce_fe01.pdf"
+    material: "../../data/pce/2425/pl01/script.sql"
+    topics: ""
+
+  - code: "PL02"
+    date: ""
+    title: "Aula 02"
+    plan:
+    slides:
+    exercise: "../../data/pce/2425/pl02/pce_fe02.pdf"
+    material: "../../data/pce/2425/pl02/restapi.py"
+    topics: ""
+
+  - code: "PL03"
+    date: ""
+    title: "Aula 03"
+    plan:
+    slides:
+    exercise: "../../data/pce/2425/pl03/pce_fe03.pdf"
+    material: "../../data/pce/2425/pl03/InstallNodeJS.pdf"
+    topics: ""
+
+  - code: "PL05"
+    date: ""
+    title: "Aula 05"
+    plan:
+    slides: "../../data/pce/2425/pl05/pce_pl05.pdf"
+    exercise: "../../data/pce/2425/pl05/pce_fe04.pdf"
+    material:
+    topics: ""
+
+  - code: "PL06"
+    date: ""
+    title: "Aula 06"
+    plan:
+    slides: "../../data/pce/2425/pl06/openEHR.pdf"
+    exercise:
+    material:
+    topics: "openEHR"
+
+  - code: "PL08"
+    date: ""
+    title: "Aula 08"
+    plan:
+    slides:
+    exercise: "../../data/pce/2425/pl08/pce_fe05.pdf"
+    material: "../../data/pce/2425/pl08/files.zip"
+    topics: ""

@@ -8,9 +8,9 @@ image: img/nosql.png
 <!--<h3 style="text-align:center;">Sistemas de Aprendizagem e Extração de Conhecimento</h3>-->
 
 ---
-<h2> <i class="fa fa-file-o"></i> Aulas </h2>
+<h2> <i class="fa fa-calendar"></i> 2021/22 </h2>
 ---
-{% for class in site.data.nosql.class %}
+{% for class in site.data.nosql_2122.class %}
 
 <h4> <span style="color: #048A81; text-decoration: underline;">{{class.code}} - {{class.title}}</span></h4>
 <i class="fa fa-calendar"></i> {{ class.date }} 
