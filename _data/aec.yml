@@ -1,7 +1,16 @@
 class:
 
-  - code: "PL02"
+  - code: "PL03"
     date: "01 out 2025"
+    title: "Data Preparation"
+    plan: "../../data/aec/pl03/aec_pa03.pdf"
+    slides: "../../data/aec/pl03/aec_pl03.pdf"
+    exercise: "../../data/aec/pl03/aec_fe03.pdf"
+    material: "../../data/aec/pl03/material.zip"
+    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
+
+  - code: "PL02"
+    date: "19 out 2025"
     title: "Introdução ao CRISP-DM"
     plan: "../../data/aec/pl02/aec_pa02.pdf"
     slides: "../../data/aec/pl02/aec_pl02.pdf"
