@@ -7,7 +7,7 @@ class:
     slides: "../../data/aec/pl03/aec_pl03.pdf"
     exercise: "../../data/aec/pl03/aec_fe03.pdf"
     material: "../../data/aec/pl03/material.zip"
-    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
+    topics: "CRISP-DM | Data Mining | Data Preparation"
 
   - code: "PL02"
     date: "19 out 2025"
