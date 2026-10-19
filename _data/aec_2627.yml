@@ -1,28 +1,28 @@
 class:
 
-  - code: "PL03"
-    date: "01 out 2025"
-    title: "Data Preparation"
-    plan: "../../data/aec/pl03/aec_pa03.pdf"
-    slides: "../../data/aec/pl03/aec_pl03.pdf"
-    exercise: "../../data/aec/pl03/aec_fe03.pdf"
-    material: "../../data/aec/pl03/material.zip"
-    topics: "CRISP-DM | Data Mining | Data Preparation"
+  - code: "PL01"
+    date: "17 set 2026"
+    title: "Apresentação"
+    plan: "../../data/aec/2627/pl01/aec_pa01.pdf"
+    slides: "../../data/aec/2627/pl01/aec_pl01.pdf"
+    exercise: 
+    material: "../../data/aec/2627/pl01/material.zip"
+    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
 
   - code: "PL02"
-    date: "19 out 2025"
+    date: "12 out 2026"
     title: "Introdução ao CRISP-DM"
-    plan: "../../data/aec/pl02/aec_pa02.pdf"
-    slides: "../../data/aec/pl02/aec_pl02.pdf"
+    plan: "../../data/aec/2627/pl02/aec_pa02.pdf"
+    slides: "../../data/aec/2627/pl02/aec_pl02.pdf"
     exercise: 
     material:
     topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
 
-  - code: "PL01"
-    date: "17 set 2025"
-    title: "Apresentação"
-    plan: "../../data/aec/pl01/aec_pa01.pdf"
-    slides: "../../data/aec/pl01/aec_pl01.pdf"
-    exercise: 
-    material: "../../data/aec/pl01/material.zip"
-    topics: "CRISP-DM | Data Mining | Business Understanding | Data Understanding"
+  - code: "PL03"
+    date: "19 out 2026"
+    title: "Data Preparation"
+    plan: "../../data/aec/2627/pl03/aec_pa03.pdf"
+    slides: "../../data/aec/2627/pl03/aec_pl03.pdf"
+    exercise: "../../data/aec/2627/pl03/aec_fe02.pdf"
+    material: "../../data/aec/2627/pl03/material.zip"
+    topics: "CRISP-DM | Data Mining | Data Preparation"

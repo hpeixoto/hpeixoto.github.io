@@ -5,12 +5,12 @@ subtitle: Aprendizagem e Extração de Conhecimento
 image: "none"
 ---
 
-{% assign years = "2025/26,2022/23" | split: "," %}
-{% assign data_keys = "aec_2526,aec_2223" | split: "," %}
+{% assign years = "2026/27,2025/26,2022/23" | split: "," %}
+{% assign data_keys = "aec_2627,aec_2526,aec_2223" | split: "," %}
 
-{% for i in (0..1) %}
+{% for key in data_keys %}
+{% assign i = forloop.index0 %}
 {% assign year = years[i] %}
-{% assign key = data_keys[i] %}
 
 ---
 <h2> <i class="fa fa-calendar"></i> {{ year }} </h2>
